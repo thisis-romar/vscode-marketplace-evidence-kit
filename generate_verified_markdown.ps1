@@ -2,6 +2,7 @@
 if (-not $PSScriptRoot) { $PSScriptRoot = Split-Path -Parent $MyInvocation.MyCommand.Path }
 
 # Generate markdown catalog for ALL verified VS Code extension publishers
+# Enhanced for readability with collapsible sections, better navigation, and visual hierarchy
 # Reads: data/verified_publishers.json
 # Outputs: docs/Verified_VSCode_Publishers.md
 
@@ -17,11 +18,13 @@ $metadata = $data.metadata
 
 Write-Host "Loaded $($publishers.Count) publishers across $($domainStats.Count) domains" -ForegroundColor Green
 
-# Format install count
+#region Helper Functions
+
+# Format install count with K/M suffix
 function Format-InstallCount {
     param([double]$value)
     if ($value -ge 1000000) {
-        return [math]::Round($value / 1000000, 2).ToString() + "M"
+        return [math]::Round($value / 1000000, 1).ToString() + "M"
     } elseif ($value -ge 1000) {
         return [math]::Round($value / 1000, 0).ToString() + "K"
     } else {
@@ -29,7 +32,7 @@ function Format-InstallCount {
     }
 }
 
-# Convert text to anchor
+# Convert text to anchor-safe ID
 function ConvertTo-Anchor {
     param([string]$text)
     return $text.ToLower() -replace '[^a-z0-9]+', '-' -replace '^-|-$', ''
@@ -42,77 +45,161 @@ function Get-DomainDisplay {
     return $domain -replace '^https?://(www\.)?', '' -replace '/$', ''
 }
 
+# Get medal emoji for top rankings
+function Get-RankBadge {
+    param([int]$rank)
+    switch ($rank) {
+        1 { return "🥇" }
+        2 { return "🥈" }
+        3 { return "🥉" }
+        default { return "$rank." }
+    }
+}
+
+# Clean and truncate description
+function Format-Description {
+    param([string]$desc, [int]$maxLength = 55)
+    if ([string]::IsNullOrEmpty($desc)) { return "—" }
+    $clean = $desc -replace '\|', '/' -replace '\[.*?\]\(.*?\)', '' -replace '`', "'" -replace '\n|\r', ' '
+    if ($clean.Length -gt $maxLength) {
+        return $clean.Substring(0, $maxLength).TrimEnd() + "…"
+    }
+    return $clean
+}
+
+#endregion
+
 Write-Host "Generating markdown content..." -ForegroundColor Cyan
 
 $timestamp = Get-Date -Format "yyyy-MM-dd HH:mm:ss"
+$datestamp = Get-Date -Format "MMMM d, yyyy"
 
 # Calculate total installs
 $totalInstalls = ($publishers | Measure-Object -Property totalInstalls -Sum).Sum
 $totalInstallsFormatted = Format-InstallCount -value $totalInstalls
 
-# Start building markdown
+#region Build Markdown
+
 $markdown = @"
-# Verified VS Code Extension Publishers - Complete Catalog
+# 🔐 Verified VS Code Extension Publishers
 
-**Comprehensive listing of all verified publishers on the VS Code Marketplace**
+> **Complete Catalog of Domain-Verified Publishers on the VS Code Marketplace**
 
-> ✅ All publishers listed have verified domain ownership via DNS TXT record validation
+<div align="center">
+
+![Publishers](https://img.shields.io/badge/Publishers-$($publishers.Count)-blue?style=for-the-badge)
+![Extensions](https://img.shields.io/badge/Extensions-$($metadata.totalExtensions)-green?style=for-the-badge)
+![Domains](https://img.shields.io/badge/Domains-$($domainStats.Count)-purple?style=for-the-badge)
+![Installs](https://img.shields.io/badge/Installs-$totalInstallsFormatted-orange?style=for-the-badge)
+
+*Last Updated: $datestamp*
+
+</div>
+
+---
+
+## 📑 Table of Contents
+
+- [📊 Quick Stats](#-quick-stats)
+- [🏆 Top 20 Publishers](#-top-20-publishers-by-total-installs)
+- [🌐 Top 20 Domains](#-top-20-domains-by-extension-count)
+- [📚 All Domains Directory](#-all-domains-directory)
+- [🔗 Extensions by Domain](#-extensions-by-domain)
+- [ℹ️ About This Document](#-about-this-document)
 
 ---
 
 ## 📊 Quick Stats
 
-| Metric | Value |
-|--------|-------|
-| **Verified Publishers** | $($publishers.Count) |
-| **Total Extensions** | $($metadata.totalExtensions) |
-| **Unique Domains** | $($domainStats.Count) |
-| **Total Installs** | $totalInstallsFormatted |
-| **Generated** | $timestamp |
+<table>
+<tr>
+<td width="25%" align="center">
+
+### 👥 Publishers
+**$($publishers.Count)**
+*verified*
+
+</td>
+<td width="25%" align="center">
+
+### 📦 Extensions
+**$($metadata.totalExtensions)**
+*total*
+
+</td>
+<td width="25%" align="center">
+
+### 🌐 Domains
+**$($domainStats.Count)**
+*unique*
+
+</td>
+<td width="25%" align="center">
+
+### ⬇️ Installs
+**$totalInstallsFormatted**
+*combined*
+
+</td>
+</tr>
+</table>
+
+> 💡 **What is verification?** Verified publishers have proven domain ownership by adding a TXT record to their DNS configuration. This provides an extra layer of trust for extension users.
 
 ---
 
 ## 🏆 Top 20 Publishers (by Total Installs)
 
-| # | Publisher | Display Name | Domain | Extensions | Total Installs |
-|---|-----------|--------------|--------|------------|----------------|
+| Rank | Publisher | Display Name | Domain | Ext. | Installs |
+|:----:|-----------|--------------|--------|:----:|:--------:|
 "@
 
 $rank = 0
 $publishers | Select-Object -First 20 | ForEach-Object {
     $rank++
+    $badge = Get-RankBadge -rank $rank
     $domainDisplay = Get-DomainDisplay -domain $_.domain
     $installs = Format-InstallCount -value $_.totalInstalls
     $anchor = ConvertTo-Anchor -text $_.publisherName
-    $markdown += "| $rank | [$($_.publisherName)](#$anchor) | $($_.displayName) | $domainDisplay | $($_.extensionCount) | $installs |`n"
+    $markdown += "| $badge | [**$($_.publisherName)**](#$anchor) | $($_.displayName) | ``$domainDisplay`` | $($_.extensionCount) | **$installs** |`n"
 }
 
 $markdown += @"
+
+<p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
 
 ---
 
 ## 🌐 Top 20 Domains (by Extension Count)
 
-| # | Domain | Publishers | Extensions | Jump |
-|---|--------|------------|------------|------|
+| Rank | Domain | Publishers | Extensions | Navigate |
+|:----:|--------|:----------:|:----------:|:--------:|
 "@
 
 $rank = 0
 $domainStats | Select-Object -First 20 | ForEach-Object {
     $rank++
+    $badge = Get-RankBadge -rank $rank
     $domainDisplay = Get-DomainDisplay -domain $_.domain
     $anchor = ConvertTo-Anchor -text $domainDisplay
-    $markdown += "| $rank | $domainDisplay | $($_.publisherCount) | $($_.extensionCount) | [View →](#domain-$anchor) |`n"
+    $markdown += "| $badge | ``$domainDisplay`` | $($_.publisherCount) | $($_.extensionCount) | [**→ View**](#domain-$anchor) |`n"
 }
 
 $markdown += @"
 
+<p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
+
 ---
 
-## 📚 All Domains (by Extension Count)
+## 📚 All Domains Directory
 
-| # | Domain | Publishers | Extensions | % |
-|---|--------|------------|------------|---|
+<details>
+<summary><strong>📂 Click to expand all $($domainStats.Count) domains</strong></summary>
+
+<br>
+
+| # | Domain | Publishers | Extensions | Share |
+|--:|--------|:----------:|:----------:|------:|
 "@
 
 $rank = 0
@@ -121,69 +208,106 @@ $domainStats | ForEach-Object {
     $domainDisplay = Get-DomainDisplay -domain $_.domain
     $percentage = [math]::Round(($_.extensionCount / $metadata.totalExtensions) * 100, 1)
     $anchor = ConvertTo-Anchor -text $domainDisplay
-    $fire = if ($_.extensionCount -ge 20) { " 🔥" } else { "" }
-    $markdown += "| $rank | [$domainDisplay](#domain-$anchor)$fire | $($_.publisherCount) | $($_.extensionCount) | $percentage% |`n"
+    $fire = if ($_.extensionCount -ge 20) { " 🔥" } elseif ($_.extensionCount -ge 10) { " ⭐" } else { "" }
+    $markdown += "| $rank | [``$domainDisplay``](#domain-$anchor)$fire | $($_.publisherCount) | $($_.extensionCount) | $percentage% |`n"
 }
 
-$markdown += "`n**Total: $($metadata.totalExtensions) extensions from $($publishers.Count) verified publishers across $($domainStats.Count) domains**`n"
-
-# Generate domain sections
 $markdown += @"
+
+</details>
+
+> **Legend:** 🔥 = 20+ extensions | ⭐ = 10+ extensions
+
+<p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
 
 ---
 
-# 🌐 Extensions by Domain
+# 🔗 Extensions by Domain
 
 "@
 
+# Generate domain sections
+$domainIndex = 0
 foreach ($domainStat in $domainStats) {
+    $domainIndex++
     $domainDisplay = Get-DomainDisplay -domain $domainStat.domain
     $anchor = ConvertTo-Anchor -text $domainDisplay
+    
+    # Get publishers for this domain sorted by installs
+    $domainPublishers = $publishers | Where-Object { $_.domain -eq $domainStat.domain } | Sort-Object -Property totalInstalls -Descending
     
     $markdown += @"
 
 ---
 
-## <a id="domain-$anchor"></a>🔗 $domainDisplay
+## <a id="domain-$anchor"></a>🏢 $domainDisplay
 
-> **$($domainStat.publisherCount) publisher(s)** | **$($domainStat.extensionCount) extension(s)** | Domain: ``$($domainStat.domain)``
+<table>
+<tr>
+<td>🔗 <strong>Domain:</strong> <code>$($domainStat.domain)</code></td>
+<td>👥 <strong>Publishers:</strong> $($domainStat.publisherCount)</td>
+<td>📦 <strong>Extensions:</strong> $($domainStat.extensionCount)</td>
+</tr>
+</table>
 
 "@
-    
-    # Get publishers for this domain sorted by installs
-    $domainPublishers = $publishers | Where-Object { $_.domain -eq $domainStat.domain } | Sort-Object -Property totalInstalls -Descending
     
     foreach ($pub in $domainPublishers) {
         $pubAnchor = ConvertTo-Anchor -text $pub.publisherName
         $pubInstalls = Format-InstallCount -value $pub.totalInstalls
+        $marketplaceUrl = "https://marketplace.visualstudio.com/publishers/$($pub.publisherName)"
         
-        $markdown += @"
+        # Use collapsible for publishers with many extensions
+        $useDetails = $pub.extensionCount -gt 5
+        
+        if ($useDetails) {
+            $markdown += @"
 
-### <a id="$pubAnchor"></a>📦 $($pub.publisherName) ($($pub.displayName))
+<details>
+<summary><strong><a id="$pubAnchor"></a>📦 $($pub.publisherName)</strong> — $($pub.displayName) — <em>$($pub.extensionCount) extensions</em> — <strong>$pubInstalls installs</strong></summary>
 
-> **$($pub.extensionCount) extensions** | **$pubInstalls total installs** | [Marketplace](https://marketplace.visualstudio.com/publishers/$($pub.publisherName))
+<br>
 
-| Extension | Installs | Rating | Version | Description |
-|-----------|----------|--------|---------|-------------|
+> 🔗 [View on Marketplace]($marketplaceUrl)
+
+| Extension | Installs | Version | Description |
+|:----------|:--------:|:-------:|:------------|
 "@
+        } else {
+            $markdown += @"
+
+### <a id="$pubAnchor"></a>📦 $($pub.publisherName)
+
+> **$($pub.displayName)** — $($pub.extensionCount) extension(s) — **$pubInstalls total installs** — [Marketplace]($marketplaceUrl)
+
+| Extension | Installs | Version | Description |
+|:----------|:--------:|:-------:|:------------|
+"@
+        }
         
         # Sort extensions by install count
         $sortedExts = $pub.extensions | Sort-Object -Property installCount -Descending
         
         foreach ($ext in $sortedExts) {
             $extInstalls = Format-InstallCount -value $ext.installCount
-            $ratingStars = if ($ext.rating -gt 0) { "⭐ $($ext.rating)" } else { "-" }
-            $desc = if ($ext.shortDescription) { 
-                $ext.shortDescription.Substring(0, [Math]::Min(60, $ext.shortDescription.Length))
-                if ($ext.shortDescription.Length -gt 60) { "..." }
-            } else { "-" }
-            $extLink = "[$($ext.displayName)](https://marketplace.visualstudio.com/items?itemName=$($pub.publisherName).$($ext.extensionName))"
+            $desc = Format-Description -desc $ext.shortDescription
+            $extUrl = "https://marketplace.visualstudio.com/items?itemName=$($pub.publisherName).$($ext.extensionName)"
+            $extLink = "[**$($ext.displayName)**]($extUrl)"
             
-            $markdown += "| $extLink | $extInstalls | $ratingStars | $($ext.version) | $desc |`n"
+            $markdown += "| $extLink | $extInstalls | ``$($ext.version)`` | $desc |`n"
         }
         
-        $markdown += "`n"
+        if ($useDetails) {
+            $markdown += "`n</details>`n"
+        } else {
+            $markdown += "`n"
+        }
     }
+    
+    $markdown += @"
+
+<p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
+"@
 }
 
 # Add footer
@@ -191,32 +315,66 @@ $markdown += @"
 
 ---
 
-## 📋 About This Document
+## ℹ️ About This Document
 
-This catalog lists all **verified publishers** on the VS Code Marketplace. A verified publisher has proven domain ownership by adding a TXT record to their DNS configuration, as described in the [VS Code Publishing Documentation](https://code.visualstudio.com/api/working-with-extensions/publishing-extension#verify-a-publisher).
+### What is Publisher Verification?
 
-### Verification Badge
-When you see "✅ This publisher has verified ownership of [domain]" on an extension page, it means:
-- The publisher owns the domain they claim
-- They've maintained the verification for at least 6 months (for the badge to appear)
-- The extension is more trustworthy than unverified publishers
+This catalog lists all **verified publishers** on the VS Code Marketplace. A verified publisher has proven domain ownership by adding a TXT record to their DNS configuration.
+
+<details>
+<summary><strong>📋 How Verification Works</strong></summary>
+
+<br>
+
+1. Publisher adds a TXT record to their domain's DNS configuration
+2. VS Code Marketplace verifies the DNS record
+3. Publisher receives the "verified" badge after validation
+4. Badge displays as: *"✅ This publisher has verified ownership of [domain]"*
+
+**Benefits of Verification:**
+- ✅ Proven domain ownership
+- ✅ Higher trust level for users
+- ✅ Professional credibility
+
+For more details, see the [VS Code Publishing Documentation](https://code.visualstudio.com/api/working-with-extensions/publishing-extension#verify-a-publisher).
+
+</details>
 
 ### Data Source
-- **API**: VS Code Marketplace Extension Query API
-- **Filter**: ``isDomainVerified = true``
-- **Sort**: By install count (most popular first)
+
+| Property | Value |
+|----------|-------|
+| **API** | VS Code Marketplace Extension Query API |
+| **Filter** | ``isDomainVerified = true`` |
+| **Sort** | By install count (most popular first) |
+| **Generated** | $timestamp |
+
+### Generation Scripts
+
+- [`fetch_verified_publishers.ps1`](../fetch_verified_publishers.ps1) — Fetches data from Marketplace API
+- [`generate_verified_markdown.ps1`](../generate_verified_markdown.ps1) — Generates this document
 
 ---
 
-*Generated by [fetch_verified_publishers.ps1](../fetch_verified_publishers.ps1) and [generate_verified_markdown.ps1](../generate_verified_markdown.ps1)*
+<div align="center">
+
+**🔐 Verified VS Code Publishers Catalog**
+
+*Generated automatically from the VS Code Marketplace API*
+
+<sub>$($publishers.Count) publishers • $($metadata.totalExtensions) extensions • $($domainStats.Count) domains</sub>
+
+</div>
 "@
+
+#endregion
 
 # Save markdown
 Write-Host "Saving markdown to: $outputFile" -ForegroundColor Cyan
 $markdown | Out-File -FilePath $outputFile -Encoding UTF8
 
-Write-Host "`n✓ SUCCESS: Verified Publishers catalog created!" -ForegroundColor Green
-Write-Host "✓ Output file: $outputFile" -ForegroundColor Green
-Write-Host "✓ Total publishers: $($publishers.Count)" -ForegroundColor Green
-Write-Host "✓ Total domains: $($domainStats.Count)" -ForegroundColor Green
-Write-Host "✓ Total extensions: $($metadata.totalExtensions)" -ForegroundColor Green
+Write-Host "`n✅ SUCCESS: Verified Publishers catalog created!" -ForegroundColor Green
+Write-Host "   📄 Output file: $outputFile" -ForegroundColor Green
+Write-Host "   👥 Total publishers: $($publishers.Count)" -ForegroundColor Green
+Write-Host "   🌐 Total domains: $($domainStats.Count)" -ForegroundColor Green
+Write-Host "   📦 Total extensions: $($metadata.totalExtensions)" -ForegroundColor Green
