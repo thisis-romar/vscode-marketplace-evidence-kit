@@ -118,6 +118,33 @@ foreach ($ext in $publishedExtensions) {
     $categories = @()
     if ($ext.categories) { $categories = $ext.categories }
     
+    # Extract links from extension properties
+    $links = @{
+        github = $null
+        source = $null
+        support = $null
+        learn = $null
+        sponsor = $null
+        qna = $null
+    }
+    if ($ext.versions -and $ext.versions.Count -gt 0 -and $ext.versions[0].properties) {
+        $props = $ext.versions[0].properties
+        foreach ($prop in $props) {
+            switch ($prop.key) {
+                "Microsoft.VisualStudio.Services.Links.GitHub" { $links.github = $prop.value }
+                "Microsoft.VisualStudio.Services.Links.Source" { $links.source = $prop.value }
+                "Microsoft.VisualStudio.Services.Links.Support" { $links.support = $prop.value }
+                "Microsoft.VisualStudio.Services.Links.Learn" { $links.learn = $prop.value }
+                "Microsoft.VisualStudio.Code.SponsorLink" { $links.sponsor = $prop.value }
+                "Microsoft.VisualStudio.Services.CustomerQnALink" { 
+                    if ($prop.value -ne "false" -and $prop.value -ne "") { 
+                        $links.qna = $prop.value 
+                    }
+                }
+            }
+        }
+    }
+    
     # Initialize publisher entry if new
     if (-not $publisherMap.ContainsKey($pubName)) {
         $publisherMap[$pubName] = @{
@@ -128,7 +155,35 @@ foreach ($ext in $publishedExtensions) {
             extensionCount = 0
             totalInstalls = 0
             extensions = @()
+            links = @{
+                github = @()
+                source = @()
+                support = @()
+                learn = @()
+                sponsor = @()
+                qna = @()
+            }
         }
+    }
+    
+    # Aggregate unique links per publisher
+    if ($links.github -and $links.github -notin $publisherMap[$pubName].links.github) {
+        $publisherMap[$pubName].links.github += $links.github
+    }
+    if ($links.source -and $links.source -notin $publisherMap[$pubName].links.source) {
+        $publisherMap[$pubName].links.source += $links.source
+    }
+    if ($links.support -and $links.support -notin $publisherMap[$pubName].links.support) {
+        $publisherMap[$pubName].links.support += $links.support
+    }
+    if ($links.learn -and $links.learn -notin $publisherMap[$pubName].links.learn) {
+        $publisherMap[$pubName].links.learn += $links.learn
+    }
+    if ($links.sponsor -and $links.sponsor -notin $publisherMap[$pubName].links.sponsor) {
+        $publisherMap[$pubName].links.sponsor += $links.sponsor
+    }
+    if ($links.qna -and $links.qna -notin $publisherMap[$pubName].links.qna) {
+        $publisherMap[$pubName].links.qna += $links.qna
     }
     
     # Add extension to publisher
@@ -143,6 +198,7 @@ foreach ($ext in $publishedExtensions) {
         shortDescription = $ext.shortDescription
         lastUpdated = if ($ext.versions -and $ext.versions.Count -gt 0) { $ext.versions[0].lastUpdated } else { $null }
         version = if ($ext.versions -and $ext.versions.Count -gt 0) { $ext.versions[0].version } else { "" }
+        links = $links
     }
 }
 

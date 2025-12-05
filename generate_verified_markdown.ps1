@@ -260,6 +260,24 @@ foreach ($domainStat in $domainStats) {
         $pubInstalls = Format-InstallCount -value $pub.totalInstalls
         $marketplaceUrl = "https://marketplace.visualstudio.com/publishers/$($pub.publisherName)"
         
+        # Build publisher links section
+        $pubLinksArray = @()
+        $pubLinksArray += "[🏪 Marketplace]($marketplaceUrl)"
+        
+        if ($pub.links) {
+            # Get first/primary link from each category
+            if ($pub.links.github -and $pub.links.github.Count -gt 0) {
+                $pubLinksArray += "[📂 GitHub]($($pub.links.github[0]))"
+            }
+            if ($pub.links.support -and $pub.links.support.Count -gt 0) {
+                $pubLinksArray += "[🐛 Issues]($($pub.links.support[0]))"
+            }
+            if ($pub.links.sponsor -and $pub.links.sponsor.Count -gt 0) {
+                $pubLinksArray += "[💖 Sponsor]($($pub.links.sponsor[0]))"
+            }
+        }
+        $pubLinksLine = $pubLinksArray -join " · "
+        
         # Use collapsible for publishers with many extensions
         $useDetails = $pub.extensionCount -gt 5
         
@@ -271,10 +289,10 @@ foreach ($domainStat in $domainStats) {
 
 <br>
 
-> 🔗 [View on Marketplace]($marketplaceUrl)
+> $pubLinksLine
 
-| Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:-----------|
+| Extension | Installs | Version | Links | Description |
+|:----------|:--------:|:-------:|:-----:|:-----------|
 "@
             $markdown += "`n"
         } else {
@@ -282,10 +300,12 @@ foreach ($domainStat in $domainStats) {
 
 ### <a id="$pubAnchor"></a>📦 $($pub.publisherName)
 
-> **$($pub.displayName)** — $($pub.extensionCount) extension(s) — **$pubInstalls total installs** — [Marketplace]($marketplaceUrl)
+> **$($pub.displayName)** — $($pub.extensionCount) extension(s) — **$pubInstalls total installs**
+> 
+> $pubLinksLine
 
-| Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:-----------|
+| Extension | Installs | Version | Links | Description |
+|:----------|:--------:|:-------:|:-----:|:-----------|
 "@
             $markdown += "`n"
         }
@@ -299,7 +319,16 @@ foreach ($domainStat in $domainStats) {
             $extUrl = "https://marketplace.visualstudio.com/items?itemName=$($pub.publisherName).$($ext.extensionName)"
             $extLink = "[**$($ext.displayName)**]($extUrl)"
             
-            $markdown += "| $extLink | $extInstalls | ``$($ext.version)`` | $desc |`n"
+            # Build extension links
+            $extLinksArray = @()
+            if ($ext.links) {
+                if ($ext.links.github) { $extLinksArray += "[📂]($($ext.links.github) `"GitHub`")" }
+                elseif ($ext.links.source) { $extLinksArray += "[📂]($($ext.links.source) `"Source`")" }
+                if ($ext.links.support) { $extLinksArray += "[🐛]($($ext.links.support) `"Issues`")" }
+            }
+            $extLinksCell = if ($extLinksArray.Count -gt 0) { $extLinksArray -join " " } else { "—" }
+            
+            $markdown += "| $extLink | $extInstalls | ``$($ext.version)`` | $extLinksCell | $desc |`n"
         }
         
         if ($useDetails) {
