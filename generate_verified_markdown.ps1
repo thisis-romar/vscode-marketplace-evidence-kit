@@ -154,6 +154,7 @@ $markdown = @"
 |:----:|-----------|--------------|--------|:----:|:--------:|
 "@
 
+$markdown += "`n"
 $rank = 0
 $publishers | Select-Object -First 20 | ForEach-Object {
     $rank++
@@ -176,6 +177,7 @@ $markdown += @"
 |:----:|--------|:----------:|:----------:|:--------:|
 "@
 
+$markdown += "`n"
 $rank = 0
 $domainStats | Select-Object -First 20 | ForEach-Object {
     $rank++
@@ -202,6 +204,7 @@ $markdown += @"
 |--:|--------|:----------:|:----------:|------:|
 "@
 
+$markdown += "`n"
 $rank = 0
 $domainStats | ForEach-Object {
     $rank++
@@ -271,8 +274,9 @@ foreach ($domainStat in $domainStats) {
 > 🔗 [View on Marketplace]($marketplaceUrl)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|
+|:----------|:--------:|:-------:|:-----------|
 "@
+            $markdown += "`n"
         } else {
             $markdown += @"
 
@@ -281,8 +285,9 @@ foreach ($domainStat in $domainStats) {
 > **$($pub.displayName)** — $($pub.extensionCount) extension(s) — **$pubInstalls total installs** — [Marketplace]($marketplaceUrl)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|
+|:----------|:--------:|:-------:|:-----------|
 "@
+            $markdown += "`n"
         }
         
         # Sort extensions by install count

@@ -68,7 +68,8 @@
 ## 🏆 Top 20 Publishers (by Total Installs)
 
 | Rank | Publisher | Display Name | Domain | Ext. | Installs |
-|:----:|-----------|--------------|--------|:----:|:--------:|| 🥇 | [**ms-python**](#ms-python) | Microsoft | `microsoft.com` | 11 | **515.8M** |
+|:----:|-----------|--------------|--------|:----:|:--------:|
+| 🥇 | [**ms-python**](#ms-python) | Microsoft | `microsoft.com` | 11 | **515.8M** |
 | 🥈 | [**ms-toolsai**](#ms-toolsai) | Microsoft | `microsoft.com` | 13 | **381.6M** |
 | 🥉 | [**ms-vscode**](#ms-vscode) | Microsoft | `microsoft.com` | 64 | **375.4M** |
 | 4. | [**vscjava**](#vscjava) | Microsoft | `microsoft.com` | 11 | **241.7M** |
@@ -96,7 +97,8 @@
 ## 🌐 Top 20 Domains (by Extension Count)
 
 | Rank | Domain | Publishers | Extensions | Navigate |
-|:----:|--------|:----------:|:----------:|:--------:|| 🥇 | `microsoft.com` | 56 | 224 | [**→ View**](#domain-microsoft-com) |
+|:----:|--------|:----------:|:----------:|:--------:|
+| 🥇 | `microsoft.com` | 56 | 224 | [**→ View**](#domain-microsoft-com) |
 | 🥈 | `salesforce.com` | 1 | 25 | [**→ View**](#domain-salesforce-com) |
 | 🥉 | `streetsidesoftware.com` | 1 | 24 | [**→ View**](#domain-streetsidesoftware-com) |
 | 4. | `redhat.com` | 1 | 20 | [**→ View**](#domain-redhat-com) |
@@ -129,7 +131,8 @@
 <br>
 
 | # | Domain | Publishers | Extensions | Share |
-|--:|--------|:----------:|:----------:|------:|| 1 | [`microsoft.com`](#domain-microsoft-com) 🔥 | 56 | 224 | 31.5% |
+|--:|--------|:----------:|:----------:|------:|
+| 1 | [`microsoft.com`](#domain-microsoft-com) 🔥 | 56 | 224 | 31.5% |
 | 2 | [`salesforce.com`](#domain-salesforce-com) 🔥 | 1 | 25 | 3.5% |
 | 3 | [`streetsidesoftware.com`](#domain-streetsidesoftware-com) 🔥 | 1 | 24 | 3.4% |
 | 4 | [`redhat.com`](#domain-redhat-com) 🔥 | 1 | 20 | 2.8% |
@@ -404,7 +407,8 @@
 > 🔗 [View on Marketplace](https://marketplace.visualstudio.com/publishers/ms-python)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Python**](https://marketplace.visualstudio.com/items?itemName=ms-python.python) | 194.9M | `2025.19.2025120401` | Python language support with extension access points fo… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Python**](https://marketplace.visualstudio.com/items?itemName=ms-python.python) | 194.9M | `2025.19.2025120401` | Python language support with extension access points fo… |
 | [**Pylance**](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance) | 162.8M | `2025.10.4` | A performant, feature-rich language server for Python i… |
 | [**Python Debugger**](https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy) | 100.3M | `2025.17.2025120401` | Python Debugger extension using debugpy. |
 | [**isort**](https://marketplace.visualstudio.com/items?itemName=ms-python.isort) | 24.9M | `2025.1.13251007` | Import organization support for Python files using isor… |
@@ -426,7 +430,8 @@
 > 🔗 [View on Marketplace](https://marketplace.visualstudio.com/publishers/ms-toolsai)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Jupyter**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter) | 98.8M | `2025.10.2025101002` | Jupyter notebook support, interactive programming and c… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Jupyter**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter) | 98.8M | `2025.10.2025101002` | Jupyter notebook support, interactive programming and c… |
 | [**Jupyter Keymap**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter-keymap) | 78.6M | `1.1.2` | Jupyter keymaps for notebooks |
 | [**Jupyter Notebook Renderers**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter-renderers) | 77.7M | `1.3.2025062701` | Renderers for Jupyter Notebooks (with plotly, vega, gif… |
 | [**Jupyter Cell Tags**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.vscode-jupyter-cell-tags) | 59M | `0.1.9` | Jupyter Cell Tags support for VS Code |
@@ -450,7 +455,8 @@
 > 🔗 [View on Marketplace](https://marketplace.visualstudio.com/publishers/ms-vscode)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**C/C++**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools) | 91.7M | `1.29.2` | C/C++ IntelliSense, debugging, and code browsing. |
+|:----------|:--------:|:-------:|:-----------|
+| [**C/C++**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools) | 91.7M | `1.29.2` | C/C++ IntelliSense, debugging, and code browsing. |
 | [**CMake Tools**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cmake-tools) | 53.2M | `1.22.20` | Extended CMake support in Visual Studio Code |
 | [**C/C++ Themes**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools-themes) | 50.5M | `2.0.0` | UI Themes for C/C++ extension. |
 | [**C/C++ Extension Pack**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools-extension-pack) | 49M | `1.3.1` | Popular extensions for C++ development in Visual Studio… |
@@ -525,7 +531,8 @@
 > 🔗 [View on Marketplace](https://marketplace.visualstudio.com/publishers/vscjava)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Debugger for Java**](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-debug) | 45.5M | `0.58.2025111205` | A lightweight Java debugger for Visual Studio Code |
+|:----------|:--------:|:-------:|:-----------|
+| [**Debugger for Java**](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-debug) | 45.5M | `0.58.2025111205` | A lightweight Java debugger for Visual Studio Code |
 | [**Maven for Java**](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-maven) | 41.9M | `0.45.0` | Manage Maven projects, execute goals, generate project… |
 | [**Test Runner for Java**](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-test) | 40.6M | `0.43.2025120408` | Run and debug JUnit or TestNG test cases. |
 | [**Project Manager for Java**](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-dependency) | 40.3M | `0.26.2025102904` | Manage Java projects in Visual Studio Code |
@@ -547,7 +554,8 @@
 > 🔗 [View on Marketplace](https://marketplace.visualstudio.com/publishers/ms-vscode-remote)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**WSL**](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl) | 37.2M | `0.104.3` | Open any folder in the Windows Subsystem for Linux (WSL… |
+|:----------|:--------:|:-------:|:-----------|
+| [**WSL**](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl) | 37.2M | `0.104.3` | Open any folder in the Windows Subsystem for Linux (WSL… |
 | [**Dev Containers**](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) | 35.2M | `0.435.0` | Open any folder or repository inside a Docker container… |
 | [**Remote - SSH**](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh) | 30.7M | `0.122.2025111815` | Open any folder on a remote machine using SSH and take… |
 | [**Remote - SSH: Editing Configuration Files**](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh-edit) | 28.6M | `0.87.0` | Edit SSH configuration files |
@@ -564,7 +572,8 @@
 > 🔗 [View on Marketplace](https://marketplace.visualstudio.com/publishers/MS-CEINTL)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Chinese (Simplified) (简体中文) Language Pack for Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-zh-hans) | 46.5M | `1.107.2025120309` | Language pack extension for Chinese (Simplified) |
+|:----------|:--------:|:-------:|:-----------|
+| [**Chinese (Simplified) (简体中文) Language Pack for Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-zh-hans) | 46.5M | `1.107.2025120309` | Language pack extension for Chinese (Simplified) |
 | [**Japanese Language Pack for Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-ja) | 13M | `1.107.2025120309` | Language pack extension for Japanese |
 | [**Spanish Language Pack for Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-es) | 10.5M | `1.107.2025120309` | Language pack extension for Spanish |
 | [**Portuguese (Brazil) Language Pack for Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-pt-BR) | 8.4M | `1.107.2025120309` | Language pack extension for Portuguese (Brazil) |
@@ -588,7 +597,8 @@
 > **Microsoft** — 4 extension(s) — **105.6M total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/VisualStudioExptTeam)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**IntelliCode**](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode) | 60.3M | `1.3.2` | AI-assisted development |
+|:----------|:--------:|:-------:|:-----------|
+| [**IntelliCode**](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode) | 60.3M | `1.3.2` | AI-assisted development |
 | [**IntelliCode API Usage Examples**](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.intellicode-api-usage-examples) | 44.6M | `0.2.9` | See relevant code examples from GitHub for over 100K di… |
 | [**IntelliCode Completions**](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode-completions) | 528K | `2.0.1` | IntelliCode Completions: AI-driven code auto-completion |
 | [**IntelliCode Insiders**](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode-insiders) | 177K | `1.1.10` | AI-assisted development |
@@ -602,7 +612,8 @@
 > 🔗 [View on Marketplace](https://marketplace.visualstudio.com/publishers/ms-azuretools)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Docker**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) | 48.7M | `2.0.0` | Makes it easy to create, manage, and debug containerize… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Docker**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) | 48.7M | `2.0.0` | Makes it easy to create, manage, and debug containerize… |
 | [**Container Tools**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-containers) | 6.9M | `2.3.0` | Makes it easy to create, manage, and debug containerize… |
 | [**Azure Resources**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureresourcegroups) | 5.8M | `0.11.7` | An extension for viewing and managing Azure resources. |
 | [**Azure Functions**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions) | 5.6M | `1.20.2` | An Azure Functions extension for Visual Studio Code. |
@@ -634,7 +645,8 @@
 > 🔗 [View on Marketplace](https://marketplace.visualstudio.com/publishers/ms-dotnettools)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**C#**](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp) | 37.4M | `2.103.33` | Base language support for C# |
+|:----------|:--------:|:-------:|:-----------|
+| [**C#**](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp) | 37.4M | `2.103.33` | Base language support for C# |
 | [**.NET Install Tool**](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscode-dotnet-runtime) | 23.2M | `2.4.1` | This extension installs and manages different versions… |
 | [**C# Dev Kit**](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit) | 12.6M | `1.83.5` | Official C# extension from Microsoft |
 | [**IntelliCode for C# Dev Kit**](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscodeintellicode-csharp) | 4.2M | `2.2.3` | AI-assisted development for C# Dev Kit |
@@ -650,7 +662,8 @@
 > **Microsoft** — 2 extension(s) — **49.3M total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/dbaeumer)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**ESLint**](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) | 46.8M | `3.0.21` | Integrates ESLint JavaScript into VS Code. |
+|:----------|:--------:|:-------:|:-----------|
+| [**ESLint**](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) | 46.8M | `3.0.21` | Integrates ESLint JavaScript into VS Code. |
 | [**jshint**](https://marketplace.visualstudio.com/items?itemName=dbaeumer.jshint) | 2.4M | `0.11.0` | Integrates JSHint into VS Code. JSHint is a linter for… |
 
 
@@ -659,7 +672,8 @@
 > **Microsoft** — 2 extension(s) — **27.7M total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/MS-vsliveshare)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Live Share**](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) | 22.2M | `1.0.5959` | Real-time collaborative development from the comfort of… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Live Share**](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) | 22.2M | `1.0.5959` | Real-time collaborative development from the comfort of… |
 | [**[Deprecated] Live Share Audio**](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-audio) | 5.4M | `0.1.93` | Adds audio calling capabilities to Visual Studio Live S… |
 
 
@@ -668,7 +682,8 @@
 > **Microsoft** — 5 extension(s) — **22.2M total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/ms-mssql)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**SQL Server (mssql)**](https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql) | 8.6M | `1.37.1` | Design and optimize schemas for SQL Server, Azure SQL,… |
+|:----------|:--------:|:-------:|:-----------|
+| [**SQL Server (mssql)**](https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql) | 8.6M | `1.37.1` | Design and optimize schemas for SQL Server, Azure SQL,… |
 | [**Data Workspace**](https://marketplace.visualstudio.com/items?itemName=ms-mssql.data-workspace-vscode) | 4.8M | `0.6.3` | Additional common functionality for database projects |
 | [**SQL Database Projects**](https://marketplace.visualstudio.com/items?itemName=ms-mssql.sql-database-projects-vscode) | 4.6M | `1.5.5` | Enables users to develop and publish database schemas f… |
 | [**SQL Bindings**](https://marketplace.visualstudio.com/items?itemName=ms-mssql.sql-bindings-vscode) | 4.2M | `0.4.1` | Enables users to develop and publish Azure Functions wi… |
@@ -680,7 +695,8 @@
 > **Microsoft** — 5 extension(s) — **17.3M total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/msjsdiag)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**[Deprecated] Debugger for Chrome**](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome) | 10.8M | `4.13.0` | Debug your JavaScript code in the Chrome browser, or an… |
+|:----------|:--------:|:-------:|:-----------|
+| [**[Deprecated] Debugger for Chrome**](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome) | 10.8M | `4.13.0` | Debug your JavaScript code in the Chrome browser, or an… |
 | [**React Native Tools**](https://marketplace.visualstudio.com/items?itemName=msjsdiag.vscode-react-native) | 5.8M | `1.13.0` | Debugging and integrated commands for React Native |
 | [**Cordova Tools**](https://marketplace.visualstudio.com/items?itemName=msjsdiag.cordova-tools) | 515K | `2.7.0` | Code-hinting, debugging and integrated commands for Apa… |
 | [**Debugger for Chrome (Nightly)**](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome-nightly) | 90K | `2020.2.15300` | Debug your JavaScript code in the Chrome browser, or an… |
@@ -692,7 +708,8 @@
 > **Microsoft** — 3 extension(s) — **6.8M total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/ms-kubernetes-tools)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Kubernetes**](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.vscode-kubernetes-tools) | 6.3M | `1.3.27` | Develop, deploy and debug Kubernetes applications |
+|:----------|:--------:|:-------:|:-----------|
+| [**Kubernetes**](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.vscode-kubernetes-tools) | 6.3M | `1.3.27` | Develop, deploy and debug Kubernetes applications |
 | [**Azure Kubernetes Service**](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.vscode-aks-tools) | 402K | `1.6.14` | Display Azure Kubernetes Services within VS Code |
 | [**Kubernetes Kind**](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.kind-vscode) | 102K | `0.0.3` | Work with the Kind local Kubernetes provider in Visual… |
 
@@ -702,7 +719,8 @@
 > **Microsoft** — 1 extension(s) — **5.5M total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/ms-edgedevtools)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Microsoft Edge Tools for VS Code**](https://marketplace.visualstudio.com/items?itemName=ms-edgedevtools.vscode-edge-devtools) | 5.5M | `2.1.10` | Use the Microsoft Edge Tools from within VS Code to see… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Microsoft Edge Tools for VS Code**](https://marketplace.visualstudio.com/items?itemName=ms-edgedevtools.vscode-edge-devtools) | 5.5M | `2.1.10` | Use the Microsoft Edge Tools from within VS Code to see… |
 
 
 ### <a id="ms-playwright"></a>📦 ms-playwright
@@ -710,7 +728,8 @@
 > **Microsoft** — 1 extension(s) — **2M total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/ms-playwright)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Playwright Test for VSCode**](https://marketplace.visualstudio.com/items?itemName=ms-playwright.playwright) | 2M | `1.1.17` | Run Playwright Test tests in Visual Studio Code. |
+|:----------|:--------:|:-------:|:-----------|
+| [**Playwright Test for VSCode**](https://marketplace.visualstudio.com/items?itemName=ms-playwright.playwright) | 2M | `1.1.17` | Run Playwright Test tests in Visual Studio Code. |
 
 
 <details>
@@ -721,7 +740,8 @@
 > 🔗 [View on Marketplace](https://marketplace.visualstudio.com/publishers/docsmsft)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**learn-markdown**](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-markdown) | 471K | `1.0.17` | Learn Markdown Extension |
+|:----------|:--------:|:-------:|:-----------|
+| [**learn-markdown**](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-markdown) | 471K | `1.0.17` | Learn Markdown Extension |
 | [**learn-yaml**](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-yaml) | 466K | `1.0.5` | YAML schema validation and auto-completion for learn.mi… |
 | [**learn-images**](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-images) | 295K | `1.0.4` | Learn Images Extension |
 | [**learn-preview**](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-preview) | 247K | `2.0.10` | Learn Markdown Preview Extension |
@@ -736,7 +756,8 @@
 > **Microsoft** — 1 extension(s) — **1.5M total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/msazurermtools)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Azure Resource Manager (ARM) Tools**](https://marketplace.visualstudio.com/items?itemName=msazurermtools.azurerm-vscode-tools) | 1.5M | `0.15.15` | Language server, editing tools and snippets for Azure R… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Azure Resource Manager (ARM) Tools**](https://marketplace.visualstudio.com/items?itemName=msazurermtools.azurerm-vscode-tools) | 1.5M | `0.15.15` | Language server, editing tools and snippets for Azure R… |
 
 
 ### <a id="ms-azure-devops"></a>📦 ms-azure-devops
@@ -744,7 +765,8 @@
 > **Microsoft** — 1 extension(s) — **1.4M total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/ms-azure-devops)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Azure Pipelines**](https://marketplace.visualstudio.com/items?itemName=ms-azure-devops.azure-pipelines) | 1.4M | `1.261.1` | Syntax highlighting, IntelliSense, and more for Azure P… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Azure Pipelines**](https://marketplace.visualstudio.com/items?itemName=ms-azure-devops.azure-pipelines) | 1.4M | `1.261.1` | Syntax highlighting, IntelliSense, and more for Azure P… |
 
 
 ### <a id="ms-iot"></a>📦 ms-iot
@@ -752,7 +774,8 @@
 > **Microsoft** — 1 extension(s) — **1.3M total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/ms-iot)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**ROS**](https://marketplace.visualstudio.com/items?itemName=ms-iot.vscode-ros) | 1.3M | `0.9.6` | Develop Robot Operating System (ROS) with Visual Studio… |
+|:----------|:--------:|:-------:|:-----------|
+| [**ROS**](https://marketplace.visualstudio.com/items?itemName=ms-iot.vscode-ros) | 1.3M | `0.9.6` | Develop Robot Operating System (ROS) with Visual Studio… |
 
 
 ### <a id="teamsdevapp"></a>📦 TeamsDevApp
@@ -760,7 +783,8 @@
 > **Microsoft** — 3 extension(s) — **905K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/TeamsDevApp)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Microsoft Foundry**](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.vscode-ai-foundry) | 467K | `0.12.4` | Visual Studio Code extension for Microsoft Foundry |
+|:----------|:--------:|:-------:|:-----------|
+| [**Microsoft Foundry**](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.vscode-ai-foundry) | 467K | `0.12.4` | Visual Studio Code extension for Microsoft Foundry |
 | [**Microsoft 365 Agents Toolkit**](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.ms-teams-vscode-extension) | 393K | `6.5.2025120408` | Create, debug, and deploy agents with Microsoft 365 Age… |
 | [**Adaptive Card Previewer**](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.vscode-adaptive-cards) | 44K | `0.1.3` | A VS Code extension to preview adaptive cards for Micro… |
 
@@ -770,7 +794,8 @@
 > **Microsoft DevLabs** — 1 extension(s) — **837K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/mindaro-dev)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**File Downloader**](https://marketplace.visualstudio.com/items?itemName=mindaro-dev.file-downloader) | 837K | `1.0.13` | Exposes an API that allows other extensions to download… |
+|:----------|:--------:|:-------:|:-----------|
+| [**File Downloader**](https://marketplace.visualstudio.com/items?itemName=mindaro-dev.file-downloader) | 837K | `1.0.13` | Exposes an API that allows other extensions to download… |
 
 
 ### <a id="vsciot-vscode"></a>📦 vsciot-vscode
@@ -778,7 +803,8 @@
 > **Microsoft** — 3 extension(s) — **814K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/vsciot-vscode)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Azure IoT Hub**](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.azure-iot-toolkit) | 435K | `2.17.1` | This extension is now a part of Azure IoT Tools extensi… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Azure IoT Hub**](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.azure-iot-toolkit) | 435K | `2.17.1` | This extension is now a part of Azure IoT Tools extensi… |
 | [**Azure IoT Edge**](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.azure-iot-edge) | 257K | `1.25.11` | This extension is now in maintenance mode. See announce… |
 | [**IoT Device Cube**](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.vscode-iot-device-cube) | 122K | `0.3.0` | Utility extension to access to physical devices |
 
@@ -788,7 +814,8 @@
 > **Microsoft** — 1 extension(s) — **621K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/ms-windows-ai-studio)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**AI Toolkit for Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=ms-windows-ai-studio.windows-ai-studio) | 621K | `0.26.3` | AI Toolkit for VS Code streamlines generative AI app de… |
+|:----------|:--------:|:-------:|:-----------|
+| [**AI Toolkit for Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=ms-windows-ai-studio.windows-ai-studio) | 621K | `0.26.3` | AI Toolkit for VS Code streamlines generative AI app de… |
 
 
 ### <a id="mindaro"></a>📦 mindaro
@@ -796,7 +823,8 @@
 > **Microsoft** — 1 extension(s) — **488K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/mindaro)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Bridge to Kubernetes**](https://marketplace.visualstudio.com/items?itemName=mindaro.mindaro) | 488K | `2.0.120250115` | Rapid Kubernetes development for teams |
+|:----------|:--------:|:-------:|:-----------|
+| [**Bridge to Kubernetes**](https://marketplace.visualstudio.com/items?itemName=mindaro.mindaro) | 488K | `2.0.120250115` | Rapid Kubernetes development for teams |
 
 
 ### <a id="ms-dynamics-smb"></a>📦 ms-dynamics-smb
@@ -804,7 +832,8 @@
 > **Microsoft** — 1 extension(s) — **470K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/ms-dynamics-smb)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**AL Language extension for Microsoft Dynamics 365 Business Central**](https://marketplace.visualstudio.com/items?itemName=ms-dynamics-smb.al) | 470K | `17.0.1869541` | Development tools for Dynamics 365 Business Central |
+|:----------|:--------:|:-------:|:-----------|
+| [**AL Language extension for Microsoft Dynamics 365 Business Central**](https://marketplace.visualstudio.com/items?itemName=ms-dynamics-smb.al) | 470K | `17.0.1869541` | Development tools for Dynamics 365 Business Central |
 
 
 ### <a id="ms-inkling"></a>📦 ms-inkling
@@ -812,7 +841,8 @@
 > **Microsoft** — 1 extension(s) — **463K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/ms-inkling)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Inkling**](https://marketplace.visualstudio.com/items?itemName=ms-inkling.ms-inkling) | 463K | `1.0.40` | VS Code language support for the inkling language |
+|:----------|:--------:|:-------:|:-----------|
+| [**Inkling**](https://marketplace.visualstudio.com/items?itemName=ms-inkling.ms-inkling) | 463K | `1.0.40` | VS Code language support for the inkling language |
 
 
 ### <a id="ms-pyright"></a>📦 ms-pyright
@@ -820,7 +850,8 @@
 > **Microsoft** — 1 extension(s) — **459K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/ms-pyright)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Pyright**](https://marketplace.visualstudio.com/items?itemName=ms-pyright.pyright) | 459K | `1.1.407` | VS Code static type checking for Python |
+|:----------|:--------:|:-------:|:-----------|
+| [**Pyright**](https://marketplace.visualstudio.com/items?itemName=ms-pyright.pyright) | 459K | `1.1.407` | VS Code static type checking for Python |
 
 
 ### <a id="azurite"></a>📦 Azurite
@@ -828,7 +859,8 @@
 > **Microsoft** — 1 extension(s) — **456K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/Azurite)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Azurite**](https://marketplace.visualstudio.com/items?itemName=Azurite.azurite) | 456K | `3.35.0` | An open source Azure Storage API compatible server |
+|:----------|:--------:|:-------:|:-----------|
+| [**Azurite**](https://marketplace.visualstudio.com/items?itemName=Azurite.azurite) | 456K | `3.35.0` | An open source Azure Storage API compatible server |
 
 
 ### <a id="ms-azure-load-testing"></a>📦 ms-azure-load-testing
@@ -836,7 +868,8 @@
 > **Microsoft** — 1 extension(s) — **337K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/ms-azure-load-testing)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Azure Load Testing**](https://marketplace.visualstudio.com/items?itemName=ms-azure-load-testing.microsoft-testing) | 337K | `0.1.17` | An extension to create and run load tests using Azure L… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Azure Load Testing**](https://marketplace.visualstudio.com/items?itemName=ms-azure-load-testing.microsoft-testing) | 337K | `0.1.17` | An extension to create and run load tests using Azure L… |
 
 
 ### <a id="ms-sarifvscode"></a>📦 MS-SarifVSCode
@@ -844,7 +877,8 @@
 > **Microsoft DevLabs** — 1 extension(s) — **326K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/MS-SarifVSCode)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**SARIF Viewer**](https://marketplace.visualstudio.com/items?itemName=MS-SarifVSCode.sarif-viewer) | 326K | `3.4.5` | Adds support for viewing SARIF logs |
+|:----------|:--------:|:-------:|:-----------|
+| [**SARIF Viewer**](https://marketplace.visualstudio.com/items?itemName=MS-SarifVSCode.sarif-viewer) | 326K | `3.4.5` | Adds support for viewing SARIF logs |
 
 
 ### <a id="usqlextpublisher"></a>📦 usqlextpublisher
@@ -852,7 +886,8 @@
 > **Microsoft** — 1 extension(s) — **310K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/usqlextpublisher)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Azure Data Lake Tools**](https://marketplace.visualstudio.com/items?itemName=usqlextpublisher.usql-vscode-ext) | 310K | `0.2.16` | ADL - USQL Language Support |
+|:----------|:--------:|:-------:|:-----------|
+| [**Azure Data Lake Tools**](https://marketplace.visualstudio.com/items?itemName=usqlextpublisher.usql-vscode-ext) | 310K | `0.2.16` | ADL - USQL Language Support |
 
 
 ### <a id="ms-ossdata"></a>📦 ms-ossdata
@@ -860,7 +895,8 @@
 > **Microsoft** — 1 extension(s) — **299K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/ms-ossdata)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**PostgreSQL**](https://marketplace.visualstudio.com/items?itemName=ms-ossdata.vscode-pgsql) | 299K | `1.12.1` | Develop PostgreSQL applications everywhere. |
+|:----------|:--------:|:-------:|:-----------|
+| [**PostgreSQL**](https://marketplace.visualstudio.com/items?itemName=ms-ossdata.vscode-pgsql) | 299K | `1.12.1` | Develop PostgreSQL applications everywhere. |
 
 
 ### <a id="microsoft-isvexptools"></a>📦 microsoft-IsvExpTools
@@ -868,7 +904,8 @@
 > **Microsoft** — 1 extension(s) — **263K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/microsoft-IsvExpTools)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Power Platform Tools**](https://marketplace.visualstudio.com/items?itemName=microsoft-IsvExpTools.powerplatform-vscode) | 263K | `2.0.110` | Tooling to create Power Platform solutions & packages,… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Power Platform Tools**](https://marketplace.visualstudio.com/items?itemName=microsoft-IsvExpTools.powerplatform-vscode) | 263K | `2.0.110` | Tooling to create Power Platform solutions & packages,… |
 
 
 ### <a id="ms-codespaces-tools"></a>📦 ms-codespaces-tools
@@ -876,7 +913,8 @@
 > **Microsoft** — 1 extension(s) — **184K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/ms-codespaces-tools)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Azure Devops Codespaces Authentication**](https://marketplace.visualstudio.com/items?itemName=ms-codespaces-tools.ado-codespaces-auth) | 184K | `1.2.1` | Seamless authentication to Azure Devops in GitHub Codes… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Azure Devops Codespaces Authentication**](https://marketplace.visualstudio.com/items?itemName=ms-codespaces-tools.ado-codespaces-auth) | 184K | `1.2.1` | Seamless authentication to Azure Devops in GitHub Codes… |
 
 
 ### <a id="powerquery"></a>📦 PowerQuery
@@ -884,7 +922,8 @@
 > **Microsoft** — 2 extension(s) — **174K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/PowerQuery)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Power Query / M Language**](https://marketplace.visualstudio.com/items?itemName=PowerQuery.vscode-powerquery) | 132K | `0.1.62` | Language service for the Power Query / M formula langua… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Power Query / M Language**](https://marketplace.visualstudio.com/items?itemName=PowerQuery.vscode-powerquery) | 132K | `0.1.62` | Language service for the Power Query / M formula langua… |
 | [**Power Query SDK**](https://marketplace.visualstudio.com/items?itemName=PowerQuery.vscode-powerquery-sdk) | 42K | `0.6.3` | Power Query Connector SDK |
 
 
@@ -893,7 +932,8 @@
 > **Microsoft** — 1 extension(s) — **166K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/msoffice)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Microsoft Office Add-ins Development Kit**](https://marketplace.visualstudio.com/items?itemName=msoffice.microsoft-office-add-in-debugger) | 166K | `1.0.1` | VSCode Extension for super powering WXP XML Add-ins. |
+|:----------|:--------:|:-------:|:-----------|
+| [**Microsoft Office Add-ins Development Kit**](https://marketplace.visualstudio.com/items?itemName=msoffice.microsoft-office-add-in-debugger) | 166K | `1.0.1` | VSCode Extension for super powering WXP XML Add-ins. |
 
 
 ### <a id="visualstudioonlineapplicationinsights"></a>📦 VisualStudioOnlineApplicationInsights
@@ -901,7 +941,8 @@
 > **Microsoft** — 1 extension(s) — **139K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/VisualStudioOnlineApplicationInsights)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Azure Application Insights**](https://marketplace.visualstudio.com/items?itemName=VisualStudioOnlineApplicationInsights.application-insights) | 139K | `0.4.2` | Brings information from your production services right… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Azure Application Insights**](https://marketplace.visualstudio.com/items?itemName=VisualStudioOnlineApplicationInsights.application-insights) | 139K | `0.4.2` | Brings information from your production services right… |
 
 
 ### <a id="msrvida"></a>📦 msrvida
@@ -909,7 +950,8 @@
 > **Microsoft DevLabs** — 1 extension(s) — **138K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/msrvida)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**SandDance for VSCode**](https://marketplace.visualstudio.com/items?itemName=msrvida.vscode-sanddance) | 138K | `4.2.0` | Visually explore, understand, and present your data. |
+|:----------|:--------:|:-------:|:-----------|
+| [**SandDance for VSCode**](https://marketplace.visualstudio.com/items?itemName=msrvida.vscode-sanddance) | 138K | `4.2.0` | Visually explore, understand, and present your data. |
 
 
 ### <a id="wasteamaccount"></a>📦 WASTeamAccount
@@ -917,7 +959,8 @@
 > **Microsoft** — 1 extension(s) — **134K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/WASTeamAccount)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Web Template Studio (Preview)**](https://marketplace.visualstudio.com/items?itemName=WASTeamAccount.WebTemplateStudio-dev-nightly) | 134K | `0.7.2117301` | Web Template Studio enables developers to quickly scaff… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Web Template Studio (Preview)**](https://marketplace.visualstudio.com/items?itemName=WASTeamAccount.WebTemplateStudio-dev-nightly) | 134K | `0.7.2117301` | Web Template Studio enables developers to quickly scaff… |
 
 
 ### <a id="azps-tools"></a>📦 azps-tools
@@ -925,7 +968,8 @@
 > **Microsoft** — 1 extension(s) — **124K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/azps-tools)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Azure PowerShell Tools**](https://marketplace.visualstudio.com/items?itemName=azps-tools.azps-tools) | 124K | `0.3.0` | (preview) Automate the migration of Azure PowerShell sc… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Azure PowerShell Tools**](https://marketplace.visualstudio.com/items?itemName=azps-tools.azps-tools) | 124K | `0.3.0` | (preview) Automate the migration of Azure PowerShell sc… |
 
 
 ### <a id="azure-automation"></a>📦 azure-automation
@@ -933,7 +977,8 @@
 > **Microsoft** — 1 extension(s) — **88K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/azure-automation)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Azure Automation**](https://marketplace.visualstudio.com/items?itemName=azure-automation.vscode-azureautomation) | 88K | `1.2.5` | An Azure Automation extension for Visual Studio Code |
+|:----------|:--------:|:-------:|:-----------|
+| [**Azure Automation**](https://marketplace.visualstudio.com/items?itemName=azure-automation.vscode-azureautomation) | 88K | `1.2.5` | An Azure Automation extension for Visual Studio Code |
 
 
 ### <a id="prompt-flow"></a>📦 prompt-flow
@@ -941,7 +986,8 @@
 > **Microsoft** — 1 extension(s) — **87K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/prompt-flow)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Prompt flow for VS Code**](https://marketplace.visualstudio.com/items?itemName=prompt-flow.prompt-flow) | 87K | `1.21.138799792` | — |
+|:----------|:--------:|:-------:|:-----------|
+| [**Prompt flow for VS Code**](https://marketplace.visualstudio.com/items?itemName=prompt-flow.prompt-flow) | 87K | `1.21.138799792` | — |
 
 
 ### <a id="azurepolicy"></a>📦 AzurePolicy
@@ -949,7 +995,8 @@
 > **Microsoft** — 1 extension(s) — **75K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/AzurePolicy)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Azure Policy**](https://marketplace.visualstudio.com/items?itemName=AzurePolicy.azurepolicyextension) | 75K | `0.2.5` | Azure resource, policy, and alias viewer |
+|:----------|:--------:|:-------:|:-----------|
+| [**Azure Policy**](https://marketplace.visualstudio.com/items?itemName=AzurePolicy.azurepolicyextension) | 75K | `0.2.5` | Azure resource, policy, and alias viewer |
 
 
 ### <a id="mshdinsight"></a>📦 mshdinsight
@@ -957,7 +1004,8 @@
 > **Microsoft** — 1 extension(s) — **72K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/mshdinsight)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Spark & Hive Tools**](https://marketplace.visualstudio.com/items?itemName=mshdinsight.azure-hdinsight) | 72K | `1.1.19` | Spark & Hive Tools - PySpark Interactive Query, PySpark… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Spark & Hive Tools**](https://marketplace.visualstudio.com/items?itemName=mshdinsight.azure-hdinsight) | 72K | `1.1.19` | Spark & Hive Tools - PySpark Interactive Query, PySpark… |
 
 
 ### <a id="synapsevscode"></a>📦 SynapseVSCode
@@ -965,7 +1013,8 @@
 > **Microsoft** — 1 extension(s) — **70K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/SynapseVSCode)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Fabric Data Engineering VS Code**](https://marketplace.visualstudio.com/items?itemName=SynapseVSCode.synapse) | 70K | `1.17.0` | Microsoft Fabric VS Code experience for Data engineerin… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Fabric Data Engineering VS Code**](https://marketplace.visualstudio.com/items?itemName=SynapseVSCode.synapse) | 70K | `1.17.0` | Microsoft Fabric VS Code experience for Data engineerin… |
 
 
 ### <a id="ms-cst-e"></a>📦 MS-CST-E
@@ -973,7 +1022,8 @@
 > **Microsoft DevLabs** — 1 extension(s) — **63K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/MS-CST-E)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**DevSkim**](https://marketplace.visualstudio.com/items?itemName=MS-CST-E.vscode-devskim) | 63K | `1.0.68` | DevSkim Security Analyzer Plugin for IDEs. Find securit… |
+|:----------|:--------:|:-------:|:-----------|
+| [**DevSkim**](https://marketplace.visualstudio.com/items?itemName=MS-CST-E.vscode-devskim) | 63K | `1.0.68` | DevSkim Security Analyzer Plugin for IDEs. Find securit… |
 
 
 ### <a id="ms-semantic-kernel"></a>📦 ms-semantic-kernel
@@ -981,7 +1031,8 @@
 > **Microsoft** — 1 extension(s) — **53K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/ms-semantic-kernel)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Semantic Kernel Tools**](https://marketplace.visualstudio.com/items?itemName=ms-semantic-kernel.semantic-kernel) | 53K | `0.13.0` | AI Tools for Semantic Kernel |
+|:----------|:--------:|:-------:|:-----------|
+| [**Semantic Kernel Tools**](https://marketplace.visualstudio.com/items?itemName=ms-semantic-kernel.semantic-kernel) | 53K | `0.13.0` | AI Tools for Semantic Kernel |
 
 
 ### <a id="ms-azurecache"></a>📦 ms-azurecache
@@ -989,7 +1040,8 @@
 > **Microsoft** — 1 extension(s) — **49K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/ms-azurecache)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Azure Cache**](https://marketplace.visualstudio.com/items?itemName=ms-azurecache.vscode-azurecache) | 49K | `0.1.0` | Manage and browse through data in your Azure Caches. |
+|:----------|:--------:|:-------:|:-----------|
+| [**Azure Cache**](https://marketplace.visualstudio.com/items?itemName=ms-azurecache.vscode-azurecache) | 49K | `0.1.0` | Manage and browse through data in your Azure Caches. |
 
 
 ### <a id="azapi-vscode"></a>📦 azapi-vscode
@@ -997,7 +1049,8 @@
 > **Microsoft** — 1 extension(s) — **45K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/azapi-vscode)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Terraform AzApi Provider**](https://marketplace.visualstudio.com/items?itemName=azapi-vscode.azapi) | 45K | `2.5.0` | Terraform AzApi Provider language support for Visual St… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Terraform AzApi Provider**](https://marketplace.visualstudio.com/items?itemName=azapi-vscode.azapi) | 45K | `2.5.0` | Terraform AzApi Provider language support for Visual St… |
 
 
 ### <a id="ms-bigdatatools"></a>📦 ms-bigdatatools
@@ -1005,7 +1058,8 @@
 > **Microsoft** — 1 extension(s) — **45K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/ms-bigdatatools)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Azure Stream Analytics Tools**](https://marketplace.visualstudio.com/items?itemName=ms-bigdatatools.vscode-asa) | 45K | `1.5.5` | Author, local test and submit Azure Stream Analytics jo… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Azure Stream Analytics Tools**](https://marketplace.visualstudio.com/items?itemName=ms-bigdatatools.vscode-asa) | 45K | `1.5.5` | Author, local test and submit Azure Stream Analytics jo… |
 
 
 ### <a id="typescriptteam"></a>📦 TypeScriptTeam
@@ -1013,7 +1067,8 @@
 > **Microsoft** — 1 extension(s) — **42K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/TypeScriptTeam)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**TypeScript (Native Preview)**](https://marketplace.visualstudio.com/items?itemName=TypeScriptTeam.native-preview) | 42K | `0.20251205.1` | Preview of the native TypeScript language server for Vi… |
+|:----------|:--------:|:-------:|:-----------|
+| [**TypeScript (Native Preview)**](https://marketplace.visualstudio.com/items?itemName=TypeScriptTeam.native-preview) | 42K | `0.20251205.1` | Preview of the native TypeScript language server for Vi… |
 
 
 ### <a id="msedge-dev"></a>📦 msedge-dev
@@ -1021,7 +1076,8 @@
 > **Microsoft** — 1 extension(s) — **38K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/msedge-dev)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**GN Language Server**](https://marketplace.visualstudio.com/items?itemName=msedge-dev.gnls) | 38K | `0.1.4` | Code IntelliSense for GN build system. |
+|:----------|:--------:|:-------:|:-----------|
+| [**GN Language Server**](https://marketplace.visualstudio.com/items?itemName=msedge-dev.gnls) | 38K | `0.1.4` | Code IntelliSense for GN build system. |
 
 
 ### <a id="fabric"></a>📦 fabric
@@ -1029,7 +1085,8 @@
 > **Microsoft** — 1 extension(s) — **37K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/fabric)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Microsoft Fabric**](https://marketplace.visualstudio.com/items?itemName=fabric.vscode-fabric) | 37K | `0.35.6` | View, manage, and develop your Microsoft Fabric items d… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Microsoft Fabric**](https://marketplace.visualstudio.com/items?itemName=fabric.vscode-fabric) | 37K | `0.35.6` | View, manage, and develop your Microsoft Fabric items d… |
 
 
 ### <a id="analysis-services"></a>📦 analysis-services
@@ -1037,7 +1094,8 @@
 > **Microsoft** — 1 extension(s) — **33K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/analysis-services)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**TMDL**](https://marketplace.visualstudio.com/items?itemName=analysis-services.TMDL) | 33K | `1.6.1` | Language support for the Tabular Model Definition Langu… |
+|:----------|:--------:|:-------:|:-----------|
+| [**TMDL**](https://marketplace.visualstudio.com/items?itemName=analysis-services.TMDL) | 33K | `1.6.1` | Language support for the Tabular Model Definition Langu… |
 
 
 ### <a id="azsdktm"></a>📦 azsdktm
@@ -1045,7 +1103,8 @@
 > **Microsoft** — 1 extension(s) — **28K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/azsdktm)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Security IntelliSense**](https://marketplace.visualstudio.com/items?itemName=azsdktm.SecurityIntelliSense) | 28K | `0.8.0` | Provides quick and inline security suggestion and fixes… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Security IntelliSense**](https://marketplace.visualstudio.com/items?itemName=azsdktm.SecurityIntelliSense) | 28K | `0.8.0` | Provides quick and inline security suggestion and fixes… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -1069,7 +1128,8 @@
 > 🔗 [View on Marketplace](https://marketplace.visualstudio.com/publishers/salesforce)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Salesforce CLI Integration**](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-core) | 2.2M | `65.7.0` | Provides integration with the Salesforce CLI |
+|:----------|:--------:|:-------:|:-----------|
+| [**Salesforce CLI Integration**](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-core) | 2.2M | `65.7.0` | Provides integration with the Salesforce CLI |
 | [**Apex**](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-apex) | 2M | `65.7.0` | Provides code-editing features for the Apex programming… |
 | [**Aura Components**](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-lightning) | 1.9M | `65.7.0` | Provides code-editing features for Aura Components |
 | [**Visualforce**](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-visualforce) | 1.8M | `65.7.0` | Provides syntax highlighting for the Visualforce framew… |
@@ -1118,7 +1178,8 @@
 > 🔗 [View on Marketplace](https://marketplace.visualstudio.com/publishers/streetsidesoftware)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Code Spell Checker**](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) | 15.9M | `4.3.2` | Spelling checker for source code |
+|:----------|:--------:|:-------:|:-----------|
+| [**Code Spell Checker**](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) | 15.9M | `4.3.2` | Spelling checker for source code |
 | [**Brazilian Portuguese - Code Spell Checker**](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-portuguese-brazilian) | 436K | `2.2.4` | Brazilian Portuguese dictionary extension for VS Code. |
 | [**Spanish - Code Spell Checker**](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-spanish) | 392K | `2.3.9` | Spanish Add-On for Code Spell Checker |
 | [**Russian - Code Spell Checker**](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-russian) | 366K | `2.2.4` | Russian dictionary extension for VS Code. |
@@ -1166,7 +1227,8 @@
 > 🔗 [View on Marketplace](https://marketplace.visualstudio.com/publishers/redhat)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Language Support for Java(TM) by Red Hat**](https://marketplace.visualstudio.com/items?itemName=redhat.java) | 49.8M | `1.51.2025120508` | Java Linting, Intellisense, formatting, refactoring, Ma… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Language Support for Java(TM) by Red Hat**](https://marketplace.visualstudio.com/items?itemName=redhat.java) | 49.8M | `1.51.2025120508` | Java Linting, Intellisense, formatting, refactoring, Ma… |
 | [**YAML**](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml) | 24.5M | `1.20.2025120408` | YAML Language Support by Red Hat, with built-in Kuberne… |
 | [**XML**](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-xml) | 9.1M | `0.29.2025112508` | XML Language Support by Red Hat |
 | [**Red Hat Dependency Analytics**](https://marketplace.visualstudio.com/items?itemName=redhat.fabric8-analytics) | 3M | `0.10.1` | Provides insights on security vulnerabilities in your a… |
@@ -1210,7 +1272,8 @@
 > 🔗 [View on Marketplace](https://marketplace.visualstudio.com/publishers/cweijan)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Database Client JDBC**](https://marketplace.visualstudio.com/items?itemName=cweijan.dbclient-jdbc) | 3M | `1.4.6` | JDBC Adapter For Database Client |
+|:----------|:--------:|:-------:|:-----------|
+| [**Database Client JDBC**](https://marketplace.visualstudio.com/items?itemName=cweijan.dbclient-jdbc) | 3M | `1.4.6` | JDBC Adapter For Database Client |
 | [**MySQL**](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-mysql-client2) | 2.5M | `8.4.4` | Database Management for MySQL/MariaDB, PostgreSQL, Redi… |
 | [**Database Client**](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-database-client2) | 964K | `8.4.4` | Database Management for MariaDB/SQLite, supports execut… |
 | [**Office Viewer**](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-office) | 950K | `3.5.4` | View word,excel files and using WYSIWYG editor for mark… |
@@ -1249,7 +1312,8 @@
 > 🔗 [View on Marketplace](https://marketplace.visualstudio.com/publishers/SAPSE)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**SAP Fiori Tools - Application Modeler**](https://marketplace.visualstudio.com/items?itemName=SAPSE.sap-ux-application-modeler-extension) | 173K | `1.20.0` | Allows you to access a visualization of the application… |
+|:----------|:--------:|:-------:|:-----------|
+| [**SAP Fiori Tools - Application Modeler**](https://marketplace.visualstudio.com/items?itemName=SAPSE.sap-ux-application-modeler-extension) | 173K | `1.20.0` | Allows you to access a visualization of the application… |
 | [**SAP Fiori Tools - XML Annotation Language Server**](https://marketplace.visualstudio.com/items?itemName=SAPSE.sap-ux-annotation-modeler-extension) | 173K | `1.20.0` | Allows you to access resources that help to define anno… |
 | [**SAP Fiori Tools - Guided Development**](https://marketplace.visualstudio.com/items?itemName=SAPSE.sap-ux-help-extension) | 168K | `1.20.0` | Allows you to access how-to guides and tutorials to imp… |
 | [**SAP Fiori Tools - Service Modeler**](https://marketplace.visualstudio.com/items?itemName=SAPSE.sap-ux-service-modeler-extension) | 167K | `1.20.0` | Allows you to visualize the OData service and its assoc… |
@@ -1267,7 +1331,8 @@
 > 🔗 [View on Marketplace](https://marketplace.visualstudio.com/publishers/SAPOSS)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**XML Toolkit**](https://marketplace.visualstudio.com/items?itemName=SAPOSS.xml-toolkit) | 224K | `1.2.1` | Language Support for XML |
+|:----------|:--------:|:-------:|:-----------|
+| [**XML Toolkit**](https://marketplace.visualstudio.com/items?itemName=SAPOSS.xml-toolkit) | 224K | `1.2.1` | Language Support for XML |
 | [**SAP Business Application Studio toolkit**](https://marketplace.visualstudio.com/items?itemName=SAPOSS.app-studio-toolkit) | 152K | `2.8.0` | Includes essential capabilities that will improve your… |
 | [**UI5 Language Assistant**](https://marketplace.visualstudio.com/items?itemName=SAPOSS.vscode-ui5-language-assistant) | 150K | `4.0.81` | Language Support For SAPUI5 |
 | [**Guided Answers extension by SAP**](https://marketplace.visualstudio.com/items?itemName=SAPOSS.sap-guided-answers-extension) | 141K | `1.32.20` | Access SAP Guided Answers through extension |
@@ -1281,7 +1346,8 @@
 > **SAP OS** — 1 extension(s) — **186K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/SAPOS)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Application Wizard**](https://marketplace.visualstudio.com/items?itemName=SAPOS.yeoman-ui) | 186K | `1.20.2` | Provides rich user experience for Yeoman generators. |
+|:----------|:--------:|:-------:|:-----------|
+| [**Application Wizard**](https://marketplace.visualstudio.com/items?itemName=SAPOS.yeoman-ui) | 186K | `1.20.2` | Provides rich user experience for Yeoman generators. |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -1305,7 +1371,8 @@
 > 🔗 [View on Marketplace](https://marketplace.visualstudio.com/publishers/stmicroelectronics)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**STM32CubeIDE for Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=stmicroelectronics.stm32-vscode-extension) | 162K | `3.6.4` | STM32 embedded development support added to Visual Stud… |
+|:----------|:--------:|:-------:|:-----------|
+| [**STM32CubeIDE for Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=stmicroelectronics.stm32-vscode-extension) | 162K | `3.6.4` | STM32 embedded development support added to Visual Stud… |
 | [**STM32Cube CMake Support**](https://marketplace.visualstudio.com/items?itemName=stmicroelectronics.stm32cube-ide-build-cmake) | 44K | `1.42.2` | Provides CMake awareness to STM32Cube projects |
 | [**STM32Cube Debug Core**](https://marketplace.visualstudio.com/items?itemName=stmicroelectronics.stm32cube-ide-debug-core) | 41K | `1.0.3` | Debug core features in STM32Cube context |
 | [**STM32Cube Debug STLink GDB Server**](https://marketplace.visualstudio.com/items?itemName=stmicroelectronics.stm32cube-ide-debug-stlink-gdbserver) | 41K | `1.0.2` | Debug for STLink GDB server |
@@ -1342,7 +1409,8 @@
 > 🔗 [View on Marketplace](https://marketplace.visualstudio.com/publishers/GitHub)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**GitHub Copilot**](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) | 62.4M | `1.388.0` | Your AI pair programmer |
+|:----------|:--------:|:-------:|:-----------|
+| [**GitHub Copilot**](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) | 62.4M | `1.388.0` | Your AI pair programmer |
 | [**GitHub Copilot Chat**](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat) | 51.6M | `0.35.2025120501` | AI chat features powered by Copilot |
 | [**GitHub Pull Requests**](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github) | 31.5M | `0.123.2025120517` | Pull Request and Issue Provider for GitHub |
 | [**GitHub Theme**](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme) | 17.7M | `6.3.5` | GitHub theme for VS Code |
@@ -1376,7 +1444,8 @@
 > 🔗 [View on Marketplace](https://marketplace.visualstudio.com/publishers/IBM)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Output Colorizer**](https://marketplace.visualstudio.com/items?itemName=IBM.output-colorizer) | 1.5M | `0.1.2` | Syntax highlighting for log files |
+|:----------|:--------:|:-------:|:-----------|
+| [**Output Colorizer**](https://marketplace.visualstudio.com/items?itemName=IBM.output-colorizer) | 1.5M | `0.1.2` | Syntax highlighting for log files |
 | [**IBM Db2 for z/OS Developer Extension**](https://marketplace.visualstudio.com/items?itemName=IBM.db2forzosdeveloperextension) | 313K | `2.2.4` | Provides support for developing IBM Db2 for z/OS SQL ap… |
 | [**IBM Z Open Editor**](https://marketplace.visualstudio.com/items?itemName=IBM.zopeneditor) | 166K | `6.2.0` | Provides COBOL, PL/I, HLASM, and REXX language servers,… |
 | [**IBM Cloud Account**](https://marketplace.visualstudio.com/items?itemName=IBM.ibmcloud-account) | 82K | `1.0.6` | The IBM Cloud account extension for Visual Studio Code… |
@@ -1410,7 +1479,8 @@
 > 🔗 [View on Marketplace](https://marketplace.visualstudio.com/publishers/Tyriar)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Sort lines**](https://marketplace.visualstudio.com/items?itemName=Tyriar.sort-lines) | 1.1M | `1.12.0` | Sorts lines of text |
+|:----------|:--------:|:-------:|:-----------|
+| [**Sort lines**](https://marketplace.visualstudio.com/items?itemName=Tyriar.sort-lines) | 1.1M | `1.12.0` | Sorts lines of text |
 | [**Lorem ipsum**](https://marketplace.visualstudio.com/items?itemName=Tyriar.lorem-ipsum) | 1M | `1.3.1` | Generates and inserts lorem ipsum text |
 | [**Luna Paint — Image Editor**](https://marketplace.visualstudio.com/items?itemName=Tyriar.luna-paint) | 303K | `0.17.0` | Edit images in VS Code! Supports png, jpg, webp, bmp, t… |
 | [**Shell launcher**](https://marketplace.visualstudio.com/items?itemName=Tyriar.shell-launcher) | 173K | `0.4.1` | Easily launch multiple shell configurations in the term… |
@@ -1442,7 +1512,8 @@
 > 🔗 [View on Marketplace](https://marketplace.visualstudio.com/publishers/Arm)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Arm Tools Environment Manager**](https://marketplace.visualstudio.com/items?itemName=Arm.environment-manager) | 146K | `1.22.0` | Download, activate and license tools through declarativ… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Arm Tools Environment Manager**](https://marketplace.visualstudio.com/items?itemName=Arm.environment-manager) | 146K | `1.22.0` | Download, activate and license tools through declarativ… |
 | [**Arm CMSIS Solution**](https://marketplace.visualstudio.com/items?itemName=Arm.cmsis-csolution) | 127K | `1.62.1` | Create embedded and IoT projects for Arm Cortex-M based… |
 | [**Arm Keil Studio Pack (MDK v6)**](https://marketplace.visualstudio.com/items?itemName=Arm.keil-studio-pack) | 120K | `1.20.0` | Create C/C++ embedded projects, flash them to Arm Corte… |
 | [**Arm Device Manager**](https://marketplace.visualstudio.com/items?itemName=Arm.device-manager) | 108K | `1.14.0` | Manages device connections and configuration for Arm Co… |
@@ -1474,7 +1545,8 @@
 > 🔗 [View on Marketplace](https://marketplace.visualstudio.com/publishers/TheQtCompany)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Qt Core**](https://marketplace.visualstudio.com/items?itemName=TheQtCompany.qt-core) | 151K | `1.11.0` | Qt Core |
+|:----------|:--------:|:-------:|:-----------|
+| [**Qt Core**](https://marketplace.visualstudio.com/items?itemName=TheQtCompany.qt-core) | 151K | `1.11.0` | Qt Core |
 | [**Qt Qml**](https://marketplace.visualstudio.com/items?itemName=TheQtCompany.qt-qml) | 122K | `1.11.0` | Qt Qml Support |
 | [**Qt C++**](https://marketplace.visualstudio.com/items?itemName=TheQtCompany.qt-cpp) | 121K | `1.11.0` | Qt C++ Support |
 | [**Qt UI**](https://marketplace.visualstudio.com/items?itemName=TheQtCompany.qt-ui) | 117K | `1.11.0` | Qt UI Support |
@@ -1504,7 +1576,8 @@
 > 🔗 [View on Marketplace](https://marketplace.visualstudio.com/publishers/Shopify)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Ruby LSP**](https://marketplace.visualstudio.com/items?itemName=Shopify.ruby-lsp) | 1.7M | `0.9.32` | VS Code plugin for connecting with the Ruby LSP |
+|:----------|:--------:|:-------:|:-----------|
+| [**Ruby LSP**](https://marketplace.visualstudio.com/items?itemName=Shopify.ruby-lsp) | 1.7M | `0.9.32` | VS Code plugin for connecting with the Ruby LSP |
 | [**Ruby**](https://marketplace.visualstudio.com/items?itemName=Shopify.ruby-extensions-pack) | 669K | `0.1.13` | An opinionated and auto-configured set of extensions fo… |
 | [**Polaris for VS Code**](https://marketplace.visualstudio.com/items?itemName=Shopify.polaris-for-vscode) | 517K | `0.9.8` | Polaris Design System VS Code extension |
 | [**Shopify Liquid**](https://marketplace.visualstudio.com/items?itemName=Shopify.theme-check-vscode) | 303K | `3.10.0` | A complete developer experience for Shopify themes |
@@ -1534,7 +1607,8 @@
 > 🔗 [View on Marketplace](https://marketplace.visualstudio.com/publishers/doggy8088)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Essential ASP.NET Core Snippets**](https://marketplace.visualstudio.com/items?itemName=doggy8088.netcore-snippets) | 363K | `6.0.3` | High quality Code Snippets that boost your ASP.NET Core… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Essential ASP.NET Core Snippets**](https://marketplace.visualstudio.com/items?itemName=doggy8088.netcore-snippets) | 363K | `6.0.3` | High quality Code Snippets that boost your ASP.NET Core… |
 | [**Paste JSON as Code (Refresh)**](https://marketplace.visualstudio.com/items?itemName=doggy8088.quicktype-refresh) | 331K | `1.0.2` | Copy JSON, paste as Go, TypeScript, C#, C++ and more. |
 | [**.NET Core Extension Pack**](https://marketplace.visualstudio.com/items?itemName=doggy8088.netcore-extension-pack) | 278K | `1.10.0` | Popular Visual Studio Code extensions for .NET Core Dev… |
 | [**Angular Extension Pack**](https://marketplace.visualstudio.com/items?itemName=doggy8088.angular-extension-pack) | 230K | `16.0.0` | Popular Visual Studio Code extensions for Angular Devel… |
@@ -1561,7 +1635,8 @@
 > **Elio Struyf** — 5 extension(s) — **253K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/eliostruyf)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**SPFx Debug Configuration**](https://marketplace.visualstudio.com/items?itemName=eliostruyf.spfx-debug) | 69K | `0.0.3` | Debug configuration extension for SharePoint Framework… |
+|:----------|:--------:|:-------:|:-----------|
+| [**SPFx Debug Configuration**](https://marketplace.visualstudio.com/items?itemName=eliostruyf.spfx-debug) | 69K | `0.0.3` | Debug configuration extension for SharePoint Framework… |
 | [**Front Matter CMS**](https://marketplace.visualstudio.com/items?itemName=eliostruyf.vscode-front-matter) | 67K | `10.9.0` | Front Matter is a CMS that runs within Visual Studio Co… |
 | [**Hide Comments**](https://marketplace.visualstudio.com/items?itemName=eliostruyf.vscode-hide-comments) | 44K | `1.10.0` | VSCode extension for people that do not like to see com… |
 | [**TypeScript Barrel Generator**](https://marketplace.visualstudio.com/items?itemName=eliostruyf.vscode-typescript-exportallmodules) | 43K | `2.13.0` | VSCode extension which generates a barrel 'index.ts' fi… |
@@ -1586,7 +1661,8 @@
 > **Analytic Signal Limited** — 5 extension(s) — **712K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/analytic-signal)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**PDF Preview**](https://marketplace.visualstudio.com/items?itemName=analytic-signal.preview-pdf) | 311K | `1.0.0` | Preview Portable Document Format (.pdf) files in VSCode |
+|:----------|:--------:|:-------:|:-----------|
+| [**PDF Preview**](https://marketplace.visualstudio.com/items?itemName=analytic-signal.preview-pdf) | 311K | `1.0.0` | Preview Portable Document Format (.pdf) files in VSCode |
 | [**MPEG-4 Preview**](https://marketplace.visualstudio.com/items?itemName=analytic-signal.preview-mp4) | 149K | `0.0.1` | Preview MPEG-4 (.mp4) video files in VSCode. |
 | [**HTML Preview**](https://marketplace.visualstudio.com/items?itemName=analytic-signal.preview-html) | 128K | `1.0.0` | Preview Hyper Text Markup Language (.html) and Scalable… |
 | [**TIFF Preview**](https://marketplace.visualstudio.com/items?itemName=analytic-signal.preview-tiff) | 77K | `1.0.1` | Preview TIFF (.tiff) files in VSCode |
@@ -1611,7 +1687,8 @@
 > **Nordic Semiconductor** — 5 extension(s) — **918K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/nordic-semiconductor)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**nRF DeviceTree**](https://marketplace.visualstudio.com/items?itemName=nordic-semiconductor.nrf-devicetree) | 199K | `2025.8.140` | Full DeviceTree language support for the Zephyr project |
+|:----------|:--------:|:-------:|:-----------|
+| [**nRF DeviceTree**](https://marketplace.visualstudio.com/items?itemName=nordic-semiconductor.nrf-devicetree) | 199K | `2025.8.140` | Full DeviceTree language support for the Zephyr project |
 | [**nRF Connect for VS Code**](https://marketplace.visualstudio.com/items?itemName=nordic-semiconductor.nrf-connect) | 196K | `2025.9.798` | Develop applications based on nRF Connect SDK with ease… |
 | [**nRF Kconfig**](https://marketplace.visualstudio.com/items?itemName=nordic-semiconductor.nrf-kconfig) | 195K | `2025.9.123` | Kconfig language support for the Zephyr Project |
 | [**nRF Terminal**](https://marketplace.visualstudio.com/items?itemName=nordic-semiconductor.nrf-terminal) | 193K | `2025.8.103` | A serial terminal for VS Code |
@@ -1636,7 +1713,8 @@
 > **Manuel Gil** — 5 extension(s) — **233K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/imgildev)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Auto Barrel for VSCode**](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-auto-barrel) | 65K | `1.19.0` | 🛢️ Automatically generate index files for your project… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Auto Barrel for VSCode**](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-auto-barrel) | 65K | `1.19.0` | 🛢️ Automatically generate index files for your project… |
 | [**JSON Flow**](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-json-flow) | 49K | `2.2.1` | Visualize, convert, and manage JSON/YAML/XML/CSV as int… |
 | [**T3 Stack / Next.js / React File Generator**](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-nextjs-generator) | 43K | `2.8.0` | ⚛ Generate boilerplate files for Next.js, React, Prisma… |
 | [**Mustache Templates - Syntax Highlighting, Snippets & Autocomplete**](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-mustache-snippets) | 40K | `2.8.0` | Advanced Mustache template engine support for VS Code:… |
@@ -1661,7 +1739,8 @@
 > **Particle** — 4 extension(s) — **361K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/particle)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Workbench Themes**](https://marketplace.visualstudio.com/items?itemName=particle.particle-vscode-theme) | 127K | `1.16.43` | (Subcomponent) Dark and light themes for Workbench. |
+|:----------|:--------:|:-------:|:-----------|
+| [**Workbench Themes**](https://marketplace.visualstudio.com/items?itemName=particle.particle-vscode-theme) | 127K | `1.16.43` | (Subcomponent) Dark and light themes for Workbench. |
 | [**Workbench Core**](https://marketplace.visualstudio.com/items?itemName=particle.particle-vscode-core) | 80K | `1.16.43` | (Subcomponent) Development environment for Workbench. |
 | [**Workbench Snippets**](https://marketplace.visualstudio.com/items?itemName=particle.particle-vscode-snippets) | 78K | `1.16.43` | (Subcomponent) Code snippets for Workbench. |
 | [**Workbench**](https://marketplace.visualstudio.com/items?itemName=particle.particle-vscode-pack) | 76K | `1.16.43` | Everything you need to build, debug, and deploy to Part… |
@@ -1685,7 +1764,8 @@
 > **Google** — 4 extension(s) — **2.9M total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/Google)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Gemini Code Assist**](https://marketplace.visualstudio.com/items?itemName=Google.geminicodeassist) | 2.3M | `2.59.0` | AI-assisted development powered by Gemini |
+|:----------|:--------:|:-------:|:-----------|
+| [**Gemini Code Assist**](https://marketplace.visualstudio.com/items?itemName=Google.geminicodeassist) | 2.3M | `2.59.0` | AI-assisted development powered by Gemini |
 | [**Gemini CLI Companion**](https://marketplace.visualstudio.com/items?itemName=Google.gemini-cli-vscode-ide-companion) | 373K | `0.19.0` | Enable Gemini CLI with direct access to your IDE worksp… |
 | [**ARB Editor**](https://marketplace.visualstudio.com/items?itemName=Google.arb-editor) | 84K | `0.2.1` | Editor for Application Resource Bundle files, used for… |
 | [**Colab**](https://marketplace.visualstudio.com/items?itemName=Google.colab) | 77K | `0.1.1` | Connect notebooks to Colab servers. |
@@ -1709,7 +1789,8 @@
 > **Oracle Corporation** — 4 extension(s) — **5.6M total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/Oracle)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Java**](https://marketplace.visualstudio.com/items?itemName=Oracle.oracle-java) | 4.6M | `24.1.2` | Java Platform Extension for Visual Studio Code |
+|:----------|:--------:|:-------:|:-----------|
+| [**Java**](https://marketplace.visualstudio.com/items?itemName=Oracle.oracle-java) | 4.6M | `24.1.2` | Java Platform Extension for Visual Studio Code |
 | [**Oracle SQL Developer Extension for VSCode**](https://marketplace.visualstudio.com/items?itemName=Oracle.sql-developer) | 648K | `25.3.2` | End-to-end development tools for your SQL and PL/SQL ap… |
 | [**MySQL Shell for VS Code**](https://marketplace.visualstudio.com/items?itemName=Oracle.mysql-shell-for-vs-code) | 371K | `1.19.19` | The power of MySQL Shell as part of your VS Code workfl… |
 | [**SuiteCloud Extension for Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=Oracle.suitecloud-vscode-extension) | 36K | `3.0.0` | Develop and deploy SuiteCloud Projects with SuiteCloud… |
@@ -1733,7 +1814,8 @@
 > **VMware** — 4 extension(s) — **10.6M total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/vmware)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Spring Boot Tools**](https://marketplace.visualstudio.com/items?itemName=vmware.vscode-spring-boot) | 4.9M | `2.0.2025120408` | Provides validation and content assist for Spring Boot… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Spring Boot Tools**](https://marketplace.visualstudio.com/items?itemName=vmware.vscode-spring-boot) | 4.9M | `2.0.2025120408` | Provides validation and content assist for Spring Boot… |
 | [**Spring Boot Extension Pack**](https://marketplace.visualstudio.com/items?itemName=vmware.vscode-boot-dev-pack) | 3.8M | `0.2.2` | A collection of extensions for developing Spring Boot a… |
 | [**Cloudfoundry Manifest YML Support**](https://marketplace.visualstudio.com/items?itemName=vmware.vscode-manifest-yaml) | 980K | `2.0.2025120408` | Adds linting, content assist and hoverinfo's for Cloudf… |
 | [**Concourse CI Pipeline Editor**](https://marketplace.visualstudio.com/items?itemName=vmware.vscode-concourse) | 922K | `2.0.2025120408` | Provides validation and content assist for Concourse CI… |
@@ -1757,7 +1839,8 @@
 > **Loiane Groner** — 4 extension(s) — **869K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/loiane)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Angular Extension Pack**](https://marketplace.visualstudio.com/items?itemName=loiane.angular-extension-pack) | 466K | `1.1.2` | Some of the most popular (and some I find very useful)… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Angular Extension Pack**](https://marketplace.visualstudio.com/items?itemName=loiane.angular-extension-pack) | 466K | `1.1.2` | Some of the most popular (and some I find very useful)… |
 | [**TypeScript Extension Pack**](https://marketplace.visualstudio.com/items?itemName=loiane.ts-extension-pack) | 223K | `0.3.0` | This extension contains some of the most popular (and s… |
 | [**Extension Pack for Java + Spring**](https://marketplace.visualstudio.com/items?itemName=loiane.java-spring-extension-pack) | 137K | `0.2.3` | Some of the most popular and useful Java and Spring ext… |
 | [**Front-End Extension Pack**](https://marketplace.visualstudio.com/items?itemName=loiane.frontend-extension-pack) | 43K | `0.0.1` | Some of the most popular (and some I find very useful)… |
@@ -1781,7 +1864,8 @@
 > **DEVSENSE** — 4 extension(s) — **22.3M total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/DEVSENSE)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**PHP**](https://marketplace.visualstudio.com/items?itemName=DEVSENSE.phptools-vscode) | 6.1M | `1.63.18172` | All-in-One PHP support - IntelliSense, Debug, Formatter… |
+|:----------|:--------:|:-------:|:-----------|
+| [**PHP**](https://marketplace.visualstudio.com/items?itemName=DEVSENSE.phptools-vscode) | 6.1M | `1.63.18172` | All-in-One PHP support - IntelliSense, Debug, Formatter… |
 | [**Composer**](https://marketplace.visualstudio.com/items?itemName=DEVSENSE.composer-php-vscode) | 5.7M | `1.63.18172` | All-in-One composer integration, quick actions, command… |
 | [**PHP Profiler**](https://marketplace.visualstudio.com/items?itemName=DEVSENSE.profiler-php-vscode) | 5.6M | `1.63.18172` | Support for PHP (Xdebug) profiling files and inspecting… |
 | [**IntelliPHP - AI Autocomplete for PHP**](https://marketplace.visualstudio.com/items?itemName=DEVSENSE.intelli-php-vscode) | 5M | `0.12.17700` | AI-assisted development for PHP. |
@@ -1805,7 +1889,8 @@
 > **Broadcom** — 4 extension(s) — **273K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/broadcomMFD)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Debugger for Mainframe**](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.debugger-for-mainframe) | 148K | `1.13.2` | Code4z debugging extension for CICS and Batch applicati… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Debugger for Mainframe**](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.debugger-for-mainframe) | 148K | `1.13.2` | Code4z debugging extension for CICS and Batch applicati… |
 | [**COBOL Language Support**](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.cobol-language-support) | 68K | `2.4.3` | Code4z rich language support extension for COBOL code a… |
 | [**COBOL Control Flow**](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.ccf) | 29K | `1.2.2` | Code4z graphical visualization extension for COBOL prog… |
 | [**HLASM Language Support**](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.hlasm-language-support) | 28K | `1.20.0` | Code4z rich language support and macro tracing extensio… |
@@ -1829,7 +1914,8 @@
 > **Wallaby.js** — 3 extension(s) — **5.8M total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/WallabyJs)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Quokka.js**](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode) | 4.1M | `1.0.749` | JavaScript and TypeScript playground in your editor. |
+|:----------|:--------:|:-------:|:-----------|
+| [**Quokka.js**](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode) | 4.1M | `1.0.749` | JavaScript and TypeScript playground in your editor. |
 | [**Console Ninja**](https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja) | 1.3M | `1.0.500` | JavaScript console.log output and runtime errors right… |
 | [**Wallaby.js**](https://marketplace.visualstudio.com/items?itemName=WallabyJs.wallaby-vscode) | 304K | `1.0.482` | Test Runner with Instant Actionable Results. |
 
@@ -1852,7 +1938,8 @@
 > **Ember Tooling** — 3 extension(s) — **138K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/EmberTooling)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Ember Cli in Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=EmberTooling.vsc-ember-cli) | 58K | `0.3.3` | Turn Visual Studio Code into an Ember Cli IDE |
+|:----------|:--------:|:-------:|:-----------|
+| [**Ember Cli in Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=EmberTooling.vsc-ember-cli) | 58K | `0.3.3` | Turn Visual Studio Code into an Ember Cli IDE |
 | [**Prettier for Handlebars**](https://marketplace.visualstudio.com/items?itemName=EmberTooling.prettier-for-handlebars-vscode) | 48K | `3.0.0` | Prettier formatting for Handlebars files - Clone of han… |
 | [**Ember Language Server**](https://marketplace.visualstudio.com/items?itemName=EmberTooling.vscode-ember) | 33K | `3.0.66` | Provides features like auto complete, goto definition a… |
 
@@ -1875,7 +1962,8 @@
 > **Gitpod** — 3 extension(s) — **1.5M total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/gitpod)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Gitpod Classic Remote**](https://marketplace.visualstudio.com/items?itemName=gitpod.gitpod-remote-ssh) | 1.1M | `0.0.59` | Auto-installed within Classic workspaces, required to p… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Gitpod Classic Remote**](https://marketplace.visualstudio.com/items?itemName=gitpod.gitpod-remote-ssh) | 1.1M | `0.0.59` | Auto-installed within Classic workspaces, required to p… |
 | [**Gitpod Classic**](https://marketplace.visualstudio.com/items?itemName=gitpod.gitpod-desktop) | 327K | `0.1.2025061709` | Required to connect to Classic workspaces |
 | [**Gitpod Theme**](https://marketplace.visualstudio.com/items?itemName=gitpod.gitpod-theme) | 58K | `0.0.2` | Gitpod Theme for VS Code |
 
@@ -1898,7 +1986,8 @@
 > **CL** — 3 extension(s) — **598K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/CL)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Keil Assistant**](https://marketplace.visualstudio.com/items?itemName=CL.keil-assistant) | 347K | `1.7.0` | An assistant for Keil uVision |
+|:----------|:--------:|:-------:|:-----------|
+| [**Keil Assistant**](https://marketplace.visualstudio.com/items?itemName=CL.keil-assistant) | 347K | `1.7.0` | An assistant for Keil uVision |
 | [**Embedded IDE**](https://marketplace.visualstudio.com/items?itemName=CL.eide) | 221K | `3.26.1` | A mcu development environment for 8051/AVR/STM8/Cortex-… |
 | [**STM8 Debugger**](https://marketplace.visualstudio.com/items?itemName=CL.stm8-debug) | 31K | `1.4.1` | STM8 Debugger for vscode |
 
@@ -1921,7 +2010,8 @@
 > **GraphQL Foundation** — 3 extension(s) — **5.1M total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/GraphQL)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**GraphQL: Language Feature Support**](https://marketplace.visualstudio.com/items?itemName=GraphQL.vscode-graphql) | 2.6M | `0.13.2` | GraphQL LSP extension that adds autocompletion, validat… |
+|:----------|:--------:|:-------:|:-----------|
+| [**GraphQL: Language Feature Support**](https://marketplace.visualstudio.com/items?itemName=GraphQL.vscode-graphql) | 2.6M | `0.13.2` | GraphQL LSP extension that adds autocompletion, validat… |
 | [**GraphQL: Syntax Highlighting**](https://marketplace.visualstudio.com/items?itemName=GraphQL.vscode-graphql-syntax) | 2.3M | `1.3.8` | Adds syntax highlighting support for .graphql & embedde… |
 | [**GraphQL: Inline Operation Execution**](https://marketplace.visualstudio.com/items?itemName=GraphQL.vscode-graphql-execution) | 269K | `0.3.2` | Execute graphql operations from your code (revived!) |
 
@@ -1944,7 +2034,8 @@
 > **HashiCorp** — 3 extension(s) — **6.4M total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/HashiCorp)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**HashiCorp Terraform**](https://marketplace.visualstudio.com/items?itemName=HashiCorp.terraform) | 5.8M | `2.37.2025092217` | Syntax highlighting and autocompletion for Terraform |
+|:----------|:--------:|:-------:|:-----------|
+| [**HashiCorp Terraform**](https://marketplace.visualstudio.com/items?itemName=HashiCorp.terraform) | 5.8M | `2.37.2025092217` | Syntax highlighting and autocompletion for Terraform |
 | [**HashiCorp HCL**](https://marketplace.visualstudio.com/items?itemName=HashiCorp.HCL) | 554K | `0.6.0` | HashiCorp HCL syntax |
 | [**HashiCorp Sentinel**](https://marketplace.visualstudio.com/items?itemName=HashiCorp.sentinel) | 31K | `0.3.0` | Syntax highlighting for HashiCorp Sentinel |
 
@@ -1967,7 +2058,8 @@
 > **Henning Dieterichs** — 3 extension(s) — **3.8M total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/hediet)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Draw.io Integration**](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio) | 3.4M | `1.9.250226013` | This unofficial extension integrates Draw.io into VS Co… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Draw.io Integration**](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio) | 3.4M | `1.9.250226013` | This unofficial extension integrates Draw.io into VS Co… |
 | [**Debug Visualizer**](https://marketplace.visualstudio.com/items?itemName=hediet.debug-visualizer) | 294K | `2.4.0` | A visual watch window that lets you visualize your data… |
 | [**Draw.io Integration - Insiders Build**](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio-insiders-build) | 57K | `1.6.606` | This is the unstable Insiders Build |
 
@@ -1990,7 +2082,8 @@
 > **Sourcegraph** — 3 extension(s) — **951K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/sourcegraph)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Cody: AI Code Assistant**](https://marketplace.visualstudio.com/items?itemName=sourcegraph.cody-ai) | 769K | `1.131.1763064690` | Sourcegraph’s AI code assistant goes beyond individual… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Cody: AI Code Assistant**](https://marketplace.visualstudio.com/items?itemName=sourcegraph.cody-ai) | 769K | `1.131.1763064690` | Sourcegraph’s AI code assistant goes beyond individual… |
 | [**Search by Sourcegraph**](https://marketplace.visualstudio.com/items?itemName=sourcegraph.sourcegraph) | 113K | `2.4.0` | Search all of your repositories across all branches and… |
 | [**Amp (Research Preview)**](https://marketplace.visualstudio.com/items?itemName=sourcegraph.amp) | 70K | `0.0.1764950983` | The frontier coding agent, with a highly capable 'smart… |
 
@@ -2013,7 +2106,8 @@
 > **Stripe** — 3 extension(s) — **274K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/Stripe)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Stripe**](https://marketplace.visualstudio.com/items?itemName=Stripe.vscode-stripe) | 149K | `3.8.6` | Build, test, and use Stripe inside your editor. |
+|:----------|:--------:|:-------:|:-----------|
+| [**Stripe**](https://marketplace.visualstudio.com/items?itemName=Stripe.vscode-stripe) | 149K | `3.8.6` | Build, test, and use Stripe inside your editor. |
 | [**Markdoc language support**](https://marketplace.visualstudio.com/items?itemName=Stripe.markdoc-language-support) | 74K | `0.0.13` | A Markdoc language server and Visual Studio Code extens… |
 | [**Endsmart**](https://marketplace.visualstudio.com/items?itemName=Stripe.endsmart) | 51K | `0.1.1` | A modern version of endwise that relies on more recent… |
 
@@ -2036,7 +2130,8 @@
 > **cipchk** — 3 extension(s) — **866K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/cipchk)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**px to rem & rpx & vw (cssrem)**](https://marketplace.visualstudio.com/items?itemName=cipchk.cssrem) | 775K | `4.1.1` | Converts between px and rem & rpx & vw units in VSCode |
+|:----------|:--------:|:-------:|:-----------|
+| [**px to rem & rpx & vw (cssrem)**](https://marketplace.visualstudio.com/items?itemName=cipchk.cssrem) | 775K | `4.1.1` | Converts between px and rem & rpx & vw units in VSCode |
 | [**NG-ZORRO Snippets**](https://marketplace.visualstudio.com/items?itemName=cipchk.ng-zorro-vscode) | 61K | `20.0.3` | Snippets based on NG-ZORRO |
 | [**NG-ALAIN Snippets**](https://marketplace.visualstudio.com/items?itemName=cipchk.ng-alain-vscode) | 30K | `17.0.0` | Snippets based on NG-ALAIN |
 
@@ -2059,7 +2154,8 @@
 > **LeXtudio Inc.** — 3 extension(s) — **817K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/lextudio)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**reStructuredText**](https://marketplace.visualstudio.com/items?itemName=lextudio.restructuredtext) | 721K | `190.4.11` | reStructuredText language support (RST/ReST linter, pre… |
+|:----------|:--------:|:-------:|:-----------|
+| [**reStructuredText**](https://marketplace.visualstudio.com/items?itemName=lextudio.restructuredtext) | 721K | `190.4.11` | reStructuredText language support (RST/ReST linter, pre… |
 | [**IIS and IIS Express extension for Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=lextudio.iis) | 48K | `1.0.15` | IIS and IIS Express extension for Visual Studio Code. Q… |
 | [**Extension Pack for reStructuredText**](https://marketplace.visualstudio.com/items?itemName=lextudio.restructuredtext-pack) | 48K | `1.0.3` | Popular extensions for reStructuredText authoring that… |
 
@@ -2082,7 +2178,8 @@
 > **Catppuccin** — 3 extension(s) — **1.4M total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/Catppuccin)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Catppuccin for VSCode**](https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc) | 959K | `3.18.1` | 🦌 Soothing pastel theme for VSCode |
+|:----------|:--------:|:-------:|:-----------|
+| [**Catppuccin for VSCode**](https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc) | 959K | `3.18.1` | 🦌 Soothing pastel theme for VSCode |
 | [**Catppuccin Icons for VSCode**](https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc-icons) | 429K | `1.26.0` | 🦊 Soothing pastel icon theme for VSCode |
 | [**Catppuccin Pack**](https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc-pack) | 35K | `1.0.2` | Soothing pastel theme pack for VSCode |
 
@@ -2105,7 +2202,8 @@
 > **LLVM** — 3 extension(s) — **2.6M total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/llvm-vs-code-extensions)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**clangd**](https://marketplace.visualstudio.com/items?itemName=llvm-vs-code-extensions.vscode-clangd) | 2.3M | `0.3.2` | C/C++ completion, navigation, and insights |
+|:----------|:--------:|:-------:|:-----------|
+| [**clangd**](https://marketplace.visualstudio.com/items?itemName=llvm-vs-code-extensions.vscode-clangd) | 2.3M | `0.3.2` | C/C++ completion, navigation, and insights |
 | [**LLDB DAP**](https://marketplace.visualstudio.com/items?itemName=llvm-vs-code-extensions.lldb-dap) | 320K | `0.3.20251205` | Debugging with LLDB in Visual Studio Code |
 | [**MLIR**](https://marketplace.visualstudio.com/items?itemName=llvm-vs-code-extensions.vscode-mlir) | 37K | `0.0.11` | MLIR Language Extension |
 
@@ -2128,7 +2226,8 @@
 > **Telerik** — 2 extension(s) — **56K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/TelerikInc)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Telerik UI for ASP.NET Core Productivity Tools**](https://marketplace.visualstudio.com/items?itemName=TelerikInc.aspnetcoretemplatewizard) | 28K | `2.22.2` | Progress® Telerik® UI for ASP.NET Core Productivity Too… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Telerik UI for ASP.NET Core Productivity Tools**](https://marketplace.visualstudio.com/items?itemName=TelerikInc.aspnetcoretemplatewizard) | 28K | `2.22.2` | Progress® Telerik® UI for ASP.NET Core Productivity Too… |
 | [**Telerik UI for Blazor Productivity Tools**](https://marketplace.visualstudio.com/items?itemName=TelerikInc.blazortemplatewizard) | 28K | `2.21.2` | Progress® Telerik® UI for Blazor Productivity Tools is… |
 
 
@@ -2137,7 +2236,8 @@
 > **Kendo UI** — 1 extension(s) — **28K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/KendoUI)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Kendo UI Productivity Tools**](https://marketplace.visualstudio.com/items?itemName=KendoUI.kendotemplatewizard) | 28K | `2.24.2` | This extension allows you to quickly scaffold apps buil… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Kendo UI Productivity Tools**](https://marketplace.visualstudio.com/items?itemName=KendoUI.kendotemplatewizard) | 28K | `2.24.2` | This extension allows you to quickly scaffold apps buil… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -2158,7 +2258,8 @@
 > **Prisma** — 2 extension(s) — **3.1M total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/Prisma)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Prisma**](https://marketplace.visualstudio.com/items?itemName=Prisma.prisma) | 2.9M | `31.1.0` | Adds syntax highlighting, formatting, auto-completion,… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Prisma**](https://marketplace.visualstudio.com/items?itemName=Prisma.prisma) | 2.9M | `31.1.0` | Adds syntax highlighting, formatting, auto-completion,… |
 | [**Prisma - Insider**](https://marketplace.visualstudio.com/items?itemName=Prisma.prisma-insider) | 199K | `31.1.4` | This is the Insider Build of the Prisma VS Code extensi… |
 
 
@@ -2180,7 +2281,8 @@
 > **Daniel Biehl** — 2 extension(s) — **308K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/d-biehl)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**RobotCode - Robot Framework Support**](https://marketplace.visualstudio.com/items?itemName=d-biehl.robotcode) | 277K | `2.1.0` | Robot Framework IntelliSense, linting, test execution a… |
+|:----------|:--------:|:-------:|:-----------|
+| [**RobotCode - Robot Framework Support**](https://marketplace.visualstudio.com/items?itemName=d-biehl.robotcode) | 277K | `2.1.0` | Robot Framework IntelliSense, linting, test execution a… |
 | [**RobotCode GherkinParser Support**](https://marketplace.visualstudio.com/items?itemName=d-biehl.robotcode-gherkin) | 31K | `0.3.2` | GherkinParser Support for RobotCode and Robot Framework |
 
 
@@ -2202,7 +2304,8 @@
 > **Expo** — 2 extension(s) — **518K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/expo)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Expo Tools**](https://marketplace.visualstudio.com/items?itemName=expo.vscode-expo-tools) | 484K | `1.6.1` | Expo for VS Code keeps you productive with debugging, I… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Expo Tools**](https://marketplace.visualstudio.com/items?itemName=expo.vscode-expo-tools) | 484K | `1.6.1` | Expo for VS Code keeps you productive with debugging, I… |
 | [**Expo Theme**](https://marketplace.visualstudio.com/items?itemName=expo.vscode-expo-theme) | 34K | `1.4.1` | Expo-inspired editor and syntax theme. |
 
 
@@ -2224,7 +2327,8 @@
 > **VEX Robotics** — 2 extension(s) — **98K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/VEXRobotics)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**VEX Robotics**](https://marketplace.visualstudio.com/items?itemName=VEXRobotics.vexcode) | 51K | `0.8.2025120100` | The VEX Extension allows for software development on VE… |
+|:----------|:--------:|:-------:|:-----------|
+| [**VEX Robotics**](https://marketplace.visualstudio.com/items?itemName=VEXRobotics.vexcode) | 51K | `0.8.2025120100` | The VEX Extension allows for software development on VE… |
 | [**VEX Robotics Feedback**](https://marketplace.visualstudio.com/items?itemName=VEXRobotics.vexfeedback) | 47K | `0.2.6` | The VEX feedback extension allows users to submit sugge… |
 
 
@@ -2246,7 +2350,8 @@
 > **BLACKBOXAI** — 2 extension(s) — **6.7M total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/Blackboxapp)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**BLACKBOXAI #1 AI Coding Agent and Coding Copilot**](https://marketplace.visualstudio.com/items?itemName=Blackboxapp.blackbox) | 4.6M | `2.8.51` | BLACKBOX AI is an AI coding assistant that helps develo… |
+|:----------|:--------:|:-------:|:-----------|
+| [**BLACKBOXAI #1 AI Coding Agent and Coding Copilot**](https://marketplace.visualstudio.com/items?itemName=Blackboxapp.blackbox) | 4.6M | `2.8.51` | BLACKBOX AI is an AI coding assistant that helps develo… |
 | [**BLACKBOXAI Agent - Coding Copilot**](https://marketplace.visualstudio.com/items?itemName=Blackboxapp.blackboxagent) | 2.1M | `3.5.34` | Autonomous coding agent right in your IDE, capable of c… |
 
 
@@ -2268,7 +2373,8 @@
 > **Xdebug** — 2 extension(s) — **20.7M total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/xdebug)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**PHP Debug**](https://marketplace.visualstudio.com/items?itemName=xdebug.php-debug) | 14.6M | `1.38.2` | Debug support for PHP with Xdebug |
+|:----------|:--------:|:-------:|:-----------|
+| [**PHP Debug**](https://marketplace.visualstudio.com/items?itemName=xdebug.php-debug) | 14.6M | `1.38.2` | Debug support for PHP with Xdebug |
 | [**PHP Extension Pack**](https://marketplace.visualstudio.com/items?itemName=xdebug.php-pack) | 6.1M | `1.0.3` | Everything you need for PHP development |
 
 
@@ -2290,7 +2396,8 @@
 > **Google Cloud** — 2 extension(s) — **1.9M total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/GoogleCloudTools)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Google Cloud Code**](https://marketplace.visualstudio.com/items?itemName=GoogleCloudTools.cloudcode) | 1.8M | `2.37.0` | Tools for Google Cloud |
+|:----------|:--------:|:-------:|:-----------|
+| [**Google Cloud Code**](https://marketplace.visualstudio.com/items?itemName=GoogleCloudTools.cloudcode) | 1.8M | `2.37.0` | Tools for Google Cloud |
 | [**Firebase Data Connect**](https://marketplace.visualstudio.com/items?itemName=GoogleCloudTools.firebase-dataconnect-vscode) | 29K | `1.10.1` | Firebase Data Connect for VSCode |
 
 
@@ -2312,7 +2419,8 @@
 > **Yummygum** — 2 extension(s) — **486K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/Yummygum)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**City Lights theme**](https://marketplace.visualstudio.com/items?itemName=Yummygum.city-lights-theme) | 302K | `1.1.9` | The City Lights Color Theme is a gorgeous dark color th… |
+|:----------|:--------:|:-------:|:-----------|
+| [**City Lights theme**](https://marketplace.visualstudio.com/items?itemName=Yummygum.city-lights-theme) | 302K | `1.1.9` | The City Lights Color Theme is a gorgeous dark color th… |
 | [**City Lights Icon package**](https://marketplace.visualstudio.com/items?itemName=Yummygum.city-lights-icon-vsc) | 184K | `1.1.3` | The City Lights icon pack is a gorgeous set of icons wh… |
 
 
@@ -2334,7 +2442,8 @@
 > **NVIDIA** — 2 extension(s) — **267K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/NVIDIA)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Nsight Visual Studio Code Edition**](https://marketplace.visualstudio.com/items?itemName=NVIDIA.nsight-vscode-edition) | 232K | `2025.1.36067579` | CUDA development and debugging support for VS Code |
+|:----------|:--------:|:-------:|:-----------|
+| [**Nsight Visual Studio Code Edition**](https://marketplace.visualstudio.com/items?itemName=NVIDIA.nsight-vscode-edition) | 232K | `2025.1.36067579` | CUDA development and debugging support for VS Code |
 | [**Blue Bazel**](https://marketplace.visualstudio.com/items?itemName=NVIDIA.bluebazel) | 35K | `1.0.7` | Bazel vscode UI integration to build, debug, and test t… |
 
 
@@ -2356,7 +2465,8 @@
 > **TabNine** — 2 extension(s) — **9.5M total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/TabNine)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Tabnine: AI Chat & Autocomplete for JavaScript, Python, Typescript, Java, PHP, Go, and more**](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode) | 9.4M | `3.330.0` | Tabnine is the AI code assistant that accelerates and s… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Tabnine: AI Chat & Autocomplete for JavaScript, Python, Typescript, Java, PHP, Go, and more**](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode) | 9.4M | `3.330.0` | Tabnine is the AI code assistant that accelerates and s… |
 | [**Tabnine for Enterprise**](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode-self-hosted-updater) | 70K | `0.4.4` | This extension is exclusively for Tabnine Enterprise cu… |
 
 
@@ -2378,7 +2488,8 @@
 > **Checkmarx** — 2 extension(s) — **60K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/checkmarx)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Checkmarx One**](https://marketplace.visualstudio.com/items?itemName=checkmarx.ast-results) | 31K | `2.42.0` | Beat vulnerabilities with more-secure code |
+|:----------|:--------:|:-------:|:-----------|
+| [**Checkmarx One**](https://marketplace.visualstudio.com/items?itemName=checkmarx.ast-results) | 31K | `2.42.0` | Beat vulnerabilities with more-secure code |
 | [**Checkmarx SAST 9.x**](https://marketplace.visualstudio.com/items?itemName=checkmarx.cxvscode) | 30K | `2024.3.3` | Checkmarx SAST 9.x is a Checkmarx IDE extension that en… |
 
 
@@ -2400,7 +2511,8 @@
 > **Ahmad Awais ⚡** — 2 extension(s) — **2.2M total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/ahmadawais)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Shades of Purple**](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple) | 2.2M | `7.3.6` | 🦄 A professional theme suite with hand-picked & bold s… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Shades of Purple**](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple) | 2.2M | `7.3.6` | 🦄 A professional theme suite with hand-picked & bold s… |
 | [**Emoji Log**](https://marketplace.visualstudio.com/items?itemName=ahmadawais.emoji-log-vscode) | 30K | `1.3.0` | Emoji-Log — An Emoji Git commit log messages spec stand… |
 
 
@@ -2422,7 +2534,8 @@
 > **Go Team at Google** — 2 extension(s) — **18M total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/golang)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Go**](https://marketplace.visualstudio.com/items?itemName=golang.Go) | 17.4M | `0.51.1` | Rich Go language support for Visual Studio Code |
+|:----------|:--------:|:-------:|:-----------|
+| [**Go**](https://marketplace.visualstudio.com/items?itemName=golang.Go) | 17.4M | `0.51.1` | Rich Go language support for Visual Studio Code |
 | [**Go Nightly**](https://marketplace.visualstudio.com/items?itemName=golang.go-nightly) | 575K | `2024.8.2217` | Rich Go language support for Visual Studio Code (Nightl… |
 
 
@@ -2444,7 +2557,8 @@
 > **Databricks** — 2 extension(s) — **319K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/databricks)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Databricks**](https://marketplace.visualstudio.com/items?itemName=databricks.databricks) | 253K | `2.10.3` | IDE support for Databricks |
+|:----------|:--------:|:-------:|:-----------|
+| [**Databricks**](https://marketplace.visualstudio.com/items?itemName=databricks.databricks) | 253K | `2.10.3` | IDE support for Databricks |
 | [**Databricks Driver for SQLTools**](https://marketplace.visualstudio.com/items?itemName=databricks.sqltools-databricks-driver) | 66K | `0.4.2` | Databricks SQL driver for SQLTools |
 
 
@@ -2466,7 +2580,8 @@
 > **Software** — 2 extension(s) — **720K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/softwaredotcom)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Code Time**](https://marketplace.visualstudio.com/items?itemName=softwaredotcom.swdc-vscode) | 638K | `2.8.10` | Code Time is an open source plugin that provides progra… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Code Time**](https://marketplace.visualstudio.com/items?itemName=softwaredotcom.swdc-vscode) | 638K | `2.8.10` | Code Time is an open source plugin that provides progra… |
 | [**Music Time for Spotify**](https://marketplace.visualstudio.com/items?itemName=softwaredotcom.music-time) | 82K | `2.2.47` | Music Time for Spotify is a VS Code extension that disc… |
 
 
@@ -2488,7 +2603,8 @@
 > **Dart Code** — 2 extension(s) — **25.9M total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/Dart-Code)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Dart**](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code) | 13.4M | `3.125.20251202` | Dart language support and debugger for Visual Studio Co… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Dart**](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code) | 13.4M | `3.125.20251202` | Dart language support and debugger for Visual Studio Co… |
 | [**Flutter**](https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter) | 12.5M | `3.125.20251201` | Flutter support and debugger for Visual Studio Code. |
 
 
@@ -2510,7 +2626,8 @@
 > **Wix** — 2 extension(s) — **5.4M total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/wix)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Import Cost**](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) | 5.1M | `3.3.0` | Display import/require package size in the editor |
+|:----------|:--------:|:-------:|:-----------|
+| [**Import Cost**](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) | 5.1M | `3.3.0` | Display import/require package size in the editor |
 | [**glean**](https://marketplace.visualstudio.com/items?itemName=wix.glean) | 258K | `5.2.2` | The extension provides refactoring tools for your React… |
 
 
@@ -2532,7 +2649,8 @@
 > **Andrew Butson** — 2 extension(s) — **141K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/AndrewButson)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**vscode-openai**](https://marketplace.visualstudio.com/items?itemName=AndrewButson.vscode-openai) | 108K | `1.6.19` | vscode-openai seamlessly incorporates OpenAI features i… |
+|:----------|:--------:|:-------:|:-----------|
+| [**vscode-openai**](https://marketplace.visualstudio.com/items?itemName=AndrewButson.vscode-openai) | 108K | `1.6.19` | vscode-openai seamlessly incorporates OpenAI features i… |
 | [**vscode-openapi-viewer**](https://marketplace.visualstudio.com/items?itemName=AndrewButson.vscode-openapi-viewer) | 33K | `1.1.5` | A vscode extension to view openapi specifications |
 
 
@@ -2554,7 +2672,8 @@
 > **Microsoft** — 1 extension(s) — **1.9M total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/VisualStudioToolsForUnity)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Unity**](https://marketplace.visualstudio.com/items?itemName=VisualStudioToolsForUnity.vstuc) | 1.9M | `1.2.0` | Integrates Visual Studio Code with Unity |
+|:----------|:--------:|:-------:|:-----------|
+| [**Unity**](https://marketplace.visualstudio.com/items?itemName=VisualStudioToolsForUnity.vstuc) | 1.9M | `1.2.0` | Integrates Visual Studio Code with Unity |
 
 
 ### <a id="ms-ssdevteam"></a>📦 ms-ssdevteam
@@ -2562,7 +2681,8 @@
 > **Microsoft** — 1 extension(s) — **42K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/ms-ssdevteam)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**SCOPE Studio for VS Code**](https://marketplace.visualstudio.com/items?itemName=ms-ssdevteam.scope-vscode-ext) | 42K | `1.5.0` | Author, monitor and run your Cosmos jobs both locally a… |
+|:----------|:--------:|:-------:|:-----------|
+| [**SCOPE Studio for VS Code**](https://marketplace.visualstudio.com/items?itemName=ms-ssdevteam.scope-vscode-ext) | 42K | `1.5.0` | Author, monitor and run your Cosmos jobs both locally a… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -2583,7 +2703,8 @@
 > **Astro** — 2 extension(s) — **1.2M total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/astro-build)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Astro**](https://marketplace.visualstudio.com/items?itemName=astro-build.astro-vscode) | 1.2M | `2.15.4` | Language support for Astro |
+|:----------|:--------:|:-------:|:-----------|
+| [**Astro**](https://marketplace.visualstudio.com/items?itemName=astro-build.astro-vscode) | 1.2M | `2.15.4` | Language support for Astro |
 | [**Houston**](https://marketplace.visualstudio.com/items?itemName=astro-build.houston) | 74K | `0.1.2` | A theme featuring cool blues, minty greens, and soft pu… |
 
 
@@ -2605,7 +2726,8 @@
 > **Rocket Software Inc.** — 2 extension(s) — **160K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/RocketSoftware)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Rocket MV BASIC**](https://marketplace.visualstudio.com/items?itemName=RocketSoftware.rocket-mvbasic) | 107K | `2.8.0` | Rocket MV BASIC for Visual Studio Code |
+|:----------|:--------:|:-------:|:-----------|
+| [**Rocket MV BASIC**](https://marketplace.visualstudio.com/items?itemName=RocketSoftware.rocket-mvbasic) | 107K | `2.8.0` | Rocket MV BASIC for Visual Studio Code |
 | [**Rocket COBOL**](https://marketplace.visualstudio.com/items?itemName=RocketSoftware.rocket-cobol) | 53K | `2.0.12` | Extension for COBOL application development |
 
 
@@ -2627,7 +2749,8 @@
 > **Amazon Web Services** — 2 extension(s) — **5M total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/AmazonWebServices)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**AWS Toolkit**](https://marketplace.visualstudio.com/items?itemName=AmazonWebServices.aws-toolkit-vscode) | 3.6M | `3.89.0` | Including CodeCatalyst, Infrastructure Composer, and su… |
+|:----------|:--------:|:-------:|:-----------|
+| [**AWS Toolkit**](https://marketplace.visualstudio.com/items?itemName=AmazonWebServices.aws-toolkit-vscode) | 3.6M | `3.89.0` | Including CodeCatalyst, Infrastructure Composer, and su… |
 | [**Amazon Q**](https://marketplace.visualstudio.com/items?itemName=AmazonWebServices.amazon-q-vscode) | 1.4M | `1.106.0` | The most capable generative AI–powered assistant for so… |
 
 
@@ -2649,7 +2772,8 @@
 > **The Rust Programming Language ** — 2 extension(s) — **7.3M total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/rust-lang)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**rust-analyzer**](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer) | 5.5M | `0.4.2706` | Rust language support for Visual Studio Code |
+|:----------|:--------:|:-------:|:-----------|
+| [**rust-analyzer**](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer) | 5.5M | `0.4.2706` | Rust language support for Visual Studio Code |
 | [**Rust (deprecated)**](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust) | 1.9M | `0.7.9` | Rust for Visual Studio Code (powered by Rust Language S… |
 
 
@@ -2671,7 +2795,8 @@
 > **Espressif Systems** — 2 extension(s) — **1.3M total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/espressif)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**ESP-IDF**](https://marketplace.visualstudio.com/items?itemName=espressif.esp-idf-extension) | 1.2M | `2.0.1` | Develop and debug applications for Espressif chips with… |
+|:----------|:--------:|:-------:|:-----------|
+| [**ESP-IDF**](https://marketplace.visualstudio.com/items?itemName=espressif.esp-idf-extension) | 1.2M | `2.0.1` | Develop and debug applications for Espressif chips with… |
 | [**ESP-IDF WEB**](https://marketplace.visualstudio.com/items?itemName=espressif.esp-idf-web) | 36K | `0.0.4` | Espressif ESP-IDF Web extension for Webserial communica… |
 
 
@@ -2693,7 +2818,8 @@
 > **Better Than Tomorrow** — 2 extension(s) — **338K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/betterthantomorrow)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Calva: Clojure & ClojureScript Interactive Programming**](https://marketplace.visualstudio.com/items?itemName=betterthantomorrow.calva) | 208K | `2.0.540` | Integrated REPL, formatter, Paredit, and more. Powered… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Calva: Clojure & ClojureScript Interactive Programming**](https://marketplace.visualstudio.com/items?itemName=betterthantomorrow.calva) | 208K | `2.0.540` | Integrated REPL, formatter, Paredit, and more. Powered… |
 | [**Calva Spritz**](https://marketplace.visualstudio.com/items?itemName=betterthantomorrow.calva-spritz) | 130K | `1.0.5` | A LiveShare + Calva enabling workaround, effervescently… |
 
 
@@ -2715,7 +2841,8 @@
 > **IAR** — 2 extension(s) — **84K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/iarsystems)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**IAR Build**](https://marketplace.visualstudio.com/items?itemName=iarsystems.iar-build) | 45K | `1.32.1` | Develop IAR projects with intellisense, C-STAT and buil… |
+|:----------|:--------:|:-------:|:-----------|
+| [**IAR Build**](https://marketplace.visualstudio.com/items?itemName=iarsystems.iar-build) | 45K | `1.32.1` | Develop IAR projects with intellisense, C-STAT and buil… |
 | [**IAR C-SPY Debug**](https://marketplace.visualstudio.com/items?itemName=iarsystems.iar-debug) | 39K | `1.42.1` | Debug embedded applications using the IAR C-SPY debugge… |
 
 
@@ -2737,7 +2864,8 @@
 > **SonarSource** — 1 extension(s) — **4M total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/SonarSource)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**SonarQube for IDE**](https://marketplace.visualstudio.com/items?itemName=SonarSource.sonarlint-vscode) | 4M | `4.36.0` | Advanced linter to detect & fix coding issues locally i… |
+|:----------|:--------:|:-------:|:-----------|
+| [**SonarQube for IDE**](https://marketplace.visualstudio.com/items?itemName=SonarSource.sonarlint-vscode) | 4M | `4.36.0` | Advanced linter to detect & fix coding issues locally i… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -2758,7 +2886,8 @@
 > **Swift** — 1 extension(s) — **338K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/swiftlang)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Swift**](https://marketplace.visualstudio.com/items?itemName=swiftlang.swift-vscode) | 338K | `2.15.20251120` | Swift Language Support for Visual Studio Code. |
+|:----------|:--------:|:-------:|:-----------|
+| [**Swift**](https://marketplace.visualstudio.com/items?itemName=swiftlang.swift-vscode) | 338K | `2.15.20251120` | Swift Language Support for Visual Studio Code. |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -2779,7 +2908,8 @@
 > **Svelte** — 1 extension(s) — **2.3M total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/svelte)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Svelte for VS Code**](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode) | 2.3M | `109.12.0` | Svelte language support for VS Code |
+|:----------|:--------:|:-------:|:-----------|
+| [**Svelte for VS Code**](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode) | 2.3M | `109.12.0` | Svelte language support for VS Code |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -2800,7 +2930,8 @@
 > **Software Mansion** — 1 extension(s) — **30K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/swmansion)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Radon IDE**](https://marketplace.visualstudio.com/items?itemName=swmansion.react-native-ide) | 30K | `1.13.0` | Extension turning VSCode into a full-featured IDE for R… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Radon IDE**](https://marketplace.visualstudio.com/items?itemName=swmansion.react-native-ide) | 30K | `1.13.0` | Extension turning VSCode into a full-featured IDE for R… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -2821,7 +2952,8 @@
 > **emeraldwalk** — 1 extension(s) — **597K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/emeraldwalk)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Run on Save**](https://marketplace.visualstudio.com/items?itemName=emeraldwalk.RunOnSave) | 597K | `0.3.2` | Run commands when a file is saved in vscode. |
+|:----------|:--------:|:-------:|:-----------|
+| [**Run on Save**](https://marketplace.visualstudio.com/items?itemName=emeraldwalk.RunOnSave) | 597K | `0.3.2` | Run commands when a file is saved in vscode. |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -2842,7 +2974,8 @@
 > **Tailwind Labs** — 1 extension(s) — **12.2M total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/bradlc)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Tailwind CSS IntelliSense**](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) | 12.2M | `0.14.29` | Intelligent Tailwind CSS tooling for VS Code |
+|:----------|:--------:|:-------:|:-----------|
+| [**Tailwind CSS IntelliSense**](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) | 12.2M | `0.14.29` | Intelligent Tailwind CSS tooling for VS Code |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -2863,7 +2996,8 @@
 > **smallcloud** — 1 extension(s) — **51K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/smallcloud)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Refact – Open-Source AI Agent, Code Generator & Chat for JavaScript, Python, TypeScript, Java, PHP, Go, and more.**](https://marketplace.visualstudio.com/items?itemName=smallcloud.codify) | 51K | `6.5.21` | Refact.ai is a free, open-source AI Agent that adapts t… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Refact – Open-Source AI Agent, Code Generator & Chat for JavaScript, Python, TypeScript, Java, PHP, Go, and more.**](https://marketplace.visualstudio.com/items?itemName=smallcloud.codify) | 51K | `6.5.21` | Refact.ai is a free, open-source AI Agent that adapts t… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -2884,7 +3018,8 @@
 > **Supabase** — 1 extension(s) — **65K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/Supabase)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Supabase**](https://marketplace.visualstudio.com/items?itemName=Supabase.vscode-supabase-extension) | 65K | `0.0.11` | Supabase Extension for VS Code and GitHub Copilot. |
+|:----------|:--------:|:-------:|:-----------|
+| [**Supabase**](https://marketplace.visualstudio.com/items?itemName=Supabase.vscode-supabase-extension) | 65K | `0.0.11` | Supabase Extension for VS Code and GitHub Copilot. |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -2905,7 +3040,8 @@
 > **Task** — 1 extension(s) — **59K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/task)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Task**](https://marketplace.visualstudio.com/items?itemName=task.vscode-task) | 59K | `0.4.0` | A task runner / build tool that aims to be simpler and… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Task**](https://marketplace.visualstudio.com/items?itemName=task.vscode-task) | 59K | `0.4.0` | A task runner / build tool that aims to be simpler and… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -2926,7 +3062,8 @@
 > **Frank Stuetzer** — 1 extension(s) — **49K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/Fr43nk)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Open file**](https://marketplace.visualstudio.com/items?itemName=Fr43nk.seito-openfile) | 49K | `2.3.2` | Extract a filepath from the current cursor position and… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Open file**](https://marketplace.visualstudio.com/items?itemName=Fr43nk.seito-openfile) | 49K | `2.3.2` | Extract a filepath from the current cursor position and… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -2947,7 +3084,8 @@
 > **Test Double** — 1 extension(s) — **44K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/testdouble)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Standard Ruby**](https://marketplace.visualstudio.com/items?itemName=testdouble.vscode-standard-ruby) | 44K | `0.0.16` | The official VS Code extension for the Standard Ruby li… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Standard Ruby**](https://marketplace.visualstudio.com/items?itemName=testdouble.vscode-standard-ruby) | 44K | `0.0.16` | The official VS Code extension for the Standard Ruby li… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -2968,7 +3106,8 @@
 > **Tilt Dev** — 1 extension(s) — **32K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/tilt-dev)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Tiltfile**](https://marketplace.visualstudio.com/items?itemName=tilt-dev.Tiltfile) | 32K | `0.0.4` | Provides an improved editing experience for 'Tiltfile'… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Tiltfile**](https://marketplace.visualstudio.com/items?itemName=tilt-dev.Tiltfile) | 32K | `0.0.4` | Provides an improved editing experience for 'Tiltfile'… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -2989,7 +3128,8 @@
 > **TabbyML** — 1 extension(s) — **67K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/TabbyML)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Tabby**](https://marketplace.visualstudio.com/items?itemName=TabbyML.vscode-tabby) | 67K | `1.28.0` | Tabby is a self-hosted AI coding assistant that can sug… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Tabby**](https://marketplace.visualstudio.com/items?itemName=TabbyML.vscode-tabby) | 67K | `1.28.0` | Tabby is a self-hosted AI coding assistant that can sug… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -3010,7 +3150,8 @@
 > **Stylelint** — 1 extension(s) — **3.2M total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/stylelint)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Stylelint**](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint) | 3.2M | `1.6.0` | Official Stylelint extension for Visual Studio Code |
+|:----------|:--------:|:-------:|:-----------|
+| [**Stylelint**](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint) | 3.2M | `1.6.0` | Official Stylelint extension for Visual Studio Code |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -3031,7 +3172,8 @@
 > **Spydra** — 1 extension(s) — **84K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/Spydra)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Hyperledger Fabric Debugger**](https://marketplace.visualstudio.com/items?itemName=Spydra.hyperledger-fabric-debugger) | 84K | `1.0.0` | Extension for Visual Studio Code that makes it easy for… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Hyperledger Fabric Debugger**](https://marketplace.visualstudio.com/items?itemName=Spydra.hyperledger-fabric-debugger) | 84K | `1.0.0` | Extension for Visual Studio Code that makes it easy for… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -3052,7 +3194,8 @@
 > **Yarn Spinner Pty Ltd** — 1 extension(s) — **29K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/SecretLab)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Yarn Spinner**](https://marketplace.visualstudio.com/items?itemName=SecretLab.yarn-spinner) | 29K | `3.0.463` | Adds support for the Yarn Spinner dialogue language. |
+|:----------|:--------:|:-------:|:-----------|
+| [**Yarn Spinner**](https://marketplace.visualstudio.com/items?itemName=SecretLab.yarn-spinner) | 29K | `3.0.463` | Adds support for the Yarn Spinner dialogue language. |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -3073,7 +3216,8 @@
 > **Redocly** — 1 extension(s) — **73K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/Redocly)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Redocly OpenAPI**](https://marketplace.visualstudio.com/items?itemName=Redocly.openapi-vs-code) | 73K | `0.9.26` | — |
+|:----------|:--------:|:-------:|:-----------|
+| [**Redocly OpenAPI**](https://marketplace.visualstudio.com/items?itemName=Redocly.openapi-vs-code) | 73K | `0.9.26` | — |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -3094,7 +3238,8 @@
 > **Robocorp** — 1 extension(s) — **128K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/robocorp)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Robocorp Code**](https://marketplace.visualstudio.com/items?itemName=robocorp.robocorp-code) | 128K | `1.22.3` | Extension for Robot development in VSCode using Robocor… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Robocorp Code**](https://marketplace.visualstudio.com/items?itemName=robocorp.robocorp-code) | 128K | `1.22.3` | Extension for Robot development in VSCode using Robocor… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -3115,7 +3260,8 @@
 > **Bruno** — 1 extension(s) — **101K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/bruno-api-client)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Bruno**](https://marketplace.visualstudio.com/items?itemName=bruno-api-client.bruno) | 101K | `4.4.0` | API client for exploring and testing APIs in VS Code |
+|:----------|:--------:|:-------:|:-----------|
+| [**Bruno**](https://marketplace.visualstudio.com/items?itemName=bruno-api-client.bruno) | 101K | `4.4.0` | API client for exploring and testing APIs in VS Code |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -3136,7 +3282,8 @@
 > **Anas Chakroun** — 1 extension(s) — **2M total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/ChakrounAnas)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Turbo Console Log**](https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log) | 2M | `3.11.0` | Automated logging for JavaScript, TypeScript, and PHP.… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Turbo Console Log**](https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log) | 2M | `3.11.0` | Automated logging for JavaScript, TypeScript, and PHP.… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -3157,7 +3304,8 @@
 > **Roo Code** — 1 extension(s) — **1.1M total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/RooVeterinaryInc)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Roo Code**](https://marketplace.visualstudio.com/items?itemName=RooVeterinaryInc.roo-cline) | 1.1M | `3.36.2` | A whole dev team of AI agents in your editor. |
+|:----------|:--------:|:-------:|:-----------|
+| [**Roo Code**](https://marketplace.visualstudio.com/items?itemName=RooVeterinaryInc.roo-cline) | 1.1M | `3.36.2` | A whole dev team of AI agents in your editor. |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -3178,7 +3326,8 @@
 > **Rosé Pine** — 1 extension(s) — **277K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/mvllow)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Rosé Pine**](https://marketplace.visualstudio.com/items?itemName=mvllow.rose-pine) | 277K | `2.15.0` | All natural pine, faux fur and a bit of soho vibes for… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Rosé Pine**](https://marketplace.visualstudio.com/items?itemName=mvllow.rose-pine) | 277K | `2.15.0` | All natural pine, faux fur and a bit of soho vibes for… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -3199,7 +3348,8 @@
 > **Andrew Hall** — 1 extension(s) — **28K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/ryzngard)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Header source switch**](https://marketplace.visualstudio.com/items?itemName=ryzngard.vscode-header-source) | 28K | `1.5.0` | Header-source switcher for vscode |
+|:----------|:--------:|:-------:|:-----------|
+| [**Header source switch**](https://marketplace.visualstudio.com/items?itemName=ryzngard.vscode-header-source) | 28K | `1.5.0` | Header-source switcher for vscode |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -3220,7 +3370,8 @@
 > **Splunk** — 1 extension(s) — **63K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/Splunk)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Splunk Extension**](https://marketplace.visualstudio.com/items?itemName=Splunk.splunk) | 63K | `0.3.4` | Splunk Python Debugging (local, remote), Linting, Intel… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Splunk Extension**](https://marketplace.visualstudio.com/items?itemName=Splunk.splunk) | 63K | `0.3.4` | Splunk Python Debugging (local, remote), Linting, Intel… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -3241,7 +3392,8 @@
 > **Zencoder** — 1 extension(s) — **112K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/ZencoderAI)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Zencoder: AI Coding Agent and Chat for Python, Javascript, Typescript, Java, Go, and more**](https://marketplace.visualstudio.com/items?itemName=ZencoderAI.zencoder) | 112K | `3.10.0` | Embedded AI agents |
+|:----------|:--------:|:-------:|:-----------|
+| [**Zencoder: AI Coding Agent and Chat for Python, Javascript, Typescript, Java, Go, and more**](https://marketplace.visualstudio.com/items?itemName=ZencoderAI.zencoder) | 112K | `3.10.0` | Embedded AI agents |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -3262,7 +3414,8 @@
 > **SemanticDiff** — 1 extension(s) — **37K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/semanticdiff)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**SemanticDiff**](https://marketplace.visualstudio.com/items?itemName=semanticdiff.semanticdiff) | 37K | `0.10.0` | Programming language aware diffs for Visual Studio Code… |
+|:----------|:--------:|:-------:|:-----------|
+| [**SemanticDiff**](https://marketplace.visualstudio.com/items?itemName=semanticdiff.semanticdiff) | 37K | `0.10.0` | Programming language aware diffs for Visual Studio Code… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -3283,7 +3436,8 @@
 > **Slint** — 1 extension(s) — **60K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/Slint)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Slint**](https://marketplace.visualstudio.com/items?itemName=Slint.slint) | 60K | `1.14.1` | Slint language support, featuring auto-completion, go-t… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Slint**](https://marketplace.visualstudio.com/items?itemName=Slint.slint) | 60K | `1.14.1` | Slint language support, featuring auto-completion, go-t… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -3304,7 +3458,8 @@
 > **Snowflake** — 1 extension(s) — **275K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/snowflake)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Snowflake**](https://marketplace.visualstudio.com/items?itemName=snowflake.snowflake-vsc) | 275K | `1.20.1` | Connect to Snowflake, write and execute sql queries, an… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Snowflake**](https://marketplace.visualstudio.com/items?itemName=snowflake.snowflake-vsc) | 275K | `1.20.1` | Connect to Snowflake, write and execute sql queries, an… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -3325,7 +3480,8 @@
 > **Snyk** — 1 extension(s) — **359K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/snyk-security)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Snyk Security**](https://marketplace.visualstudio.com/items?itemName=snyk-security.snyk-vulnerability-scanner) | 359K | `2.27.0` | Easily find and fix issues in your code, open source de… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Snyk Security**](https://marketplace.visualstudio.com/items?itemName=snyk-security.snyk-vulnerability-scanner) | 359K | `2.27.0` | Easily find and fix issues in your code, open source de… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -3346,7 +3502,8 @@
 > **solomonkinard** — 1 extension(s) — **172K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/solomonkinard)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Git Blame**](https://marketplace.visualstudio.com/items?itemName=solomonkinard.git-blame) | 172K | `0.2.74` | Optional inline blame |
+|:----------|:--------:|:-------:|:-----------|
+| [**Git Blame**](https://marketplace.visualstudio.com/items?itemName=solomonkinard.git-blame) | 172K | `0.2.74` | Optional inline blame |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -3367,7 +3524,8 @@
 > **Tim Heuer** — 1 extension(s) — **91K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/TimHeuer)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**JSON Debug Visualizer**](https://marketplace.visualstudio.com/items?itemName=TimHeuer.jsondbg) | 91K | `0.2.3` | Debug variable visualizer for JSON |
+|:----------|:--------:|:-------:|:-----------|
+| [**JSON Debug Visualizer**](https://marketplace.visualstudio.com/items?itemName=TimHeuer.jsondbg) | 91K | `0.2.3` | Debug variable visualizer for JSON |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -3388,7 +3546,8 @@
 > **Stately** — 1 extension(s) — **85K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/statelyai)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**XState VSCode**](https://marketplace.visualstudio.com/items?itemName=statelyai.stately-vscode) | 85K | `2.1.0` | Visual editing, autocomplete and typegen for XState |
+|:----------|:--------:|:-------:|:-----------|
+| [**XState VSCode**](https://marketplace.visualstudio.com/items?itemName=statelyai.stately-vscode) | 85K | `2.1.0` | Visual editing, autocomplete and typegen for XState |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -3409,7 +3568,8 @@
 > **Stackspot AI** — 1 extension(s) — **36K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/StackspotAI)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**StackSpot AI**](https://marketplace.visualstudio.com/items?itemName=StackspotAI.StackSpotAI) | 36K | `3.5.5` | AI tool with code generation and chat capabilities. |
+|:----------|:--------:|:-------:|:-----------|
+| [**StackSpot AI**](https://marketplace.visualstudio.com/items?itemName=StackspotAI.StackSpotAI) | 36K | `3.5.5` | AI tool with code generation and chat capabilities. |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -3430,7 +3590,8 @@
 > **Danny Steenman** — 1 extension(s) — **108K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/dannysteenman)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**AWS CloudFormation Snippets**](https://marketplace.visualstudio.com/items?itemName=dannysteenman.cloudformation-yaml-snippets) | 108K | `5.84.0` | Adds snippets for all the AWS CloudFormation resources… |
+|:----------|:--------:|:-------:|:-----------|
+| [**AWS CloudFormation Snippets**](https://marketplace.visualstudio.com/items?itemName=dannysteenman.cloudformation-yaml-snippets) | 108K | `5.84.0` | Adds snippets for all the AWS CloudFormation resources… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -3451,7 +3612,8 @@
 > **Undo** — 1 extension(s) — **35K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/Undo)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Time Travel Debug for C/C++**](https://marketplace.visualstudio.com/items?itemName=Undo.udb) | 35K | `2.1.11` | Integrates UDB - a powerful time travel debugger for Li… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Time Travel Debug for C/C++**](https://marketplace.visualstudio.com/items?itemName=Undo.udb) | 35K | `2.1.11` | Integrates UDB - a powerful time travel debugger for Li… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -3472,7 +3634,8 @@
 > **Tyler Leonhardt** — 1 extension(s) — **102K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/TylerLeonhardt)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Inline Values support for PowerShell**](https://marketplace.visualstudio.com/items?itemName=TylerLeonhardt.vscode-inline-values-powershell) | 102K | `0.0.7` | Enables inline values for variables when debugging Powe… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Inline Values support for PowerShell**](https://marketplace.visualstudio.com/items?itemName=TylerLeonhardt.vscode-inline-values-powershell) | 102K | `0.0.7` | Enables inline values for variables when debugging Powe… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -3493,7 +3656,8 @@
 > **AMLOVEY** — 1 extension(s) — **341K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/amlovey)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**ShaderlabVSCode(Free)**](https://marketplace.visualstudio.com/items?itemName=amlovey.shaderlabvscodefree) | 341K | `2.0.0` | Visual Studio Code Plugin for Unity Shaderlab programmi… |
+|:----------|:--------:|:-------:|:-----------|
+| [**ShaderlabVSCode(Free)**](https://marketplace.visualstudio.com/items?itemName=amlovey.shaderlabvscodefree) | 341K | `2.0.0` | Visual Studio Code Plugin for Unity Shaderlab programmi… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -3514,7 +3678,8 @@
 > **MarsCode** — 1 extension(s) — **1.3M total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/MarsCode)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**TRAE AI (formerly MarsCode): Coding Assistant**](https://marketplace.visualstudio.com/items?itemName=MarsCode.marscode-extension) | 1.3M | `1.4.18` | Code and Innovate Faster with AI |
+|:----------|:--------:|:-------:|:-----------|
+| [**TRAE AI (formerly MarsCode): Coding Assistant**](https://marketplace.visualstudio.com/items?itemName=MarsCode.marscode-extension) | 1.3M | `1.4.18` | Code and Innovate Faster with AI |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -3535,7 +3700,8 @@
 > **Apollo GraphQL** — 1 extension(s) — **676K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/apollographql)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Apollo GraphQL**](https://marketplace.visualstudio.com/items?itemName=apollographql.vscode-apollo) | 676K | `2.6.3` | Rich editor support for GraphQL client and server devel… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Apollo GraphQL**](https://marketplace.visualstudio.com/items?itemName=apollographql.vscode-apollo) | 676K | `2.6.3` | Rich editor support for GraphQL client and server devel… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -3556,7 +3722,8 @@
 > **Redis** — 1 extension(s) — **151K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/Redis)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Redis for VS Code**](https://marketplace.visualstudio.com/items?itemName=Redis.redis-for-vscode) | 151K | `1.4.0` | Visually interact with data and build queries in Redis |
+|:----------|:--------:|:-------:|:-----------|
+| [**Redis for VS Code**](https://marketplace.visualstudio.com/items?itemName=Redis.redis-for-vscode) | 151K | `1.4.0` | Visually interact with data and build queries in Redis |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -3577,7 +3744,8 @@
 > **Atlassian** — 1 extension(s) — **2.9M total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/Atlassian)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Atlassian: Jira, Rovo Dev, Bitbucket**](https://marketplace.visualstudio.com/items?itemName=Atlassian.atlascode) | 2.9M | `4.1.62` | Bringing the power of Jira, Rovo Dev, and Bitbucket to… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Atlassian: Jira, Rovo Dev, Bitbucket**](https://marketplace.visualstudio.com/items?itemName=Atlassian.atlascode) | 2.9M | `4.1.62` | Bringing the power of Jira, Rovo Dev, and Bitbucket to… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -3598,7 +3766,8 @@
 > **Kodezi** — 1 extension(s) — **101K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/kodezi)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Kodezi AI, (Autocorrect & More) - for Python, JavaScript, TypeScript, C++, PHP, Java, C#, Ruby & more**](https://marketplace.visualstudio.com/items?itemName=kodezi.kodezi) | 101K | `3.0.6` | Kodezi is an AI Dev-tool platform providing tools to ma… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Kodezi AI, (Autocorrect & More) - for Python, JavaScript, TypeScript, C++, PHP, Java, C#, Ruby & more**](https://marketplace.visualstudio.com/items?itemName=kodezi.kodezi) | 101K | `3.0.6` | Kodezi is an AI Dev-tool platform providing tools to ma… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -3619,7 +3788,8 @@
 > **browserstack.com** — 1 extension(s) — **29K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/browserstackcom)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**BrowserStack**](https://marketplace.visualstudio.com/items?itemName=browserstackcom.browserstack-vscode) | 29K | `1.2.4` | Instantly test your local website on BrowserStack acros… |
+|:----------|:--------:|:-------:|:-----------|
+| [**BrowserStack**](https://marketplace.visualstudio.com/items?itemName=browserstackcom.browserstack-vscode) | 29K | `1.2.4` | Instantly test your local website on BrowserStack acros… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -3640,7 +3810,8 @@
 > **Code GPT** — 1 extension(s) — **2.2M total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/DanielSanMedium)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**CodeGPT: Chat & AI Agents**](https://marketplace.visualstudio.com/items?itemName=DanielSanMedium.dscodegpt) | 2.2M | `3.14.206` | Easily Connect to Top AI Providers Using Their Official… |
+|:----------|:--------:|:-------:|:-----------|
+| [**CodeGPT: Chat & AI Agents**](https://marketplace.visualstudio.com/items?itemName=DanielSanMedium.dscodegpt) | 2.2M | `3.14.206` | Easily Connect to Top AI Providers Using Their Official… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -3661,7 +3832,8 @@
 > **Yocto Project** — 1 extension(s) — **56K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/yocto-project)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Yocto Project BitBake**](https://marketplace.visualstudio.com/items?itemName=yocto-project.yocto-bitbake) | 56K | `2.8.0` | Extended Yocto Project and BitBake language support |
+|:----------|:--------:|:-------:|:-----------|
+| [**Yocto Project BitBake**](https://marketplace.visualstudio.com/items?itemName=yocto-project.yocto-bitbake) | 56K | `2.8.0` | Extended Yocto Project and BitBake language support |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -3682,7 +3854,8 @@
 > **CodeScan for Salesforce** — 1 extension(s) — **30K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/codescansf)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**CodeScan**](https://marketplace.visualstudio.com/items?itemName=codescansf.codescan-vscode) | 30K | `2.1.2` | Linter to detect & fix coding issues locally in JS/TS,… |
+|:----------|:--------:|:-------:|:-----------|
+| [**CodeScan**](https://marketplace.visualstudio.com/items?itemName=codescansf.codescan-vscode) | 30K | `2.1.2` | Linter to detect & fix coding issues locally in JS/TS,… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -3703,7 +3876,8 @@
 > **GoCodeo** — 1 extension(s) — **34K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/GoCodeo)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**GoCodeo: Best of Cursor and Lovable, Combined**](https://marketplace.visualstudio.com/items?itemName=GoCodeo.gocodeo) | 34K | `11.0.13` | AI agent for building and shipping full-stack apps insi… |
+|:----------|:--------:|:-------:|:-----------|
+| [**GoCodeo: Best of Cursor and Lovable, Combined**](https://marketplace.visualstudio.com/items?itemName=GoCodeo.gocodeo) | 34K | `11.0.13` | AI agent for building and shipping full-stack apps insi… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -3724,7 +3898,8 @@
 > **Curlybracket** — 1 extension(s) — **30K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/curlybracket)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Salesforce Industries & Omnistudio (Vlocity)**](https://marketplace.visualstudio.com/items?itemName=curlybracket.vlocode) | 30K | `1.40.5` | Salesforce Industries, Omnistudio (Vlocity) development… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Salesforce Industries & Omnistudio (Vlocity)**](https://marketplace.visualstudio.com/items?itemName=curlybracket.vlocode) | 30K | `1.40.5` | Salesforce Industries, Omnistudio (Vlocity) development… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -3745,7 +3920,8 @@
 > **Dalton Menezes** — 1 extension(s) — **522K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/DaltonMenezes)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Aura Theme**](https://marketplace.visualstudio.com/items?itemName=DaltonMenezes.aura-theme) | 522K | `2.1.2` | A beautiful dark theme for Visual Studio Code |
+|:----------|:--------:|:-------:|:-----------|
+| [**Aura Theme**](https://marketplace.visualstudio.com/items?itemName=DaltonMenezes.aura-theme) | 522K | `2.1.2` | A beautiful dark theme for Visual Studio Code |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -3766,7 +3942,8 @@
 > **Docker** — 1 extension(s) — **1.9M total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/docker)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Docker DX**](https://marketplace.visualstudio.com/items?itemName=docker.docker) | 1.9M | `0.18.0` | Edit smarter, ship faster with an enhanced Docker-devel… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Docker DX**](https://marketplace.visualstudio.com/items?itemName=docker.docker) | 1.9M | `0.18.0` | Edit smarter, ship faster with an enhanced Docker-devel… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -3787,7 +3964,8 @@
 > **EchoAPI** — 1 extension(s) — **66K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/EchoAPI)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**EchoAPI for VS Code**](https://marketplace.visualstudio.com/items?itemName=EchoAPI.echoapi-for-vscode) | 66K | `1.7.13` | Ultra-lightweight Rest API debugging tool for VS Code. |
+|:----------|:--------:|:-------:|:-----------|
+| [**EchoAPI for VS Code**](https://marketplace.visualstudio.com/items?itemName=EchoAPI.echoapi-for-vscode) | 66K | `1.7.13` | Ultra-lightweight Rest API debugging tool for VS Code. |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -3808,7 +3986,8 @@
 > **Bart Permentier** — 1 extension(s) — **117K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/BartPermentier)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**AL Toolbox**](https://marketplace.visualstudio.com/items?itemName=BartPermentier.al-toolbox) | 117K | `2.0.31` | AL Language Regions and Snippets |
+|:----------|:--------:|:-------:|:-----------|
+| [**AL Toolbox**](https://marketplace.visualstudio.com/items?itemName=BartPermentier.al-toolbox) | 117K | `2.0.31` | AL Language Regions and Snippets |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -3829,7 +4008,8 @@
 > **MathWorks** — 1 extension(s) — **566K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/MathWorks)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**MATLAB**](https://marketplace.visualstudio.com/items?itemName=MathWorks.language-matlab) | 566K | `1.3.7` | Edit MATLAB code with syntax highlighting, linting, nav… |
+|:----------|:--------:|:-------:|:-----------|
+| [**MATLAB**](https://marketplace.visualstudio.com/items?itemName=MathWorks.language-matlab) | 566K | `1.3.7` | Edit MATLAB code with syntax highlighting, linting, nav… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -3850,7 +4030,8 @@
 > **Mojang Studios** — 1 extension(s) — **31K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/mojang-studios)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Minecraft Bedrock Debugger**](https://marketplace.visualstudio.com/items?itemName=mojang-studios.minecraft-debugger) | 31K | `1.27.0` | Debug your JavaScript code running in Minecraft Bedrock… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Minecraft Bedrock Debugger**](https://marketplace.visualstudio.com/items?itemName=mojang-studios.minecraft-debugger) | 31K | `1.27.0` | Debug your JavaScript code running in Minecraft Bedrock… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -3871,7 +4052,8 @@
 > **Altimate Inc.** — 1 extension(s) — **380K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/innoverio)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Power User for dbt**](https://marketplace.visualstudio.com/items?itemName=innoverio.vscode-dbt-power-user) | 380K | `0.58.15` | a.k.a. dbt power user makes vscode work seamlessly with… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Power User for dbt**](https://marketplace.visualstudio.com/items?itemName=innoverio.vscode-dbt-power-user) | 380K | `0.58.15` | a.k.a. dbt power user makes vscode work seamlessly with… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -3892,7 +4074,8 @@
 > **SAS Institute Inc.** — 1 extension(s) — **77K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/SAS)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**SAS**](https://marketplace.visualstudio.com/items?itemName=SAS.sas-lsp) | 77K | `1.18.0` | Official SAS Language Extension for VS Code |
+|:----------|:--------:|:-------:|:-----------|
+| [**SAS**](https://marketplace.visualstudio.com/items?itemName=SAS.sas-lsp) | 77K | `1.18.0` | Official SAS Language Extension for VS Code |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -3913,7 +4096,8 @@
 > **Unfold AI** — 1 extension(s) — **90K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/TalDennis-UnfoldAI-ChatGPT-Copilot)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**ChatGPT - Unfold AI**](https://marketplace.visualstudio.com/items?itemName=TalDennis-UnfoldAI-ChatGPT-Copilot.unfoldai) | 90K | `1.6.4` | Debug and Fix Bugs in Real-Time: UnfoldAI helps you res… |
+|:----------|:--------:|:-------:|:-----------|
+| [**ChatGPT - Unfold AI**](https://marketplace.visualstudio.com/items?itemName=TalDennis-UnfoldAI-ChatGPT-Copilot.unfoldai) | 90K | `1.6.4` | Debug and Fix Bugs in Real-Time: UnfoldAI helps you res… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -3934,7 +4118,8 @@
 > **unified** — 1 extension(s) — **1M total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/unifiedjs)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**MDX**](https://marketplace.visualstudio.com/items?itemName=unifiedjs.vscode-mdx) | 1M | `1.8.17` | Language support for MDX |
+|:----------|:--------:|:-------:|:-----------|
+| [**MDX**](https://marketplace.visualstudio.com/items?itemName=unifiedjs.vscode-mdx) | 1M | `1.8.17` | Language support for MDX |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -3955,7 +4140,8 @@
 > **Upstash** — 1 extension(s) — **58K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/Upstash)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Context7 MCP Server**](https://marketplace.visualstudio.com/items?itemName=Upstash.context7-mcp) | 58K | `1.0.1` | Real-time code and documentation access for AI assistan… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Context7 MCP Server**](https://marketplace.visualstudio.com/items?itemName=Upstash.context7-mcp) | 58K | `1.0.1` | Real-time code and documentation access for AI assistan… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -3976,7 +4162,8 @@
 > **pflannery** — 1 extension(s) — **2.3M total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/pflannery)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Version Lens**](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens) | 2.3M | `1.22.4` | Shows the latest version for each package using code le… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Version Lens**](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens) | 2.3M | `1.22.4` | Shows the latest version for each package using code le… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -3997,7 +4184,8 @@
 > **Vira** — 1 extension(s) — **297K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/vira)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Vira Theme**](https://marketplace.visualstudio.com/items?itemName=vira.vsc-vira-theme) | 297K | `2025.10.4` | The original Material Theme is now Vira Theme |
+|:----------|:--------:|:-------:|:-----------|
+| [**Vira Theme**](https://marketplace.visualstudio.com/items?itemName=vira.vsc-vira-theme) | 297K | `2025.10.4` | The original Material Theme is now Vira Theme |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -4018,7 +4206,8 @@
 > **Vitest** — 1 extension(s) — **742K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/vitest)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Vitest**](https://marketplace.visualstudio.com/items?itemName=vitest.explorer) | 742K | `1.36.0` | A Vite-native testing framework. It's fast! |
+|:----------|:--------:|:-------:|:-----------|
+| [**Vitest**](https://marketplace.visualstudio.com/items?itemName=vitest.explorer) | 742K | `1.36.0` | A Vite-native testing framework. It's fast! |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -4039,7 +4228,8 @@
 > **Sixth** — 1 extension(s) — **181K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/Sixth)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Claude 4, GPT-5, DeepSeek R1, ChatGPT, Copilot, Cursor AI, Codex and Cline,  AI Copilot, and Debugger, AI Agents, Code Chat, Code Assistants, Code Generator, Code Completion, Autocomplete, Generative **](https://marketplace.visualstudio.com/items?itemName=Sixth.sixth-ai) | 181K | `0.0.60` | Claude 4, GPT-5, DeepSeek R1, AI Coding Assistant is a… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Claude 4, GPT-5, DeepSeek R1, ChatGPT, Copilot, Cursor AI, Codex and Cline,  AI Copilot, and Debugger, AI Agents, Code Chat, Code Assistants, Code Generator, Code Completion, Autocomplete, Generative **](https://marketplace.visualstudio.com/items?itemName=Sixth.sixth-ai) | 181K | `0.0.60` | Claude 4, GPT-5, DeepSeek R1, AI Coding Assistant is a… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -4060,7 +4250,8 @@
 > **VSCode Icons Team** — 1 extension(s) — **22.8M total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/vscode-icons-team)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**vscode-icons**](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons) | 22.8M | `12.15.0` | Icons for Visual Studio Code |
+|:----------|:--------:|:-------:|:-----------|
+| [**vscode-icons**](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons) | 22.8M | `12.15.0` | Icons for Visual Studio Code |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -4081,7 +4272,8 @@
 > **WakaTime** — 1 extension(s) — **22.9M total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/WakaTime)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**WakaTime**](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime) | 22.9M | `25.5.0` | Metrics, insights, and time tracking automatically gene… |
+|:----------|:--------:|:-------:|:-----------|
+| [**WakaTime**](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime) | 22.9M | `25.5.0` | Metrics, insights, and time tracking automatically gene… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -4102,7 +4294,8 @@
 > **puppet** — 1 extension(s) — **174K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/puppet)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Puppet**](https://marketplace.visualstudio.com/items?itemName=puppet.puppet-vscode) | 174K | `1.5.5` | Official Puppet VSCode extension. Provides full Puppet… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Puppet**](https://marketplace.visualstudio.com/items?itemName=puppet.puppet-vscode) | 174K | `1.5.5` | Official Puppet VSCode extension. Provides full Puppet… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -4123,7 +4316,8 @@
 > **NXP Semiconductors** — 1 extension(s) — **35K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/NXPSemiconductors)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**MCUXpresso for VS Code**](https://marketplace.visualstudio.com/items?itemName=NXPSemiconductors.mcuxpresso) | 35K | `25.11.16` | Make the most of your NXP processor with MCUXpresso SDK… |
+|:----------|:--------:|:-------:|:-----------|
+| [**MCUXpresso for VS Code**](https://marketplace.visualstudio.com/items?itemName=NXPSemiconductors.mcuxpresso) | 35K | `25.11.16` | Make the most of your NXP processor with MCUXpresso SDK… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -4144,7 +4338,8 @@
 > **WebNative** — 1 extension(s) — **76K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/WebNative)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**WebNative**](https://marketplace.visualstudio.com/items?itemName=WebNative.webnative) | 76K | `2.0.58` | Create and maintain web and native projects |
+|:----------|:--------:|:-------:|:-----------|
+| [**WebNative**](https://marketplace.visualstudio.com/items?itemName=WebNative.webnative) | 76K | `2.0.58` | Create and maintain web and native projects |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -4165,7 +4360,8 @@
 > **Wokwi** — 1 extension(s) — **195K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/Wokwi)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Wokwi Simulator**](https://marketplace.visualstudio.com/items?itemName=Wokwi.wokwi-vscode) | 195K | `3.0.0` | Simulator for Embedded & IoT Systems: ARM, ESP32, Ardui… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Wokwi Simulator**](https://marketplace.visualstudio.com/items?itemName=Wokwi.wokwi-vscode) | 195K | `3.0.0` | Simulator for Embedded & IoT Systems: ARM, ESP32, Ardui… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -4186,7 +4382,8 @@
 > **NV5 Geospatial Software** — 1 extension(s) — **32K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/IDL)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**IDL for VSCode**](https://marketplace.visualstudio.com/items?itemName=IDL.idl-for-vscode) | 32K | `5.1.0` | IDL syntax highlighting, code snippets, running IDL pro… |
+|:----------|:--------:|:-------:|:-----------|
+| [**IDL for VSCode**](https://marketplace.visualstudio.com/items?itemName=IDL.idl-for-vscode) | 32K | `5.1.0` | IDL syntax highlighting, code snippets, running IDL pro… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -4207,7 +4404,8 @@
 > **Modular** — 1 extension(s) — **109K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/modular-mojotools)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Mojo 🔥**](https://marketplace.visualstudio.com/items?itemName=modular-mojotools.vscode-mojo) | 109K | `26.0.3` | Mojo language support |
+|:----------|:--------:|:-------:|:-----------|
+| [**Mojo 🔥**](https://marketplace.visualstudio.com/items?itemName=modular-mojotools.vscode-mojo) | 109K | `26.0.3` | Mojo language support |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -4228,7 +4426,8 @@
 > **Vue** — 1 extension(s) — **7.2M total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/Vue)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Vue (Official)**](https://marketplace.visualstudio.com/items?itemName=Vue.volar) | 7.2M | `3.1.5` | Language Support for Vue |
+|:----------|:--------:|:-------:|:-----------|
+| [**Vue (Official)**](https://marketplace.visualstudio.com/items?itemName=Vue.volar) | 7.2M | `3.1.5` | Language Support for Vue |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -4249,7 +4448,8 @@
 > **Veracode** — 1 extension(s) — **31K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/Veracode)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Veracode Scan for VS Code**](https://marketplace.visualstudio.com/items?itemName=Veracode.veracode-vscode-plugin) | 31K | `1.15.0` | Integrates Veracode Static Analysis, Veracode Fix, and… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Veracode Scan for VS Code**](https://marketplace.visualstudio.com/items?itemName=Veracode.veracode-vscode-plugin) | 31K | `1.15.0` | Integrates Veracode Static Analysis, Veracode Fix, and… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -4270,7 +4470,8 @@
 > **1Password** — 1 extension(s) — **49K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/1Password)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**1Password**](https://marketplace.visualstudio.com/items?itemName=1Password.op-vscode) | 49K | `1.0.5` | Say goodbye to plaintext secrets in your code |
+|:----------|:--------:|:-------:|:-----------|
+| [**1Password**](https://marketplace.visualstudio.com/items?itemName=1Password.op-vscode) | 49K | `1.0.5` | Say goodbye to plaintext secrets in your code |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -4291,7 +4492,8 @@
 > **quick-lint** — 1 extension(s) — **42K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/quick-lint)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**quick-lint-js**](https://marketplace.visualstudio.com/items?itemName=quick-lint.quick-lint-js) | 42K | `3.2.0` | Find JavaScript bugs with quick-lint-js |
+|:----------|:--------:|:-------:|:-----------|
+| [**quick-lint-js**](https://marketplace.visualstudio.com/items?itemName=quick-lint.quick-lint-js) | 42K | `3.2.0` | Find JavaScript bugs with quick-lint-js |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -4312,7 +4514,8 @@
 > **CodeViz** — 1 extension(s) — **73K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/CodeViz)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**CodeViz | Visual codebase maps**](https://marketplace.visualstudio.com/items?itemName=CodeViz.codeviz) | 73K | `1.6.9` | Fast codebase understanding and navigation |
+|:----------|:--------:|:-------:|:-----------|
+| [**CodeViz | Visual codebase maps**](https://marketplace.visualstudio.com/items?itemName=CodeViz.codeviz) | 73K | `1.6.9` | Fast codebase understanding and navigation |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -4333,7 +4536,8 @@
 > **Continue** — 1 extension(s) — **1.8M total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/Continue)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Continue - open-source AI code agent**](https://marketplace.visualstudio.com/items?itemName=Continue.continue) | 1.8M | `1.3.24` | The leading open-source AI code agent |
+|:----------|:--------:|:-------:|:-----------|
+| [**Continue - open-source AI code agent**](https://marketplace.visualstudio.com/items?itemName=Continue.continue) | 1.8M | `1.3.24` | The leading open-source AI code agent |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -4354,7 +4558,8 @@
 > **Crystal Spider** — 1 extension(s) — **65K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/crystal-spider)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**JSDoc Generator**](https://marketplace.visualstudio.com/items?itemName=crystal-spider.jsdoc-generator) | 65K | `2.3.4` | Automatic JSDoc generator for TypeScript and JavaScript… |
+|:----------|:--------:|:-------:|:-----------|
+| [**JSDoc Generator**](https://marketplace.visualstudio.com/items?itemName=crystal-spider.jsdoc-generator) | 65K | `2.3.4` | Automatic JSDoc generator for TypeScript and JavaScript… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -4375,7 +4580,8 @@
 > **csharpier** — 1 extension(s) — **292K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/csharpier)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**CSharpier - Code formatter**](https://marketplace.visualstudio.com/items?itemName=csharpier.csharpier-vscode) | 292K | `2.1.0` | Code formatter using csharpier |
+|:----------|:--------:|:-------:|:-----------|
+| [**CSharpier - Code formatter**](https://marketplace.visualstudio.com/items?itemName=csharpier.csharpier-vscode) | 292K | `2.1.0` | Code formatter using csharpier |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -4396,7 +4602,8 @@
 > **Dadroit** — 1 extension(s) — **491K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/Dadroit)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Dadroit JSON Generator**](https://marketplace.visualstudio.com/items?itemName=Dadroit.dadroit-json-generator) | 491K | `1.2.2` | Generate nested sample JSON data using custom templates… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Dadroit JSON Generator**](https://marketplace.visualstudio.com/items?itemName=Dadroit.dadroit-json-generator) | 491K | `1.2.2` | Generate nested sample JSON data using custom templates… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -4417,7 +4624,8 @@
 > **dafny-lang** — 1 extension(s) — **50K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/dafny-lang)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Dafny**](https://marketplace.visualstudio.com/items?itemName=dafny-lang.ide-vscode) | 50K | `3.5.2` | Dafny for Visual Studio Code |
+|:----------|:--------:|:-------:|:-----------|
+| [**Dafny**](https://marketplace.visualstudio.com/items?itemName=dafny-lang.ide-vscode) | 50K | `3.5.2` | Dafny for Visual Studio Code |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -4438,7 +4646,8 @@
 > **Datadog** — 1 extension(s) — **55K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/Datadog)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Datadog**](https://marketplace.visualstudio.com/items?itemName=Datadog.datadog-vscode) | 55K | `2.19.0` | Bring Datadog to your code editor to accelerate your de… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Datadog**](https://marketplace.visualstudio.com/items?itemName=Datadog.datadog-vscode) | 55K | `2.19.0` | Bring Datadog to your code editor to accelerate your de… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -4459,7 +4668,8 @@
 > **DBCode** — 1 extension(s) — **109K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/DBCode)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**DBCode - Database Management**](https://marketplace.visualstudio.com/items?itemName=DBCode.dbcode) | 109K | `1.19.10` | Connect to PostgreSQL, MySQL, SQL Server, SQLite, Mongo… |
+|:----------|:--------:|:-------:|:-----------|
+| [**DBCode - Database Management**](https://marketplace.visualstudio.com/items?itemName=DBCode.dbcode) | 109K | `1.19.10` | Connect to PostgreSQL, MySQL, SQL Server, SQLite, Mongo… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -4480,7 +4690,8 @@
 > **DeepScan** — 1 extension(s) — **32K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/DeepScan)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**DeepScan**](https://marketplace.visualstudio.com/items?itemName=DeepScan.vscode-deepscan) | 32K | `1.69.3` | Detect bugs and quality issues in JavaScript, TypeScrip… |
+|:----------|:--------:|:-------:|:-----------|
+| [**DeepScan**](https://marketplace.visualstudio.com/items?itemName=DeepScan.vscode-deepscan) | 32K | `1.69.3` | Detect bugs and quality issues in JavaScript, TypeScrip… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -4501,7 +4712,8 @@
 > **denoland** — 1 extension(s) — **1.2M total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/denoland)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Deno**](https://marketplace.visualstudio.com/items?itemName=denoland.vscode-deno) | 1.2M | `3.46.1` | A language server client for Deno. |
+|:----------|:--------:|:-------:|:-----------|
+| [**Deno**](https://marketplace.visualstudio.com/items?itemName=denoland.vscode-deno) | 1.2M | `3.46.1` | A language server client for Deno. |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -4522,7 +4734,8 @@
 > **CodeScene** — 1 extension(s) — **30K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/CodeScene)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**CodeScene**](https://marketplace.visualstudio.com/items?itemName=CodeScene.codescene-vscode) | 30K | `0.20.0` | Integrates CodeScene analysis into VS Code. Keeps your… |
+|:----------|:--------:|:-------:|:-----------|
+| [**CodeScene**](https://marketplace.visualstudio.com/items?itemName=CodeScene.codescene-vscode) | 30K | `0.20.0` | Integrates CodeScene analysis into VS Code. Keeps your… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -4543,7 +4756,8 @@
 > **Fill Labs** — 1 extension(s) — **538K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/fill-labs)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Dependi**](https://marketplace.visualstudio.com/items?itemName=fill-labs.dependi) | 538K | `0.7.21` | Empowers developers to efficiently manage dependencies… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Dependi**](https://marketplace.visualstudio.com/items?itemName=fill-labs.dependi) | 538K | `0.7.21` | Empowers developers to efficiently manage dependencies… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -4564,7 +4778,8 @@
 > **DhiWise** — 1 extension(s) — **32K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/dhiwisepvtltd)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**WiseGPT (Coding Assistant by DhiWise)**](https://marketplace.visualstudio.com/items?itemName=dhiwisepvtltd.dhiwisecodesync) | 32K | `3.4.2` | WiseGPT analyzes your entire codebase to produce person… |
+|:----------|:--------:|:-------:|:-----------|
+| [**WiseGPT (Coding Assistant by DhiWise)**](https://marketplace.visualstudio.com/items?itemName=dhiwisepvtltd.dhiwisecodesync) | 32K | `3.4.2` | WiseGPT analyzes your entire codebase to produce person… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -4585,7 +4800,8 @@
 > **Diemas Michiels** — 1 extension(s) — **1.1M total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/DiemasMichiels)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Android iOS Emulator**](https://marketplace.visualstudio.com/items?itemName=DiemasMichiels.emulate) | 1.1M | `1.8.0` | Run Android emulator and iOS simulator easily from VSco… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Android iOS Emulator**](https://marketplace.visualstudio.com/items?itemName=DiemasMichiels.emulate) | 1.1M | `1.8.0` | Run Android emulator and iOS simulator easily from VSco… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -4606,7 +4822,8 @@
 > **Discloud** — 1 extension(s) — **37K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/discloud)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Discloud**](https://marketplace.visualstudio.com/items?itemName=discloud.discloud) | 37K | `2.27.9` | Somos uma plataforma de nuvem baseada em contêiner que… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Discloud**](https://marketplace.visualstudio.com/items?itemName=discloud.discloud) | 37K | `2.27.9` | Somos uma plataforma de nuvem baseada em contêiner que… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -4627,7 +4844,8 @@
 > **David Anson** — 1 extension(s) — **10M total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/DavidAnson)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**markdownlint**](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) | 10M | `0.60.0` | Markdown linting and style checking for Visual Studio C… |
+|:----------|:--------:|:-------:|:-----------|
+| [**markdownlint**](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) | 10M | `0.60.0` | Markdown linting and style checking for Visual Studio C… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -4648,7 +4866,8 @@
 > **Dracula Theme** — 1 extension(s) — **9.8M total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/dracula-theme)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Dracula Theme Official**](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula) | 9.8M | `2.25.1` | The official Dracula Theme: a dark theme for many edito… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Dracula Theme Official**](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula) | 9.8M | `2.25.1` | The official Dracula Theme: a dark theme for many edito… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -4669,7 +4888,8 @@
 > **dineug** — 1 extension(s) — **163K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/dineug)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**ERD Editor**](https://marketplace.visualstudio.com/items?itemName=dineug.vuerd-vscode) | 163K | `2.1.0` | Entity-Relationship Diagram Editor VSCode Extension |
+|:----------|:--------:|:-------:|:-----------|
+| [**ERD Editor**](https://marketplace.visualstudio.com/items?itemName=dineug.vuerd-vscode) | 163K | `2.1.0` | Entity-Relationship Diagram Editor VSCode Extension |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -4690,7 +4910,8 @@
 > **Gamunu Balagalla** — 1 extension(s) — **504K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/gamunu)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**yarn**](https://marketplace.visualstudio.com/items?itemName=gamunu.vscode-yarn) | 504K | `2.3.0` | Yarn commands for VSCode |
+|:----------|:--------:|:-------:|:-----------|
+| [**yarn**](https://marketplace.visualstudio.com/items?itemName=gamunu.vscode-yarn) | 504K | `2.3.0` | Yarn commands for VSCode |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -4711,7 +4932,8 @@
 > **Figma** — 1 extension(s) — **1.8M total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/figma)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Figma for VS Code**](https://marketplace.visualstudio.com/items?itemName=figma.figma-vscode-extension) | 1.8M | `0.4.3` | Bring Figma into the text editor. Inspect designs, rece… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Figma for VS Code**](https://marketplace.visualstudio.com/items?itemName=figma.figma-vscode-extension) | 1.8M | `0.4.3` | Bring Figma into the text editor. Inspect designs, rece… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -4732,7 +4954,8 @@
 > **Fitten Tech** — 1 extension(s) — **691K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/FittenTech)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Fitten Code : Faster and Better AI Assistant**](https://marketplace.visualstudio.com/items?itemName=FittenTech.Fitten-Code) | 691K | `1.0.1` | Super Fast and accurate AI Powered Automatic Code Gener… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Fitten Code : Faster and Better AI Assistant**](https://marketplace.visualstudio.com/items?itemName=FittenTech.Fitten-Code) | 691K | `1.0.1` | Super Fast and accurate AI Powered Automatic Code Gener… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -4753,7 +4976,8 @@
 > **Foam** — 1 extension(s) — **212K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/foam)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Foam**](https://marketplace.visualstudio.com/items?itemName=foam.foam-vscode) | 212K | `0.29.1` | VS Code + Markdown + Wikilinks for your note taking and… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Foam**](https://marketplace.visualstudio.com/items?itemName=foam.foam-vscode) | 212K | `0.29.1` | VS Code + Markdown + Wikilinks for your note taking and… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -4774,7 +4998,8 @@
 > **Design Líquido** — 1 extension(s) — **31K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/designliquido)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Design Líquido - Linguagens em Português**](https://marketplace.visualstudio.com/items?itemName=designliquido.designliquido-vscode) | 31K | `0.19.2` | Extensão de sintaxe para o Visual Studio Code nas lingu… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Design Líquido - Linguagens em Português**](https://marketplace.visualstudio.com/items?itemName=designliquido.designliquido-vscode) | 31K | `0.19.2` | Extensão de sintaxe para o Visual Studio Code nas lingu… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -4795,7 +5020,8 @@
 > **CodeSandbox** — 1 extension(s) — **187K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/CodeSandbox-io)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**CodeSandbox**](https://marketplace.visualstudio.com/items?itemName=CodeSandbox-io.codesandbox-projects) | 187K | `0.2.143` | CodeSandbox support in VSCode |
+|:----------|:--------:|:-------:|:-----------|
+| [**CodeSandbox**](https://marketplace.visualstudio.com/items?itemName=CodeSandbox-io.codesandbox-projects) | 187K | `0.2.143` | CodeSandbox support in VSCode |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -4816,7 +5042,8 @@
 > **Coder** — 1 extension(s) — **101K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/coder)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Coder**](https://marketplace.visualstudio.com/items?itemName=coder.coder-remote) | 101K | `1.11.4` | Open any workspace with a single click. |
+|:----------|:--------:|:-------:|:-----------|
+| [**Coder**](https://marketplace.visualstudio.com/items?itemName=coder.coder-remote) | 101K | `1.11.4` | Open any workspace with a single click. |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -4837,7 +5064,8 @@
 > **CodeMate AI** — 1 extension(s) — **73K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/AyushSinghal)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**CodeMate AI- Your Smartest Full Stack Coding Agent- Python, C++, C, Java, Javascript, Typescript, Ruby & 100+ languages supported**](https://marketplace.visualstudio.com/items?itemName=AyushSinghal.Code-Mate) | 73K | `3.1.2` | CodeMate AI is an on-device AI Coding Agent that helps… |
+|:----------|:--------:|:-------:|:-----------|
+| [**CodeMate AI- Your Smartest Full Stack Coding Agent- Python, C++, C, Java, Javascript, Typescript, Ruby & 100+ languages supported**](https://marketplace.visualstudio.com/items?itemName=AyushSinghal.Code-Mate) | 73K | `3.1.2` | CodeMate AI is an on-device AI Coding Agent that helps… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -4858,7 +5086,8 @@
 > **42Crunch** — 1 extension(s) — **1.3M total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/42Crunch)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**OpenAPI (Swagger) Editor**](https://marketplace.visualstudio.com/items?itemName=42Crunch.vscode-openapi) | 1.3M | `4.40.0` | OpenAPI creation, editing and preview, as well as stati… |
+|:----------|:--------:|:-------:|:-----------|
+| [**OpenAPI (Swagger) Editor**](https://marketplace.visualstudio.com/items?itemName=42Crunch.vscode-openapi) | 1.3M | `4.40.0` | OpenAPI creation, editing and preview, as well as stati… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -4879,7 +5108,8 @@
 > **Ackee Blockchain** — 1 extension(s) — **43K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/AckeeBlockchain)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Solidity (Wake)**](https://marketplace.visualstudio.com/items?itemName=AckeeBlockchain.tools-for-solidity) | 43K | `1.19.4` | Remix-like development in VS Code with real-time securi… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Solidity (Wake)**](https://marketplace.visualstudio.com/items?itemName=AckeeBlockchain.tools-for-solidity) | 43K | `1.19.4` | Remix-like development in VS Code with real-time securi… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -4900,7 +5130,8 @@
 > **Divyanshu Agrawal** — 1 extension(s) — **566K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/DivyanshuAgrawal)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Competitive Programming Helper (cph)**](https://marketplace.visualstudio.com/items?itemName=DivyanshuAgrawal.competitive-programming-helper) | 566K | `2025.10.1761074305` | Makes judging, compiling, and downloading problems for… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Competitive Programming Helper (cph)**](https://marketplace.visualstudio.com/items?itemName=DivyanshuAgrawal.competitive-programming-helper) | 566K | `2025.10.1761074305` | Makes judging, compiling, and downloading problems for… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -4921,7 +5152,8 @@
 > **Kim seungtae** — 1 extension(s) — **28K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/Kimseungtae)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**AICodeHelper**](https://marketplace.visualstudio.com/items?itemName=Kimseungtae.aicodehelper) | 28K | `0.0.103` | AI-based coding assistant |
+|:----------|:--------:|:-------:|:-----------|
+| [**AICodeHelper**](https://marketplace.visualstudio.com/items?itemName=Kimseungtae.aicodehelper) | 28K | `0.0.103` | AI-based coding assistant |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -4942,7 +5174,8 @@
 > **AMIQ EDA s.r.l.** — 1 extension(s) — **44K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/amiq)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**DVT IDE for Verilog/SystemVerilog/VHDL/e Language**](https://marketplace.visualstudio.com/items?itemName=amiq.dvt) | 44K | `25.3.21` | Verilog, SystemVerilog, Verilog-AMS, VHDL and e Languag… |
+|:----------|:--------:|:-------:|:-----------|
+| [**DVT IDE for Verilog/SystemVerilog/VHDL/e Language**](https://marketplace.visualstudio.com/items?itemName=amiq.dvt) | 44K | `25.3.21` | Verilog, SystemVerilog, Verilog-AMS, VHDL and e Languag… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -4963,7 +5196,8 @@
 > **Angular** — 1 extension(s) — **9M total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/Angular)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Angular Language Service**](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template) | 9M | `21.0.0` | Editor services for Angular templates |
+|:----------|:--------:|:-------:|:-----------|
+| [**Angular Language Service**](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template) | 9M | `21.0.0` | Editor services for Angular templates |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -4984,7 +5218,8 @@
 > **AnimaApp** — 1 extension(s) — **52K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/AnimaApp)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Frontier: Figma to React, leveraging your own design system and components**](https://marketplace.visualstudio.com/items?itemName=AnimaApp.vscode-anima) | 52K | `1.3.12` | The first AI Coding assistant, tailored for frontend. C… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Frontier: Figma to React, leveraging your own design system and components**](https://marketplace.visualstudio.com/items?itemName=AnimaApp.vscode-anima) | 52K | `1.3.12` | The first AI Coding assistant, tailored for frontend. C… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -5005,7 +5240,8 @@
 > **Anthropic** — 1 extension(s) — **2.1M total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/anthropic)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Claude Code for VS Code**](https://marketplace.visualstudio.com/items?itemName=anthropic.claude-code) | 2.1M | `2.0.59` | Claude Code for VS Code: Harness the power of Claude Co… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Claude Code for VS Code**](https://marketplace.visualstudio.com/items?itemName=anthropic.claude-code) | 2.1M | `2.0.59` | Claude Code for VS Code: Harness the power of Claude Co… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -5026,7 +5262,8 @@
 > **Apache Software Foundation** — 1 extension(s) — **272K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/ASF)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Language Server for Java by Apache NetBeans**](https://marketplace.visualstudio.com/items?itemName=ASF.apache-netbeans-java) | 272K | `27.0.1` | Apache NetBeans Language Server Extension for Visual St… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Language Server for Java by Apache NetBeans**](https://marketplace.visualstudio.com/items?itemName=ASF.apache-netbeans-java) | 272K | `27.0.1` | Apache NetBeans Language Server Extension for Visual St… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -5047,7 +5284,8 @@
 > **AppMap** — 1 extension(s) — **66K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/appland)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**AppMap**](https://marketplace.visualstudio.com/items?itemName=appland.appmap) | 66K | `0.140.0` | AI-driven chat with a deep understanding of your code.… |
+|:----------|:--------:|:-------:|:-----------|
+| [**AppMap**](https://marketplace.visualstudio.com/items?itemName=appland.appmap) | 66K | `0.140.0` | AI-driven chat with a deep understanding of your code.… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -5068,7 +5306,8 @@
 > **asciidoctor** — 1 extension(s) — **641K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/asciidoctor)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**AsciiDoc**](https://marketplace.visualstudio.com/items?itemName=asciidoctor.asciidoctor-vscode) | 641K | `3.4.5` | Provides rich language support for AsciiDoc. |
+|:----------|:--------:|:-------:|:-----------|
+| [**AsciiDoc**](https://marketplace.visualstudio.com/items?itemName=asciidoctor.asciidoctor-vscode) | 641K | `3.4.5` | Provides rich language support for AsciiDoc. |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -5089,7 +5328,8 @@
 > **Astral Software** — 1 extension(s) — **2.7M total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/charliermarsh)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Ruff**](https://marketplace.visualstudio.com/items?itemName=charliermarsh.ruff) | 2.7M | `2025.32.0` | A Visual Studio Code extension with support for the Ruf… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Ruff**](https://marketplace.visualstudio.com/items?itemName=charliermarsh.ruff) | 2.7M | `2025.32.0` | A Visual Studio Code extension with support for the Ruf… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -5110,7 +5350,8 @@
 > **Augment Computing** — 1 extension(s) — **649K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/augment)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Augment Code: AI Coding Agent for JavaScript, Go, TypeScript, Python & more**](https://marketplace.visualstudio.com/items?itemName=augment.vscode-augment) | 649K | `0.658.0` | Augment is an AI copilot with a superior context engine… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Augment Code: AI Coding Agent for JavaScript, Go, TypeScript, Python & more**](https://marketplace.visualstudio.com/items?itemName=augment.vscode-augment) | 649K | `0.658.0` | Augment is an AI copilot with a superior context engine… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -5131,7 +5372,8 @@
 > **The Bazel Team** — 1 extension(s) — **775K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/BazelBuild)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Bazel**](https://marketplace.visualstudio.com/items?itemName=BazelBuild.vscode-bazel) | 775K | `0.12.0` | Bazel BUILD integration |
+|:----------|:--------:|:-------:|:-----------|
+| [**Bazel**](https://marketplace.visualstudio.com/items?itemName=BazelBuild.vscode-bazel) | 775K | `0.12.0` | Bazel BUILD integration |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -5152,7 +5394,8 @@
 > **biomejs** — 1 extension(s) — **518K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/biomejs)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Biome**](https://marketplace.visualstudio.com/items?itemName=biomejs.biome) | 518K | `2025.11.271431` | Toolchain of the web |
+|:----------|:--------:|:-------:|:-----------|
+| [**Biome**](https://marketplace.visualstudio.com/items?itemName=biomejs.biome) | 518K | `2025.11.271431` | Toolchain of the web |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -5173,7 +5416,8 @@
 > **Bito** — 1 extension(s) — **918K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/Bito)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Bito AI Code Reviews**](https://marketplace.visualstudio.com/items?itemName=Bito.Bito) | 918K | `1.6.4` | Agentic, codebase-aware AI Code Reviews in your IDE. Bi… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Bito AI Code Reviews**](https://marketplace.visualstudio.com/items?itemName=Bito.Bito) | 918K | `1.6.4` | Agentic, codebase-aware AI Code Reviews in your IDE. Bi… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -5194,7 +5438,8 @@
 > **Brandon Fowler** — 1 extension(s) — **502K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/brandonfowler)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**exe Runner**](https://marketplace.visualstudio.com/items?itemName=brandonfowler.exe-runner) | 502K | `1.1.1` | Run .exe files directly from Visual Studio Code |
+|:----------|:--------:|:-------:|:-----------|
+| [**exe Runner**](https://marketplace.visualstudio.com/items?itemName=brandonfowler.exe-runner) | 502K | `1.1.1` | Run .exe files directly from Visual Studio Code |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -5215,7 +5460,8 @@
 > **Buf** — 1 extension(s) — **67K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/bufbuild)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Buf**](https://marketplace.visualstudio.com/items?itemName=bufbuild.vscode-buf) | 67K | `0.8.1` | Visual Studio Code support for Buf |
+|:----------|:--------:|:-------:|:-----------|
+| [**Buf**](https://marketplace.visualstudio.com/items?itemName=bufbuild.vscode-buf) | 67K | `0.8.1` | Visual Studio Code support for Buf |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -5236,7 +5482,8 @@
 > **Oven** — 1 extension(s) — **206K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/oven)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Bun for Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=oven.bun-vscode) | 206K | `0.0.32` | The Visual Studio Code extension for Bun. |
+|:----------|:--------:|:-------:|:-----------|
+| [**Bun for Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=oven.bun-vscode) | 206K | `0.0.32` | The Visual Studio Code extension for Bun. |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -5257,7 +5504,8 @@
 > **Certinia** — 1 extension(s) — **991K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/financialforce)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Apex Log Analyzer**](https://marketplace.visualstudio.com/items?itemName=financialforce.lana) | 991K | `1.19.20251204` | Salesforce Apex Debug Log Analyzer: Blazing-fast VS Cod… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Apex Log Analyzer**](https://marketplace.visualstudio.com/items?itemName=financialforce.lana) | 991K | `1.19.20251204` | Salesforce Apex Debug Log Analyzer: Blazing-fast VS Cod… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -5278,7 +5526,8 @@
 > **Chris Dias** — 1 extension(s) — **166K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/chrisdias)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Open Folder Context Menus for VS Code**](https://marketplace.visualstudio.com/items?itemName=chrisdias.vscode-opennewinstance) | 166K | `0.0.15` | Quickly open a new instance of VS Code from the Explore… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Open Folder Context Menus for VS Code**](https://marketplace.visualstudio.com/items?itemName=chrisdias.vscode-opennewinstance) | 166K | `0.0.15` | Quickly open a new instance of VS Code from the Explore… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -5299,7 +5548,8 @@
 > **CircleCI** — 1 extension(s) — **97K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/circleci)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**CircleCI**](https://marketplace.visualstudio.com/items?itemName=circleci.circleci) | 97K | `2.11.1` | The official CircleCI extension to create and manage yo… |
+|:----------|:--------:|:-------:|:-----------|
+| [**CircleCI**](https://marketplace.visualstudio.com/items?itemName=circleci.circleci) | 97K | `2.11.1` | The official CircleCI extension to create and manage yo… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -5320,7 +5570,8 @@
 > **Cline** — 1 extension(s) — **2.7M total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/saoudrizwan)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Cline**](https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev) | 2.7M | `3.40.0` | Autonomous coding agent right in your IDE, capable of c… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Cline**](https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev) | 2.7M | `3.40.0` | Autonomous coding agent right in your IDE, capable of c… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -5341,7 +5592,8 @@
 > **Fooxly** — 1 extension(s) — **29K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/Fooxly)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Workspace**](https://marketplace.visualstudio.com/items?itemName=Fooxly.workspace) | 29K | `1.3.1` | A more focused view on your files |
+|:----------|:--------:|:-------:|:-----------|
+| [**Workspace**](https://marketplace.visualstudio.com/items?itemName=Fooxly.workspace) | 29K | `1.3.1` | A more focused view on your files |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -5362,7 +5614,8 @@
 > **Raspberry Pi** — 1 extension(s) — **180K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/raspberry-pi)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Raspberry Pi Pico**](https://marketplace.visualstudio.com/items?itemName=raspberry-pi.raspberry-pi-pico) | 180K | `0.19.0` | The official VS Code extension for Raspberry Pi Pico de… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Raspberry Pi Pico**](https://marketplace.visualstudio.com/items?itemName=raspberry-pi.raspberry-pi-pico) | 180K | `0.19.0` | The official VS Code extension for Raspberry Pi Pico de… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -5383,7 +5636,8 @@
 > **The Fortran Programming Language** — 1 extension(s) — **543K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/fortran-lang)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Modern Fortran**](https://marketplace.visualstudio.com/items?itemName=fortran-lang.linter-gfortran) | 543K | `3.4.2025101501` | Fortran language support, syntax highlighting, Language… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Modern Fortran**](https://marketplace.visualstudio.com/items?itemName=fortran-lang.linter-gfortran) | 543K | `3.4.2025101501` | Fortran language support, syntax highlighting, Language… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -5404,7 +5658,8 @@
 > **GitKraken** — 1 extension(s) — **45.8M total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/eamodio)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**GitLens — Git supercharged**](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) | 45.8M | `2025.12.510` | Supercharge Git within VS Code — Visualize code authors… |
+|:----------|:--------:|:-------:|:-----------|
+| [**GitLens — Git supercharged**](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) | 45.8M | `2025.12.510` | Supercharge Git within VS Code — Visualize code authors… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -5425,7 +5680,8 @@
 > **Nomic Foundation** — 1 extension(s) — **392K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/NomicFoundation)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Solidity**](https://marketplace.visualstudio.com/items?itemName=NomicFoundation.hardhat-solidity) | 392K | `0.8.26` | Solidity and Hardhat support by the Hardhat team |
+|:----------|:--------:|:-------:|:-----------|
+| [**Solidity**](https://marketplace.visualstudio.com/items?itemName=NomicFoundation.hardhat-solidity) | 392K | `0.8.26` | Solidity and Hardhat support by the Hardhat team |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -5446,7 +5702,8 @@
 > **nrwl** — 1 extension(s) — **2.1M total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/nrwl)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Nx Console**](https://marketplace.visualstudio.com/items?itemName=nrwl.angular-console) | 2.1M | `18.81.0` | The UI for Monorepos, providing visual workflows and en… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Nx Console**](https://marketplace.visualstudio.com/items?itemName=nrwl.angular-console) | 2.1M | `18.81.0` | The UI for Monorepos, providing visual workflows and en… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -5467,7 +5724,8 @@
 > **Odoo** — 1 extension(s) — **30K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/Odoo)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Odoo**](https://marketplace.visualstudio.com/items?itemName=Odoo.odoo) | 30K | `1.1.1` | Language Server for Odoo projects |
+|:----------|:--------:|:-------:|:-----------|
+| [**Odoo**](https://marketplace.visualstudio.com/items?itemName=Odoo.odoo) | 30K | `1.1.1` | Language Server for Odoo projects |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -5488,7 +5746,8 @@
 > **Okteto** — 1 extension(s) — **81K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/okteto)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Remote - Kubernetes**](https://marketplace.visualstudio.com/items?itemName=okteto.remote-kubernetes) | 81K | `0.5.3` | Remote Kubernetes Development in VS Code with Okteto |
+|:----------|:--------:|:-------:|:-----------|
+| [**Remote - Kubernetes**](https://marketplace.visualstudio.com/items?itemName=okteto.remote-kubernetes) | 81K | `0.5.3` | Remote Kubernetes Development in VS Code with Okteto |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -5509,7 +5768,8 @@
 > **OpenAI** — 1 extension(s) — **2.4M total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/openai)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Codex – OpenAI’s coding agent**](https://marketplace.visualstudio.com/items?itemName=openai.chatgpt) | 2.4M | `0.5.49` | Codex is a coding agent that works with you everywhere… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Codex – OpenAI’s coding agent**](https://marketplace.visualstudio.com/items?itemName=openai.chatgpt) | 2.4M | `0.5.49` | Codex is a coding agent that works with you everywhere… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -5530,7 +5790,8 @@
 > **Open Liberty** — 1 extension(s) — **48K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/Open-Liberty)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Liberty Tools**](https://marketplace.visualstudio.com/items?itemName=Open-Liberty.liberty-dev-vscode-ext) | 48K | `25.0.11` | Liberty Tools for Visual Studio Code |
+|:----------|:--------:|:-------:|:-----------|
+| [**Liberty Tools**](https://marketplace.visualstudio.com/items?itemName=Open-Liberty.liberty-dev-vscode-ext) | 48K | `25.0.11` | Liberty Tools for Visual Studio Code |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -5551,7 +5812,8 @@
 > **opista** — 1 extension(s) — **61K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/beaugust)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**SVN Blamer**](https://marketplace.visualstudio.com/items?itemName=beaugust.blamer-vs) | 61K | `0.7.3` | Visually blame SVN-stored code line-by-line |
+|:----------|:--------:|:-------:|:-----------|
+| [**SVN Blamer**](https://marketplace.visualstudio.com/items?itemName=beaugust.blamer-vs) | 61K | `0.7.3` | Visually blame SVN-stored code line-by-line |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -5572,7 +5834,8 @@
 > **oxc** — 1 extension(s) — **70K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/oxc)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Oxc**](https://marketplace.visualstudio.com/items?itemName=oxc.oxc-vscode) | 70K | `1.31.0` | oxc vs code extension |
+|:----------|:--------:|:-------:|:-----------|
+| [**Oxc**](https://marketplace.visualstudio.com/items?itemName=oxc.oxc-vscode) | 70K | `1.31.0` | oxc vs code extension |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -5593,7 +5856,8 @@
 > **paiqo** — 1 extension(s) — **134K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/paiqo)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Databricks Power Tools**](https://marketplace.visualstudio.com/items?itemName=paiqo.databricks-vscode) | 134K | `2.8.3` | Run notebooks cell-by-cell, browse and edit your Databr… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Databricks Power Tools**](https://marketplace.visualstudio.com/items?itemName=paiqo.databricks-vscode) | 134K | `2.8.3` | Run notebooks cell-by-cell, browse and edit your Databr… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -5614,7 +5878,8 @@
 > **Parallels Desktop** — 1 extension(s) — **148K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/ParallelsDesktop)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Parallels Desktop**](https://marketplace.visualstudio.com/items?itemName=ParallelsDesktop.parallels-desktop) | 148K | `1.5.6` | Manage Parallels Desktop virtual machines, their snapsh… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Parallels Desktop**](https://marketplace.visualstudio.com/items?itemName=ParallelsDesktop.parallels-desktop) | 148K | `1.5.6` | Manage Parallels Desktop virtual machines, their snapsh… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -5635,7 +5900,8 @@
 > **Nextflow** — 1 extension(s) — **51K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/nextflow)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Nextflow**](https://marketplace.visualstudio.com/items?itemName=nextflow.nextflow) | 51K | `1.6.0` | Nextflow language support |
+|:----------|:--------:|:-------:|:-----------|
+| [**Nextflow**](https://marketplace.visualstudio.com/items?itemName=nextflow.nextflow) | 51K | `1.6.0` | Nextflow language support |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -5656,7 +5922,8 @@
 > **ziglang** — 1 extension(s) — **204K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/ziglang)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Zig Language**](https://marketplace.visualstudio.com/items?itemName=ziglang.vscode-zig) | 204K | `0.6.17` | Language support for the Zig programming language |
+|:----------|:--------:|:-------:|:-----------|
+| [**Zig Language**](https://marketplace.visualstudio.com/items?itemName=ziglang.vscode-zig) | 204K | `0.6.17` | Language support for the Zig programming language |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -5677,7 +5944,8 @@
 > **PD Consulting** — 1 extension(s) — **598K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/pdconsec)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Print**](https://marketplace.visualstudio.com/items?itemName=pdconsec.vscode-print) | 598K | `1.6.0` | Rendered Markdown, coloured code. |
+|:----------|:--------:|:-------:|:-----------|
+| [**Print**](https://marketplace.visualstudio.com/items?itemName=pdconsec.vscode-print) | 598K | `1.6.0` | Rendered Markdown, coloured code. |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -5698,7 +5966,8 @@
 > **Mesh Intelligent Technologies - Inc.** — 1 extension(s) — **138K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/MeshIntelligentTechnologiesInc)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Pieces for VS Code**](https://marketplace.visualstudio.com/items?itemName=MeshIntelligentTechnologiesInc.pieces-vscode) | 138K | `3.0.1` | An on-device storage agent and AI coding assistant inte… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Pieces for VS Code**](https://marketplace.visualstudio.com/items?itemName=MeshIntelligentTechnologiesInc.pieces-vscode) | 138K | `3.0.1` | An on-device storage agent and AI coding assistant inte… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -5719,7 +5988,8 @@
 > **Uno Platform** — 1 extension(s) — **40K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/unoplatform)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Uno Platform**](https://marketplace.visualstudio.com/items?itemName=unoplatform.vscode) | 40K | `0.23.6` | Uno Platform Projects XAML Completion, Hot Reload and D… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Uno Platform**](https://marketplace.visualstudio.com/items?itemName=unoplatform.vscode) | 40K | `0.23.6` | Uno Platform Projects XAML Completion, Hot Reload and D… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -5740,7 +6010,8 @@
 > **PlatformIO** — 1 extension(s) — **6.1M total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/platformio)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**PlatformIO IDE**](https://marketplace.visualstudio.com/items?itemName=platformio.platformio-ide) | 6.1M | `3.3.4` | Your Gateway to Embedded Software Development Excellenc… |
+|:----------|:--------:|:-------:|:-----------|
+| [**PlatformIO IDE**](https://marketplace.visualstudio.com/items?itemName=platformio.platformio-ide) | 6.1M | `3.3.4` | Your Gateway to Embedded Software Development Excellenc… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -5761,7 +6032,8 @@
 > **Posit** — 1 extension(s) — **34K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/Posit)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Shiny**](https://marketplace.visualstudio.com/items?itemName=Posit.shiny) | 34K | `1.3.2` | Run and develop Shiny apps in Python or R. |
+|:----------|:--------:|:-------:|:-----------|
+| [**Shiny**](https://marketplace.visualstudio.com/items?itemName=Posit.shiny) | 34K | `1.3.2` | Run and develop Shiny apps in Python or R. |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -5782,7 +6054,8 @@
 > **Postman** — 1 extension(s) — **2.1M total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/Postman)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Postman**](https://marketplace.visualstudio.com/items?itemName=Postman.postman-for-vscode) | 2.1M | `1.18.0` | Streamline API development and testing with the power o… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Postman**](https://marketplace.visualstudio.com/items?itemName=Postman.postman-for-vscode) | 2.1M | `1.18.0` | Streamline API development and testing with the power o… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -5803,7 +6076,8 @@
 > **Pulumi** — 1 extension(s) — **32K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/pulumi)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Pulumi YAML**](https://marketplace.visualstudio.com/items?itemName=pulumi.pulumi-lsp-client) | 32K | `0.3.2024091924` | IntelliSense and Linting for Pulumi YAML in VSCode |
+|:----------|:--------:|:-------:|:-----------|
+| [**Pulumi YAML**](https://marketplace.visualstudio.com/items?itemName=pulumi.pulumi-lsp-client) | 32K | `0.3.2024091924` | IntelliSense and Linting for Pulumi YAML in VSCode |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -5824,7 +6098,8 @@
 > **Purecode AI** — 1 extension(s) — **29K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/PurecodeAI)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Purecode AI - AI Coding Agent for Legacy Codebases**](https://marketplace.visualstudio.com/items?itemName=PurecodeAI.purecode-ai) | 29K | `5.2.2` |  The secure AI coding agent is built for enterprises an… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Purecode AI - AI Coding Agent for Legacy Codebases**](https://marketplace.visualstudio.com/items?itemName=PurecodeAI.purecode-ai) | 29K | `5.2.2` |  The secure AI coding agent is built for enterprises an… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -5845,7 +6120,8 @@
 > **Qodo (formerly Codium)** — 1 extension(s) — **793K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/Codium)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Qodo: AI Code Review**](https://marketplace.visualstudio.com/items?itemName=Codium.codium) | 793K | `1.7.6` | Qodo is the AI code review platform that catches bugs e… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Qodo: AI Code Review**](https://marketplace.visualstudio.com/items?itemName=Codium.codium) | 793K | `1.7.6` | Qodo is the AI code review platform that catches bugs e… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -5866,7 +6142,8 @@
 > **Quarto** — 1 extension(s) — **298K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/quarto)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Quarto**](https://marketplace.visualstudio.com/items?itemName=quarto.quarto) | 298K | `1.126.0` | Extension for the Quarto scientific and technical publi… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Quarto**](https://marketplace.visualstudio.com/items?itemName=quarto.quarto) | 298K | `1.126.0` | Extension for the Quarto scientific and technical publi… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -5887,7 +6164,8 @@
 > **Pbkit** — 1 extension(s) — **104K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/pbkit)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Protobuf (Protocol Buffers)**](https://marketplace.visualstudio.com/items?itemName=pbkit.vscode-pbkit) | 104K | `0.0.8` | Syntax highlight, Go to definition and Auto completion. |
+|:----------|:--------:|:-------:|:-----------|
+| [**Protobuf (Protocol Buffers)**](https://marketplace.visualstudio.com/items?itemName=pbkit.vscode-pbkit) | 104K | `0.0.8` | Syntax highlight, Go to definition and Auto completion. |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -5908,7 +6186,8 @@
 > **New Relic** — 1 extension(s) — **386K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/CodeStream)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**New Relic CodeStream**](https://marketplace.visualstudio.com/items?itemName=CodeStream.codestream) | 386K | `16.2.0` | Bring production telemetry into your IDE to quickly ide… |
+|:----------|:--------:|:-------:|:-----------|
+| [**New Relic CodeStream**](https://marketplace.visualstudio.com/items?itemName=CodeStream.codestream) | 386K | `16.2.0` | Bring production telemetry into your IDE to quickly ide… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -5929,7 +6208,8 @@
 > **NativeScript** — 1 extension(s) — **221K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/NativeScript)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**NativeScript**](https://marketplace.visualstudio.com/items?itemName=NativeScript.nativescript) | 221K | `0.12.5` | NativeScript support for Visual Studio Code |
+|:----------|:--------:|:-------:|:-----------|
+| [**NativeScript**](https://marketplace.visualstudio.com/items?itemName=NativeScript.nativescript) | 221K | `0.12.5` | NativeScript support for Visual Studio Code |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -5950,7 +6230,8 @@
 > **monokai** — 1 extension(s) — **3.8M total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/monokai)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Monokai Pro**](https://marketplace.visualstudio.com/items?itemName=monokai.theme-monokai-pro-vscode) | 3.8M | `2.0.10` | ✨ Professional dark & light theme + icon pack, from the… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Monokai Pro**](https://marketplace.visualstudio.com/items?itemName=monokai.theme-monokai-pro-vscode) | 3.8M | `2.0.10` | ✨ Professional dark & light theme + icon pack, from the… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -5971,7 +6252,8 @@
 > **GitLab** — 1 extension(s) — **2.7M total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/GitLab)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**GitLab Workflow**](https://marketplace.visualstudio.com/items?itemName=GitLab.gitlab-workflow) | 2.7M | `6.60.0` | Official GitLab-maintained extension for Visual Studio… |
+|:----------|:--------:|:-------:|:-----------|
+| [**GitLab Workflow**](https://marketplace.visualstudio.com/items?itemName=GitLab.gitlab-workflow) | 2.7M | `6.60.0` | Official GitLab-maintained extension for Visual Studio… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -5992,7 +6274,8 @@
 > **Grafana** — 1 extension(s) — **106K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/Grafana)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Jsonnet Language Server**](https://marketplace.visualstudio.com/items?itemName=Grafana.vscode-jsonnet) | 106K | `0.7.2` | Full code support (formatting, highlighting, navigation… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Jsonnet Language Server**](https://marketplace.visualstudio.com/items?itemName=Grafana.vscode-jsonnet) | 106K | `0.7.2` | Full code support (formatting, highlighting, navigation… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -6013,7 +6296,8 @@
 > **HTMLHint** — 1 extension(s) — **642K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/HTMLHint)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**HTMLHint**](https://marketplace.visualstudio.com/items?itemName=HTMLHint.vscode-htmlhint) | 642K | `1.15.1` | VS Code integration for HTMLHint - A Static Code Analys… |
+|:----------|:--------:|:-------:|:-----------|
+| [**HTMLHint**](https://marketplace.visualstudio.com/items?itemName=HTMLHint.vscode-htmlhint) | 642K | `1.15.1` | VS Code integration for HTMLHint - A Static Code Analys… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -6034,7 +6318,8 @@
 > **Hugging Face** — 1 extension(s) — **71K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/HuggingFace)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**llm-vscode**](https://marketplace.visualstudio.com/items?itemName=HuggingFace.huggingface-vscode) | 71K | `0.2.2` | LLM powered development for VS Code |
+|:----------|:--------:|:-------:|:-----------|
+| [**llm-vscode**](https://marketplace.visualstudio.com/items?itemName=HuggingFace.huggingface-vscode) | 71K | `0.2.2` | LLM powered development for VS Code |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -6055,7 +6340,8 @@
 > **Infracost** — 1 extension(s) — **32K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/Infracost)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Infracost**](https://marketplace.visualstudio.com/items?itemName=Infracost.infracost) | 32K | `0.2.32` | Cloud cost estimates for Terraform in your editor |
+|:----------|:--------:|:-------:|:-----------|
+| [**Infracost**](https://marketplace.visualstudio.com/items?itemName=Infracost.infracost) | 32K | `0.2.32` | Cloud cost estimates for Terraform in your editor |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -6076,7 +6362,8 @@
 > **Intelephense** — 1 extension(s) — **16.3M total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/bmewburn)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**PHP Intelephense**](https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client) | 16.3M | `1.16.2` | PHP code intelligence for Visual Studio Code |
+|:----------|:--------:|:-------:|:-----------|
+| [**PHP Intelephense**](https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client) | 16.3M | `1.16.2` | PHP code intelligence for Visual Studio Code |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -6097,7 +6384,8 @@
 > **InterSystems Corporation** — 1 extension(s) — **65K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/intersystems)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**InterSystems Language Server**](https://marketplace.visualstudio.com/items?itemName=intersystems.language-server) | 65K | `2.8.0` | A language server for InterSystems ObjectScript. |
+|:----------|:--------:|:-------:|:-----------|
+| [**InterSystems Language Server**](https://marketplace.visualstudio.com/items?itemName=intersystems.language-server) | 65K | `2.8.0` | A language server for InterSystems ObjectScript. |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -6118,7 +6406,8 @@
 > **Ionic** — 1 extension(s) — **590K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/ionic)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Ionic**](https://marketplace.visualstudio.com/items?itemName=ionic.ionic) | 590K | `1.105.0` | Official extension for Ionic and Capacitor development |
+|:----------|:--------:|:-------:|:-----------|
+| [**Ionic**](https://marketplace.visualstudio.com/items?itemName=ionic.ionic) | 590K | `1.105.0` | Official extension for Ionic and Capacitor development |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -6139,7 +6428,8 @@
 > **Iterative** — 1 extension(s) — **82K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/Iterative)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**DVC**](https://marketplace.visualstudio.com/items?itemName=Iterative.dvc) | 82K | `1.2.30` | Machine learning experiment management with tracking, p… |
+|:----------|:--------:|:-------:|:-----------|
+| [**DVC**](https://marketplace.visualstudio.com/items?itemName=Iterative.dvc) | 82K | `1.2.30` | Machine learning experiment management with tracking, p… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -6160,7 +6450,8 @@
 > **Iulian Radu** — 1 extension(s) — **85K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/iulian-radu-at)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Find unused exports**](https://marketplace.visualstudio.com/items?itemName=iulian-radu-at.find-unused-exports) | 85K | `2.4.0` | A Visual Studio Code extension for displaying all unuse… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Find unused exports**](https://marketplace.visualstudio.com/items?itemName=iulian-radu-at.find-unused-exports) | 85K | `2.4.0` | A Visual Studio Code extension for displaying all unuse… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -6181,7 +6472,8 @@
 > **Aykut Saraç** — 1 extension(s) — **612K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/AykutSarac)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**JSON Crack**](https://marketplace.visualstudio.com/items?itemName=AykutSarac.jsoncrack-vscode) | 612K | `5.0.0` | Visualize your JSON data into diagrams. |
+|:----------|:--------:|:-------:|:-----------|
+| [**JSON Crack**](https://marketplace.visualstudio.com/items?itemName=AykutSarac.jsoncrack-vscode) | 612K | `5.0.0` | Visualize your JSON data into diagrams. |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -6202,7 +6494,8 @@
 > **julialang** — 1 extension(s) — **980K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/julialang)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Julia**](https://marketplace.visualstudio.com/items?itemName=julialang.language-julia) | 980K | `1.161.1` | Julia Language Support |
+|:----------|:--------:|:-------:|:-----------|
+| [**Julia**](https://marketplace.visualstudio.com/items?itemName=julialang.language-julia) | 980K | `1.161.1` | Julia Language Support |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -6223,7 +6516,8 @@
 > **Keploy Unit and API Test Generator using AI** — 1 extension(s) — **1M total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/Keploy)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Keploy: AI Testing Assistant for Developers – Supercharge Unit, Integration, and API Testing in Python, JavaScript, TypeScript, Java, PHP, Go, and More**](https://marketplace.visualstudio.com/items?itemName=Keploy.keployio) | 1M | `2.1.7` | Keploy: AI Testing Assistant for Developers helps with… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Keploy: AI Testing Assistant for Developers – Supercharge Unit, Integration, and API Testing in Python, JavaScript, TypeScript, Java, PHP, Go, and More**](https://marketplace.visualstudio.com/items?itemName=Keploy.keployio) | 1M | `2.1.7` | Keploy: AI Testing Assistant for Developers helps with… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -6244,7 +6538,8 @@
 > **Kilo Code** — 1 extension(s) — **536K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/kilocode)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Kilo Code AI Agent**](https://marketplace.visualstudio.com/items?itemName=kilocode.Kilo-Code) | 536K | `4.130.1` | Open Source AI coding assistant for planning, building,… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Kilo Code AI Agent**](https://marketplace.visualstudio.com/items?itemName=kilocode.Kilo-Code) | 536K | `4.130.1` | Open Source AI coding assistant for planning, building,… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -6265,7 +6560,8 @@
 > **Laravel** — 1 extension(s) — **370K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/laravel)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Laravel**](https://marketplace.visualstudio.com/items?itemName=laravel.vscode-laravel) | 370K | `1.2.1` | Official VS Code extension for Laravel |
+|:----------|:--------:|:-------:|:-----------|
+| [**Laravel**](https://marketplace.visualstudio.com/items?itemName=laravel.vscode-laravel) | 370K | `1.2.1` | Official VS Code extension for Laravel |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -6286,7 +6582,8 @@
 > **Lightrun** — 1 extension(s) — **42K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/Lightrun)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Lightrun**](https://marketplace.visualstudio.com/items?itemName=Lightrun.lightrunplugin-saas) | 42K | `1.73.0` | Easily observe and debug live production applications. |
+|:----------|:--------:|:-------:|:-----------|
+| [**Lightrun**](https://marketplace.visualstudio.com/items?itemName=Lightrun.lightrunplugin-saas) | 42K | `1.73.0` | Easily observe and debug live production applications. |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -6307,7 +6604,8 @@
 > **Marabesi** — 1 extension(s) — **162K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/marabesi)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**PHP import checker**](https://marketplace.visualstudio.com/items?itemName=marabesi.php-import-checker) | 162K | `0.11.0` | Know when you are importing a class and is not using it… |
+|:----------|:--------:|:-------:|:-----------|
+| [**PHP import checker**](https://marketplace.visualstudio.com/items?itemName=marabesi.php-import-checker) | 162K | `0.11.0` | Know when you are importing a class and is not using it… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -6328,7 +6626,8 @@
 > **marimo.io** — 1 extension(s) — **28K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/marimo-team)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**marimo**](https://marketplace.visualstudio.com/items?itemName=marimo-team.vscode-marimo) | 28K | `0.8.4` | A marimo notebook extension for VS Code. |
+|:----------|:--------:|:-------:|:-----------|
+| [**marimo**](https://marketplace.visualstudio.com/items?itemName=marimo-team.vscode-marimo) | 28K | `0.8.4` | A marimo notebook extension for VS Code. |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -6349,7 +6648,8 @@
 > **Marp team** — 1 extension(s) — **628K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/marp-team)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Marp for VS Code**](https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode) | 628K | `3.3.0` | Create slide deck written in Marp Markdown on VS Code |
+|:----------|:--------:|:-------:|:-----------|
+| [**Marp for VS Code**](https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode) | 628K | `3.3.0` | Create slide deck written in Marp Markdown on VS Code |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -6370,7 +6670,8 @@
 > **Mermaid Chart** — 1 extension(s) — **289K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/MermaidChart)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Mermaid Chart**](https://marketplace.visualstudio.com/items?itemName=MermaidChart.vscode-mermaid-chart) | 289K | `2.5.6` | The "official" Mermaid Editor plugin by the Mermaid ope… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Mermaid Chart**](https://marketplace.visualstudio.com/items?itemName=MermaidChart.vscode-mermaid-chart) | 289K | `2.5.6` | The "official" Mermaid Editor plugin by the Mermaid ope… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -6391,7 +6692,8 @@
 > **Meta** — 1 extension(s) — **192K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/meta)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Relay GraphQL**](https://marketplace.visualstudio.com/items?itemName=meta.relay) | 192K | `2.5.1` | Relay-powered IDE experience |
+|:----------|:--------:|:-------:|:-----------|
+| [**Relay GraphQL**](https://marketplace.visualstudio.com/items?itemName=meta.relay) | 192K | `2.5.1` | Relay-powered IDE experience |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -6412,7 +6714,8 @@
 > **Metabob** — 1 extension(s) — **99K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/Metabob)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Metabob: Debug and Refactor with AI**](https://marketplace.visualstudio.com/items?itemName=Metabob.metabob) | 99K | `1.5.0` | Generative AI to automate debugging and refactoring Pyt… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Metabob: Debug and Refactor with AI**](https://marketplace.visualstudio.com/items?itemName=Metabob.metabob) | 99K | `1.5.0` | Generative AI to automate debugging and refactoring Pyt… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -6433,7 +6736,8 @@
 > **MongoDB** — 1 extension(s) — **2.7M total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/mongodb)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**MongoDB for VS Code**](https://marketplace.visualstudio.com/items?itemName=mongodb.mongodb-vscode) | 2.7M | `1.14.2` | Connect to MongoDB and Atlas directly from your VS Code… |
+|:----------|:--------:|:-------:|:-----------|
+| [**MongoDB for VS Code**](https://marketplace.visualstudio.com/items?itemName=mongodb.mongodb-vscode) | 2.7M | `1.14.2` | Connect to MongoDB and Atlas directly from your VS Code… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -6454,7 +6758,8 @@
 > **Gerhard Brueckl** — 1 extension(s) — **57K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/GerhardBrueckl)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Power BI Studio**](https://marketplace.visualstudio.com/items?itemName=GerhardBrueckl.powerbi-vscode) | 57K | `2.8.4` | An extension to manage your Power BI resources from wit… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Power BI Studio**](https://marketplace.visualstudio.com/items?itemName=GerhardBrueckl.powerbi-vscode) | 57K | `2.8.4` | An extension to manage your Power BI resources from wit… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -6475,7 +6780,8 @@
 > **Zowe** — 1 extension(s) — **211K total installs** — [Marketplace](https://marketplace.visualstudio.com/publishers/Zowe)
 
 | Extension | Installs | Version | Description |
-|:----------|:--------:|:-------:|:------------|| [**Zowe Explorer**](https://marketplace.visualstudio.com/items?itemName=Zowe.vscode-extension-for-zowe) | 211K | `3.3.1` | VS Code extension, powered by Zowe CLI, that streamline… |
+|:----------|:--------:|:-------:|:-----------|
+| [**Zowe Explorer**](https://marketplace.visualstudio.com/items?itemName=Zowe.vscode-extension-for-zowe) | 211K | `3.3.1` | VS Code extension, powered by Zowe CLI, that streamline… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -6513,7 +6819,7 @@ For more details, see the [VS Code Publishing Documentation](https://code.visual
 | **API** | VS Code Marketplace Extension Query API |
 | **Filter** | `isDomainVerified = true` |
 | **Sort** | By install count (most popular first) |
-| **Generated** | 2025-12-05 14:43:28 |
+| **Generated** | 2025-12-05 14:46:33 |
 
 ### Generation Scripts
 
