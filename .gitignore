@@ -1,0 +1,25 @@
+# Archive folder - contains backups and old versions
+Archive/
+
+# Backup files
+*.bak
+*_backup_*.json
+
+# Temporary files
+*.tmp
+*.temp
+~$*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# VS Code workspace settings (optional - uncomment if you want to ignore)
+# .vscode/
+
+# Log files
+*.log
+
+# Node modules (if any npm packages are added later)
+node_modules/
