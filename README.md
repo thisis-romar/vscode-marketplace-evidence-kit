@@ -1,8 +1,8 @@
 # Project Directory - README
 
-**Microsoft VS Code Extensions Documentation Project**  
+**VS Code Extensions Documentation Project**  
 **Last Updated:** 2025-12-05  
-**Status:** ✅ Restructured & Production Ready
+**Status:** ✅ Production Ready
 
 ---
 
@@ -10,44 +10,45 @@
 
 ### Root Directory (Tools & Scripts)
 
-**Core Tools:**
+**Microsoft Extensions Tools:**
 - `fetch_all_extensions.ps1` - Fetches all Microsoft VS Code extensions from marketplace
-- `generate_markdown.ps1` - Generates comprehensive markdown documentation
+- `generate_markdown.ps1` - Generates Microsoft extensions markdown documentation
+- `validate_publishers.ps1` - Validates Microsoft publisher authenticity
+
+**All Verified Publishers Tools:**
+- `fetch_verified_publishers.ps1` - Fetches ALL verified publishers from marketplace
+- `generate_verified_markdown.ps1` - Generates verified publishers markdown catalog
+
+**Link Validation Tools:**
 - `check_links.ps1` - Comprehensive link checker for all URLs
 - `check_links_quick.ps1` - Quick marketplace link validator
-
-**Maintenance Tools:**
-- `fix_script_paths.ps1` - Detects and fixes hardcoded paths in PowerShell scripts
-- `restructure_project.ps1` - Complete project restructuring automation
 
 **Project Documentation:**
 - `README.md` - This file
 
-### Data Directory (`data\`)
+### Data Directory (`data/`)
 
-**Extension Data:**
-- `all_extensions.json` (1.92MB) - Current extension data (331 Microsoft-published extensions)
+**Microsoft Extensions Data:**
+- `all_extensions.json` - Microsoft extensions data (329 verified extensions)
 
-### Documentation Directory (`docs\`)
+**All Verified Publishers Data:**
+- `all_verified_extensions.json` - All verified extensions (710+ extensions)
+- `verified_publishers.json` - Publisher summary with domain stats (300+ publishers)
+
+### Documentation Directory (`docs/`)
 
 **Generated Documentation:**
-- `Microsoft_VSCode_Extensions.md` - Complete reference guide (331 Microsoft extensions)
-- `REMOVED_EXTENSIONS.md` - List of unpublished/removed extensions (135 extensions)
+- `Microsoft_VSCode_Extensions.md` - Microsoft extensions catalog (329 extensions, 25 categories)
+- `Verified_VSCode_Publishers.md` - All verified publishers catalog (300+ publishers, 240+ domains)
+- `REMOVED_EXTENSIONS.md` - Tracking removed/unpublished extensions
 
-### Output Directory (`output\`)
+### Archive Directory (`Archive/`)
 
-**Generated Reports:**
-- `link_check_report.json` - Link validation results (generated when check_links.ps1 runs)
-
-### Archive Directory (`Archive\`)
-
-**Old Versions:**
-- `generate_markdown.ps1` - Version 1 markdown generator
-- `Microsoft_VSCode_Extensions.md` - Version 1 documentation (uncategorized)
-- `extensions_data.json` - Old extension data
-
-**Analysis Tools:**
-- `analyze_extension_fields.ps1` - Extension field analysis tool
+**Organized by type:**
+- `scripts/` - Old/utility scripts
+- `data/` - Backup data files  
+- `docs/` - Old documentation versions
+- `backup_20251205_121654/` - Full project backup
 
 ---
 
@@ -60,39 +61,50 @@ All scripts use **dynamic paths** based on `$PSScriptRoot` to ensure portability
 - ✅ Safe to move or restructure
 
 ### Script Execution Flow
+
+**Microsoft Extensions Flow:**
 ```
 fetch_all_extensions.ps1
-    ↓ Saves to data\all_extensions.json
+    ↓ Filters by isDomainVerified + microsoft.com domain
+    ↓ Saves to data/all_extensions.json
 generate_markdown.ps1
-    ↓ Reads from data\all_extensions.json
-    ↓ Outputs to docs\Microsoft_VSCode_Extensions.md
-check_links_quick.ps1
-    ↓ Validates links in docs\Microsoft_VSCode_Extensions.md
-    ↓ Reports to output\link_check_report.json
+    ↓ Reads data/all_extensions.json
+    ↓ Outputs docs/Microsoft_VSCode_Extensions.md
+```
+
+**All Verified Publishers Flow:**
+```
+fetch_verified_publishers.ps1
+    ↓ Fetches top 5000 extensions by install count
+    ↓ Filters by isDomainVerified=true (any domain)
+    ↓ Saves to data/all_verified_extensions.json
+    ↓ Saves to data/verified_publishers.json
+generate_verified_markdown.ps1
+    ↓ Reads data/verified_publishers.json
+    ↓ Outputs docs/Verified_VSCode_Publishers.md
 ```
 
 ---
 
 ## 🚀 Quick Start
 
-### Fetch Latest Extensions
+### Microsoft Extensions Only
 ```powershell
+# Fetch Microsoft-verified extensions
 .\fetch_all_extensions.ps1
-```
-- Fetches all published Microsoft VS Code extensions
-- Filters out unpublished extensions
-- Saves to `all_extensions.json`
 
-### Generate Documentation
-```powershell
-```powershell
-# Generate documentation
+# Generate Microsoft extensions documentation
 .\generate_markdown.ps1
 ```
+
+### All Verified Publishers
+```powershell
+# Fetch ALL verified publishers from marketplace
+.\fetch_verified_publishers.ps1
+
+# Generate verified publishers catalog
+.\generate_verified_markdown.ps1
 ```
-- Reads `all_extensions.json`
-- Generates categorized markdown documentation
-- Saves to `Microsoft_VSCode_Extensions.md`
 
 ### Validate Links
 ```powershell

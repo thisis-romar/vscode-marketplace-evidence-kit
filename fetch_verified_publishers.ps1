@@ -1,0 +1,218 @@
+# Get script directory
+if (-not $PSScriptRoot) { $PSScriptRoot = Split-Path -Parent $MyInvocation.MyCommand.Path }
+
+# Script to fetch ALL verified VS Code extension publishers from the Marketplace
+# Collects extensions from verified publishers (isDomainVerified=true) across ALL domains
+# Outputs: data/all_verified_extensions.json, data/verified_publishers.json
+
+$apiUrl = "https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery"
+$allExtensions = @()
+
+$headers = @{
+    "Content-Type" = "application/json"
+    "Accept" = "application/json;api-version=7.1-preview.1"
+}
+
+# Flags for maximum metadata: 991 = versions + files + categories/tags + statistics etc.
+
+Write-Host "`n=========================================" -ForegroundColor Cyan
+Write-Host "  FETCH ALL VERIFIED PUBLISHERS" -ForegroundColor Yellow
+Write-Host "=========================================" -ForegroundColor Cyan
+Write-Host "Fetching extensions from ALL verified publishers..." -ForegroundColor Gray
+Write-Host "Filter: isDomainVerified = true (any domain)" -ForegroundColor Gray
+Write-Host "Sort: By install count (most popular first)`n" -ForegroundColor Gray
+
+$page = 1
+$hasMorePages = $true
+$totalResultCount = $null
+$startTime = Get-Date
+$maxPages = 50  # Safety limit - can be increased if needed
+
+while ($hasMorePages -and $page -le $maxPages) {
+    Write-Host "Fetching page $page..." -ForegroundColor Yellow
+    
+    # Query all VS Code extensions sorted by install count (sortBy=4)
+    $body = @{
+        filters = @(
+            @{
+                criteria = @(
+                    @{ filterType = 8; value = "Microsoft.VisualStudio.Code" }
+                )
+                pageNumber = $page
+                pageSize = 100
+                sortBy = 4  # Install count (most popular first)
+                sortOrder = 0  # Descending
+            }
+        )
+        flags = 991
+    } | ConvertTo-Json -Depth 10 -Compress
+
+    try {
+        $response = Invoke-RestMethod -Uri $apiUrl -Method Post -Body $body -Headers $headers
+        
+        if ($null -eq $totalResultCount -and $response.results[0].resultMetadata) {
+            $metadataItem = $response.results[0].resultMetadata | Where-Object { $_.metadataType -eq "ResultCount" }
+            if ($metadataItem) {
+                $totalResultCount = $metadataItem.metadataItems[0].count
+                Write-Host "API reports total extensions: $totalResultCount" -ForegroundColor Cyan
+            }
+        }
+        
+        $pageExtensions = $response.results[0].extensions
+        
+        if ($pageExtensions -and $pageExtensions.Count -gt 0) {
+            Write-Host "  + Found $($pageExtensions.Count) extensions on page $page" -ForegroundColor Green
+            $allExtensions += $pageExtensions
+            $page++
+            Start-Sleep -Milliseconds 400  # Rate limiting
+        } else {
+            Write-Host "  + No more extensions found." -ForegroundColor Green
+            $hasMorePages = $false
+        }
+    } catch {
+        Write-Host "  x Error fetching page $page : $_" -ForegroundColor Red
+        $hasMorePages = $false
+    }
+}
+
+$elapsed = (Get-Date) - $startTime
+Write-Host "`n+ Fetch complete! ($([Math]::Round($elapsed.TotalSeconds, 1))s)" -ForegroundColor Green
+Write-Host "Total fetched: $($allExtensions.Count) extensions" -ForegroundColor Cyan
+
+# Filter to verified publishers only (isDomainVerified = true)
+Write-Host "`nFiltering to verified publishers only..." -ForegroundColor Cyan
+$verifiedExtensions = @($allExtensions | Where-Object { $_.publisher.isDomainVerified -eq $true })
+$unverifiedCount = $allExtensions.Count - $verifiedExtensions.Count
+Write-Host "  + Verified publishers: $($verifiedExtensions.Count) extensions" -ForegroundColor Green
+Write-Host "  + Filtered out: $unverifiedCount unverified" -ForegroundColor Yellow
+
+# Filter unpublished
+Write-Host "`nFiltering unpublished extensions..." -ForegroundColor Cyan
+$publishedExtensions = @($verifiedExtensions | Where-Object { $_.flags -notmatch 'unpublished' })
+$unpublishedCount = $verifiedExtensions.Count - $publishedExtensions.Count
+Write-Host "  + Published: $($publishedExtensions.Count) (filtered $unpublishedCount unpublished)" -ForegroundColor Green
+
+# Build publisher summary
+Write-Host "`nBuilding publisher summary..." -ForegroundColor Cyan
+
+$publisherMap = @{}
+
+foreach ($ext in $publishedExtensions) {
+    $pubName = $ext.publisher.publisherName
+    
+    # Get install count
+    $installCount = 0
+    if ($ext.statistics) {
+        $installStat = $ext.statistics | Where-Object { $_.statisticName -eq "install" }
+        if ($installStat) { $installCount = $installStat.value }
+    }
+    
+    # Get rating
+    $rating = 0
+    if ($ext.statistics) {
+        $ratingStat = $ext.statistics | Where-Object { $_.statisticName -eq "averagerating" }
+        if ($ratingStat) { $rating = [math]::Round($ratingStat.value, 1) }
+    }
+    
+    # Get categories
+    $categories = @()
+    if ($ext.categories) { $categories = $ext.categories }
+    
+    # Initialize publisher entry if new
+    if (-not $publisherMap.ContainsKey($pubName)) {
+        $publisherMap[$pubName] = @{
+            publisherName = $ext.publisher.publisherName
+            displayName = $ext.publisher.displayName
+            domain = $ext.publisher.domain
+            isDomainVerified = $ext.publisher.isDomainVerified
+            extensionCount = 0
+            totalInstalls = 0
+            extensions = @()
+        }
+    }
+    
+    # Add extension to publisher
+    $publisherMap[$pubName].extensionCount++
+    $publisherMap[$pubName].totalInstalls += $installCount
+    $publisherMap[$pubName].extensions += @{
+        extensionName = $ext.extensionName
+        displayName = $ext.displayName
+        installCount = $installCount
+        rating = $rating
+        categories = $categories
+        shortDescription = $ext.shortDescription
+        lastUpdated = if ($ext.versions -and $ext.versions.Count -gt 0) { $ext.versions[0].lastUpdated } else { $null }
+        version = if ($ext.versions -and $ext.versions.Count -gt 0) { $ext.versions[0].version } else { "" }
+    }
+}
+
+# Convert to array and sort by total installs
+$publisherSummary = $publisherMap.Values | Sort-Object -Property totalInstalls -Descending
+
+# Calculate domain statistics
+$domainStats = $publisherSummary | Group-Object -Property domain | ForEach-Object {
+    @{
+        domain = $_.Name
+        publisherCount = $_.Count
+        extensionCount = ($_.Group | Measure-Object -Property extensionCount -Sum).Sum
+        totalInstalls = ($_.Group | Measure-Object -Property totalInstalls -Sum).Sum
+        publishers = $_.Group.publisherName
+    }
+} | Sort-Object -Property extensionCount -Descending
+
+Write-Host "  + Found $($publisherSummary.Count) unique verified publishers" -ForegroundColor Green
+Write-Host "  + Across $($domainStats.Count) unique domains" -ForegroundColor Green
+
+# Save all verified extensions
+$extensionsOutputPath = Join-Path $PSScriptRoot "data\all_verified_extensions.json"
+$extensionsOutput = @{
+    metadata = @{
+        fetchDate = (Get-Date).ToString("yyyy-MM-dd HH:mm:ss")
+        totalFetched = $allExtensions.Count
+        unverifiedFiltered = $unverifiedCount
+        unpublishedFiltered = $unpublishedCount
+        finalCount = $publishedExtensions.Count
+        uniquePublishers = $publisherSummary.Count
+        uniqueDomains = $domainStats.Count
+        verificationMethod = "isDomainVerified=true (any domain)"
+    }
+    extensions = $publishedExtensions
+}
+$extensionsOutput | ConvertTo-Json -Depth 20 -Compress | Out-File -FilePath $extensionsOutputPath -Encoding UTF8
+Write-Host "`n+ Extensions saved to: $extensionsOutputPath" -ForegroundColor Green
+
+# Save publisher summary
+$publishersOutputPath = Join-Path $PSScriptRoot "data\verified_publishers.json"
+$publishersOutput = @{
+    metadata = @{
+        fetchDate = (Get-Date).ToString("yyyy-MM-dd HH:mm:ss")
+        totalPublishers = $publisherSummary.Count
+        totalExtensions = $publishedExtensions.Count
+        totalDomains = $domainStats.Count
+    }
+    domainStats = $domainStats
+    publishers = $publisherSummary
+}
+$publishersOutput | ConvertTo-Json -Depth 20 -Compress | Out-File -FilePath $publishersOutputPath -Encoding UTF8
+Write-Host "+ Publisher summary saved to: $publishersOutputPath" -ForegroundColor Green
+
+# Print summary
+Write-Host "`n=========================================" -ForegroundColor Cyan
+Write-Host "  SUMMARY" -ForegroundColor Yellow
+Write-Host "=========================================" -ForegroundColor Cyan
+Write-Host "Total verified extensions: $($publishedExtensions.Count)" -ForegroundColor Magenta
+Write-Host "Unique verified publishers: $($publisherSummary.Count)" -ForegroundColor Magenta
+Write-Host "Unique verified domains: $($domainStats.Count)" -ForegroundColor Magenta
+
+Write-Host "`nTop 10 Publishers by Installs:" -ForegroundColor Yellow
+$publisherSummary | Select-Object -First 10 | ForEach-Object {
+    $installs = if ($_.totalInstalls -ge 1000000) { "$([math]::Round($_.totalInstalls / 1000000, 1))M" } 
+                elseif ($_.totalInstalls -ge 1000) { "$([math]::Round($_.totalInstalls / 1000, 0))K" }
+                else { $_.totalInstalls }
+    Write-Host "  $($_.publisherName) ($($_.displayName)) - $($_.extensionCount) exts, $installs installs"
+}
+
+Write-Host "`nTop 10 Domains by Extension Count:" -ForegroundColor Yellow
+$domainStats | Select-Object -First 10 | ForEach-Object {
+    Write-Host "  $($_.domain) - $($_.publisherCount) publishers, $($_.extensionCount) extensions"
+}
