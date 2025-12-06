@@ -1,6 +1,12 @@
 # Get script directory
 if (-not $PSScriptRoot) { $PSScriptRoot = Split-Path -Parent $MyInvocation.MyCommand.Path }
 
+# Compute repository root (supports scripts under src\scripts or repo root)
+$repoRoot = $PSScriptRoot
+if (Test-Path (Join-Path $PSScriptRoot "..\README.md")) {
+    $repoRoot = Resolve-Path (Join-Path $PSScriptRoot "..")
+}
+
 # Script to fetch ALL verified VS Code extension publishers from the Marketplace
 # Collects extensions from verified publishers (isDomainVerified=true) across ALL domains
 # Outputs: data/all_verified_extensions.json, data/verified_publishers.json
@@ -220,7 +226,7 @@ Write-Host "  + Found $($publisherSummary.Count) unique verified publishers" -Fo
 Write-Host "  + Across $($domainStats.Count) unique domains" -ForegroundColor Green
 
 # Save all verified extensions
-$extensionsOutputPath = Join-Path $PSScriptRoot "data\all_verified_extensions.json"
+$extensionsOutputPath = Join-Path $repoRoot "data\raw\all_verified_extensions.json"
 $extensionsOutput = @{
     metadata = @{
         fetchDate = (Get-Date).ToString("yyyy-MM-dd HH:mm:ss")
@@ -238,7 +244,7 @@ $extensionsOutput | ConvertTo-Json -Depth 20 -Compress | Out-File -FilePath $ext
 Write-Host "`n+ Extensions saved to: $extensionsOutputPath" -ForegroundColor Green
 
 # Save publisher summary
-$publishersOutputPath = Join-Path $PSScriptRoot "data\verified_publishers.json"
+$publishersOutputPath = Join-Path $repoRoot "data\processed\verified_publishers.json"
 $publishersOutput = @{
     metadata = @{
         fetchDate = (Get-Date).ToString("yyyy-MM-dd HH:mm:ss")

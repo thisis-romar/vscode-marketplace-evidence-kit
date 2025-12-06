@@ -1,13 +1,19 @@
 # Get script directory
 if (-not $PSScriptRoot) { $PSScriptRoot = Split-Path -Parent $MyInvocation.MyCommand.Path }
 
+# Compute repository root (supports scripts under src\scripts or repo root)
+$repoRoot = $PSScriptRoot
+if (Test-Path (Join-Path $PSScriptRoot "..\README.md")) {
+    $repoRoot = Resolve-Path (Join-Path $PSScriptRoot "..")
+}
+
 # Generate markdown catalog for ALL verified VS Code extension publishers
 # Enhanced for readability with collapsible sections, better navigation, and visual hierarchy
 # Reads: data/verified_publishers.json
 # Outputs: docs/Verified_VSCode_Publishers.md
 
-$dataFile = Join-Path $PSScriptRoot "data\verified_publishers.json"
-$outputFile = Join-Path $PSScriptRoot "docs\Verified_VSCode_Publishers.md"
+$dataFile = Join-Path $repoRoot "data\processed\verified_publishers.json"
+$outputFile = Join-Path $repoRoot "docs\public\Verified_VSCode_Publishers.md"
 
 Write-Host "Loading verified publishers data from: $dataFile" -ForegroundColor Cyan
 $data = Get-Content $dataFile -Raw | ConvertFrom-Json
