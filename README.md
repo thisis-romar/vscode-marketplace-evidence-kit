@@ -2,86 +2,111 @@
 
 **VS Code Extensions Documentation Project**  
 **Last Updated:** 2025-12-05  
-**Status:** ✅ Production Ready
+**Status:** 🧪 Prototype Branch (`feat/dir-architecture-prototype`)
 
 ---
 
 ## 📁 Directory Structure
 
-### Root Directory (Tools & Scripts)
+```
+.
+├── README.md                    # This file
+├── src/
+│   └── scripts/                 # All active PowerShell scripts
+│       ├── fetch_all_extensions.ps1
+│       ├── fetch_verified_publishers.ps1
+│       ├── generate_markdown.ps1
+│       ├── generate_verified_markdown.ps1
+│       ├── validate_publishers.ps1
+│       ├── check_links.ps1
+│       └── check_links_quick.ps1
+├── data/
+│   ├── raw/                     # Raw API outputs
+│   │   └── all_verified_extensions.json
+│   ├── processed/               # Processed summaries
+│   │   └── verified_publishers.json
+│   └── all_extensions.json      # Microsoft-only extensions (legacy)
+├── docs/
+│   ├── public/                  # Generated markdown for publishing
+│   │   └── Verified_VSCode_Publishers.md
+│   ├── Microsoft_VSCode_Extensions.md  # Microsoft catalog (legacy)
+│   └── REMOVED_EXTENSIONS.md
+└── Archive/                     # Backups and old versions (git-ignored)
+    ├── scripts/
+    ├── data/
+    ├── docs/
+    └── backup_*/
+```
 
-**Microsoft Extensions Tools:**
-- `fetch_all_extensions.ps1` - Fetches all Microsoft VS Code extensions from marketplace
-- `generate_markdown.ps1` - Generates Microsoft extensions markdown documentation
-- `validate_publishers.ps1` - Validates Microsoft publisher authenticity
+### Scripts (`src/scripts/`)
 
-**All Verified Publishers Tools:**
-- `fetch_verified_publishers.ps1` - Fetches ALL verified publishers from marketplace
-- `generate_verified_markdown.ps1` - Generates verified publishers markdown catalog
+| Script | Purpose |
+|--------|---------|
+| `fetch_all_extensions.ps1` | Fetch Microsoft VS Code extensions |
+| `fetch_verified_publishers.ps1` | Fetch ALL verified publishers |
+| `generate_markdown.ps1` | Generate Microsoft extensions markdown |
+| `generate_verified_markdown.ps1` | Generate verified publishers catalog |
+| `validate_publishers.ps1` | Validate publisher authenticity |
+| `check_links.ps1` | Comprehensive link checker |
+| `check_links_quick.ps1` | Quick marketplace link validator |
 
-**Link Validation Tools:**
-- `check_links.ps1` - Comprehensive link checker for all URLs
-- `check_links_quick.ps1` - Quick marketplace link validator
+### Data (`data/`)
 
-**Project Documentation:**
-- `README.md` - This file
+| Path | Contents |
+|------|----------|
+| `data/raw/` | Raw API responses (all_verified_extensions.json) |
+| `data/processed/` | Processed summaries (verified_publishers.json) |
+| `data/all_extensions.json` | Microsoft-only extensions (legacy path) |
 
-### Data Directory (`data/`)
+### Documentation (`docs/`)
 
-**Microsoft Extensions Data:**
-- `all_extensions.json` - Microsoft extensions data (329 verified extensions)
+| Path | Contents |
+|------|----------|
+| `docs/public/` | Generated markdown for publishing |
+| `docs/Microsoft_VSCode_Extensions.md` | Microsoft catalog (legacy path) |
+| `docs/REMOVED_EXTENSIONS.md` | Removed/unpublished extensions tracking |
 
-**All Verified Publishers Data:**
-- `all_verified_extensions.json` - All verified extensions (710+ extensions)
-- `verified_publishers.json` - Publisher summary with domain stats (300+ publishers)
+### Archive (`Archive/`)
 
-### Documentation Directory (`docs/`)
-
-**Generated Documentation:**
-- `Microsoft_VSCode_Extensions.md` - Microsoft extensions catalog (329 extensions, 25 categories)
-- `Verified_VSCode_Publishers.md` - All verified publishers catalog (300+ publishers, 240+ domains)
-- `REMOVED_EXTENSIONS.md` - Tracking removed/unpublished extensions
-
-### Archive Directory (`Archive/`)
-
-**Organized by type:**
+Git-ignored folder containing backups and old versions:
 - `scripts/` - Old/utility scripts
-- `data/` - Backup data files  
+- `data/` - Backup data files
 - `docs/` - Old documentation versions
-- `backup_20251205_121654/` - Full project backup
+- `backup_*/` - Timestamped full backups
 
 ---
 
 ## 🏗️ Architecture
 
 ### Path Management
-All scripts use **dynamic paths** based on `$PSScriptRoot` to ensure portability:
+All scripts use **dynamic path resolution** via `Get-RepoRoot` function:
+- ✅ Computes repository root by walking up to find `README.md`
+- ✅ Works whether scripts are in root or `src/scripts/`
 - ✅ No hardcoded absolute paths
-- ✅ Works regardless of installation directory
-- ✅ Safe to move or restructure
+- ✅ Safe to relocate scripts
 
 ### Script Execution Flow
 
 **Microsoft Extensions Flow:**
 ```
-fetch_all_extensions.ps1
+src/scripts/fetch_all_extensions.ps1
     ↓ Filters by isDomainVerified + microsoft.com domain
     ↓ Saves to data/all_extensions.json
-generate_markdown.ps1
+src/scripts/generate_markdown.ps1
     ↓ Reads data/all_extensions.json
     ↓ Outputs docs/Microsoft_VSCode_Extensions.md
 ```
 
 **All Verified Publishers Flow:**
 ```
-fetch_verified_publishers.ps1
+src/scripts/fetch_verified_publishers.ps1
     ↓ Fetches top 5000 extensions by install count
     ↓ Filters by isDomainVerified=true (any domain)
-    ↓ Saves to data/all_verified_extensions.json
-    ↓ Saves to data/verified_publishers.json
-generate_verified_markdown.ps1
-    ↓ Reads data/verified_publishers.json
-    ↓ Outputs docs/Verified_VSCode_Publishers.md
+    ↓ Saves to data/raw/all_verified_extensions.json
+    ↓ Saves to data/processed/verified_publishers.json
+src/scripts/generate_verified_markdown.ps1
+    ↓ Reads data/processed/verified_publishers.json
+    ↓ Outputs docs/public/Verified_VSCode_Publishers.md
 ```
 
 ---
@@ -91,76 +116,71 @@ generate_verified_markdown.ps1
 ### Microsoft Extensions Only
 ```powershell
 # Fetch Microsoft-verified extensions
-.\fetch_all_extensions.ps1
+.\src\scripts\fetch_all_extensions.ps1
 
 # Generate Microsoft extensions documentation
-.\generate_markdown.ps1
+.\src\scripts\generate_markdown.ps1
 ```
 
 ### All Verified Publishers
 ```powershell
 # Fetch ALL verified publishers from marketplace
-.\fetch_verified_publishers.ps1
+.\src\scripts\fetch_verified_publishers.ps1
 
 # Generate verified publishers catalog
-.\generate_verified_markdown.ps1
+.\src\scripts\generate_verified_markdown.ps1
 ```
 
 ### Validate Links
 ```powershell
 # Quick validation (marketplace links only)
-.\check_links_quick.ps1
+.\src\scripts\check_links_quick.ps1
 
 # Comprehensive validation (all links)
-.\check_links.ps1
+.\src\scripts\check_links.ps1
 ```
 
 ---
 
-## 🔧 Maintenance Tools
+## 🔧 Maintenance
 
-### Path Correction Tool
-```powershell
-# Analyze scripts for hardcoded paths (dry-run)
-.\fix_script_paths.ps1 -DryRun
+### Archived Tools
 
-# Fix hardcoded paths in all scripts
-.\fix_script_paths.ps1
-```
-- Automatically detects hardcoded paths in PowerShell scripts
-- Converts them to dynamic `$PSScriptRoot`-based paths
-- Creates backups before making changes
-- Safe to run multiple times
+Legacy maintenance tools are available in `Archive/scripts/`:
+- `fix_script_paths.ps1` - Detects and fixes hardcoded paths
+- `restructure_project.ps1` - Project restructuring utility
 
-### Complete Restructuring Tool
-```powershell
-# Restructure entire project (creates backup automatically)
-.\restructure_project.ps1
-```
-- Creates organized directory structure (data\, docs\, output\)
-- Fixes all hardcoded paths in scripts
-- Moves files to appropriate locations
-- Validates all changes
-- Creates automatic backup
+These tools were used during initial development and are preserved for reference.
 
 ---
 
 ## 📊 Statistics
 
-- **Total Extensions:** 331 (Microsoft publishers only)
-- **Unpublished/Removed:** 135 extensions
+### All Verified Publishers (New)
+- **Verified Publishers:** 304
+- **Total Extensions:** 710+
+- **Unique Domains:** 245
+- **Total Installs:** ~3B
+
+### Microsoft Extensions (Legacy)
+- **Total Extensions:** 329
+- **Unpublished/Removed:** 135
 - **Categories:** 25
-- **Total Links:** 1,525 unique URLs
-- **Documentation Size:** 545KB
 
 ---
 
 ## 🔄 Workflow
 
-1. **Fetch** → Run `fetch_all_extensions.ps1` to get latest data
-2. **Generate** → Run `generate_markdown.ps1` to create documentation
-3. **Validate** → Run `check_links_quick.ps1` to verify all links work
-4. **Review** → Check `Microsoft_VSCode_Extensions.md` for accuracy
+### Verified Publishers Workflow (Recommended)
+1. **Fetch** → `.\src\scripts\fetch_verified_publishers.ps1`
+2. **Generate** → `.\src\scripts\generate_verified_markdown.ps1`
+3. **Validate** → `.\src\scripts\check_links_quick.ps1`
+4. **Review** → Check `docs/public/Verified_VSCode_Publishers.md`
+
+### Microsoft-Only Workflow (Legacy)
+1. **Fetch** → `.\src\scripts\fetch_all_extensions.ps1`
+2. **Generate** → `.\src\scripts\generate_markdown.ps1`
+3. **Review** → Check `docs/Microsoft_VSCode_Extensions.md`
 
 ---
 
@@ -190,33 +210,65 @@ generate_verified_markdown.ps1
 
 ## 📝 File Descriptions
 
-| File | Purpose | Size |
-|------|---------|------|
-| `all_extensions.json` | Current extension data | 2.85MB |
-| `fetch_all_extensions.ps1` | Extension fetcher | 4KB |
-| `generate_markdown.ps1` | Documentation generator | 22KB |
-| `check_links.ps1` | Comprehensive link checker | 9KB |
-| `check_links_quick.ps1` | Quick link validator | 6KB |
-| `Microsoft_VSCode_Extensions.md` | Main documentation | 545KB |
-| `REMOVED_EXTENSIONS.md` | Removed extensions list | 7KB |
+### Scripts (`src/scripts/`)
+
+| File | Purpose |
+|------|---------|
+| `fetch_all_extensions.ps1` | Fetches Microsoft extensions from Marketplace API |
+| `fetch_verified_publishers.ps1` | Fetches all verified publishers (any domain) |
+| `generate_markdown.ps1` | Generates Microsoft extensions markdown |
+| `generate_verified_markdown.ps1` | Generates verified publishers catalog |
+| `validate_publishers.ps1` | Validates publisher authenticity |
+| `check_links.ps1` | Comprehensive URL link checker |
+| `check_links_quick.ps1` | Quick marketplace link validator |
+
+### Data Files
+
+| File | Location | Purpose |
+|------|----------|---------|
+| `all_verified_extensions.json` | `data/raw/` | Raw API output (710+ extensions) |
+| `verified_publishers.json` | `data/processed/` | Publisher summary (304 publishers) |
+| `all_extensions.json` | `data/` | Microsoft extensions (legacy) |
+
+### Documentation
+
+| File | Location | Purpose |
+|------|----------|---------|
+| `Verified_VSCode_Publishers.md` | `docs/public/` | Complete verified publishers catalog |
+| `Microsoft_VSCode_Extensions.md` | `docs/` | Microsoft extensions catalog (legacy) |
+| `REMOVED_EXTENSIONS.md` | `docs/` | Removed/unpublished tracking |
 
 ---
 
 ## 🗂️ Archive
 
-Old versions and analysis tools are kept in the `Archive/` folder for reference:
-- Version 1 markdown generator and documentation
-- Old extension data
-- Analysis tools used during development
+Old versions and utility tools are kept in the `Archive/` folder (git-ignored):
+- `scripts/` - Legacy analysis and maintenance scripts
+- `data/` - Backup data files and old snapshots
+- `docs/` - Previous documentation versions
+- `backup_*/` - Timestamped full project backups
 
 ---
 
 ## 📚 Related Links
 
-- [VS Code Marketplace](https://marketplace.visualstudio.com/publishers/Microsoft)
+- [VS Code Marketplace](https://marketplace.visualstudio.com/vscode)
 - [VS Code Extension API](https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery)
+- [Publisher Verification Docs](https://code.visualstudio.com/api/working-with-extensions/publishing-extension#verify-a-publisher)
 
 ---
 
-**Total Project Size:** 3.44MB (active) + 1.11MB (archive)  
-**Space Saved by Cleanup:** 10.21MB
+## 🌿 Branch Information
+
+**Current Branch:** `feat/dir-architecture-prototype`
+
+This branch prototypes a new directory architecture:
+- Scripts moved to `src/scripts/`
+- Data split into `data/raw/` and `data/processed/`
+- Published docs in `docs/public/`
+- Dynamic `Get-RepoRoot` path resolution
+
+To return to the stable version:
+```powershell
+git checkout main
+```
