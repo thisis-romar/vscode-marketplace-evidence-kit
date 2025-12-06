@@ -3,7 +3,7 @@
 # Created: December 5, 2025
 
 param(
-    [string]$JsonFile = (Join-Path $PSScriptRoot "data\all_extensions.json"),
+    [string]$JsonFile = (Join-Path $PSScriptRoot "data\processed\all_extensions.json"),
     [switch]$FixFetch,
     [switch]$ExportReport
 )

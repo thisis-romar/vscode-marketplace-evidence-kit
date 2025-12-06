@@ -1,10 +1,13 @@
 # VSCode Marketplace Evidence Kit
 
+[![Docs Pipeline](https://github.com/thisis-romar/vscode-marketplace-evidence-kit/actions/workflows/ci.yml/badge.svg)](https://github.com/thisis-romar/vscode-marketplace-evidence-kit/actions/workflows/ci.yml)
+
 **Catalog, verify, and document VS Code extensions and verified publishers**  
-**Last Updated:** 2025-12-05  
+**Last Updated:** 2025-12-06  
 **Status:** 🧪 Prototype Branch (`feat/dir-architecture-prototype`)
 
-> Data-backed verification outputs for the VS Code Marketplace ecosystem.
+> Data-backed verification outputs for the VS Code Marketplace ecosystem.  
+> Automated via **Prefect** orchestration with nightly CI refresh.
 
 ---
 
@@ -13,8 +16,19 @@
 ```
 .
 ├── README.md                    # This file
+├── config.json                  # Pipeline configuration
+├── requirements.txt             # Python dependencies
+├── prefect.yaml                 # Prefect deployment config
+├── flows/                       # Prefect orchestration flows
+│   ├── __init__.py
+│   ├── pipeline.py              # Main @flow entrypoint
+│   ├── fetch.py                 # Fetch tasks (@task)
+│   ├── validate.py              # Validation tasks
+│   ├── render.py                # Markdown generation tasks
+│   ├── link_check.py            # Link checking task
+│   └── publish.py               # Hash-gated publish task
 ├── src/
-│   └── scripts/                 # All active PowerShell scripts
+│   └── scripts/                 # PowerShell data scripts
 │       ├── fetch_all_extensions.ps1
 │       ├── fetch_verified_publishers.ps1
 │       ├── generate_markdown.ps1
@@ -23,21 +37,19 @@
 │       ├── check_links.ps1
 │       └── check_links_quick.ps1
 ├── data/
-│   ├── raw/                     # Raw API outputs
-│   │   └── all_verified_extensions.json
-│   ├── processed/               # Processed summaries
-│   │   └── verified_publishers.json
-│   └── all_extensions.json      # Microsoft-only extensions (legacy)
+│   ├── raw/                     # Timestamped snapshots
+│   ├── processed/               # Curated latest data
+│   └── run-log.json             # Hash gate log
 ├── docs/
-│   ├── public/                  # Generated markdown for publishing
-│   │   └── Verified_VSCode_Publishers.md
-│   ├── Microsoft_VSCode_Extensions.md  # Microsoft catalog (legacy)
-│   └── REMOVED_EXTENSIONS.md
-└── Archive/                     # Backups and old versions (git-ignored)
-    ├── scripts/
-    ├── data/
-    ├── docs/
-    └── backup_*/
+│   └── public/                  # Generated markdown (published)
+│       ├── Microsoft_VSCode_Extensions.md
+│       └── Verified_VSCode_Publishers.md
+├── tests/
+│   ├── Pipeline.Tests.ps1       # Pester tests (PowerShell)
+│   └── test_flows.py            # pytest tests (Python)
+└── .github/
+    └── workflows/
+        └── ci.yml               # GitHub Actions (nightly + manual)
 ```
 
 ### Scripts (`src/scripts/`)
@@ -80,6 +92,41 @@ Git-ignored folder containing backups and old versions:
 
 ## 🏗️ Architecture
 
+### Prefect Orchestration
+
+The pipeline uses **Prefect** for orchestration with `@task` and `@flow` decorators:
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│                   docs_pipeline (@flow)                     │
+├─────────────────────────────────────────────────────────────┤
+│  fetch_all_extensions (@task)                               │
+│  fetch_verified_publishers (@task)                          │
+│           ↓                                                 │
+│  validate_publishers (@task)                                │
+│           ↓                                                 │
+│  generate_ms_extensions_markdown (@task)                    │
+│  generate_verified_publishers_markdown (@task)              │
+│           ↓                                                 │
+│  check_links (@task) ─ lychee                               │
+│           ↓                                                 │
+│  publish_docs (@task) ─ hash-gated commit                   │
+└─────────────────────────────────────────────────────────────┘
+```
+
+**Key features:**
+- ✅ Automatic retries with backoff
+- ✅ Structured logging via Prefect
+- ✅ Hash-gated publishing (skip if unchanged)
+- ✅ Caching for expensive fetch tasks
+
+### CI/CD Schedule
+
+| Trigger | Time | Description |
+|---------|------|-------------|
+| Cron | `03:17 UTC` daily | Nightly refresh |
+| Manual | `workflow_dispatch` | On-demand via GitHub UI |
+
 ### Path Management
 All scripts use **dynamic path resolution** via `Get-RepoRoot` function:
 - ✅ Computes repository root by walking up to find `README.md`
@@ -115,32 +162,79 @@ src/scripts/generate_verified_markdown.ps1
 
 ## 🚀 Quick Start
 
-### Microsoft Extensions Only
+### Prerequisites
+
+```powershell
+# Python 3.12+ with pip
+python --version
+
+# PowerShell 7+
+pwsh --version
+
+# (Optional) lychee for link checking
+# https://github.com/lycheeverse/lychee
+```
+
+### Install Dependencies
+
+```powershell
+pip install -r requirements.txt
+```
+
+### Run the Full Pipeline (Prefect)
+
+```powershell
+# Run the Prefect flow locally
+python -m flows.pipeline
+```
+
+### Run Individual Steps (PowerShell)
+
 ```powershell
 # Fetch Microsoft-verified extensions
 .\src\scripts\fetch_all_extensions.ps1
 
-# Generate Microsoft extensions documentation
-.\src\scripts\generate_markdown.ps1
-```
-
-### All Verified Publishers
-```powershell
-# Fetch ALL verified publishers from marketplace
+# Fetch ALL verified publishers
 .\src\scripts\fetch_verified_publishers.ps1
 
-# Generate verified publishers catalog
+# Generate markdown docs
+.\src\scripts\generate_markdown.ps1
 .\src\scripts\generate_verified_markdown.ps1
 ```
 
-### Validate Links
-```powershell
-# Quick validation (marketplace links only)
-.\src\scripts\check_links_quick.ps1
+### Run Tests
 
-# Comprehensive validation (all links)
-.\src\scripts\check_links.ps1
+```powershell
+# Python tests
+pytest tests/
+
+# PowerShell tests (Pester)
+Invoke-Pester -Path .\tests\
 ```
+
+---
+
+## 🔧 Troubleshooting
+
+### Pipeline Fails on Fetch
+
+- **Rate limiting:** The Marketplace API may throttle requests. Retries are built-in (2 attempts, 30s backoff).
+- **Network issues:** Check connectivity to `marketplace.visualstudio.com`.
+
+### Link Check Warnings
+
+- lychee may report false positives for dynamic pages. Excludes are configured in `flows/link_check.py`.
+- To skip link check locally, comment out the `check_links()` call in `flows/pipeline.py`.
+
+### Hash Gate Skipping Publish
+
+- If `data/run-log.json` shows the same `docs_hash`, no changes were detected.
+- Delete `run-log.json` to force a fresh publish.
+
+### Prefect Logs
+
+- Set `PREFECT_LOGGING_LEVEL=DEBUG` for verbose output.
+- Logs are structured and can be viewed in Prefect UI if connected to Prefect Cloud.
 
 ---
 

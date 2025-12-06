@@ -1,0 +1,26 @@
+{
+  "marketplace": {
+    "baseUrl": "https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery",
+    "apiVersion": "7.1-preview.1",
+    "pagination": {
+      "pageSize": 100
+    },
+    "retry": {
+      "maxAttempts": 3,
+      "backoffSeconds": 5
+    }
+  },
+  "paths": {
+    "raw": "data/raw",
+    "processed": "data/processed",
+    "docsPublic": "docs/public"
+  },
+  "linkCheck": {
+    "exclude": [
+      "^mailto:",
+      "^tel:",
+      "https://marketplace.visualstudio.com/items?itemName=.*#",
+      "https://img.shields.io/.*"
+    ]
+  }
+}

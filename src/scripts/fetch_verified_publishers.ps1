@@ -241,7 +241,10 @@ Write-Host "  + Found $($publisherSummary.Count) unique verified publishers" -Fo
 Write-Host "  + Across $($domainStats.Count) unique domains" -ForegroundColor Green
 
 # Save all verified extensions
-$extensionsOutputPath = Join-Path $repoRoot "data\raw\all_verified_extensions.json"
+$timestamp = (Get-Date).ToString("yyyyMMddHHmm")
+$extensionsRawPath = Join-Path $repoRoot "data\raw\all_verified_extensions_$timestamp.json"
+$extensionsProcessedPath = Join-Path $repoRoot "data\processed\all_verified_extensions.json"
+
 $extensionsOutput = @{
     metadata = @{
         fetchDate = (Get-Date).ToString("yyyy-MM-dd HH:mm:ss")
@@ -255,11 +258,17 @@ $extensionsOutput = @{
     }
     extensions = $publishedExtensions
 }
-$extensionsOutput | ConvertTo-Json -Depth 20 -Compress | Out-File -FilePath $extensionsOutputPath -Encoding UTF8
-Write-Host "`n+ Extensions saved to: $extensionsOutputPath" -ForegroundColor Green
+$extensionsJson = $extensionsOutput | ConvertTo-Json -Depth 20 -Compress
+$extensionsJson | Out-File -FilePath $extensionsRawPath -Encoding UTF8
+$extensionsJson | Out-File -FilePath $extensionsProcessedPath -Encoding UTF8
+Write-Host "`n+ Extensions saved to:" -ForegroundColor Green
+Write-Host "  Snapshot: $extensionsRawPath" -ForegroundColor Gray
+Write-Host "  Processed: $extensionsProcessedPath" -ForegroundColor Gray
 
 # Save publisher summary
-$publishersOutputPath = Join-Path $repoRoot "data\processed\verified_publishers.json"
+$publishersRawPath = Join-Path $repoRoot "data\raw\verified_publishers_$timestamp.json"
+$publishersProcessedPath = Join-Path $repoRoot "data\processed\verified_publishers.json"
+
 $publishersOutput = @{
     metadata = @{
         fetchDate = (Get-Date).ToString("yyyy-MM-dd HH:mm:ss")
@@ -270,8 +279,12 @@ $publishersOutput = @{
     domainStats = $domainStats
     publishers = $publisherSummary
 }
-$publishersOutput | ConvertTo-Json -Depth 20 -Compress | Out-File -FilePath $publishersOutputPath -Encoding UTF8
-Write-Host "+ Publisher summary saved to: $publishersOutputPath" -ForegroundColor Green
+$publishersJson = $publishersOutput | ConvertTo-Json -Depth 20 -Compress
+$publishersJson | Out-File -FilePath $publishersRawPath -Encoding UTF8
+$publishersJson | Out-File -FilePath $publishersProcessedPath -Encoding UTF8
+Write-Host "+ Publisher summary saved to:" -ForegroundColor Green
+Write-Host "  Snapshot: $publishersRawPath" -ForegroundColor Gray
+Write-Host "  Processed: $publishersProcessedPath" -ForegroundColor Gray
 
 # Print summary
 Write-Host "`n=========================================" -ForegroundColor Cyan

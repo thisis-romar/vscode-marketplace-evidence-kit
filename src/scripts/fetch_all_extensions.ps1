@@ -136,7 +136,16 @@ if ($unverifiedCount -gt 0) {
 Write-Host "  + Verified Microsoft: $($microsoftOnly.Count)" -ForegroundColor Green
 
 # Save
-$outputPath = Join-Path $PSScriptRoot "data\all_extensions.json"
+$timestamp = (Get-Date).ToString("yyyyMMddHHmm")
+$rawPath = Join-Path $PSScriptRoot "data\raw\all_extensions_$timestamp.json"
+$processedPath = Join-Path $PSScriptRoot "data\processed\all_extensions.json"
+
+# Ensure directories exist
+$rawDir = Split-Path $rawPath -Parent
+$processedDir = Split-Path $processedPath -Parent
+if (-not (Test-Path $rawDir)) { New-Item -ItemType Directory -Path $rawDir -Force | Out-Null }
+if (-not (Test-Path $processedDir)) { New-Item -ItemType Directory -Path $processedDir -Force | Out-Null }
+
 $output = @{
     metadata = @{
         fetchDate = (Get-Date).ToString("yyyy-MM-dd HH:mm:ss")
@@ -149,7 +158,13 @@ $output = @{
     }
     extensions = $microsoftOnly
 }
-$output | ConvertTo-Json -Depth 20 -Compress | Out-File -FilePath $outputPath -Encoding UTF8
+$jsonOutput = $output | ConvertTo-Json -Depth 20 -Compress
 
-Write-Host "`n+ Data saved to: $outputPath" -ForegroundColor Green
+# Save snapshot and processed
+$jsonOutput | Out-File -FilePath $rawPath -Encoding UTF8
+$jsonOutput | Out-File -FilePath $processedPath -Encoding UTF8
+
+Write-Host "`n+ Data saved to:" -ForegroundColor Green
+Write-Host "  Snapshot: $rawPath" -ForegroundColor Gray
+Write-Host "  Processed: $processedPath" -ForegroundColor Gray
 Write-Host "`nSummary: $($microsoftOnly.Count) Microsoft extensions" -ForegroundColor Magenta

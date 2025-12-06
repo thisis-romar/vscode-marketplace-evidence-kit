@@ -1,0 +1,57 @@
+name: Docs Pipeline
+
+on:
+  schedule:
+    - cron: "17 3 * * *" # Run at 03:17 UTC daily
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  build-and-deploy:
+    runs-on: windows-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install Python dependencies
+        run: |
+          pip install -r requirements.txt
+        shell: pwsh
+
+      - name: Install lychee
+        run: |
+          choco install lychee --version 0.15.1 -y
+        shell: pwsh
+
+      - name: Run Prefect Pipeline
+        run: |
+          python -m flows.pipeline
+        shell: pwsh
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PREFECT_LOGGING_LEVEL: INFO
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs/public
+
+  deploy:
+    needs: build-and-deploy
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

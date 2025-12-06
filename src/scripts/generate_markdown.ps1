@@ -4,9 +4,13 @@ if (-not $PSScriptRoot) { $PSScriptRoot = Split-Path -Parent $MyInvocation.MyCom
 # Generate markdown document v2 with improved categorization, numbering, and TOC
 # Enhanced version with publisher-based categorization and sequential numbering
 
-$dataFile = Join-Path $PSScriptRoot "data\all_extensions.json"
+$dataFile = Join-Path $PSScriptRoot "data\processed\all_extensions.json"
 # Output file path
-$outputFile = Join-Path $PSScriptRoot "docs\Microsoft_VSCode_Extensions.md"
+$outputFile = Join-Path $PSScriptRoot "docs\public\Microsoft_VSCode_Extensions.md"
+
+# Ensure output directory exists
+$outputDir = Split-Path $outputFile -Parent
+if (-not (Test-Path $outputDir)) { New-Item -ItemType Directory -Path $outputDir -Force | Out-Null }
 
 Write-Host "Loading extension data from: $dataFile" -ForegroundColor Cyan
 $data = Get-Content $dataFile -Raw | ConvertFrom-Json

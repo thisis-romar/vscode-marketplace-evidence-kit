@@ -1,0 +1,49 @@
+# Prefect deployment configuration
+# https://docs.prefect.io/latest/concepts/deployments/
+
+name: marketplace-docs
+prefect-version: ">=3.0"
+
+# Build section - how to prepare the deployment
+build: null
+
+# Push section - where to store the deployment
+push: null
+
+# Pull section - how to retrieve the code
+pull:
+  - prefect.deployments.steps.git_clone:
+      repository: https://github.com/thisis-romar/vscode-marketplace-evidence-kit.git
+      branch: main
+
+# Deployments
+deployments:
+  - name: nightly-docs-refresh
+    version: "1.0.0"
+    tags:
+      - marketplace
+      - docs
+      - scheduled
+    description: "Nightly refresh of VS Code Marketplace documentation"
+    entrypoint: flows/pipeline.py:docs_pipeline
+    parameters: {}
+    work_pool:
+      name: default-agent-pool
+      work_queue_name: default
+    schedules:
+      - cron: "17 3 * * *"  # 03:17 UTC daily (off-peak)
+        timezone: UTC
+        active: true
+
+  - name: manual-docs-refresh
+    version: "1.0.0"
+    tags:
+      - marketplace
+      - docs
+      - manual
+    description: "On-demand refresh of VS Code Marketplace documentation"
+    entrypoint: flows/pipeline.py:docs_pipeline
+    parameters: {}
+    work_pool:
+      name: default-agent-pool
+      work_queue_name: default
