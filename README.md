@@ -119,6 +119,7 @@ The pipeline uses **Prefect** for orchestration with `@task` and `@flow` decorat
 - ✅ Structured logging via Prefect
 - ✅ Hash-gated publishing (skip if unchanged)
 - ✅ Caching for expensive fetch tasks
+- ✅ Build metadata in generated docs (commit SHA, run ID, timestamps)
 
 ### CI/CD Schedule
 
@@ -295,6 +296,36 @@ These tools were used during initial development and are preserved for reference
 - ✅ Dual numbering (per-category + global)
 - ✅ Resources, Categories, Tags, Platform compatibility
 - ✅ Back-to-TOC navigation links
+
+### Build Traceability
+Generated markdown documents include CI/CD build metadata for auditability:
+
+**Visible in header:**
+```markdown
+*Last Updated: December 6, 2025 at 03:17:00 UTC*
+[`abc1234`](https://github.com/.../commit/abc1234) • [Run #42](https://github.com/.../actions/runs/42)
+```
+
+**Hidden metadata block:**
+```html
+<!-- BUILD_METADATA
+timestamp: 2025-12-06T03:17:00Z
+commit: abc1234
+run_id: 42
+data_source: 2025-12-05T22:29:53Z
+publishers: 304
+extensions: 711
+-->
+```
+
+**Environment variables used:**
+| Variable | Purpose |
+|----------|--------|
+| `GITHUB_SHA` | Git commit hash (truncated to 7 chars) |
+| `GITHUB_RUN_ID` | GitHub Actions run identifier |
+| `GITHUB_REPOSITORY` | Repo for building links |
+
+> 💡 Local runs display `Build: local • Run: manual` instead of linked values.
 
 ### Link Checkers
 - ✅ Validates marketplace links
