@@ -1,9 +1,9 @@
 """Main Prefect pipeline flow orchestrating the docs refresh."""
 from prefect import flow, get_run_logger
 
-from flows.fetch import fetch_all_extensions, fetch_verified_publishers
+from flows.fetch import fetch_all_extensions, fetch_verified_publishers, fetch_unverified_publishers
 from flows.validate import validate_publishers
-from flows.render import generate_ms_extensions_markdown, generate_verified_publishers_markdown
+from flows.render import generate_ms_extensions_markdown, generate_verified_publishers_markdown, generate_unverified_publishers_markdown
 from flows.link_check import check_links
 from flows.publish import publish_docs
 
@@ -29,6 +29,7 @@ def docs_pipeline() -> dict:
     logger.info("=== Step 1: Fetching data ===")
     fetch_all_extensions()
     fetch_verified_publishers()
+    fetch_unverified_publishers()
 
     # Step 2: Validate
     logger.info("=== Step 2: Validating publishers ===")
@@ -38,6 +39,7 @@ def docs_pipeline() -> dict:
     logger.info("=== Step 3: Generating markdown ===")
     generate_ms_extensions_markdown()
     generate_verified_publishers_markdown()
+    generate_unverified_publishers_markdown()
 
     # Step 4: Link check
     logger.info("=== Step 4: Checking links ===")
