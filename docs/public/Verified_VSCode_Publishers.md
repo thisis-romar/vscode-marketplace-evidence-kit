@@ -9,16 +9,16 @@
 ![Domains](https://img.shields.io/badge/Domains-245-purple?style=for-the-badge)
 ![Installs](https://img.shields.io/badge/Installs-2967.6M-orange?style=for-the-badge)
 
-*Last Updated: December 6, 2025 at 01:21:46 UTC*
+*Last Updated: December 6, 2025 at 01:29:43 UTC*
 
-*Build: `local` • Run: `manual`*
+[`abc1234`](https://github.com/thisis-romar/vscode-marketplace-evidence-kit/commit/abc1234567890def) • [Run #98765432](https://github.com/thisis-romar/vscode-marketplace-evidence-kit/actions/runs/98765432)
 
 </div>
 
 <!-- BUILD_METADATA
-timestamp: 2025-12-06T01:21:46Z
-commit: local
-run_id: manual
+timestamp: 2025-12-06T01:29:43Z
+commit: abc1234
+run_id: 98765432
 data_source: 2025-12-05 22:29:53
 publishers: 304
 extensions: 711
@@ -7416,8 +7416,8 @@ For more details, see the [VS Code Publishing Documentation](https://code.visual
 | **API** | VS Code Marketplace Extension Query API |
 | **Filter** | `isDomainVerified = true` |
 | **Sort** | By install count (most popular first) |
-| **Generated** | 2025-12-06 01:21:46 |
-| **Build** | `local` / Run `manual` |
+| **Generated** | 2025-12-06 01:29:43 |
+| **Build** | `abc1234` / Run `98765432` |
 
 ### Generation Scripts
 

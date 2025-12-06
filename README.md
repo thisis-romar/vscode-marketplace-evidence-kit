@@ -144,8 +144,28 @@ src/scripts/fetch_all_extensions.ps1
     ↓ Saves to data/all_extensions.json
 src/scripts/generate_markdown.ps1
     ↓ Reads data/all_extensions.json
-    ↓ Outputs docs/Microsoft_VSCode_Extensions.md
+    ↓ Outputs docs/public/Microsoft_VSCode_Extensions.md
 ```
+
+### Documents Updated by Pipeline
+
+**🤖 Auto-Updated (by CI/CD):**
+
+| Document | Path | Updated By |
+|----------|------|------------|
+| Verified Publishers Catalog | `docs/public/Verified_VSCode_Publishers.md` | `generate_verified_markdown.ps1` |
+| Microsoft Extensions Catalog | `docs/public/Microsoft_VSCode_Extensions.md` | `generate_markdown.ps1` |
+| Run Log | `data/run-log.json` | `publish.py` (hash gate) |
+
+**✍️ Manual Updates:**
+
+| Document | Path | Purpose |
+|----------|------|---------|
+| README | `README.md` | Project documentation |
+| Removed Extensions | `docs/REMOVED_EXTENSIONS.md` | Track unpublished extensions |
+| Configuration | `config.json` | Pipeline settings |
+
+> 💡 **Note:** The pipeline runs at `03:17 UTC` daily on GitHub's servers. Your computer can be off — just `git pull` to get updates.
 
 **All Verified Publishers Flow:**
 ```

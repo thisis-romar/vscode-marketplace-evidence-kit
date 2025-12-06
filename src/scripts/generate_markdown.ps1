@@ -1,12 +1,27 @@
 # Get script directory
 if (-not $PSScriptRoot) { $PSScriptRoot = Split-Path -Parent $MyInvocation.MyCommand.Path }
 
+# Compute repository root by walking up to find README.md
+function Get-RepoRoot {
+    param([string]$start)
+    $current = $start
+    for ($i = 0; $i -lt 5; $i++) {
+        if (Test-Path (Join-Path $current "README.md")) { return (Resolve-Path $current).Path }
+        $parent = Split-Path -Parent $current
+        if ([string]::IsNullOrEmpty($parent)) { break }
+        $current = $parent
+    }
+    return (Resolve-Path $start).Path
+}
+
+$repoRoot = Get-RepoRoot -start $PSScriptRoot
+
 # Generate markdown document v2 with improved categorization, numbering, and TOC
 # Enhanced version with publisher-based categorization and sequential numbering
 
-$dataFile = Join-Path $PSScriptRoot "data\processed\all_extensions.json"
+$dataFile = Join-Path $repoRoot "data\all_extensions.json"
 # Output file path
-$outputFile = Join-Path $PSScriptRoot "docs\public\Microsoft_VSCode_Extensions.md"
+$outputFile = Join-Path $repoRoot "docs\public\Microsoft_VSCode_Extensions.md"
 
 # Ensure output directory exists
 $outputDir = Split-Path $outputFile -Parent
