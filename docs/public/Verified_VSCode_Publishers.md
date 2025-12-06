@@ -5,9 +5,9 @@
 <div align="center">
 
 ![Publishers](https://img.shields.io/badge/Publishers-304-blue?style=for-the-badge)
-![Extensions](https://img.shields.io/badge/Extensions-710-green?style=for-the-badge)
+![Extensions](https://img.shields.io/badge/Extensions-711-green?style=for-the-badge)
 ![Domains](https://img.shields.io/badge/Domains-245-purple?style=for-the-badge)
-![Installs](https://img.shields.io/badge/Installs-2967.8M-orange?style=for-the-badge)
+![Installs](https://img.shields.io/badge/Installs-2967.6M-orange?style=for-the-badge)
 
 *Last Updated: December 5, 2025*
 
@@ -40,7 +40,7 @@
 <td width="25%" align="center">
 
 ### 📦 Extensions
-**710**
+**711**
 *total*
 
 </td>
@@ -54,7 +54,7 @@
 <td width="25%" align="center">
 
 ### ⬇️ Installs
-**2967.8M**
+**2967.6M**
 *combined*
 
 </td>
@@ -69,8 +69,8 @@
 
 | Rank | Publisher | Display Name | Domain | Ext. | Installs |
 |:----:|-----------|--------------|--------|:----:|:--------:|
-| 🥇 | [**ms-python**](#ms-python) | Microsoft | `microsoft.com` | 11 | **515.9M** |
-| 🥈 | [**ms-toolsai**](#ms-toolsai) | Microsoft | `microsoft.com` | 13 | **381.7M** |
+| 🥇 | [**ms-python**](#ms-python) | Microsoft | `microsoft.com` | 11 | **515.8M** |
+| 🥈 | [**ms-toolsai**](#ms-toolsai) | Microsoft | `microsoft.com` | 13 | **381.6M** |
 | 🥉 | [**ms-vscode**](#ms-vscode) | Microsoft | `microsoft.com` | 64 | **375.4M** |
 | 4. | [**vscjava**](#vscjava) | Microsoft | `microsoft.com` | 11 | **241.7M** |
 | 5. | [**GitHub**](#github) | GitHub | `github.com` | 10 | **182M** |
@@ -99,7 +99,7 @@
 | Rank | Domain | Publishers | Extensions | Navigate |
 |:----:|--------|:----------:|:----------:|:--------:|
 | 🥇 | `microsoft.com` | 56 | 224 | [**→ View**](#domain-microsoft-com) |
-| 🥈 | `salesforce.com` | 1 | 24 | [**→ View**](#domain-salesforce-com) |
+| 🥈 | `salesforce.com` | 1 | 25 | [**→ View**](#domain-salesforce-com) |
 | 🥉 | `streetsidesoftware.com` | 1 | 24 | [**→ View**](#domain-streetsidesoftware-com) |
 | 4. | `redhat.com` | 1 | 20 | [**→ View**](#domain-redhat-com) |
 | 5. | `database-client.com` | 1 | 15 | [**→ View**](#domain-database-client-com) |
@@ -133,7 +133,7 @@
 | # | Domain | Publishers | Extensions | Share |
 |--:|--------|:----------:|:----------:|------:|
 | 1 | [`microsoft.com`](#domain-microsoft-com) 🔥 | 56 | 224 | 31.5% |
-| 2 | [`salesforce.com`](#domain-salesforce-com) 🔥 | 1 | 24 | 3.4% |
+| 2 | [`salesforce.com`](#domain-salesforce-com) 🔥 | 1 | 25 | 3.5% |
 | 3 | [`streetsidesoftware.com`](#domain-streetsidesoftware-com) 🔥 | 1 | 24 | 3.4% |
 | 4 | [`redhat.com`](#domain-redhat-com) 🔥 | 1 | 20 | 2.8% |
 | 5 | [`database-client.com`](#domain-database-client-com) ⭐ | 1 | 15 | 2.1% |
@@ -401,7 +401,7 @@
 </table>
 
 <details>
-<summary><strong><a id="ms-python"></a>📦 ms-python</strong> — Microsoft — <em>11 extensions</em> — <strong>515.9M installs</strong></summary>
+<summary><strong><a id="ms-python"></a>📦 ms-python</strong> — Microsoft — <em>11 extensions</em> — <strong>515.8M installs</strong></summary>
 
 <br>
 
@@ -409,7 +409,7 @@
 
 | Extension | Installs | Version | Links | Description |
 |:----------|:--------:|:-------:|:-----:|:-----------|
-| [**Python**](https://marketplace.visualstudio.com/items?itemName=ms-python.python) | 195M | `2025.19.2025120401` | [📂](https://github.com/Microsoft/vscode-python.git "GitHub") [🐛](https://github.com/Microsoft/vscode-python/issues "Issues") | Python language support with extension access points fo… |
+| [**Python**](https://marketplace.visualstudio.com/items?itemName=ms-python.python) | 194.9M | `2025.19.2025120401` | [📂](https://github.com/Microsoft/vscode-python.git "GitHub") [🐛](https://github.com/Microsoft/vscode-python/issues "Issues") | Python language support with extension access points fo… |
 | [**Pylance**](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance) | 162.8M | `2025.10.4` | [📂](https://github.com/microsoft/pylance-release.git "GitHub") [🐛](https://github.com/microsoft/pylance-release/issues "Issues") | A performant, feature-rich language server for Python i… |
 | [**Python Debugger**](https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy) | 100.3M | `2025.17.2025120401` | [📂](https://github.com/microsoft/vscode-python-debugger.git "GitHub") [🐛](https://github.com/Microsoft/vscode-python-debugger/issues "Issues") | Python Debugger extension using debugpy. |
 | [**isort**](https://marketplace.visualstudio.com/items?itemName=ms-python.isort) | 24.9M | `2025.1.13251007` | [📂](https://github.com/microsoft/vscode-isort.git "GitHub") [🐛](https://github.com/Microsoft/vscode-isort/issues "Issues") | Import organization support for Python files using isor… |
@@ -424,7 +424,7 @@
 </details>
 
 <details>
-<summary><strong><a id="ms-toolsai"></a>📦 ms-toolsai</strong> — Microsoft — <em>13 extensions</em> — <strong>381.7M installs</strong></summary>
+<summary><strong><a id="ms-toolsai"></a>📦 ms-toolsai</strong> — Microsoft — <em>13 extensions</em> — <strong>381.6M installs</strong></summary>
 
 <br>
 
@@ -542,8 +542,8 @@
 | [**Spring Initializr Java Support**](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-spring-initializr) | 5.7M | `0.12.0` | [📂](https://github.com/Microsoft/vscode-spring-initializr.git "GitHub") [🐛](https://github.com/Microsoft/vscode-spring-initializr/issues "Issues") | A lightweight extension based on Spring Initializr to g… |
 | [**Spring Boot Dashboard**](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-spring-boot-dashboard) | 4.3M | `0.14.2025041702` | [📂](https://github.com/Microsoft/vscode-spring-boot-dashboard.git "GitHub") [🐛](https://github.com/Microsoft/vscode-spring-boot-dashboard/issues "Issues") | Spring Boot Dashboard for VS Code |
 | [**Lombok Annotations Support for VS Code**](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-lombok) | 1.1M | `1.1.2024071804` | [📂](https://github.com/microsoft/vscode-lombok.git "GitHub") [🐛](https://github.com/microsoft/vscode-lombok/issues "Issues") | Refactor code with Lombok annotations, or remove Lombok… |
-| [**GitHub Copilot app modernization**](https://marketplace.visualstudio.com/items?itemName=vscjava.migrate-java-to-azure) | 477K | `1.8.2025120402` | [📂](https://aka.ms/ghcp-appmod/feedback "Source") | Upgrade and migrate your applications to Azure |
-| [**GitHub Copilot app modernization - upgrade for Java**](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-upgrade) | 463K | `1.9.1` | [📂](https://github.com/microsoft/vscode-app-mod-pack.git "GitHub") [🐛](https://github.com/microsoft/vscode-app-mod-pack/issues "Issues") | Upgrade Java project with GitHub Copilot |
+| [**GitHub Copilot app modernization**](https://marketplace.visualstudio.com/items?itemName=vscjava.migrate-java-to-azure) | 476K | `1.8.2025120402` | [📂](https://aka.ms/ghcp-appmod/feedback "Source") | Upgrade and migrate your applications to Azure |
+| [**GitHub Copilot app modernization - upgrade for Java**](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-upgrade) | 462K | `1.9.1` | [📂](https://github.com/microsoft/vscode-app-mod-pack.git "GitHub") [🐛](https://github.com/microsoft/vscode-app-mod-pack/issues "Issues") | Upgrade Java project with GitHub Copilot |
 
 </details>
 
@@ -629,8 +629,8 @@
 | [**Azure Container Apps**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurecontainerapps) | 1.5M | `0.10.0` | [📂](https://github.com/microsoft/vscode-azurecontainerapps.git "GitHub") [🐛](https://github.com/microsoft/vscode-azurecontainerapps/issues "Issues") | An Azure Container Apps extension for Visual Studio Cod… |
 | [**Bicep**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-bicep) | 1.4M | `0.39.26` | [📂](https://github.com/Azure/bicep.git "GitHub") [🐛](https://github.com/Azure/bicep/issues "Issues") | Bicep language support for Visual Studio Code |
 | [**Microsoft Terraform**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureterraform) | 1.1M | `0.8.0` | [📂](https://github.com/Azure/vscode-azureterraform.git "GitHub") [🐛](https://github.com/Azure/vscode-azureterraform/issues "Issues") | VS Code extension for developing with Terraform on Azur… |
-| [**GitHub Copilot for Azure**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azure-github-copilot) | 868K | `1.0.137` | [📂](https://github.com/microsoft/GitHub-Copilot-for-Azure.git "GitHub") [🐛](https://github.com/microsoft/GitHub-Copilot-for-Azure/issues "Issues") | GitHub Copilot for Azure is the @azure extension. It's… |
-| [**Azure MCP Server**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azure-mcp-server) | 325K | `2.0.7` | [📂](https://github.com/microsoft/mcp.git "GitHub") [🐛](https://github.com/microsoft/mcp/issues "Issues") | Provides Model Context Protocol (MCP) integration and t… |
+| [**GitHub Copilot for Azure**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azure-github-copilot) | 867K | `1.0.137` | [📂](https://github.com/microsoft/GitHub-Copilot-for-Azure.git "GitHub") [🐛](https://github.com/microsoft/GitHub-Copilot-for-Azure/issues "Issues") | GitHub Copilot for Azure is the @azure extension. It's… |
+| [**Azure MCP Server**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azure-mcp-server) | 326K | `2.0.7` | [📂](https://github.com/microsoft/mcp.git "GitHub") [🐛](https://github.com/microsoft/mcp/issues "Issues") | Provides Model Context Protocol (MCP) integration and t… |
 | [**Azure API Management**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-apimanagement) | 246K | `1.3.0` | [📂](https://github.com/Microsoft/vscode-apimanagement.git "GitHub") [🐛](https://github.com/Microsoft/vscode-apimanagement/issues "Issues") | An Azure API Management extension for Visual Studio Cod… |
 | [**Azure Logic Apps (Consumption)**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-logicapps) | 176K | `1.2.9` | [📂](https://github.com/microsoft/vscode-azurelogicapps.git "GitHub") [🐛](https://github.com/microsoft/vscode-azurelogicapps/issues "Issues") | Visual Studio Code extension for Azure Logic Apps (Cons… |
 | [**Azure Logic Apps (Standard)**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurelogicapps) | 115K | `5.230.15` | [📂](https://github.com/Azure/LogicAppsUX.git "GitHub") [🐛](https://github.com/Azure/LogicAppsUX/issues "Issues") | Visual Studio Code extension for Azure Logic Apps (Stan… |
@@ -803,7 +803,7 @@
 
 ### <a id="teamsdevapp"></a>📦 TeamsDevApp
 
-> **Microsoft** — 3 extension(s) — **905K total installs**
+> **Microsoft** — 3 extension(s) — **904K total installs**
 > 
 > [🏪 Marketplace](https://marketplace.visualstudio.com/publishers/TeamsDevApp) · [📂 GitHub](https://github.com/microsoft/ai-foundry-for-vscode.git) · [🐛 Issues](https://github.com/microsoft/ai-foundry-for-vscode/issues)
 
@@ -1211,12 +1211,12 @@
 <tr>
 <td>🔗 <strong>Domain:</strong> <code>https://salesforce.com</code></td>
 <td>👥 <strong>Publishers:</strong> 1</td>
-<td>📦 <strong>Extensions:</strong> 24</td>
+<td>📦 <strong>Extensions:</strong> 25</td>
 </tr>
 </table>
 
 <details>
-<summary><strong><a id="salesforce"></a>📦 salesforce</strong> — Salesforce — <em>24 extensions</em> — <strong>20.1M installs</strong></summary>
+<summary><strong><a id="salesforce"></a>📦 salesforce</strong> — Salesforce — <em>25 extensions</em> — <strong>20.2M installs</strong></summary>
 
 <br>
 
@@ -1236,10 +1236,11 @@
 | [**SOQL**](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-soql) | 1.4M | `65.7.0` | [📂](https://github.com/forcedotcom/salesforcedx-vscode.git "GitHub") [🐛](https://github.com/forcedotcom/soql-tooling/issues "Issues") | Provides code-editing features for SOQL |
 | [**Salesforce Extension Pack (Expanded)**](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-expanded) | 627K | `65.7.0` | [📂](https://github.com/forcedotcom/salesforcedx-vscode.git "GitHub") [🐛](https://github.com/forcedotcom/salesforcedx-vscode/issues "Issues") | Extensions for developing on the Salesforce Platform |
 | [**Agentforce Vibes**](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-einstein-gpt) | 522K | `3.5.0` | [📂](https://github.com/forcedotcom/Einstein-GPT-for-Developers.git "GitHub") [🐛](https://github.com/forcedotcom/Einstein-GPT-for-Developers/issues "Issues") | Extension for developing on the Salesforce Platform wit… |
-| [**Salesforce Code Analyzer**](https://marketplace.visualstudio.com/items?itemName=salesforce.sfdx-code-analyzer-vscode) | 443K | `1.13.0` | [📂](https://github.com/forcedotcom/sfdx-code-analyzer-vscode.git "GitHub") [🐛](https://github.com/forcedotcom/code-analyzer/issues "Issues") | Salesforce Code Analyzer is a unified tool for source c… |
+| [**Salesforce Code Analyzer**](https://marketplace.visualstudio.com/items?itemName=salesforce.sfdx-code-analyzer-vscode) | 442K | `1.13.0` | [📂](https://github.com/forcedotcom/sfdx-code-analyzer-vscode.git "GitHub") [🐛](https://github.com/forcedotcom/code-analyzer/issues "Issues") | Salesforce Code Analyzer is a unified tool for source c… |
 | [**Salesforce Apex Language Server (Typescript)**](https://marketplace.visualstudio.com/items?itemName=salesforce.apex-language-server-extension) | 124K | `0.4.0` | [📂](https://github.com/forcedotcom/apex-language-support.git "GitHub") [🐛](https://github.com/forcedotcom/apex-language-support/issues "Issues") | VSCode extension for Apex Language Server |
 | [**Anypoint Code Builder - Dependencies Extension**](https://marketplace.visualstudio.com/items?itemName=salesforce.mule-dx-dependencies) | 57K | `1.6.1` | [📂](https://github.com/mulesoft/mule-dx-dependencies.git "GitHub") [🐛](https://github.com/mulesoft/mule-dx-dependencies/issues "Issues") | Contains Anypoint Code Builder dependencies. |
 | [**Anypoint Code Builder - Platform Extension**](https://marketplace.visualstudio.com/items?itemName=salesforce.mule-dx-vscode) | 52K | `5.9.8` | — | Provides common Anypoint Code Builder functionality. |
+| [**Apex OpenAPI Specification**](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-apex-oas) | 49K | `65.7.0` | [📂](https://github.com/forcedotcom/salesforcedx-vscode.git "GitHub") [🐛](https://github.com/forcedotcom/salesforcedx-vscode/issues "Issues") | Provides OpenAPI Specification generation for Apex REST… |
 | [**Anypoint Code Builder - Integration Extension**](https://marketplace.visualstudio.com/items?itemName=salesforce.mule-dx-mule-dev-component) | 48K | `3.22.6` | — | Create integration applications that run on the Mule ru… |
 | [**Anypoint Code Builder - DataWeave Extension**](https://marketplace.visualstudio.com/items?itemName=salesforce.mule-dx-data-weave-client) | 46K | `2.10.8` | [📂](https://github.com/mulesoft-labs/data-weave-language-server.git "GitHub") [🐛](https://github.com/mulesoft-labs/data-weave-language-server/issues "Issues") | DataWeave 2.0 language support for Anypoint Code Builde… |
 | [**Anypoint Code Builder - API Extension**](https://marketplace.visualstudio.com/items?itemName=salesforce.mule-dx-api-component) | 43K | `4.13.1` | — | Create, edit, and sync your API specifications using An… |
@@ -1399,7 +1400,7 @@
 </table>
 
 <details>
-<summary><strong><a id="sapse"></a>📦 SAPSE</strong> — SAP SE — <em>7 extensions</em> — <strong>997K installs</strong></summary>
+<summary><strong><a id="sapse"></a>📦 SAPSE</strong> — SAP SE — <em>7 extensions</em> — <strong>996K installs</strong></summary>
 
 <br>
 
@@ -1473,7 +1474,7 @@
 | [**STM32Cube Debug Core**](https://marketplace.visualstudio.com/items?itemName=stmicroelectronics.stm32cube-ide-debug-core) | 41K | `1.0.3` | — | Debug core features in STM32Cube context |
 | [**STM32Cube Debug STLink GDB Server**](https://marketplace.visualstudio.com/items?itemName=stmicroelectronics.stm32cube-ide-debug-stlink-gdbserver) | 41K | `1.0.2` | — | Debug for STLink GDB server |
 | [**STM32Cube Core**](https://marketplace.visualstudio.com/items?itemName=stmicroelectronics.stm32cube-ide-core) | 41K | `1.0.3` | — | STM32CubeIDE for Visual Studio Code core |
-| [**STM32Cube clangd**](https://marketplace.visualstudio.com/items?itemName=stmicroelectronics.stm32cube-ide-clangd) | 39K | `1.0.1` | — | C/C++ completion, navigation, and insights |
+| [**STM32Cube clangd**](https://marketplace.visualstudio.com/items?itemName=stmicroelectronics.stm32cube-ide-clangd) | 40K | `1.0.1` | — | C/C++ completion, navigation, and insights |
 | [**STM32Cube Build Analyzer**](https://marketplace.visualstudio.com/items?itemName=stmicroelectronics.stm32cube-ide-build-analyzer) | 39K | `1.0.2` | — | Provides memories analysis with *.map files generated b… |
 | [**STM32Cube Debug Jlink GDB Server**](https://marketplace.visualstudio.com/items?itemName=stmicroelectronics.stm32cube-ide-debug-jlink-gdbserver) | 39K | `1.0.2` | — | Debug for JLink GDB server |
 | [**STM32Cube Registers View**](https://marketplace.visualstudio.com/items?itemName=stmicroelectronics.stm32cube-ide-registers) | 39K | `1.0.2` | — | STM32Cube registers view extension |
@@ -1876,7 +1877,7 @@
 | [**Gemini Code Assist**](https://marketplace.visualstudio.com/items?itemName=Google.geminicodeassist) | 2.3M | `2.59.0` | — | AI-assisted development powered by Gemini |
 | [**Gemini CLI Companion**](https://marketplace.visualstudio.com/items?itemName=Google.gemini-cli-vscode-ide-companion) | 374K | `0.19.1` | [📂](https://github.com/google-gemini/gemini-cli.git "GitHub") [🐛](https://github.com/google-gemini/gemini-cli/issues "Issues") | Enable Gemini CLI with direct access to your IDE worksp… |
 | [**ARB Editor**](https://marketplace.visualstudio.com/items?itemName=Google.arb-editor) | 84K | `0.2.1` | [📂](https://github.com/google/arb-editor.git "GitHub") [🐛](https://github.com/google/arb-editor/issues "Issues") | Editor for Application Resource Bundle files, used for… |
-| [**Colab**](https://marketplace.visualstudio.com/items?itemName=Google.colab) | 77K | `0.1.1` | [📂](https://github.com/googlecolab/colab-vscode.git "GitHub") [🐛](https://github.com/googlecolab/colab-vscode/issues "Issues") | Connect notebooks to Colab servers. |
+| [**Colab**](https://marketplace.visualstudio.com/items?itemName=Google.colab) | 76K | `0.1.1` | [📂](https://github.com/googlecolab/colab-vscode.git "GitHub") [🐛](https://github.com/googlecolab/colab-vscode/issues "Issues") | Connect notebooks to Colab servers. |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -1928,7 +1929,7 @@
 | Extension | Installs | Version | Links | Description |
 |:----------|:--------:|:-------:|:-----:|:-----------|
 | [**Spring Boot Tools**](https://marketplace.visualstudio.com/items?itemName=vmware.vscode-spring-boot) | 4.9M | `2.0.2025120600` | [📂](https://github.com/spring-projects/spring-tools.git "GitHub") [🐛](https://github.com/spring-projects/spring-tools/issues "Issues") | Provides validation and content assist for Spring Boot… |
-| [**Spring Boot Extension Pack**](https://marketplace.visualstudio.com/items?itemName=vmware.vscode-boot-dev-pack) | 3.9M | `0.2.2` | [📂](https://github.com/spring-projects/sts4.git "GitHub") [🐛](https://github.com/spring-projects/sts4/issues "Issues") | A collection of extensions for developing Spring Boot a… |
+| [**Spring Boot Extension Pack**](https://marketplace.visualstudio.com/items?itemName=vmware.vscode-boot-dev-pack) | 3.8M | `0.2.2` | [📂](https://github.com/spring-projects/sts4.git "GitHub") [🐛](https://github.com/spring-projects/sts4/issues "Issues") | A collection of extensions for developing Spring Boot a… |
 | [**Cloudfoundry Manifest YML Support**](https://marketplace.visualstudio.com/items?itemName=vmware.vscode-manifest-yaml) | 980K | `2.0.2025120600` | [📂](https://github.com/spring-projects/spring-tools.git "GitHub") [🐛](https://github.com/spring-projects/spring-tools/issues "Issues") | Adds linting, content assist and hoverinfo's for Cloudf… |
 | [**Concourse CI Pipeline Editor**](https://marketplace.visualstudio.com/items?itemName=vmware.vscode-concourse) | 922K | `2.0.2025120600` | [📂](https://github.com/spring-projects/spring-tools.git "GitHub") [🐛](https://github.com/spring-projects/spring-tools/issues "Issues") | Provides validation and content assist for Concourse CI… |
 
@@ -2245,7 +2246,7 @@
 |:----------|:--------:|:-------:|:-----:|:-----------|
 | [**Stripe**](https://marketplace.visualstudio.com/items?itemName=Stripe.vscode-stripe) | 149K | `3.8.6` | [📂](https://github.com/stripe/vscode-stripe.git "GitHub") [🐛](https://github.com/stripe/vscode-stripe/issues "Issues") | Build, test, and use Stripe inside your editor. |
 | [**Markdoc language support**](https://marketplace.visualstudio.com/items?itemName=Stripe.markdoc-language-support) | 74K | `0.0.13` | [📂](https://github.com/markdoc/language-server.git "GitHub") [🐛](https://github.com/markdoc/language-server/issues "Issues") | A Markdoc language server and Visual Studio Code extens… |
-| [**Endsmart**](https://marketplace.visualstudio.com/items?itemName=Stripe.endsmart) | 51K | `0.1.1` | [📂](https://github.com/stripe/vscode-endsmart.git "GitHub") [🐛](https://github.com/stripe/vscode-endsmart/issues "Issues") | A modern version of endwise that relies on more recent… |
+| [**Endsmart**](https://marketplace.visualstudio.com/items?itemName=Stripe.endsmart) | 52K | `0.1.1` | [📂](https://github.com/stripe/vscode-endsmart.git "GitHub") [🐛](https://github.com/stripe/vscode-endsmart/issues "Issues") | A modern version of endwise that relies on more recent… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -2459,7 +2460,7 @@
 
 | Extension | Installs | Version | Links | Description |
 |:----------|:--------:|:-------:|:-----:|:-----------|
-| [**Expo Tools**](https://marketplace.visualstudio.com/items?itemName=expo.vscode-expo-tools) | 484K | `1.6.1` | [📂](https://github.com/expo/vscode-expo.git "GitHub") [🐛](https://github.com/expo/vscode-expo/issues "Issues") | Expo for VS Code keeps you productive with debugging, I… |
+| [**Expo Tools**](https://marketplace.visualstudio.com/items?itemName=expo.vscode-expo-tools) | 483K | `1.6.1` | [📂](https://github.com/expo/vscode-expo.git "GitHub") [🐛](https://github.com/expo/vscode-expo/issues "Issues") | Expo for VS Code keeps you productive with debugging, I… |
 | [**Expo Theme**](https://marketplace.visualstudio.com/items?itemName=expo.vscode-expo-theme) | 34K | `1.4.1` | [📂](https://github.com/expo/vscode-expo-theme.git "GitHub") [🐛](https://github.com/expo/vscode-expo-theme/issues "Issues") | Expo-inspired editor and syntax theme. |
 
 
@@ -3999,13 +4000,13 @@
 
 ### <a id="redis"></a>📦 Redis
 
-> **Redis** — 1 extension(s) — **150K total installs**
+> **Redis** — 1 extension(s) — **151K total installs**
 > 
 > [🏪 Marketplace](https://marketplace.visualstudio.com/publishers/Redis) · [📂 GitHub](https://github.com/RedisInsight/Redis-for-VS-Code.git) · [🐛 Issues](https://github.com/RedisInsight/Redis-for-VS-Code/issues)
 
 | Extension | Installs | Version | Links | Description |
 |:----------|:--------:|:-------:|:-----:|:-----------|
-| [**Redis for VS Code**](https://marketplace.visualstudio.com/items?itemName=Redis.redis-for-vscode) | 150K | `1.4.0` | [📂](https://github.com/RedisInsight/Redis-for-VS-Code.git "GitHub") [🐛](https://github.com/RedisInsight/Redis-for-VS-Code/issues "Issues") | Visually interact with data and build queries in Redis |
+| [**Redis for VS Code**](https://marketplace.visualstudio.com/items?itemName=Redis.redis-for-vscode) | 151K | `1.4.0` | [📂](https://github.com/RedisInsight/Redis-for-VS-Code.git "GitHub") [🐛](https://github.com/RedisInsight/Redis-for-VS-Code/issues "Issues") | Visually interact with data and build queries in Redis |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -5127,13 +5128,13 @@
 
 ### <a id="fill-labs"></a>📦 fill-labs
 
-> **Fill Labs** — 1 extension(s) — **538K total installs**
+> **Fill Labs** — 1 extension(s) — **537K total installs**
 > 
 > [🏪 Marketplace](https://marketplace.visualstudio.com/publishers/fill-labs) · [📂 GitHub](https://github.com/filllabs/dependi.git) · [🐛 Issues](https://github.com/filllabs/dependi/issues)
 
 | Extension | Installs | Version | Links | Description |
 |:----------|:--------:|:-------:|:-----:|:-----------|
-| [**Dependi**](https://marketplace.visualstudio.com/items?itemName=fill-labs.dependi) | 538K | `0.7.21` | [📂](https://github.com/filllabs/dependi.git "GitHub") [🐛](https://github.com/filllabs/dependi/issues "Issues") | Empowers developers to efficiently manage dependencies… |
+| [**Dependi**](https://marketplace.visualstudio.com/items?itemName=fill-labs.dependi) | 537K | `0.7.21` | [📂](https://github.com/filllabs/dependi.git "GitHub") [🐛](https://github.com/filllabs/dependi/issues "Issues") | Empowers developers to efficiently manage dependencies… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -5397,7 +5398,7 @@
 
 | Extension | Installs | Version | Links | Description |
 |:----------|:--------:|:-------:|:-----:|:-----------|
-| [**Design Líquido - Linguagens em Português**](https://marketplace.visualstudio.com/items?itemName=designliquido.designliquido-vscode) | 31K | `0.19.2` | [📂](https://github.com/DesignLiquido/vscode.git "GitHub") [🐛](https://github.com/DesignLiquido/vscode/issues "Issues") | Extensão de sintaxe para o Visual Studio Code nas lingu… |
+| [**Design Líquido - Linguagens em Português**](https://marketplace.visualstudio.com/items?itemName=designliquido.designliquido-vscode) | 31K | `0.20.0` | [📂](https://github.com/DesignLiquido/vscode.git "GitHub") [🐛](https://github.com/DesignLiquido/vscode/issues "Issues") | Extensão de sintaxe para o Visual Studio Code nas lingu… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -5775,13 +5776,13 @@
 
 ### <a id="augment"></a>📦 augment
 
-> **Augment Computing** — 1 extension(s) — **649K total installs**
+> **Augment Computing** — 1 extension(s) — **648K total installs**
 > 
 > [🏪 Marketplace](https://marketplace.visualstudio.com/publishers/augment)
 
 | Extension | Installs | Version | Links | Description |
 |:----------|:--------:|:-------:|:-----:|:-----------|
-| [**Augment Code: AI Coding Agent for JavaScript, Go, TypeScript, Python & more**](https://marketplace.visualstudio.com/items?itemName=augment.vscode-augment) | 649K | `0.658.0` | — | Augment is an AI copilot with a superior context engine… |
+| [**Augment Code: AI Coding Agent for JavaScript, Go, TypeScript, Python & more**](https://marketplace.visualstudio.com/items?itemName=augment.vscode-augment) | 648K | `0.658.0` | — | Augment is an AI copilot with a superior context engine… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -6663,13 +6664,13 @@
 
 ### <a id="quarto"></a>📦 quarto
 
-> **Quarto** — 1 extension(s) — **298K total installs**
+> **Quarto** — 1 extension(s) — **299K total installs**
 > 
 > [🏪 Marketplace](https://marketplace.visualstudio.com/publishers/quarto) · [📂 GitHub](https://github.com/quarto-dev/quarto.git#main) · [🐛 Issues](https://github.com/quarto-dev/quarto/issues)
 
 | Extension | Installs | Version | Links | Description |
 |:----------|:--------:|:-------:|:-----:|:-----------|
-| [**Quarto**](https://marketplace.visualstudio.com/items?itemName=quarto.quarto) | 298K | `1.126.0` | [📂](https://github.com/quarto-dev/quarto.git#main "GitHub") [🐛](https://github.com/quarto-dev/quarto/issues "Issues") | Extension for the Quarto scientific and technical publi… |
+| [**Quarto**](https://marketplace.visualstudio.com/items?itemName=quarto.quarto) | 299K | `1.126.0` | [📂](https://github.com/quarto-dev/quarto.git#main "GitHub") [🐛](https://github.com/quarto-dev/quarto/issues "Issues") | Extension for the Quarto scientific and technical publi… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -6711,13 +6712,13 @@
 
 ### <a id="raspberry-pi"></a>📦 raspberry-pi
 
-> **Raspberry Pi** — 1 extension(s) — **180K total installs**
+> **Raspberry Pi** — 1 extension(s) — **179K total installs**
 > 
 > [🏪 Marketplace](https://marketplace.visualstudio.com/publishers/raspberry-pi) · [📂 GitHub](https://github.com/raspberrypi/pico-vscode.git) · [🐛 Issues](https://github.com/raspberrypi/pico-vscode/issues)
 
 | Extension | Installs | Version | Links | Description |
 |:----------|:--------:|:-------:|:-----:|:-----------|
-| [**Raspberry Pi Pico**](https://marketplace.visualstudio.com/items?itemName=raspberry-pi.raspberry-pi-pico) | 180K | `0.19.0` | [📂](https://github.com/raspberrypi/pico-vscode.git "GitHub") [🐛](https://github.com/raspberrypi/pico-vscode/issues "Issues") | The official VS Code extension for Raspberry Pi Pico de… |
+| [**Raspberry Pi Pico**](https://marketplace.visualstudio.com/items?itemName=raspberry-pi.raspberry-pi-pico) | 179K | `0.19.0` | [📂](https://github.com/raspberrypi/pico-vscode.git "GitHub") [🐛](https://github.com/raspberrypi/pico-vscode/issues "Issues") | The official VS Code extension for Raspberry Pi Pico de… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -7095,13 +7096,13 @@
 
 ### <a id="kilocode"></a>📦 kilocode
 
-> **Kilo Code** — 1 extension(s) — **536K total installs**
+> **Kilo Code** — 1 extension(s) — **535K total installs**
 > 
 > [🏪 Marketplace](https://marketplace.visualstudio.com/publishers/kilocode) · [📂 GitHub](https://github.com/Kilo-Org/kilocode.git) · [🐛 Issues](https://github.com/Kilo-Org/kilocode/issues)
 
 | Extension | Installs | Version | Links | Description |
 |:----------|:--------:|:-------:|:-----:|:-----------|
-| [**Kilo Code AI Agent**](https://marketplace.visualstudio.com/items?itemName=kilocode.Kilo-Code) | 536K | `4.130.1` | [📂](https://github.com/Kilo-Org/kilocode.git "GitHub") [🐛](https://github.com/Kilo-Org/kilocode/issues "Issues") | Open Source AI coding assistant for planning, building,… |
+| [**Kilo Code AI Agent**](https://marketplace.visualstudio.com/items?itemName=kilocode.Kilo-Code) | 535K | `4.130.1` | [📂](https://github.com/Kilo-Org/kilocode.git "GitHub") [🐛](https://github.com/Kilo-Org/kilocode/issues "Issues") | Open Source AI coding assistant for planning, building,… |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -7119,13 +7120,13 @@
 
 ### <a id="laravel"></a>📦 laravel
 
-> **Laravel** — 1 extension(s) — **370K total installs**
+> **Laravel** — 1 extension(s) — **369K total installs**
 > 
 > [🏪 Marketplace](https://marketplace.visualstudio.com/publishers/laravel) · [📂 GitHub](https://github.com/laravel/vs-code-extension.git) · [🐛 Issues](https://github.com/laravel/vs-code-extension/issues)
 
 | Extension | Installs | Version | Links | Description |
 |:----------|:--------:|:-------:|:-----:|:-----------|
-| [**Laravel**](https://marketplace.visualstudio.com/items?itemName=laravel.vscode-laravel) | 370K | `1.2.1` | [📂](https://github.com/laravel/vs-code-extension.git "GitHub") [🐛](https://github.com/laravel/vs-code-extension/issues "Issues") | Official VS Code extension for Laravel |
+| [**Laravel**](https://marketplace.visualstudio.com/items?itemName=laravel.vscode-laravel) | 369K | `1.2.1` | [📂](https://github.com/laravel/vs-code-extension.git "GitHub") [🐛](https://github.com/laravel/vs-code-extension/issues "Issues") | Official VS Code extension for Laravel |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -7403,7 +7404,7 @@ For more details, see the [VS Code Publishing Documentation](https://code.visual
 | **API** | VS Code Marketplace Extension Query API |
 | **Filter** | `isDomainVerified = true` |
 | **Sort** | By install count (most popular first) |
-| **Generated** | 2025-12-05 20:26:36 |
+| **Generated** | 2025-12-05 22:30:12 |
 
 ### Generation Scripts
 
@@ -7418,6 +7419,6 @@ For more details, see the [VS Code Publishing Documentation](https://code.visual
 
 *Generated automatically from the VS Code Marketplace API*
 
-<sub>304 publishers • 710 extensions • 245 domains</sub>
+<sub>304 publishers • 711 extensions • 245 domains</sub>
 
 </div>

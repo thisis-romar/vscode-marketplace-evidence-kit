@@ -4,8 +4,20 @@ if (-not $PSScriptRoot) { $PSScriptRoot = Split-Path -Parent $MyInvocation.MyCom
 # Link Checker for Microsoft VS Code Extensions Markdown
 # Validates all URLs in the markdown document to ensure no 404s or broken links
 
+# --- Dynamic repo root detection ---
+function Get-RepoRoot {
+    $dir = $PSScriptRoot
+    while ($dir -and !(Test-Path (Join-Path $dir "README.md"))) {
+        $dir = Split-Path $dir -Parent
+    }
+    if (!$dir) { throw "Could not find repo root (README.md)" }
+    return $dir
+}
+$repoRoot = Get-RepoRoot
+# ----------------------------------
+
 param(
-    [string]$MarkdownFile = Join-Path $PSScriptRoot "docs\Microsoft_VSCode_Extensions.md",
+    [string]$MarkdownFile = (Join-Path $repoRoot "docs\Microsoft_VSCode_Extensions.md"),
     [int]$ThrottleMs = 500,
     [int]$TimeoutSec = 10
 )
@@ -204,7 +216,7 @@ if ($results.Error.Count -gt 0) {
 }
 
 # Save detailed report
-$reportFile = "G:\_Visual Studio Code_\link_check_report.json"
+$reportFile = Join-Path $repoRoot "link_check_report.json"
 $report = @{
     CheckedAt = Get-Date -Format "yyyy-MM-dd HH:mm:ss"
     MarkdownFile = $MarkdownFile

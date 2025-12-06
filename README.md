@@ -1,8 +1,10 @@
-# Project Directory - README
+# VSCode Marketplace Evidence Kit
 
-**VS Code Extensions Documentation Project**  
+**Catalog, verify, and document VS Code extensions and verified publishers**  
 **Last Updated:** 2025-12-05  
 **Status:** 🧪 Prototype Branch (`feat/dir-architecture-prototype`)
+
+> Data-backed verification outputs for the VS Code Marketplace ecosystem.
 
 ---
 
