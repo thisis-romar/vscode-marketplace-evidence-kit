@@ -1,4 +1,5 @@
 """Render markdown documentation from extension data."""
+import os
 import subprocess
 from pathlib import Path
 
@@ -7,6 +8,15 @@ from prefect import task, get_run_logger
 
 def _repo_root() -> Path:
     return Path(__file__).resolve().parents[1]
+
+
+def _get_ci_env() -> dict:
+    """Get CI/CD environment variables to pass to PowerShell scripts."""
+    ci_vars = {}
+    for var in ["GITHUB_SHA", "GITHUB_RUN_ID", "GITHUB_REPOSITORY", "GITHUB_RUN_NUMBER"]:
+        if os.environ.get(var):
+            ci_vars[var] = os.environ[var]
+    return {**os.environ, **ci_vars}  # Merge with existing env
 
 
 @task(
@@ -30,6 +40,7 @@ def generate_ms_extensions_markdown() -> int:
         ["pwsh", "-File", str(script)],
         capture_output=True,
         text=True,
+        env=_get_ci_env(),
     )
 
     if result.returncode != 0:
@@ -61,6 +72,7 @@ def generate_verified_publishers_markdown() -> int:
         ["pwsh", "-File", str(script)],
         capture_output=True,
         text=True,
+        env=_get_ci_env(),
     )
 
     if result.returncode != 0:

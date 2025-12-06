@@ -268,10 +268,30 @@ $sortedCategories = $extensionsByCategory.Keys | Sort-Object -Property { $extens
 
 # Start building markdown
 $timestamp = Get-Date -Format "yyyy-MM-dd HH:mm:ss"
+$timestampISO = Get-Date -Format "yyyy-MM-ddTHH:mm:ssZ"
+$datestamp = Get-Date -Format "MMMM d, yyyy"
+
+# CI/CD build metadata (from GitHub Actions environment variables)
+$commitSHA = if ($env:GITHUB_SHA) { $env:GITHUB_SHA.Substring(0, 7) } else { "local" }
+$runID = if ($env:GITHUB_RUN_ID) { $env:GITHUB_RUN_ID } else { "manual" }
+$repoOwner = if ($env:GITHUB_REPOSITORY) { $env:GITHUB_REPOSITORY } else { "thisis-romar/vscode-marketplace-evidence-kit" }
+
 $markdown = @"
 # Microsoft VS Code Extensions - Complete Catalog
 
 **Comprehensive listing of all Microsoft Visual Studio Code extensions**
+
+*Last Updated: $datestamp at $($timestamp.Split(' ')[1]) UTC*
+
+$(if ($commitSHA -ne 'local') { "[``$commitSHA``](https://github.com/$repoOwner/commit/$($env:GITHUB_SHA)) • [Run #$runID](https://github.com/$repoOwner/actions/runs/$runID)" } else { "*Build: ``$commitSHA`` • Run: ``$runID``*" })
+
+<!-- BUILD_METADATA
+timestamp: $timestampISO
+commit: $commitSHA
+run_id: $runID
+extensions: $($data.Count)
+categories: $($sortedCategories.Count)
+-->
 
 ---
 
@@ -561,6 +581,7 @@ $markdown += "- **Version:** 2.0`n"
 $markdown += "- **Total Extensions:** $($data.Count)`n"
 $markdown += "- **Categories:** $($sortedCategories.Count)`n"
 $markdown += "- **Generated:** $timestamp`n"
+$markdown += "- **Build:** ``$commitSHA`` / Run ``$runID```n"
 $markdown += "- **Script:** generate_markdown.ps1`n`n"
 $markdown += "---`n`n"
 $markdown += "*This document was automatically generated from the Visual Studio Code Marketplace API.*`n"

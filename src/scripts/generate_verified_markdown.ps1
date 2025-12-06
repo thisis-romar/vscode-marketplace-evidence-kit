@@ -91,7 +91,13 @@ function Format-Description {
 Write-Host "Generating markdown content..." -ForegroundColor Cyan
 
 $timestamp = Get-Date -Format "yyyy-MM-dd HH:mm:ss"
+$timestampISO = Get-Date -Format "yyyy-MM-ddTHH:mm:ssZ"
 $datestamp = Get-Date -Format "MMMM d, yyyy"
+
+# CI/CD build metadata (from GitHub Actions environment variables)
+$commitSHA = if ($env:GITHUB_SHA) { $env:GITHUB_SHA.Substring(0, 7) } else { "local" }
+$runID = if ($env:GITHUB_RUN_ID) { $env:GITHUB_RUN_ID } else { "manual" }
+$repoOwner = if ($env:GITHUB_REPOSITORY) { $env:GITHUB_REPOSITORY } else { "thisis-romar/vscode-marketplace-evidence-kit" }
 
 # Calculate total installs
 $totalInstalls = ($publishers | Measure-Object -Property totalInstalls -Sum).Sum
@@ -111,9 +117,21 @@ $markdown = @"
 ![Domains](https://img.shields.io/badge/Domains-$($domainStats.Count)-purple?style=for-the-badge)
 ![Installs](https://img.shields.io/badge/Installs-$totalInstallsFormatted-orange?style=for-the-badge)
 
-*Last Updated: $datestamp*
+*Last Updated: $datestamp at $($timestamp.Split(' ')[1]) UTC*
+
+$(if ($commitSHA -ne 'local') { "[``$commitSHA``](https://github.com/$repoOwner/commit/$($env:GITHUB_SHA)) • [Run #$runID](https://github.com/$repoOwner/actions/runs/$runID)" } else { "*Build: ``$commitSHA`` • Run: ``$runID``*" })
 
 </div>
+
+<!-- BUILD_METADATA
+timestamp: $timestampISO
+commit: $commitSHA
+run_id: $runID
+data_source: $($metadata.fetchDate)
+publishers: $($publishers.Count)
+extensions: $($metadata.totalExtensions)
+domains: $($domainStats.Count)
+-->
 
 ---
 
@@ -401,6 +419,7 @@ For more details, see the [VS Code Publishing Documentation](https://code.visual
 | **Filter** | ``isDomainVerified = true`` |
 | **Sort** | By install count (most popular first) |
 | **Generated** | $timestamp |
+| **Build** | ``$commitSHA`` / Run ``$runID`` |
 
 ### Generation Scripts
 
