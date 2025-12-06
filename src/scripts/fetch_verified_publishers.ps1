@@ -1,11 +1,26 @@
 # Get script directory
 if (-not $PSScriptRoot) { $PSScriptRoot = Split-Path -Parent $MyInvocation.MyCommand.Path }
 
-# Compute repository root (supports scripts under src\scripts or repo root)
-$repoRoot = $PSScriptRoot
-if (Test-Path (Join-Path $PSScriptRoot "..\README.md")) {
-    $repoRoot = Resolve-Path (Join-Path $PSScriptRoot "..")
+# Compute repository root by walking up to find README.md
+function Get-RepoRoot {
+    param([string]$start)
+    $current = $start
+    for ($i = 0; $i -lt 5; $i++) {
+        if (Test-Path (Join-Path $current "README.md")) { return (Resolve-Path $current).Path }
+        $parent = Split-Path -Parent $current
+        if ([string]::IsNullOrEmpty($parent)) { break }
+        $current = $parent
+    }
+    return (Resolve-Path $start).Path
 }
+
+$repoRoot = Get-RepoRoot -start $PSScriptRoot
+
+# Ensure target directories exist
+$rawDir = Join-Path $repoRoot "data\raw"
+$processedDir = Join-Path $repoRoot "data\processed"
+New-Item -ItemType Directory -Path $rawDir -Force | Out-Null
+New-Item -ItemType Directory -Path $processedDir -Force | Out-Null
 
 # Script to fetch ALL verified VS Code extension publishers from the Marketplace
 # Collects extensions from verified publishers (isDomainVerified=true) across ALL domains
