@@ -9,20 +9,23 @@
 ![Domains](https://img.shields.io/badge/Domains-245-purple?style=for-the-badge)
 ![Installs](https://img.shields.io/badge/Installs-2967.6M-orange?style=for-the-badge)
 
-*Last Updated: December 6, 2025 at 01:29:43 UTC*
+*Last Updated: December 6, 2025 at 03:08:55 UTC*
 
 [`abc1234`](https://github.com/thisis-romar/vscode-marketplace-evidence-kit/commit/abc1234567890def) • [Run #98765432](https://github.com/thisis-romar/vscode-marketplace-evidence-kit/actions/runs/98765432)
 
 </div>
 
 <!-- BUILD_METADATA
-timestamp: 2025-12-06T01:29:43Z
+timestamp: 2025-12-06T03:08:55Z
 commit: abc1234
 run_id: 98765432
 data_source: 2025-12-05 22:29:53
 publishers: 304
 extensions: 711
 domains: 245
+rated_extensions: 640
+avg_rating: 4.24
+rating_coverage: 90%
 -->
 
 ---
@@ -30,6 +33,12 @@ domains: 245
 ## 📑 Table of Contents
 
 - [📊 Quick Stats](#-quick-stats)
+- [🔥 Popular Extensions](#-popular-extensions)
+- [⭐ Top Rated Extensions](#-top-rated-extensions)
+- [🆕 Recently Updated](#-recently-updated)
+- [🏷️ Extensions by Category](#-extensions-by-category)
+- [🔎 Identifier Index](#-identifier-index)
+- [🏅 Domain Leaderboards](#-domain-leaderboards)
 - [🏆 Top 20 Publishers](#-top-20-publishers-by-total-installs)
 - [🌐 Top 20 Domains](#-top-20-domains-by-extension-count)
 - [📚 All Domains Directory](#-all-domains-directory)
@@ -42,38 +51,3693 @@ domains: 245
 
 <table>
 <tr>
-<td width="25%" align="center">
+<td width="20%" align="center">
 
 ### 👥 Publishers
 **304**
 *verified*
 
 </td>
-<td width="25%" align="center">
+<td width="20%" align="center">
 
 ### 📦 Extensions
 **711**
 *total*
 
 </td>
-<td width="25%" align="center">
+<td width="20%" align="center">
 
 ### 🌐 Domains
 **245**
 *unique*
 
 </td>
-<td width="25%" align="center">
+<td width="20%" align="center">
 
 ### ⬇️ Installs
 **2967.6M**
 *combined*
 
 </td>
+<td width="20%" align="center">
+
+### ⭐ Avg Rating
+**4.24**
+*640 rated (90%)*
+
+</td>
 </tr>
 </table>
 
 > 💡 **What is verification?** Verified publishers have proven domain ownership by adding a TXT record to their DNS configuration. This provides an extra layer of trust for extension users.
+
+---
+
+## 🔥 Popular Extensions
+
+> **Top 50 verified extensions by total installs** — mirrors Marketplace `@sort:installs`
+
+| Rank | Extension | Publisher | Domain | Installs | Rating | Last Updated |
+|:----:|-----------|-----------|--------|:--------:|:------:|:------------:|
+| 🥇 | [**Python**](https://marketplace.visualstudio.com/items?itemName=ms-python.python) | [ms-python](#ms-python) | `microsoft.com` | **194.9M** | ⭐ 4.2 | 2025-12-04 |
+| 🥈 | [**Pylance**](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance) | [ms-python](#ms-python) | `microsoft.com` | **162.8M** | ⭐ 3 | 2025-12-05 |
+| 🥉 | [**Python Debugger**](https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy) | [ms-python](#ms-python) | `microsoft.com` | **100.3M** | ⭐ 4.6 | 2025-12-04 |
+| 4. | [**Jupyter**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter) | [ms-toolsai](#ms-toolsai) | `microsoft.com` | **98.8M** | ⭐ 2.7 | 2025-10-10 |
+| 5. | [**C/C++**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools) | [ms-vscode](#ms-vscode) | `microsoft.com` | **91.7M** | ⭐ 3.4 | 2025-12-03 |
+| 6. | [**Jupyter Keymap**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter-keymap) | [ms-toolsai](#ms-toolsai) | `microsoft.com` | **78.6M** | ⭐ 4 | 2023-06-05 |
+| 7. | [**Jupyter Notebook Renderers**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter-renderers) | [ms-toolsai](#ms-toolsai) | `microsoft.com` | **77.7M** | ⭐ 2.8 | 2025-06-27 |
+| 8. | [**GitHub Copilot**](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) | [GitHub](#github) | `github.com` | **62.5M** | ⭐ 4.1 | 2025-10-24 |
+| 9. | [**IntelliCode**](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode) | [VisualStudioExptTeam](#visualstudioexptteam) | `microsoft.com` | **60.3M** | ⭐ 3.9 | 2024-10-23 |
+| 10. | [**Jupyter Cell Tags**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.vscode-jupyter-cell-tags) | [ms-toolsai](#ms-toolsai) | `microsoft.com` | **59M** | ⭐ 4 | 2024-04-03 |
+| 11. | [**Jupyter Slide Show**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.vscode-jupyter-slideshow) | [ms-toolsai](#ms-toolsai) | `microsoft.com` | **59M** | ⭐ 5 | 2024-04-03 |
+| 12. | [**CMake Tools**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cmake-tools) | [ms-vscode](#ms-vscode) | `microsoft.com` | **53.2M** | ⭐ 4.5 | 2025-12-05 |
+| 13. | [**GitHub Copilot Chat**](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat) | [GitHub](#github) | `github.com` | **51.7M** | ⭐ 3.7 | 2025-12-05 |
+| 14. | [**C/C++ Themes**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools-themes) | [ms-vscode](#ms-vscode) | `microsoft.com` | **50.5M** | ⭐ 3.5 | 2022-10-24 |
+| 15. | [**Language Support for Java(TM) by Red Hat**](https://marketplace.visualstudio.com/items?itemName=redhat.java) | [redhat](#redhat) | `redhat.com` | **49.8M** | ⭐ 3.3 | 2025-12-05 |
+| 16. | [**C/C++ Extension Pack**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools-extension-pack) | [ms-vscode](#ms-vscode) | `microsoft.com` | **49M** | ⭐ 4.6 | 2025-02-24 |
+| 17. | [**Docker**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) | [ms-azuretools](#ms-azuretools) | `microsoft.com` | **48.7M** | ⭐ 4.5 | 2025-05-28 |
+| 18. | [**ESLint**](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) | [dbaeumer](#dbaeumer) | `microsoft.com` | **46.8M** | ⭐ 4.3 | 2025-11-13 |
+| 19. | [**Chinese (Simplified) (简体中文) Language Pack for Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-zh-hans) | [MS-CEINTL](#ms-ceintl) | `microsoft.com` | **46.5M** | ⭐ 4.8 | 2025-12-03 |
+| 20. | [**GitLens — Git supercharged**](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) | [eamodio](#eamodio) | `gitkraken.com` | **45.8M** | ⭐ 3.5 | 2025-12-05 |
+| 21. | [**Debugger for Java**](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-debug) | [vscjava](#vscjava) | `microsoft.com` | **45.5M** | ⭐ 4 | 2025-11-25 |
+| 22. | [**IntelliCode API Usage Examples**](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.intellicode-api-usage-examples) | [VisualStudioExptTeam](#visualstudioexptteam) | `microsoft.com` | **44.6M** | ⭐ 3.8 | 2024-10-23 |
+| 23. | [**Maven for Java**](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-maven) | [vscjava](#vscjava) | `microsoft.com` | **41.9M** | ⭐ 4.1 | 2025-11-24 |
+| 24. | [**Test Runner for Java**](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-test) | [vscjava](#vscjava) | `microsoft.com` | **40.6M** | ⭐ 4.2 | 2025-12-04 |
+| 25. | [**Project Manager for Java**](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-dependency) | [vscjava](#vscjava) | `microsoft.com` | **40.3M** | ⭐ 4.1 | 2025-10-29 |
+| 26. | [**Extension Pack for Java**](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack) | [vscjava](#vscjava) | `microsoft.com` | **40.1M** | ⭐ 3.7 | 2025-11-17 |
+| 27. | [**C#**](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp) | [ms-dotnettools](#ms-dotnettools) | `microsoft.com` | **37.4M** | ⭐ 2.7 | 2025-12-03 |
+| 28. | [**WSL**](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl) | [ms-vscode-remote](#ms-vscode-remote) | `microsoft.com` | **37.2M** | ⭐ 4.8 | 2025-10-01 |
+| 29. | [**Dev Containers**](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) | [ms-vscode-remote](#ms-vscode-remote) | `microsoft.com` | **35.2M** | ⭐ 4.3 | 2025-12-05 |
+| 30. | [**GitHub Pull Requests**](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github) | [GitHub](#github) | `github.com` | **31.5M** | ⭐ 4.1 | 2025-12-05 |
+| 31. | [**Remote - SSH**](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh) | [ms-vscode-remote](#ms-vscode-remote) | `microsoft.com` | **30.7M** | ⭐ 3.7 | 2025-11-18 |
+| 32. | [**Remote - SSH: Editing Configuration Files**](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh-edit) | [ms-vscode-remote](#ms-vscode-remote) | `microsoft.com` | **28.6M** | ⭐ 4.2 | 2024-10-01 |
+| 33. | [**isort**](https://marketplace.visualstudio.com/items?itemName=ms-python.isort) | [ms-python](#ms-python) | `microsoft.com` | **24.9M** | ⭐ 2.5 | 2025-11-21 |
+| 34. | [**YAML**](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml) | [redhat](#redhat) | `redhat.com` | **24.5M** | ⭐ 3.5 | 2025-12-04 |
+| 35. | [**.NET Install Tool**](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscode-dotnet-runtime) | [ms-dotnettools](#ms-dotnettools) | `microsoft.com` | **23.2M** | ⭐ 1.9 | 2025-12-01 |
+| 36. | [**WakaTime**](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime) | [WakaTime](#wakatime) | `wakatime.com` | **22.9M** | ⭐ 4.2 | 2025-11-28 |
+| 37. | [**vscode-icons**](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons) | [vscode-icons-team](#vscode-icons-team) | `vscodeicons.team` | **22.8M** | ⭐ 4.8 | 2025-10-12 |
+| 38. | [**Remote Explorer**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.remote-explorer) | [ms-vscode](#ms-vscode) | `microsoft.com` | **22.8M** | ⭐ 4.5 | 2025-08-18 |
+| 39. | [**Live Share**](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) | [MS-vsliveshare](#ms-vsliveshare) | `microsoft.com` | **22.2M** | ⭐ 4.2 | 2025-08-13 |
+| 40. | [**Gradle for Java**](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-gradle) | [vscjava](#vscjava) | `microsoft.com` | **21.2M** | ⭐ 3.6 | 2025-11-14 |
+| 41. | [**GitHub Theme**](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme) | [GitHub](#github) | `github.com` | **17.7M** | ⭐ 4.6 | 2024-10-03 |
+| 42. | [**Go**](https://marketplace.visualstudio.com/items?itemName=golang.Go) | [golang](#golang) | `go.dev` | **17.4M** | ⭐ 4.3 | 2025-10-27 |
+| 43. | [**PowerShell**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell) | [ms-vscode](#ms-vscode) | `microsoft.com` | **17M** | ⭐ 3.6 | 2025-09-24 |
+| 44. | [**Python Environments**](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-python-envs) | [ms-python](#ms-python) | `microsoft.com` | **16.5M** | ⭐ 1.4 | 2025-12-04 |
+| 45. | [**PHP Intelephense**](https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client) | [bmewburn](#bmewburn) | `intelephense.com` | **16.3M** | ⭐ 4.2 | 2025-11-27 |
+| 46. | [**Code Spell Checker**](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) | [streetsidesoftware](#streetsidesoftware) | `streetsidesoftware.com` | **15.9M** | ⭐ 4.5 | 2025-11-15 |
+| 47. | [**PHP Debug**](https://marketplace.visualstudio.com/items?itemName=xdebug.php-debug) | [xdebug](#xdebug) | `xdebug.org` | **14.6M** | ⭐ 4.1 | 2025-11-23 |
+| 48. | [**Dart**](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code) | [Dart-Code](#dart-code) | `dartcode.org` | **13.4M** | ⭐ 4.8 | 2025-12-02 |
+| 49. | [**Japanese Language Pack for Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-ja) | [MS-CEINTL](#ms-ceintl) | `microsoft.com` | **13M** | ⭐ 4.6 | 2025-12-03 |
+| 50. | [**C# Dev Kit**](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit) | [ms-dotnettools](#ms-dotnettools) | `microsoft.com` | **12.6M** | ⭐ 2.9 | 2025-12-04 |
+
+<details>
+<summary><strong>📂 View all 711 extensions by installs</strong></summary>
+
+| Rank | Extension | Publisher | Domain | Installs | Rating | Last Updated |
+|:----:|-----------|-----------|--------|:--------:|:------:|:------------:|
+| 🥇 | [**Python**](https://marketplace.visualstudio.com/items?itemName=ms-python.python) | [ms-python](#ms-python) | `microsoft.com` | **194.9M** | ⭐ 4.2 | 2025-12-04 |
+| 🥈 | [**Pylance**](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance) | [ms-python](#ms-python) | `microsoft.com` | **162.8M** | ⭐ 3 | 2025-12-05 |
+| 🥉 | [**Python Debugger**](https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy) | [ms-python](#ms-python) | `microsoft.com` | **100.3M** | ⭐ 4.6 | 2025-12-04 |
+| 4. | [**Jupyter**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter) | [ms-toolsai](#ms-toolsai) | `microsoft.com` | **98.8M** | ⭐ 2.7 | 2025-10-10 |
+| 5. | [**C/C++**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools) | [ms-vscode](#ms-vscode) | `microsoft.com` | **91.7M** | ⭐ 3.4 | 2025-12-03 |
+| 6. | [**Jupyter Keymap**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter-keymap) | [ms-toolsai](#ms-toolsai) | `microsoft.com` | **78.6M** | ⭐ 4 | 2023-06-05 |
+| 7. | [**Jupyter Notebook Renderers**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter-renderers) | [ms-toolsai](#ms-toolsai) | `microsoft.com` | **77.7M** | ⭐ 2.8 | 2025-06-27 |
+| 8. | [**GitHub Copilot**](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) | [GitHub](#github) | `github.com` | **62.5M** | ⭐ 4.1 | 2025-10-24 |
+| 9. | [**IntelliCode**](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode) | [VisualStudioExptTeam](#visualstudioexptteam) | `microsoft.com` | **60.3M** | ⭐ 3.9 | 2024-10-23 |
+| 10. | [**Jupyter Cell Tags**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.vscode-jupyter-cell-tags) | [ms-toolsai](#ms-toolsai) | `microsoft.com` | **59M** | ⭐ 4 | 2024-04-03 |
+| 11. | [**Jupyter Slide Show**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.vscode-jupyter-slideshow) | [ms-toolsai](#ms-toolsai) | `microsoft.com` | **59M** | ⭐ 5 | 2024-04-03 |
+| 12. | [**CMake Tools**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cmake-tools) | [ms-vscode](#ms-vscode) | `microsoft.com` | **53.2M** | ⭐ 4.5 | 2025-12-05 |
+| 13. | [**GitHub Copilot Chat**](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat) | [GitHub](#github) | `github.com` | **51.7M** | ⭐ 3.7 | 2025-12-05 |
+| 14. | [**C/C++ Themes**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools-themes) | [ms-vscode](#ms-vscode) | `microsoft.com` | **50.5M** | ⭐ 3.5 | 2022-10-24 |
+| 15. | [**Language Support for Java(TM) by Red Hat**](https://marketplace.visualstudio.com/items?itemName=redhat.java) | [redhat](#redhat) | `redhat.com` | **49.8M** | ⭐ 3.3 | 2025-12-05 |
+| 16. | [**C/C++ Extension Pack**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools-extension-pack) | [ms-vscode](#ms-vscode) | `microsoft.com` | **49M** | ⭐ 4.6 | 2025-02-24 |
+| 17. | [**Docker**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) | [ms-azuretools](#ms-azuretools) | `microsoft.com` | **48.7M** | ⭐ 4.5 | 2025-05-28 |
+| 18. | [**ESLint**](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) | [dbaeumer](#dbaeumer) | `microsoft.com` | **46.8M** | ⭐ 4.3 | 2025-11-13 |
+| 19. | [**Chinese (Simplified) (简体中文) Language Pack for Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-zh-hans) | [MS-CEINTL](#ms-ceintl) | `microsoft.com` | **46.5M** | ⭐ 4.8 | 2025-12-03 |
+| 20. | [**GitLens — Git supercharged**](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) | [eamodio](#eamodio) | `gitkraken.com` | **45.8M** | ⭐ 3.5 | 2025-12-05 |
+| 21. | [**Debugger for Java**](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-debug) | [vscjava](#vscjava) | `microsoft.com` | **45.5M** | ⭐ 4 | 2025-11-25 |
+| 22. | [**IntelliCode API Usage Examples**](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.intellicode-api-usage-examples) | [VisualStudioExptTeam](#visualstudioexptteam) | `microsoft.com` | **44.6M** | ⭐ 3.8 | 2024-10-23 |
+| 23. | [**Maven for Java**](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-maven) | [vscjava](#vscjava) | `microsoft.com` | **41.9M** | ⭐ 4.1 | 2025-11-24 |
+| 24. | [**Test Runner for Java**](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-test) | [vscjava](#vscjava) | `microsoft.com` | **40.6M** | ⭐ 4.2 | 2025-12-04 |
+| 25. | [**Project Manager for Java**](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-dependency) | [vscjava](#vscjava) | `microsoft.com` | **40.3M** | ⭐ 4.1 | 2025-10-29 |
+| 26. | [**Extension Pack for Java**](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack) | [vscjava](#vscjava) | `microsoft.com` | **40.1M** | ⭐ 3.7 | 2025-11-17 |
+| 27. | [**C#**](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp) | [ms-dotnettools](#ms-dotnettools) | `microsoft.com` | **37.4M** | ⭐ 2.7 | 2025-12-03 |
+| 28. | [**WSL**](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl) | [ms-vscode-remote](#ms-vscode-remote) | `microsoft.com` | **37.2M** | ⭐ 4.8 | 2025-10-01 |
+| 29. | [**Dev Containers**](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) | [ms-vscode-remote](#ms-vscode-remote) | `microsoft.com` | **35.2M** | ⭐ 4.3 | 2025-12-05 |
+| 30. | [**GitHub Pull Requests**](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github) | [GitHub](#github) | `github.com` | **31.5M** | ⭐ 4.1 | 2025-12-05 |
+| 31. | [**Remote - SSH**](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh) | [ms-vscode-remote](#ms-vscode-remote) | `microsoft.com` | **30.7M** | ⭐ 3.7 | 2025-11-18 |
+| 32. | [**Remote - SSH: Editing Configuration Files**](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh-edit) | [ms-vscode-remote](#ms-vscode-remote) | `microsoft.com` | **28.6M** | ⭐ 4.2 | 2024-10-01 |
+| 33. | [**isort**](https://marketplace.visualstudio.com/items?itemName=ms-python.isort) | [ms-python](#ms-python) | `microsoft.com` | **24.9M** | ⭐ 2.5 | 2025-11-21 |
+| 34. | [**YAML**](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml) | [redhat](#redhat) | `redhat.com` | **24.5M** | ⭐ 3.5 | 2025-12-04 |
+| 35. | [**.NET Install Tool**](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscode-dotnet-runtime) | [ms-dotnettools](#ms-dotnettools) | `microsoft.com` | **23.2M** | ⭐ 1.9 | 2025-12-01 |
+| 36. | [**WakaTime**](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime) | [WakaTime](#wakatime) | `wakatime.com` | **22.9M** | ⭐ 4.2 | 2025-11-28 |
+| 37. | [**vscode-icons**](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons) | [vscode-icons-team](#vscode-icons-team) | `vscodeicons.team` | **22.8M** | ⭐ 4.8 | 2025-10-12 |
+| 38. | [**Remote Explorer**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.remote-explorer) | [ms-vscode](#ms-vscode) | `microsoft.com` | **22.8M** | ⭐ 4.5 | 2025-08-18 |
+| 39. | [**Live Share**](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) | [MS-vsliveshare](#ms-vsliveshare) | `microsoft.com` | **22.2M** | ⭐ 4.2 | 2025-08-13 |
+| 40. | [**Gradle for Java**](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-gradle) | [vscjava](#vscjava) | `microsoft.com` | **21.2M** | ⭐ 3.6 | 2025-11-14 |
+| 41. | [**GitHub Theme**](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme) | [GitHub](#github) | `github.com` | **17.7M** | ⭐ 4.6 | 2024-10-03 |
+| 42. | [**Go**](https://marketplace.visualstudio.com/items?itemName=golang.Go) | [golang](#golang) | `go.dev` | **17.4M** | ⭐ 4.3 | 2025-10-27 |
+| 43. | [**PowerShell**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell) | [ms-vscode](#ms-vscode) | `microsoft.com` | **17M** | ⭐ 3.6 | 2025-09-24 |
+| 44. | [**Python Environments**](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-python-envs) | [ms-python](#ms-python) | `microsoft.com` | **16.5M** | ⭐ 1.4 | 2025-12-04 |
+| 45. | [**PHP Intelephense**](https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client) | [bmewburn](#bmewburn) | `intelephense.com` | **16.3M** | ⭐ 4.2 | 2025-11-27 |
+| 46. | [**Code Spell Checker**](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) | [streetsidesoftware](#streetsidesoftware) | `streetsidesoftware.com` | **15.9M** | ⭐ 4.5 | 2025-11-15 |
+| 47. | [**PHP Debug**](https://marketplace.visualstudio.com/items?itemName=xdebug.php-debug) | [xdebug](#xdebug) | `xdebug.org` | **14.6M** | ⭐ 4.1 | 2025-11-23 |
+| 48. | [**Dart**](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code) | [Dart-Code](#dart-code) | `dartcode.org` | **13.4M** | ⭐ 4.8 | 2025-12-02 |
+| 49. | [**Japanese Language Pack for Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-ja) | [MS-CEINTL](#ms-ceintl) | `microsoft.com` | **13M** | ⭐ 4.6 | 2025-12-03 |
+| 50. | [**C# Dev Kit**](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit) | [ms-dotnettools](#ms-dotnettools) | `microsoft.com` | **12.6M** | ⭐ 2.9 | 2025-12-04 |
+| 51. | [**Flutter**](https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter) | [Dart-Code](#dart-code) | `dartcode.org` | **12.5M** | ⭐ 4.9 | 2025-12-01 |
+| 52. | [**Tailwind CSS IntelliSense**](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) | [bradlc](#bradlc) | `tailwindcss.com` | **12.2M** | ⭐ 4.5 | 2025-10-22 |
+| 53. | [**Live Preview**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server) | [ms-vscode](#ms-vscode) | `microsoft.com` | **11M** | ⭐ 4.4 | 2025-09-15 |
+| 54. | [**[Deprecated] Debugger for Chrome**](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome) | [msjsdiag](#msjsdiag) | `microsoft.com` | **10.8M** | ⭐ 4.2 | 2021-08-03 |
+| 55. | [**Spanish Language Pack for Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-es) | [MS-CEINTL](#ms-ceintl) | `microsoft.com` | **10.6M** | ⭐ 4.4 | 2025-12-03 |
+| 56. | [**markdownlint**](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) | [DavidAnson](#davidanson) | `dlaa.me` | **10M** | ⭐ 4.5 | 2025-05-27 |
+| 57. | [**Dracula Theme Official**](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula) | [dracula-theme](#dracula-theme) | `draculatheme.com` | **9.8M** | ⭐ 4.8 | 2024-07-17 |
+| 58. | [**Tabnine: AI Chat & Autocomplete for JavaScript, Python, Typescript, Java, PHP, Go, and more**](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode) | [TabNine](#tabnine) | `tabnine.com` | **9.4M** | ⭐ 4 | 2025-12-02 |
+| 59. | [**XML**](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-xml) | [redhat](#redhat) | `redhat.com` | **9.1M** | ⭐ 3.8 | 2025-11-25 |
+| 60. | [**Azure Account**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.azure-account) | [ms-vscode](#ms-vscode) | `microsoft.com` | **9.1M** | ⭐ 2.1 | 2025-01-22 |
+| 61. | [**Angular Language Service**](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template) | [Angular](#angular) | `angular.dev` | **9M** | ⭐ 3.2 | 2025-11-18 |
+| 62. | [**Makefile Tools**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.makefile-tools) | [ms-vscode](#ms-vscode) | `microsoft.com` | **8.7M** | ⭐ 2.6 | 2025-10-08 |
+| 63. | [**SQL Server (mssql)**](https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql) | [ms-mssql](#ms-mssql) | `microsoft.com` | **8.6M** | ⭐ 3.1 | 2025-12-02 |
+| 64. | [**Portuguese (Brazil) Language Pack for Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-pt-BR) | [MS-CEINTL](#ms-ceintl) | `microsoft.com` | **8.4M** | ⭐ 4.7 | 2025-12-03 |
+| 65. | [**Remote Development**](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack) | [ms-vscode-remote](#ms-vscode-remote) | `microsoft.com` | **8.1M** | ⭐ 4.6 | 2024-10-24 |
+| 66. | [**Russian Language Pack for Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-ru) | [MS-CEINTL](#ms-ceintl) | `microsoft.com` | **8.1M** | ⭐ 4.7 | 2025-12-03 |
+| 67. | [**Remote - Tunnels**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.remote-server) | [ms-vscode](#ms-vscode) | `microsoft.com` | **7.4M** | ⭐ 4.4 | 2025-10-21 |
+| 68. | [**Vue (Official)**](https://marketplace.visualstudio.com/items?itemName=Vue.volar) | [Vue](#vue) | `vuejs.org` | **7.2M** | ⭐ 3 | 2025-12-05 |
+| 69. | [**Container Tools**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-containers) | [ms-azuretools](#ms-azuretools) | `microsoft.com` | **6.9M** | ⭐ 3.6 | 2025-11-10 |
+| 70. | [**GitHub Codespaces**](https://marketplace.visualstudio.com/items?itemName=GitHub.codespaces) | [GitHub](#github) | `github.com` | **6.9M** | ⭐ 4.8 | 2025-12-04 |
+| 71. | [**Hex Editor**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.hexeditor) | [ms-vscode](#ms-vscode) | `microsoft.com` | **6.4M** | ⭐ 3.5 | 2024-11-03 |
+| 72. | [**Kubernetes**](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.vscode-kubernetes-tools) | [ms-kubernetes-tools](#ms-kubernetes-tools) | `microsoft.com` | **6.3M** | ⭐ 4.4 | 2025-11-25 |
+| 73. | [**PlatformIO IDE**](https://marketplace.visualstudio.com/items?itemName=platformio.platformio-ide) | [platformio](#platformio) | `platformio.org` | **6.1M** | ⭐ 4.9 | 2025-01-11 |
+| 74. | [**JavaScript and TypeScript Nightly**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next) | [ms-vscode](#ms-vscode) | `microsoft.com` | **6.1M** | ⭐ 2.8 | 2025-12-06 |
+| 75. | [**Korean Language Pack for Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-ko) | [MS-CEINTL](#ms-ceintl) | `microsoft.com` | **6.1M** | ⭐ 4.3 | 2025-12-03 |
+| 76. | [**PHP**](https://marketplace.visualstudio.com/items?itemName=DEVSENSE.phptools-vscode) | [DEVSENSE](#devsense) | `devsense.com` | **6.1M** | ⭐ 4.1 | 2025-12-03 |
+| 77. | [**PHP Extension Pack**](https://marketplace.visualstudio.com/items?itemName=xdebug.php-pack) | [xdebug](#xdebug) | `xdebug.org` | **6.1M** | ⭐ 4.6 | 2022-01-21 |
+| 78. | [**Black Formatter**](https://marketplace.visualstudio.com/items?itemName=ms-python.black-formatter) | [ms-python](#ms-python) | `microsoft.com` | **6M** | ⭐ 3.4 | 2025-07-02 |
+| 79. | [**Azure Resources**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureresourcegroups) | [ms-azuretools](#ms-azuretools) | `microsoft.com` | **5.8M** | ⭐ 2.5 | 2025-11-18 |
+| 80. | [**French Language Pack for Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-fr) | [MS-CEINTL](#ms-ceintl) | `microsoft.com` | **5.8M** | ⭐ 4.2 | 2025-12-03 |
+| 81. | [**React Native Tools**](https://marketplace.visualstudio.com/items?itemName=msjsdiag.vscode-react-native) | [msjsdiag](#msjsdiag) | `microsoft.com` | **5.8M** | ⭐ 4.1 | 2024-03-25 |
+| 82. | [**HashiCorp Terraform**](https://marketplace.visualstudio.com/items?itemName=HashiCorp.terraform) | [HashiCorp](#hashicorp) | `hashicorp.com` | **5.8M** | ⭐ 2.4 | 2025-09-22 |
+| 83. | [**GitHub Actions**](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-github-actions) | [GitHub](#github) | `github.com` | **5.7M** | ⭐ 3.2 | 2025-11-21 |
+| 84. | [**Composer**](https://marketplace.visualstudio.com/items?itemName=DEVSENSE.composer-php-vscode) | [DEVSENSE](#devsense) | `devsense.com` | **5.7M** | ⭐ 4.5 | 2025-12-03 |
+| 85. | [**Spring Initializr Java Support**](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-spring-initializr) | [vscjava](#vscjava) | `microsoft.com` | **5.7M** | ⭐ 4 | 2025-11-14 |
+| 86. | [**PHP Profiler**](https://marketplace.visualstudio.com/items?itemName=DEVSENSE.profiler-php-vscode) | [DEVSENSE](#devsense) | `devsense.com` | **5.6M** | ⭐ 5 | 2025-12-03 |
+| 87. | [**Azure Functions**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions) | [ms-azuretools](#ms-azuretools) | `microsoft.com` | **5.6M** | ⭐ 3.2 | 2025-11-25 |
+| 88. | [**GitHub Repositories**](https://marketplace.visualstudio.com/items?itemName=GitHub.remotehub) | [GitHub](#github) | `github.com` | **5.5M** | ⭐ 4.4 | 2025-08-18 |
+| 89. | [**Microsoft Edge Tools for VS Code**](https://marketplace.visualstudio.com/items?itemName=ms-edgedevtools.vscode-edge-devtools) | [ms-edgedevtools](#ms-edgedevtools) | `microsoft.com` | **5.5M** | ⭐ 4 | 2025-11-12 |
+| 90. | [**rust-analyzer**](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer) | [rust-lang](#rust-lang) | `rust-lang.org` | **5.5M** | ⭐ 4.8 | 2025-12-06 |
+| 91. | [**[Deprecated] Live Share Audio**](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-audio) | [MS-vsliveshare](#ms-vsliveshare) | `microsoft.com` | **5.4M** | ⭐ 4.6 | 2023-01-27 |
+| 92. | [**Remote Repositories**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.remote-repositories) | [ms-vscode](#ms-vscode) | `microsoft.com` | **5.2M** | ⭐ 4.2 | 2025-08-18 |
+| 93. | [**Import Cost**](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) | [wix](#wix) | `wix.com` | **5.1M** | ⭐ 3 | 2022-04-10 |
+| 94. | [**German Language Pack for Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-de) | [MS-CEINTL](#ms-ceintl) | `microsoft.com` | **5.1M** | ⭐ 4 | 2025-12-03 |
+| 95. | [**autopep8**](https://marketplace.visualstudio.com/items?itemName=ms-python.autopep8) | [ms-python](#ms-python) | `microsoft.com` | **5M** | ⭐ 2.9 | 2025-11-19 |
+| 96. | [**IntelliPHP - AI Autocomplete for PHP**](https://marketplace.visualstudio.com/items?itemName=DEVSENSE.intelli-php-vscode) | [DEVSENSE](#devsense) | `devsense.com` | **5M** | ⭐ 3.5 | 2025-07-28 |
+| 97. | [**Spring Boot Tools**](https://marketplace.visualstudio.com/items?itemName=vmware.vscode-spring-boot) | [vmware](#vmware) | `vmware.com` | **4.9M** | ⭐ 5 | 2025-12-06 |
+| 98. | [**Data Workspace**](https://marketplace.visualstudio.com/items?itemName=ms-mssql.data-workspace-vscode) | [ms-mssql](#ms-mssql) | `microsoft.com` | **4.8M** | ⭐ 4 | 2025-06-18 |
+| 99. | [**Azure Repos**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.azure-repos) | [ms-vscode](#ms-vscode) | `microsoft.com` | **4.7M** | ⭐ 3.2 | 2025-08-18 |
+| 100. | [**SQL Database Projects**](https://marketplace.visualstudio.com/items?itemName=ms-mssql.sql-database-projects-vscode) | [ms-mssql](#ms-mssql) | `microsoft.com` | **4.6M** | ⭐ 4.2 | 2025-11-18 |
+| 101. | [**Test Adapter Converter**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.test-adapter-converter) | [ms-vscode](#ms-vscode) | `microsoft.com` | **4.6M** | ⭐ 5 | 2024-11-04 |
+| 102. | [**Java**](https://marketplace.visualstudio.com/items?itemName=Oracle.oracle-java) | [Oracle](#oracle) | `oracle.com` | **4.6M** | ⭐ 4.9 | 2025-09-30 |
+| 103. | [**BLACKBOXAI #1 AI Coding Agent and Coding Copilot**](https://marketplace.visualstudio.com/items?itemName=Blackboxapp.blackbox) | [Blackboxapp](#blackboxapp) | `blackbox.ai` | **4.6M** | ⭐ 3.9 | 2025-11-06 |
+| 104. | [**TSLint**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin) | [ms-vscode](#ms-vscode) | `microsoft.com` | **4.5M** | ⭐ 3 | 2022-03-31 |
+| 105. | [**Chinese (Traditional) Language Pack for Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-zh-hant) | [MS-CEINTL](#ms-ceintl) | `microsoft.com` | **4.4M** | ⭐ 4.9 | 2025-12-03 |
+| 106. | [**Spring Boot Dashboard**](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-spring-boot-dashboard) | [vscjava](#vscjava) | `microsoft.com` | **4.3M** | ⭐ 4.2 | 2025-04-17 |
+| 107. | [**IntelliCode for C# Dev Kit**](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscodeintellicode-csharp) | [ms-dotnettools](#ms-dotnettools) | `microsoft.com` | **4.2M** | ⭐ 2.1 | 2024-11-13 |
+| 108. | [**SQL Bindings**](https://marketplace.visualstudio.com/items?itemName=ms-mssql.sql-bindings-vscode) | [ms-mssql](#ms-mssql) | `microsoft.com` | **4.2M** | ⭐ 5 | 2025-04-30 |
+| 109. | [**Quokka.js**](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode) | [WallabyJs](#wallabyjs) | `wallabyjs.com` | **4.1M** | ⭐ 3.7 | 2025-12-04 |
+| 110. | [**SonarQube for IDE**](https://marketplace.visualstudio.com/items?itemName=SonarSource.sonarlint-vscode) | [SonarSource](#sonarsource) | `sonarsource.com` | **4M** | ⭐ 3.8 | 2025-11-25 |
+| 111. | [**Spring Boot Extension Pack**](https://marketplace.visualstudio.com/items?itemName=vmware.vscode-boot-dev-pack) | [vmware](#vmware) | `vmware.com` | **3.8M** | ⭐ 4.7 | 2025-01-28 |
+| 112. | [**Monokai Pro**](https://marketplace.visualstudio.com/items?itemName=monokai.theme-monokai-pro-vscode) | [monokai](#monokai) | `monokai.pro` | **3.8M** | ⭐ 3.6 | 2025-11-03 |
+| 113. | [**AWS Toolkit**](https://marketplace.visualstudio.com/items?itemName=AmazonWebServices.aws-toolkit-vscode) | [AmazonWebServices](#amazonwebservices) | `amazon.com` | **3.6M** | ⭐ 2.5 | 2025-11-25 |
+| 114. | [**Draw.io Integration**](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio) | [hediet](#hediet) | `hediet.de` | **3.4M** | ⭐ 4.9 | 2025-02-26 |
+| 115. | [**Stylelint**](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint) | [stylelint](#stylelint) | `stylelint.io` | **3.2M** | ⭐ 4 | 2025-11-27 |
+| 116. | [**JavaScript Debugger (Nightly)**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.js-debug-nightly) | [ms-vscode](#ms-vscode) | `microsoft.com` | **3.2M** | ⭐ 4.1 | 2025-11-26 |
+| 117. | [**Italian Language Pack for Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-it) | [MS-CEINTL](#ms-ceintl) | `microsoft.com` | **3.2M** | ⭐ 4.5 | 2025-12-03 |
+| 118. | [**Azure Cosmos DB**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-cosmosdb) | [ms-azuretools](#ms-azuretools) | `microsoft.com` | **3.2M** | ⭐ 3.2 | 2025-11-17 |
+| 119. | [**Database Client JDBC**](https://marketplace.visualstudio.com/items?itemName=cweijan.dbclient-jdbc) | [cweijan](#cweijan) | `database-client.com` | **3M** | ⭐ 3.7 | 2025-06-15 |
+| 120. | [**Red Hat Dependency Analytics**](https://marketplace.visualstudio.com/items?itemName=redhat.fabric8-analytics) | [redhat](#redhat) | `redhat.com` | **3M** | ⭐ 2.7 | 2025-09-11 |
+| 121. | [**Prisma**](https://marketplace.visualstudio.com/items?itemName=Prisma.prisma) | [Prisma](#prisma) | `prisma.io` | **2.9M** | ⭐ 4.8 | 2025-12-03 |
+| 122. | [**Pylint**](https://marketplace.visualstudio.com/items?itemName=ms-python.pylint) | [ms-python](#ms-python) | `microsoft.com` | **2.9M** | ⭐ 2.9 | 2025-08-15 |
+| 123. | [**Atlassian: Jira, Rovo Dev, Bitbucket**](https://marketplace.visualstudio.com/items?itemName=Atlassian.atlascode) | [Atlassian](#atlassian) | `atlassian.com` | **2.9M** | ⭐ 2.6 | 2025-11-28 |
+| 124. | [**Azure App Service**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureappservice) | [ms-azuretools](#ms-azuretools) | `microsoft.com` | **2.9M** | ⭐ 3.4 | 2025-09-25 |
+| 125. | [**Ruff**](https://marketplace.visualstudio.com/items?itemName=charliermarsh.ruff) | [charliermarsh](#charliermarsh) | `astral.sh` | **2.7M** | ⭐ 4.9 | 2025-12-04 |
+| 126. | [**MongoDB for VS Code**](https://marketplace.visualstudio.com/items?itemName=mongodb.mongodb-vscode) | [mongodb](#mongodb) | `mongodb.com` | **2.7M** | ⭐ 4.4 | 2025-10-07 |
+| 127. | [**Polish Language Pack for Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-pl) | [MS-CEINTL](#ms-ceintl) | `microsoft.com` | **2.7M** | ⭐ 5 | 2025-12-03 |
+| 128. | [**GitLab Workflow**](https://marketplace.visualstudio.com/items?itemName=GitLab.gitlab-workflow) | [GitLab](#gitlab) | `gitlab.com` | **2.7M** | ⭐ 3.3 | 2025-12-04 |
+| 129. | [**Cline**](https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev) | [saoudrizwan](#saoudrizwan) | `cline.bot` | **2.7M** | ⭐ 4.6 | 2025-12-06 |
+| 130. | [**Azure Machine Learning**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.vscode-ai) | [ms-toolsai](#ms-toolsai) | `microsoft.com` | **2.7M** | ⭐ 4.6 | 2025-10-22 |
+| 131. | [**GraphQL: Language Feature Support**](https://marketplace.visualstudio.com/items?itemName=GraphQL.vscode-graphql) | [GraphQL](#graphql) | `graphql.org` | **2.6M** | ⭐ 3.1 | 2025-03-17 |
+| 132. | [**Azure Machine Learning - Remote**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.vscode-ai-remote) | [ms-toolsai](#ms-toolsai) | `microsoft.com` | **2.5M** | ⭐ 3.2 | 2025-10-29 |
+| 133. | [**MySQL**](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-mysql-client2) | [cweijan](#cweijan) | `database-client.com` | **2.5M** | ⭐ 4.2 | 2025-11-26 |
+| 134. | [**Azure Storage**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurestorage) | [ms-azuretools](#ms-azuretools) | `microsoft.com` | **2.4M** | ⭐ 3 | 2025-09-26 |
+| 135. | [**jshint**](https://marketplace.visualstudio.com/items?itemName=dbaeumer.jshint) | [dbaeumer](#dbaeumer) | `microsoft.com` | **2.4M** | ⭐ 3.7 | 2020-11-10 |
+| 136. | [**Codex – OpenAI’s coding agent**](https://marketplace.visualstudio.com/items?itemName=openai.chatgpt) | [openai](#openai) | `openai.com` | **2.4M** | ⭐ 3.5 | 2025-12-04 |
+| 137. | [**Red Hat Commons**](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-commons) | [redhat](#redhat) | `redhat.com` | **2.3M** | ⭐ 2.2 | 2021-04-27 |
+| 138. | [**Notepad++ keymap**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.notepadplusplus-keybindings) | [ms-vscode](#ms-vscode) | `microsoft.com` | **2.3M** | ⭐ 4.7 | 2021-03-26 |
+| 139. | [**Sublime Text Keymap and Settings Importer**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.sublime-keybindings) | [ms-vscode](#ms-vscode) | `microsoft.com` | **2.3M** | ⭐ 5 | 2024-01-19 |
+| 140. | [**Svelte for VS Code**](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode) | [svelte](#svelte) | `svelte.dev` | **2.3M** | ⭐ 5 | 2025-11-11 |
+| 141. | [**Gemini Code Assist**](https://marketplace.visualstudio.com/items?itemName=Google.geminicodeassist) | [Google](#google) | `google.com` | **2.3M** | ⭐ 2.1 | 2025-11-21 |
+| 142. | [**GraphQL: Syntax Highlighting**](https://marketplace.visualstudio.com/items?itemName=GraphQL.vscode-graphql-syntax) | [GraphQL](#graphql) | `graphql.org` | **2.3M** | ⭐ 5 | 2024-11-02 |
+| 143. | [**Version Lens**](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens) | [pflannery](#pflannery) | `versionlens.net` | **2.3M** | ⭐ 4.6 | 2025-09-18 |
+| 144. | [**Azure CLI Tools**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.azurecli) | [ms-vscode](#ms-vscode) | `microsoft.com` | **2.3M** | ⭐ 3.2 | 2024-01-19 |
+| 145. | [**clangd**](https://marketplace.visualstudio.com/items?itemName=llvm-vs-code-extensions.vscode-clangd) | [llvm-vs-code-extensions](#llvm-vs-code-extensions) | `llvm.org` | **2.3M** | ⭐ 4.7 | 2025-09-30 |
+| 146. | [**Shades of Purple**](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple) | [ahmadawais](#ahmadawais) | `ahmadawais.com` | **2.2M** | ⭐ 4.9 | 2025-10-15 |
+| 147. | [**Salesforce CLI Integration**](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-core) | [salesforce](#salesforce) | `salesforce.com` | **2.2M** | ⭐ 1.7 | 2025-12-04 |
+| 148. | [**CodeGPT: Chat & AI Agents**](https://marketplace.visualstudio.com/items?itemName=DanielSanMedium.dscodegpt) | [DanielSanMedium](#danielsanmedium) | `codegpt.co` | **2.2M** | ⭐ 3.5 | 2025-12-04 |
+| 149. | [**Czech Language Pack for Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-cs) | [MS-CEINTL](#ms-ceintl) | `microsoft.com` | **2.2M** | ⭐ 5 | 2025-12-03 |
+| 150. | [**Nx Console**](https://marketplace.visualstudio.com/items?itemName=nrwl.angular-console) | [nrwl](#nrwl) | `nx.dev` | **2.1M** | ⭐ 3.7 | 2025-11-27 |
+| 151. | [**Postman**](https://marketplace.visualstudio.com/items?itemName=Postman.postman-for-vscode) | [Postman](#postman) | `postman.com` | **2.1M** | ⭐ 3.1 | 2025-11-20 |
+| 152. | [**Claude Code for VS Code**](https://marketplace.visualstudio.com/items?itemName=anthropic.claude-code) | [anthropic](#anthropic) | `anthropic.com` | **2.1M** | ⭐ 3.9 | 2025-12-06 |
+| 153. | [**BLACKBOXAI Agent - Coding Copilot**](https://marketplace.visualstudio.com/items?itemName=Blackboxapp.blackboxagent) | [Blackboxapp](#blackboxapp) | `blackbox.ai` | **2.1M** | ⭐ 3.8 | 2025-11-29 |
+| 154. | [**Azure Virtual Machines**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurevirtualmachines) | [ms-azuretools](#ms-azuretools) | `microsoft.com` | **2M** | ⭐ 5 | 2025-09-25 |
+| 155. | [**Azure Tools**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-node-azure-pack) | [ms-vscode](#ms-vscode) | `microsoft.com` | **2M** | ⭐ 2.9 | 2025-11-04 |
+| 156. | [**Hungarian Language Pack for Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-hu) | [MS-CEINTL](#ms-ceintl) | `microsoft.com` | **2M** | ⭐ 5 | 2020-08-12 |
+| 157. | [**Playwright Test for VSCode**](https://marketplace.visualstudio.com/items?itemName=ms-playwright.playwright) | [ms-playwright](#ms-playwright) | `microsoft.com` | **2M** | ⭐ 4 | 2025-11-19 |
+| 158. | [**Turbo Console Log**](https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log) | [ChakrounAnas](#chakrounanas) | `turboconsolelog.io` | **2M** | ⭐ 4.1 | 2025-12-01 |
+| 159. | [**Apex**](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-apex) | [salesforce](#salesforce) | `salesforce.com` | **2M** | ⭐ 2.6 | 2025-12-04 |
+| 160. | [**Unity**](https://marketplace.visualstudio.com/items?itemName=VisualStudioToolsForUnity.vstuc) | [VisualStudioToolsForUnity](#visualstudiotoolsforunity) | `microsoft.com` | **1.9M** | ⭐ 3.8 | 2025-11-21 |
+| 161. | [**Docker DX**](https://marketplace.visualstudio.com/items?itemName=docker.docker) | [docker](#docker) | `docker.com` | **1.9M** | ⭐ 2.8 | 2025-10-15 |
+| 162. | [**Aura Components**](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-lightning) | [salesforce](#salesforce) | `salesforce.com` | **1.9M** | ⭐ 3 | 2025-12-04 |
+| 163. | [**Azure Static Web Apps**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurestaticwebapps) | [ms-azuretools](#ms-azuretools) | `microsoft.com` | **1.9M** | ⭐ 3 | 2025-09-25 |
+| 164. | [**Rust (deprecated)**](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust) | [rust-lang](#rust-lang) | `rust-lang.org` | **1.9M** | ⭐ 2.7 | 2022-11-15 |
+| 165. | [**Visualforce**](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-visualforce) | [salesforce](#salesforce) | `salesforce.com` | **1.8M** | ⭐ 5 | 2025-12-04 |
+| 166. | [**Google Cloud Code**](https://marketplace.visualstudio.com/items?itemName=GoogleCloudTools.cloudcode) | [GoogleCloudTools](#googlecloudtools) | `google.com` | **1.8M** | ⭐ 2.6 | 2025-10-07 |
+| 167. | [**Lightning Web Components**](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-lwc) | [salesforce](#salesforce) | `salesforce.com` | **1.8M** | ⭐ 3.7 | 2025-12-04 |
+| 168. | [**Continue - open-source AI code agent**](https://marketplace.visualstudio.com/items?itemName=Continue.continue) | [Continue](#continue) | `continue.dev` | **1.8M** | ⭐ 3.9 | 2025-11-03 |
+| 169. | [**Apex Replay Debugger**](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-apex-replay-debugger) | [salesforce](#salesforce) | `salesforce.com` | **1.8M** | ⭐ 4 | 2025-12-04 |
+| 170. | [**Figma for VS Code**](https://marketplace.visualstudio.com/items?itemName=figma.figma-vscode-extension) | [figma](#figma) | `figma.com` | **1.8M** | ⭐ 3.1 | 2025-11-14 |
+| 171. | [**Polyglot Notebooks**](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.dotnet-interactive-vscode) | [ms-dotnettools](#ms-dotnettools) | `microsoft.com` | **1.8M** | ⭐ 4.1 | 2025-10-21 |
+| 172. | [**Bulgarian Language Pack for Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-bg) | [MS-CEINTL](#ms-ceintl) | `microsoft.com` | **1.7M** | ⭐ 5 | 2020-08-12 |
+| 173. | [**Salesforce Extension Pack**](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode) | [salesforce](#salesforce) | `salesforce.com` | **1.7M** | ⭐ 2.6 | 2025-12-04 |
+| 174. | [**Apex Interactive Debugger**](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-apex-debugger) | [salesforce](#salesforce) | `salesforce.com` | **1.7M** | ⭐ 2 | 2025-12-04 |
+| 175. | [**Serial Monitor**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-serial-monitor) | [ms-vscode](#ms-vscode) | `microsoft.com` | **1.7M** | ⭐ 3.6 | 2025-11-28 |
+| 176. | [**Azure Developer CLI**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.azure-dev) | [ms-azuretools](#ms-azuretools) | `microsoft.com` | **1.7M** | ⭐ 5 | 2025-09-22 |
+| 177. | [**Ruby LSP**](https://marketplace.visualstudio.com/items?itemName=Shopify.ruby-lsp) | [Shopify](#shopify) | `shopify.com` | **1.7M** | ⭐ 2.8 | 2025-08-12 |
+| 178. | [**Flake8**](https://marketplace.visualstudio.com/items?itemName=ms-python.flake8) | [ms-python](#ms-python) | `microsoft.com` | **1.6M** | ⭐ 5 | 2025-12-03 |
+| 179. | [**SLDS Validator**](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforce-vscode-slds) | [salesforce](#salesforce) | `salesforce.com` | **1.6M** | ⭐ 3.2 | 2024-12-04 |
+| 180. | [**Data Wrangler**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.datawrangler) | [ms-toolsai](#ms-toolsai) | `microsoft.com` | **1.6M** | ⭐ 4.5 | 2025-11-26 |
+| 181. | [**Azure Container Apps**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurecontainerapps) | [ms-azuretools](#ms-azuretools) | `microsoft.com` | **1.5M** | — | 2025-11-18 |
+| 182. | [**Azure Resource Manager (ARM) Tools**](https://marketplace.visualstudio.com/items?itemName=msazurermtools.azurerm-vscode-tools) | [msazurermtools](#msazurermtools) | `microsoft.com` | **1.5M** | ⭐ 4.2 | 2025-04-10 |
+| 183. | [**Output Colorizer**](https://marketplace.visualstudio.com/items?itemName=IBM.output-colorizer) | [IBM](#ibm) | `ibm.com` | **1.5M** | ⭐ 4.9 | 2017-07-05 |
+| 184. | [**SOQL**](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-soql) | [salesforce](#salesforce) | `salesforce.com` | **1.4M** | ⭐ 1.5 | 2025-12-04 |
+| 185. | [**Bicep**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-bicep) | [ms-azuretools](#ms-azuretools) | `microsoft.com` | **1.4M** | ⭐ 5 | 2025-11-17 |
+| 186. | [**Azure Pipelines**](https://marketplace.visualstudio.com/items?itemName=ms-azure-devops.azure-pipelines) | [ms-azure-devops](#ms-azure-devops) | `microsoft.com` | **1.4M** | ⭐ 2.4 | 2025-10-09 |
+| 187. | [**Amazon Q**](https://marketplace.visualstudio.com/items?itemName=AmazonWebServices.amazon-q-vscode) | [AmazonWebServices](#amazonwebservices) | `amazon.com` | **1.4M** | ⭐ 4.1 | 2025-11-22 |
+| 188. | [**.NET Extension Pack**](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscode-dotnet-pack) | [ms-dotnettools](#ms-dotnettools) | `microsoft.com` | **1.4M** | ⭐ 2.6 | 2023-12-04 |
+| 189. | [**OpenAPI (Swagger) Editor**](https://marketplace.visualstudio.com/items?itemName=42Crunch.vscode-openapi) | [42Crunch](#42crunch) | `42crunch.com` | **1.3M** | ⭐ 4.2 | 2025-10-21 |
+| 190. | [**Console Ninja**](https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja) | [WallabyJs](#wallabyjs) | `wallabyjs.com` | **1.3M** | ⭐ 2.9 | 2025-12-03 |
+| 191. | [**ROS**](https://marketplace.visualstudio.com/items?itemName=ms-iot.vscode-ros) | [ms-iot](#ms-iot) | `microsoft.com` | **1.3M** | ⭐ 4.1 | 2023-11-13 |
+| 192. | [**TRAE AI (formerly MarsCode): Coding Assistant**](https://marketplace.visualstudio.com/items?itemName=MarsCode.marscode-extension) | [MarsCode](#marscode) | `marscode.com` | **1.3M** | ⭐ 3.7 | 2025-11-28 |
+| 193. | [**Deno**](https://marketplace.visualstudio.com/items?itemName=denoland.vscode-deno) | [denoland](#denoland) | `deno.land` | **1.2M** | ⭐ 4.1 | 2025-10-21 |
+| 194. | [**ESP-IDF**](https://marketplace.visualstudio.com/items?itemName=espressif.esp-idf-extension) | [espressif](#espressif) | `espressif.com` | **1.2M** | ⭐ 2.9 | 2025-10-30 |
+| 195. | [**Astro**](https://marketplace.visualstudio.com/items?itemName=astro-build.astro-vscode) | [astro-build](#astro-build) | `astro.build` | **1.2M** | ⭐ 5 | 2024-10-25 |
+| 196. | [**Atom Keymap**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.atom-keybindings) | [ms-vscode](#ms-vscode) | `microsoft.com` | **1.1M** | ⭐ 4.8 | 2023-01-20 |
+| 197. | [**Lombok Annotations Support for VS Code**](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-lombok) | [vscjava](#vscjava) | `microsoft.com` | **1.1M** | ⭐ 4.3 | 2024-07-18 |
+| 198. | [**Gitpod Classic Remote**](https://marketplace.visualstudio.com/items?itemName=gitpod.gitpod-remote-ssh) | [gitpod](#gitpod) | `gitpod.io` | **1.1M** | ⭐ 2 | 2025-06-17 |
+| 199. | [**Microsoft Terraform**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureterraform) | [ms-azuretools](#ms-azuretools) | `microsoft.com` | **1.1M** | ⭐ 3.9 | 2025-12-05 |
+| 200. | [**VS Code Speech**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-speech) | [ms-vscode](#ms-vscode) | `microsoft.com` | **1.1M** | ⭐ 3.4 | 2025-06-13 |
+| 201. | [**Sort lines**](https://marketplace.visualstudio.com/items?itemName=Tyriar.sort-lines) | [Tyriar](#tyriar) | `growingwiththeweb.com` | **1.1M** | ⭐ 5 | 2024-11-08 |
+| 202. | [**Ansible**](https://marketplace.visualstudio.com/items?itemName=redhat.ansible) | [redhat](#redhat) | `redhat.com` | **1.1M** | ⭐ 2.9 | 2025-12-04 |
+| 203. | [**Android iOS Emulator**](https://marketplace.visualstudio.com/items?itemName=DiemasMichiels.emulate) | [DiemasMichiels](#diemasmichiels) | `diemas.dev` | **1.1M** | ⭐ 4.4 | 2025-12-03 |
+| 204. | [**Roo Code**](https://marketplace.visualstudio.com/items?itemName=RooVeterinaryInc.roo-cline) | [RooVeterinaryInc](#rooveterinaryinc) | `roocode.com` | **1.1M** | ⭐ 4.9 | 2025-12-05 |
+| 205. | [**MDX**](https://marketplace.visualstudio.com/items?itemName=unifiedjs.vscode-mdx) | [unifiedjs](#unifiedjs) | `unifiedjs.com` | **1M** | ⭐ 4.6 | 2025-09-16 |
+| 206. | [**Lorem ipsum**](https://marketplace.visualstudio.com/items?itemName=Tyriar.lorem-ipsum) | [Tyriar](#tyriar) | `growingwiththeweb.com` | **1M** | ⭐ 4.4 | 2021-12-20 |
+| 207. | [**Turkish Language Pack for Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-tr) | [MS-CEINTL](#ms-ceintl) | `microsoft.com` | **1M** | ⭐ 4.7 | 2025-12-03 |
+| 208. | [**Keploy: AI Testing Assistant for Developers – Supercharge Unit, Integration, and API Testing in Python, JavaScript, TypeScript, Java, PHP, Go, and More**](https://marketplace.visualstudio.com/items?itemName=Keploy.keployio) | [Keploy](#keploy) | `keploy.io` | **1M** | ⭐ 4.9 | 2025-05-13 |
+| 209. | [**Apex Log Analyzer**](https://marketplace.visualstudio.com/items?itemName=financialforce.lana) | [financialforce](#financialforce) | `certinia.com` | **991K** | ⭐ 4.8 | 2025-12-04 |
+| 210. | [**Cloudfoundry Manifest YML Support**](https://marketplace.visualstudio.com/items?itemName=vmware.vscode-manifest-yaml) | [vmware](#vmware) | `vmware.com` | **980K** | ⭐ 5 | 2025-12-06 |
+| 211. | [**Julia**](https://marketplace.visualstudio.com/items?itemName=julialang.language-julia) | [julialang](#julialang) | `julia-vscode.org` | **980K** | ⭐ 4.5 | 2025-11-26 |
+| 212. | [**Database Client**](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-database-client2) | [cweijan](#cweijan) | `database-client.com` | **964K** | ⭐ 4.2 | 2025-11-26 |
+| 213. | [**Catppuccin for VSCode**](https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc) | [Catppuccin](#catppuccin) | `catppuccin.com` | **959K** | ⭐ 5 | 2025-10-12 |
+| 214. | [**Office Viewer**](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-office) | [cweijan](#cweijan) | `database-client.com` | **950K** | ⭐ 4.4 | 2025-04-28 |
+| 215. | [**Concourse CI Pipeline Editor**](https://marketplace.visualstudio.com/items?itemName=vmware.vscode-concourse) | [vmware](#vmware) | `vmware.com` | **922K** | ⭐ 5 | 2025-12-06 |
+| 216. | [**Bito AI Code Reviews**](https://marketplace.visualstudio.com/items?itemName=Bito.Bito) | [Bito](#bito) | `bito.ai` | **918K** | ⭐ 4.3 | 2025-11-27 |
+| 217. | [**Mono Debug**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.mono-debug) | [ms-vscode](#ms-vscode) | `microsoft.com` | **917K** | ⭐ 3.5 | 2022-08-09 |
+| 218. | [**GitHub Copilot for Azure**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azure-github-copilot) | [ms-azuretools](#ms-azuretools) | `microsoft.com` | **867K** | ⭐ 3.7 | 2025-10-23 |
+| 219. | [**File Downloader**](https://marketplace.visualstudio.com/items?itemName=mindaro-dev.file-downloader) | [mindaro-dev](#mindaro-dev) | `microsoft.com` | **837K** | ⭐ 5 | 2023-10-16 |
+| 220. | [**Qodo: AI Code Review**](https://marketplace.visualstudio.com/items?itemName=Codium.codium) | [Codium](#codium) | `qodo.ai` | **793K** | ⭐ 4.7 | 2025-12-03 |
+| 221. | [**Jupyter PowerToys**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.vscode-jupyter-powertoys) | [ms-toolsai](#ms-toolsai) | `microsoft.com` | **792K** | ⭐ 4.7 | 2024-04-03 |
+| 222. | [**Bazel**](https://marketplace.visualstudio.com/items?itemName=BazelBuild.vscode-bazel) | [BazelBuild](#bazelbuild) | `bazel.build` | **775K** | ⭐ 3.4 | 2025-07-21 |
+| 223. | [**px to rem & rpx & vw (cssrem)**](https://marketplace.visualstudio.com/items?itemName=cipchk.cssrem) | [cipchk](#cipchk) | `ng-alain.com` | **775K** | ⭐ 5 | 2025-01-16 |
+| 224. | [**Cody: AI Code Assistant**](https://marketplace.visualstudio.com/items?itemName=sourcegraph.cody-ai) | [sourcegraph](#sourcegraph) | `sourcegraph.com` | **769K** | ⭐ 4 | 2025-11-13 |
+| 225. | [**Vitest**](https://marketplace.visualstudio.com/items?itemName=vitest.explorer) | [vitest](#vitest) | `vitest.dev` | **742K** | ⭐ 3.6 | 2025-12-02 |
+| 226. | [**reStructuredText**](https://marketplace.visualstudio.com/items?itemName=lextudio.restructuredtext) | [lextudio](#lextudio) | `lextudio.com` | **721K** | ⭐ 2.9 | 2025-07-24 |
+| 227. | [**Fitten Code : Faster and Better AI Assistant**](https://marketplace.visualstudio.com/items?itemName=FittenTech.Fitten-Code) | [FittenTech](#fittentech) | `fittentech.com` | **691K** | ⭐ 4.3 | 2025-12-03 |
+| 228. | [**Mypy Type Checker**](https://marketplace.visualstudio.com/items?itemName=ms-python.mypy-type-checker) | [ms-python](#ms-python) | `microsoft.com` | **690K** | ⭐ 3.3 | 2025-12-03 |
+| 229. | [**Apollo GraphQL**](https://marketplace.visualstudio.com/items?itemName=apollographql.vscode-apollo) | [apollographql](#apollographql) | `apollographql.com` | **676K** | ⭐ 2.5 | 2025-08-27 |
+| 230. | [**Runtime Server Protocol UI**](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-rsp-ui) | [redhat](#redhat) | `redhat.com` | **676K** | ⭐ 2 | 2025-10-10 |
+| 231. | [**Visual Studio Keymap**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vs-keybindings) | [ms-vscode](#ms-vscode) | `microsoft.com` | **675K** | ⭐ 4.3 | 2021-04-06 |
+| 232. | [**Ruby**](https://marketplace.visualstudio.com/items?itemName=Shopify.ruby-extensions-pack) | [Shopify](#shopify) | `shopify.com` | **669K** | ⭐ 3.7 | 2025-02-25 |
+| 233. | [**Augment Code: AI Coding Agent for JavaScript, Go, TypeScript, Python & more**](https://marketplace.visualstudio.com/items?itemName=augment.vscode-augment) | [augment](#augment) | `augmentcode.com` | **648K** | ⭐ 3.7 | 2025-11-21 |
+| 234. | [**Oracle SQL Developer Extension for VSCode**](https://marketplace.visualstudio.com/items?itemName=Oracle.sql-developer) | [Oracle](#oracle) | `oracle.com` | **648K** | ⭐ 3.6 | 2025-11-20 |
+| 235. | [**HTMLHint**](https://marketplace.visualstudio.com/items?itemName=HTMLHint.vscode-htmlhint) | [HTMLHint](#htmlhint) | `htmlhint.com` | **642K** | ⭐ 5 | 2025-11-28 |
+| 236. | [**AsciiDoc**](https://marketplace.visualstudio.com/items?itemName=asciidoctor.asciidoctor-vscode) | [asciidoctor](#asciidoctor) | `asciidoctor.org` | **641K** | ⭐ 4.4 | 2025-09-16 |
+| 237. | [**Code Time**](https://marketplace.visualstudio.com/items?itemName=softwaredotcom.swdc-vscode) | [softwaredotcom](#softwaredotcom) | `software.com` | **638K** | ⭐ 3.4 | 2025-07-03 |
+| 238. | [**Marp for VS Code**](https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode) | [marp-team](#marp-team) | `marp.app` | **628K** | ⭐ 5 | 2025-08-09 |
+| 239. | [**Salesforce Extension Pack (Expanded)**](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-expanded) | [salesforce](#salesforce) | `salesforce.com` | **627K** | ⭐ 3.3 | 2025-12-04 |
+| 240. | [**AI Toolkit for Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=ms-windows-ai-studio.windows-ai-studio) | [ms-windows-ai-studio](#ms-windows-ai-studio) | `microsoft.com` | **621K** | ⭐ 4.4 | 2025-11-25 |
+| 241. | [**JSON Crack**](https://marketplace.visualstudio.com/items?itemName=AykutSarac.jsoncrack-vscode) | [AykutSarac](#aykutsarac) | `jsoncrack.com` | **612K** | ⭐ 4.3 | 2025-10-15 |
+| 242. | [**Print**](https://marketplace.visualstudio.com/items?itemName=pdconsec.vscode-print) | [pdconsec](#pdconsec) | `pdconsec.net` | **598K** | ⭐ 4.7 | 2025-07-27 |
+| 243. | [**Run on Save**](https://marketplace.visualstudio.com/items?itemName=emeraldwalk.RunOnSave) | [emeraldwalk](#emeraldwalk) | `emeraldwalk.com` | **596K** | ⭐ 3.8 | 2024-10-12 |
+| 244. | [**Ionic**](https://marketplace.visualstudio.com/items?itemName=ionic.ionic) | [ionic](#ionic) | `ionic.io` | **590K** | ⭐ 4.2 | 2025-06-16 |
+| 245. | [**Go Nightly**](https://marketplace.visualstudio.com/items?itemName=golang.go-nightly) | [golang](#golang) | `go.dev` | **575K** | ⭐ 5 | 2024-08-26 |
+| 246. | [**Competitive Programming Helper (cph)**](https://marketplace.visualstudio.com/items?itemName=DivyanshuAgrawal.competitive-programming-helper) | [DivyanshuAgrawal](#divyanshuagrawal) | `agrawal-d.com` | **566K** | ⭐ 4.7 | 2025-10-21 |
+| 247. | [**MATLAB**](https://marketplace.visualstudio.com/items?itemName=MathWorks.language-matlab) | [MathWorks](#mathworks) | `mathworks.com` | **566K** | ⭐ 4.6 | 2025-11-12 |
+| 248. | [**Markdown Theme Kit**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.Theme-MarkdownKit) | [ms-vscode](#ms-vscode) | `microsoft.com` | **565K** | ⭐ 4.3 | 2017-04-04 |
+| 249. | [**HashiCorp HCL**](https://marketplace.visualstudio.com/items?itemName=HashiCorp.HCL) | [HashiCorp](#hashicorp) | `hashicorp.com` | **554K** | ⭐ 3.5 | 2024-10-23 |
+| 250. | [**Tensorboard**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.tensorboard) | [ms-toolsai](#ms-toolsai) | `microsoft.com` | **550K** | ⭐ 5 | 2025-08-15 |
+| 251. | [**Modern Fortran**](https://marketplace.visualstudio.com/items?itemName=fortran-lang.linter-gfortran) | [fortran-lang](#fortran-lang) | `fortran-lang.org` | **543K** | ⭐ 4.6 | 2025-10-15 |
+| 252. | [**Dependi**](https://marketplace.visualstudio.com/items?itemName=fill-labs.dependi) | [fill-labs](#fill-labs) | `dependi.io` | **537K** | ⭐ 4.4 | 2025-11-25 |
+| 253. | [**Community Server Connectors**](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-community-server-connector) | [redhat](#redhat) | `redhat.com` | **536K** | ⭐ 4.2 | 2025-10-09 |
+| 254. | [**Kilo Code AI Agent**](https://marketplace.visualstudio.com/items?itemName=kilocode.Kilo-Code) | [kilocode](#kilocode) | `kilocode.ai` | **535K** | ⭐ 4.5 | 2025-12-05 |
+| 255. | [**PostgreSQL**](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-postgresql-client2) | [cweijan](#cweijan) | `database-client.com` | **535K** | ⭐ 4 | 2025-11-26 |
+| 256. | [**IntelliCode Completions**](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode-completions) | [VisualStudioExptTeam](#visualstudioexptteam) | `microsoft.com` | **528K** | ⭐ 4.8 | 2024-10-23 |
+| 257. | [**Agentforce Vibes**](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-einstein-gpt) | [salesforce](#salesforce) | `salesforce.com` | **522K** | ⭐ 2.8 | 2025-12-05 |
+| 258. | [**Aura Theme**](https://marketplace.visualstudio.com/items?itemName=DaltonMenezes.aura-theme) | [DaltonMenezes](#daltonmenezes) | `daltonmenezes.com` | **522K** | ⭐ 5 | 2022-02-19 |
+| 259. | [**Biome**](https://marketplace.visualstudio.com/items?itemName=biomejs.biome) | [biomejs](#biomejs) | `biomejs.dev` | **518K** | ⭐ 3.4 | 2025-11-27 |
+| 260. | [**Polaris for VS Code**](https://marketplace.visualstudio.com/items?itemName=Shopify.polaris-for-vscode) | [Shopify](#shopify) | `shopify.com` | **517K** | ⭐ 5 | 2024-04-02 |
+| 261. | [**Cordova Tools**](https://marketplace.visualstudio.com/items?itemName=msjsdiag.cordova-tools) | [msjsdiag](#msjsdiag) | `microsoft.com` | **515K** | ⭐ 4.4 | 2024-05-16 |
+| 262. | [**yarn**](https://marketplace.visualstudio.com/items?itemName=gamunu.vscode-yarn) | [gamunu](#gamunu) | `fastcode.io` | **504K** | ⭐ 4.7 | 2025-04-10 |
+| 263. | [**exe Runner**](https://marketplace.visualstudio.com/items?itemName=brandonfowler.exe-runner) | [brandonfowler](#brandonfowler) | `brandonfowler.me` | **502K** | ⭐ 4.2 | 2024-03-24 |
+| 264. | [**Dadroit JSON Generator**](https://marketplace.visualstudio.com/items?itemName=Dadroit.dadroit-json-generator) | [Dadroit](#dadroit) | `dadroit.com` | **491K** | ⭐ 5 | 2024-09-29 |
+| 265. | [**Bridge to Kubernetes**](https://marketplace.visualstudio.com/items?itemName=mindaro.mindaro) | [mindaro](#mindaro) | `microsoft.com` | **488K** | ⭐ 4.8 | 2025-01-15 |
+| 266. | [**Expo Tools**](https://marketplace.visualstudio.com/items?itemName=expo.vscode-expo-tools) | [expo](#expo) | `expo.dev` | **483K** | ⭐ 5 | 2025-07-10 |
+| 267. | [**GitHub Copilot app modernization**](https://marketplace.visualstudio.com/items?itemName=vscjava.migrate-java-to-azure) | [vscjava](#vscjava) | `microsoft.com` | **476K** | ⭐ 1.9 | 2025-12-04 |
+| 268. | [**learn-markdown**](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-markdown) | [docsmsft](#docsmsft) | `microsoft.com` | **471K** | ⭐ 4.1 | 2025-10-21 |
+| 269. | [**AL Language extension for Microsoft Dynamics 365 Business Central**](https://marketplace.visualstudio.com/items?itemName=ms-dynamics-smb.al) | [ms-dynamics-smb](#ms-dynamics-smb) | `microsoft.com` | **470K** | ⭐ 4.5 | 2025-10-23 |
+| 270. | [**Microsoft Foundry**](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.vscode-ai-foundry) | [TeamsDevApp](#teamsdevapp) | `microsoft.com` | **467K** | ⭐ 3.7 | 2025-11-28 |
+| 271. | [**Angular Extension Pack**](https://marketplace.visualstudio.com/items?itemName=loiane.angular-extension-pack) | [loiane](#loiane) | `loiane.com` | **466K** | ⭐ 5 | 2024-03-30 |
+| 272. | [**learn-yaml**](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-yaml) | [docsmsft](#docsmsft) | `microsoft.com` | **466K** | ⭐ 5 | 2024-09-20 |
+| 273. | [**Inkling**](https://marketplace.visualstudio.com/items?itemName=ms-inkling.ms-inkling) | [ms-inkling](#ms-inkling) | `microsoft.com` | **463K** | ⭐ 5 | 2022-06-21 |
+| 274. | [**GitHub Copilot app modernization - upgrade for Java**](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-upgrade) | [vscjava](#vscjava) | `microsoft.com` | **462K** | ⭐ 2.1 | 2025-12-03 |
+| 275. | [**Pyright**](https://marketplace.visualstudio.com/items?itemName=ms-pyright.pyright) | [ms-pyright](#ms-pyright) | `microsoft.com` | **459K** | ⭐ 4.6 | 2025-10-22 |
+| 276. | [**Azurite**](https://marketplace.visualstudio.com/items?itemName=Azurite.azurite) | [Azurite](#azurite) | `microsoft.com` | **456K** | ⭐ 5 | 2025-07-31 |
+| 277. | [**Salesforce Code Analyzer**](https://marketplace.visualstudio.com/items?itemName=salesforce.sfdx-code-analyzer-vscode) | [salesforce](#salesforce) | `salesforce.com` | **442K** | ⭐ 3.7 | 2025-12-02 |
+| 278. | [**Brazilian Portuguese - Code Spell Checker**](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-portuguese-brazilian) | [streetsidesoftware](#streetsidesoftware) | `streetsidesoftware.com` | **436K** | ⭐ 4.6 | 2025-07-20 |
+| 279. | [**Azure IoT Hub**](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.azure-iot-toolkit) | [vsciot-vscode](#vsciot-vscode) | `microsoft.com` | **435K** | ⭐ 4.6 | 2022-09-20 |
+| 280. | [**Catppuccin Icons for VSCode**](https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc-icons) | [Catppuccin](#catppuccin) | `catppuccin.com` | **429K** | ⭐ 4.9 | 2025-10-12 |
+| 281. | [**Material Theme Kit**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.Theme-MaterialKit) | [ms-vscode](#ms-vscode) | `microsoft.com` | **415K** | ⭐ 3.9 | 2017-04-04 |
+| 282. | [**Tools for MicroProfile**](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-microprofile) | [redhat](#redhat) | `redhat.com` | **414K** | — | 2025-12-05 |
+| 283. | [**Azure Kubernetes Service**](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.vscode-aks-tools) | [ms-kubernetes-tools](#ms-kubernetes-tools) | `microsoft.com` | **402K** | ⭐ 4.8 | 2025-11-04 |
+| 284. | [**Microsoft 365 Agents Toolkit**](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.ms-teams-vscode-extension) | [TeamsDevApp](#teamsdevapp) | `microsoft.com` | **393K** | ⭐ 3.5 | 2025-12-05 |
+| 285. | [**Spanish - Code Spell Checker**](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-spanish) | [streetsidesoftware](#streetsidesoftware) | `streetsidesoftware.com` | **392K** | ⭐ 5 | 2025-08-30 |
+| 286. | [**Solidity**](https://marketplace.visualstudio.com/items?itemName=NomicFoundation.hardhat-solidity) | [NomicFoundation](#nomicfoundation) | `nomic.foundation` | **392K** | ⭐ 4.4 | 2025-11-21 |
+| 287. | [**New Relic CodeStream**](https://marketplace.visualstudio.com/items?itemName=CodeStream.codestream) | [CodeStream](#codestream) | `newrelic.com` | **386K** | ⭐ 4 | 2025-10-30 |
+| 288. | [**Power User for dbt**](https://marketplace.visualstudio.com/items?itemName=innoverio.vscode-dbt-power-user) | [innoverio](#innoverio) | `altimate.ai` | **380K** | ⭐ 5 | 2025-11-13 |
+| 289. | [**[Deprecated] Node Debug**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.node-debug2) | [ms-vscode](#ms-vscode) | `microsoft.com` | **374K** | ⭐ 4.7 | 2021-08-03 |
+| 290. | [**Gemini CLI Companion**](https://marketplace.visualstudio.com/items?itemName=Google.gemini-cli-vscode-ide-companion) | [Google](#google) | `google.com` | **374K** | ⭐ 4.2 | 2025-12-05 |
+| 291. | [**MySQL Shell for VS Code**](https://marketplace.visualstudio.com/items?itemName=Oracle.mysql-shell-for-vs-code) | [Oracle](#oracle) | `oracle.com` | **371K** | ⭐ 3.8 | 2025-11-04 |
+| 292. | [**Laravel**](https://marketplace.visualstudio.com/items?itemName=laravel.vscode-laravel) | [laravel](#laravel) | `laravel.com` | **369K** | ⭐ 4.6 | 2025-09-16 |
+| 293. | [**Russian - Code Spell Checker**](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-russian) | [streetsidesoftware](#streetsidesoftware) | `streetsidesoftware.com` | **366K** | ⭐ 4.5 | 2025-07-20 |
+| 294. | [**Essential ASP.NET Core Snippets**](https://marketplace.visualstudio.com/items?itemName=doggy8088.netcore-snippets) | [doggy8088](#doggy8088) | `duotify.com` | **363K** | ⭐ 5 | 2023-03-18 |
+| 295. | [**Snyk Security**](https://marketplace.visualstudio.com/items?itemName=snyk-security.snyk-vulnerability-scanner) | [snyk-security](#snyk-security) | `snyk.io` | **359K** | ⭐ 3.1 | 2025-11-24 |
+| 296. | [**.NET MAUI**](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.dotnet-maui) | [ms-dotnettools](#ms-dotnettools) | `microsoft.com` | **347K** | ⭐ 3.5 | 2025-12-04 |
+| 297. | [**Keil Assistant**](https://marketplace.visualstudio.com/items?itemName=CL.keil-assistant) | [CL](#cl) | `em-ide.com` | **347K** | ⭐ 4.7 | 2021-01-01 |
+| 298. | [**Quarkus**](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-quarkus) | [redhat](#redhat) | `redhat.com` | **344K** | ⭐ 5 | 2025-12-05 |
+| 299. | [**ShaderlabVSCode(Free)**](https://marketplace.visualstudio.com/items?itemName=amlovey.shaderlabvscodefree) | [amlovey](#amlovey) | `amlovey.com` | **341K** | ⭐ 4.1 | 2025-10-12 |
+| 300. | [**Swift**](https://marketplace.visualstudio.com/items?itemName=swiftlang.swift-vscode) | [swiftlang](#swiftlang) | `swift.org` | **338K** | ⭐ 5 | 2025-11-20 |
+| 301. | [**Azure Load Testing**](https://marketplace.visualstudio.com/items?itemName=ms-azure-load-testing.microsoft-testing) | [ms-azure-load-testing](#ms-azure-load-testing) | `microsoft.com` | **337K** | ⭐ 5 | 2025-07-04 |
+| 302. | [**Paste JSON as Code (Refresh)**](https://marketplace.visualstudio.com/items?itemName=doggy8088.quicktype-refresh) | [doggy8088](#doggy8088) | `duotify.com` | **331K** | ⭐ 5 | 2022-05-16 |
+| 303. | [**Gitpod Classic**](https://marketplace.visualstudio.com/items?itemName=gitpod.gitpod-desktop) | [gitpod](#gitpod) | `gitpod.io` | **327K** | ⭐ 4.7 | 2025-06-17 |
+| 304. | [**SARIF Viewer**](https://marketplace.visualstudio.com/items?itemName=MS-SarifVSCode.sarif-viewer) | [MS-SarifVSCode](#ms-sarifvscode) | `microsoft.com` | **326K** | ⭐ 3.8 | 2025-05-06 |
+| 305. | [**Azure MCP Server**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azure-mcp-server) | [ms-azuretools](#ms-azuretools) | `microsoft.com` | **326K** | ⭐ 5 | 2025-11-26 |
+| 306. | [**LLDB DAP**](https://marketplace.visualstudio.com/items?itemName=llvm-vs-code-extensions.lldb-dap) | [llvm-vs-code-extensions](#llvm-vs-code-extensions) | `llvm.org` | **320K** | ⭐ 5 | 2025-12-05 |
+| 307. | [**anycode**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.anycode) | [ms-vscode](#ms-vscode) | `microsoft.com` | **319K** | ⭐ 5 | 2025-08-18 |
+| 308. | [**IBM Db2 for z/OS Developer Extension**](https://marketplace.visualstudio.com/items?itemName=IBM.db2forzosdeveloperextension) | [IBM](#ibm) | `ibm.com` | **313K** | ⭐ 4.4 | 2025-10-18 |
+| 309. | [**PDF Preview**](https://marketplace.visualstudio.com/items?itemName=analytic-signal.preview-pdf) | [analytic-signal](#analytic-signal) | `analyticsignal.com` | **311K** | ⭐ 4.6 | 2021-06-17 |
+| 310. | [**Azure Data Lake Tools**](https://marketplace.visualstudio.com/items?itemName=usqlextpublisher.usql-vscode-ext) | [usqlextpublisher](#usqlextpublisher) | `microsoft.com` | **310K** | ⭐ 2.3 | 2023-10-12 |
+| 311. | [**Redis**](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-redis-client) | [cweijan](#cweijan) | `database-client.com` | **309K** | ⭐ 3.7 | 2025-11-26 |
+| 312. | [**Wallaby.js**](https://marketplace.visualstudio.com/items?itemName=WallabyJs.wallaby-vscode) | [WallabyJs](#wallabyjs) | `wallabyjs.com` | **304K** | ⭐ 4.2 | 2025-11-25 |
+| 313. | [**Shopify Liquid**](https://marketplace.visualstudio.com/items?itemName=Shopify.theme-check-vscode) | [Shopify](#shopify) | `shopify.com` | **303K** | ⭐ 3.2 | 2025-09-24 |
+| 314. | [**Luna Paint — Image Editor**](https://marketplace.visualstudio.com/items?itemName=Tyriar.luna-paint) | [Tyriar](#tyriar) | `growingwiththeweb.com` | **303K** | ⭐ 5 | 2025-06-22 |
+| 315. | [**City Lights theme**](https://marketplace.visualstudio.com/items?itemName=Yummygum.city-lights-theme) | [Yummygum](#yummygum) | `yummygum.com` | **302K** | ⭐ 4.9 | 2024-02-22 |
+| 316. | [**PostgreSQL**](https://marketplace.visualstudio.com/items?itemName=ms-ossdata.vscode-pgsql) | [ms-ossdata](#ms-ossdata) | `microsoft.com` | **299K** | ⭐ 4.5 | 2025-12-02 |
+| 317. | [**Quarto**](https://marketplace.visualstudio.com/items?itemName=quarto.quarto) | [quarto](#quarto) | `quarto.org` | **299K** | ⭐ 4.9 | 2025-10-08 |
+| 318. | [**Vira Theme**](https://marketplace.visualstudio.com/items?itemName=vira.vsc-vira-theme) | [vira](#vira) | `vira.build` | **297K** | ⭐ 3.4 | 2025-11-21 |
+| 319. | [**learn-images**](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-images) | [docsmsft](#docsmsft) | `microsoft.com` | **295K** | ⭐ 5 | 2024-09-13 |
+| 320. | [**Debug Visualizer**](https://marketplace.visualstudio.com/items?itemName=hediet.debug-visualizer) | [hediet](#hediet) | `hediet.de` | **294K** | ⭐ 4 | 2022-12-01 |
+| 321. | [**CSharpier - Code formatter**](https://marketplace.visualstudio.com/items?itemName=csharpier.csharpier-vscode) | [csharpier](#csharpier) | `csharpier.com` | **292K** | ⭐ 4.1 | 2025-10-25 |
+| 322. | [**Mermaid Chart**](https://marketplace.visualstudio.com/items?itemName=MermaidChart.vscode-mermaid-chart) | [MermaidChart](#mermaidchart) | `mermaidchart.com` | **289K** | ⭐ 4 | 2025-12-04 |
+| 323. | [**GitHub Classroom**](https://marketplace.visualstudio.com/items?itemName=GitHub.classroom) | [GitHub](#github) | `github.com` | **283K** | ⭐ 3.4 | 2023-11-02 |
+| 324. | [**.NET Core Extension Pack**](https://marketplace.visualstudio.com/items?itemName=doggy8088.netcore-extension-pack) | [doggy8088](#doggy8088) | `duotify.com` | **278K** | ⭐ 5 | 2023-11-23 |
+| 325. | [**Rosé Pine**](https://marketplace.visualstudio.com/items?itemName=mvllow.rose-pine) | [mvllow](#mvllow) | `rosepinetheme.com` | **277K** | ⭐ 4.7 | 2025-11-02 |
+| 326. | [**RobotCode - Robot Framework Support**](https://marketplace.visualstudio.com/items?itemName=d-biehl.robotcode) | [d-biehl](#d-biehl) | `robotcode.io` | **277K** | ⭐ 4.8 | 2025-12-02 |
+| 327. | [**Snowflake**](https://marketplace.visualstudio.com/items?itemName=snowflake.snowflake-vsc) | [snowflake](#snowflake) | `snowflake.com` | **275K** | ⭐ 4.1 | 2025-11-11 |
+| 328. | [**Word Count**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.wordcount) | [ms-vscode](#ms-vscode) | `microsoft.com` | **273K** | ⭐ 2.8 | 2015-11-18 |
+| 329. | [**Language Server for Java by Apache NetBeans**](https://marketplace.visualstudio.com/items?itemName=ASF.apache-netbeans-java) | [ASF](#asf) | `apache.org` | **272K** | ⭐ 5 | 2025-09-04 |
+| 330. | [**GraphQL: Inline Operation Execution**](https://marketplace.visualstudio.com/items?itemName=GraphQL.vscode-graphql-execution) | [GraphQL](#graphql) | `graphql.org` | **269K** | ⭐ 2 | 2025-04-29 |
+| 331. | [**Power Platform Tools**](https://marketplace.visualstudio.com/items?itemName=microsoft-IsvExpTools.powerplatform-vscode) | [microsoft-IsvExpTools](#microsoft-isvexptools) | `microsoft.com` | **263K** | ⭐ 3.8 | 2025-12-04 |
+| 332. | [**JavaScript Atom Grammar**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.js-atom-grammar) | [ms-vscode](#ms-vscode) | `microsoft.com` | **261K** | ⭐ 4.6 | 2017-10-09 |
+| 333. | [**German - Code Spell Checker**](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-german) | [streetsidesoftware](#streetsidesoftware) | `streetsidesoftware.com` | **259K** | ⭐ 4.8 | 2025-07-20 |
+| 334. | [**glean**](https://marketplace.visualstudio.com/items?itemName=wix.glean) | [wix](#wix) | `wix.com` | **258K** | ⭐ 2.8 | 2021-03-19 |
+| 335. | [**Azure IoT Edge**](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.azure-iot-edge) | [vsciot-vscode](#vsciot-vscode) | `microsoft.com` | **257K** | ⭐ 4.2 | 2023-01-09 |
+| 336. | [**GitHub Issue Notebooks**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-github-issue-notebooks) | [ms-vscode](#ms-vscode) | `microsoft.com` | **255K** | ⭐ 5 | 2025-11-07 |
+| 337. | [**JupyterHub**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter-hub) | [ms-toolsai](#ms-toolsai) | `microsoft.com` | **253K** | — | 2024-10-08 |
+| 338. | [**Databricks**](https://marketplace.visualstudio.com/items?itemName=databricks.databricks) | [databricks](#databricks) | `databricks.com` | **253K** | ⭐ 3.6 | 2025-08-28 |
+| 339. | [**AutoHotkey Plus (AHK V1)**](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-autohotkey-plus) | [cweijan](#cweijan) | `database-client.com` | **252K** | ⭐ 5 | 2025-02-12 |
+| 340. | [**learn-preview**](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-preview) | [docsmsft](#docsmsft) | `microsoft.com` | **247K** | ⭐ 3.3 | 2025-09-25 |
+| 341. | [**Azure API Management**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-apimanagement) | [ms-azuretools](#ms-azuretools) | `microsoft.com` | **246K** | ⭐ 4.2 | 2025-07-31 |
+| 342. | [**Nsight Visual Studio Code Edition**](https://marketplace.visualstudio.com/items?itemName=NVIDIA.nsight-vscode-edition) | [NVIDIA](#nvidia) | `nvidia.com` | **232K** | ⭐ 3.2 | 2025-07-10 |
+| 343. | [**[Deprecated] Node Debug (legacy)**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.node-debug) | [ms-vscode](#ms-vscode) | `microsoft.com` | **231K** | — | 2021-08-03 |
+| 344. | [**Angular Extension Pack**](https://marketplace.visualstudio.com/items?itemName=doggy8088.angular-extension-pack) | [doggy8088](#doggy8088) | `duotify.com` | **230K** | ⭐ 4.8 | 2023-10-04 |
+| 345. | [**XML Toolkit**](https://marketplace.visualstudio.com/items?itemName=SAPOSS.xml-toolkit) | [SAPOSS](#saposs) | `sap.com` | **224K** | ⭐ 5 | 2025-08-11 |
+| 346. | [**TypeScript Extension Pack**](https://marketplace.visualstudio.com/items?itemName=loiane.ts-extension-pack) | [loiane](#loiane) | `loiane.com` | **223K** | ⭐ 5 | 2021-08-18 |
+| 347. | [**NativeScript**](https://marketplace.visualstudio.com/items?itemName=NativeScript.nativescript) | [NativeScript](#nativescript) | `nativescript.org` | **221K** | ⭐ 4 | 2024-05-18 |
+| 348. | [**Embedded IDE**](https://marketplace.visualstudio.com/items?itemName=CL.eide) | [CL](#cl) | `em-ide.com` | **221K** | ⭐ 5 | 2025-10-03 |
+| 349. | [**Foam**](https://marketplace.visualstudio.com/items?itemName=foam.foam-vscode) | [foam](#foam) | `foamnotes.com` | **212K** | ⭐ 5 | 2025-11-19 |
+| 350. | [**Zowe Explorer**](https://marketplace.visualstudio.com/items?itemName=Zowe.vscode-extension-for-zowe) | [Zowe](#zowe) | `zowe.org` | **211K** | ⭐ 5 | 2025-10-24 |
+| 351. | [**Calva: Clojure & ClojureScript Interactive Programming**](https://marketplace.visualstudio.com/items?itemName=betterthantomorrow.calva) | [betterthantomorrow](#betterthantomorrow) | `calva.io` | **208K** | ⭐ 5 | 2025-11-06 |
+| 352. | [**Tomorrow and Tomorrow Night Theme Kit**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.Theme-TomorrowKit) | [ms-vscode](#ms-vscode) | `microsoft.com` | **207K** | ⭐ 4.2 | 2017-04-04 |
+| 353. | [**Brackets Keymap**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.brackets-keybindings) | [ms-vscode](#ms-vscode) | `microsoft.com` | **207K** | ⭐ 5 | 2021-02-26 |
+| 354. | [**Bun for Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=oven.bun-vscode) | [oven](#oven) | `bun.sh` | **206K** | ⭐ 4.3 | 2025-12-01 |
+| 355. | [**Zig Language**](https://marketplace.visualstudio.com/items?itemName=ziglang.vscode-zig) | [ziglang](#ziglang) | `ziglang.org` | **204K** | ⭐ 5 | 2025-11-19 |
+| 356. | [**Prisma - Insider**](https://marketplace.visualstudio.com/items?itemName=Prisma.prisma-insider) | [Prisma](#prisma) | `prisma.io` | **199K** | ⭐ 5 | 2025-12-05 |
+| 357. | [**nRF DeviceTree**](https://marketplace.visualstudio.com/items?itemName=nordic-semiconductor.nrf-devicetree) | [nordic-semiconductor](#nordic-semiconductor) | `nordicsemi.com` | **199K** | ⭐ 4.3 | 2025-08-21 |
+| 358. | [**Extension Test Runner**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.extension-test-runner) | [ms-vscode](#ms-vscode) | `microsoft.com` | **198K** | ⭐ 5 | 2024-08-24 |
+| 359. | [**nRF Connect for VS Code**](https://marketplace.visualstudio.com/items?itemName=nordic-semiconductor.nrf-connect) | [nordic-semiconductor](#nordic-semiconductor) | `nordicsemi.com` | **196K** | ⭐ 3.5 | 2025-09-16 |
+| 360. | [**Wokwi Simulator**](https://marketplace.visualstudio.com/items?itemName=Wokwi.wokwi-vscode) | [Wokwi](#wokwi) | `wokwi.com` | **195K** | ⭐ 4.8 | 2025-10-25 |
+| 361. | [**nRF Kconfig**](https://marketplace.visualstudio.com/items?itemName=nordic-semiconductor.nrf-kconfig) | [nordic-semiconductor](#nordic-semiconductor) | `nordicsemi.com` | **195K** | ⭐ 4 | 2025-09-01 |
+| 362. | [**nRF Terminal**](https://marketplace.visualstudio.com/items?itemName=nordic-semiconductor.nrf-terminal) | [nordic-semiconductor](#nordic-semiconductor) | `nordicsemi.com` | **193K** | ⭐ 5 | 2025-08-21 |
+| 363. | [**Relay GraphQL**](https://marketplace.visualstudio.com/items?itemName=meta.relay) | [meta](#meta) | `meta.com` | **192K** | ⭐ 5 | 2025-04-23 |
+| 364. | [**CodeSandbox**](https://marketplace.visualstudio.com/items?itemName=CodeSandbox-io.codesandbox-projects) | [CodeSandbox-io](#codesandbox-io) | `codesandbox.io` | **187K** | ⭐ 3.4 | 2025-01-24 |
+| 365. | [**Application Wizard**](https://marketplace.visualstudio.com/items?itemName=SAPOS.yeoman-ui) | [SAPOS](#sapos) | `sap.com` | **186K** | ⭐ 5 | 2025-11-18 |
+| 366. | [**CodeQL**](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-codeql) | [GitHub](#github) | `github.com` | **185K** | ⭐ 3.5 | 2025-10-24 |
+| 367. | [**City Lights Icon package**](https://marketplace.visualstudio.com/items?itemName=Yummygum.city-lights-icon-vsc) | [Yummygum](#yummygum) | `yummygum.com` | **184K** | ⭐ 5 | 2018-10-08 |
+| 368. | [**Azure Devops Codespaces Authentication**](https://marketplace.visualstudio.com/items?itemName=ms-codespaces-tools.ado-codespaces-auth) | [ms-codespaces-tools](#ms-codespaces-tools) | `microsoft.com` | **184K** | — | 2024-02-13 |
+| 369. | [**Claude 4, GPT-5, DeepSeek R1, ChatGPT, Copilot, Cursor AI, Codex and Cline,  AI Copilot, and Debugger, AI Agents, Code Chat, Code Assistants, Code Generator, Code Completion, Autocomplete, Generative **](https://marketplace.visualstudio.com/items?itemName=Sixth.sixth-ai) | [Sixth](#sixth) | `trysixth.com` | **181K** | ⭐ 3.6 | 2025-11-19 |
+| 370. | [**Raspberry Pi Pico**](https://marketplace.visualstudio.com/items?itemName=raspberry-pi.raspberry-pi-pico) | [raspberry-pi](#raspberry-pi) | `raspberrypi.com` | **179K** | ⭐ 4 | 2025-10-10 |
+| 371. | [**IntelliCode Insiders**](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode-insiders) | [VisualStudioExptTeam](#visualstudioexptteam) | `microsoft.com` | **177K** | ⭐ 5 | 2022-06-30 |
+| 372. | [**Azure Logic Apps (Consumption)**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-logicapps) | [ms-azuretools](#ms-azuretools) | `microsoft.com` | **176K** | ⭐ 2.8 | 2023-07-17 |
+| 373. | [**Microsoft.AspNetCore.Razor.VSCode.BlazorWasmDebuggingExtension**](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.blazorwasm-companion) | [ms-dotnettools](#ms-dotnettools) | `microsoft.com` | **176K** | ⭐ 5 | 2023-02-06 |
+| 374. | [**vscode-smoketest-check**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-smoketest-check) | [ms-vscode](#ms-vscode) | `microsoft.com` | **174K** | — | 2021-07-02 |
+| 375. | [**Puppet**](https://marketplace.visualstudio.com/items?itemName=puppet.puppet-vscode) | [puppet](#puppet) | `puppet.com` | **174K** | ⭐ 4.4 | 2025-03-19 |
+| 376. | [**SAP Fiori Tools - Application Modeler**](https://marketplace.visualstudio.com/items?itemName=SAPSE.sap-ux-application-modeler-extension) | [SAPSE](#sapse) | `sap.com` | **173K** | ⭐ 5 | 2025-12-05 |
+| 377. | [**Shell launcher**](https://marketplace.visualstudio.com/items?itemName=Tyriar.shell-launcher) | [Tyriar](#tyriar) | `growingwiththeweb.com` | **173K** | ⭐ 4.9 | 2020-01-17 |
+| 378. | [**SAP Fiori Tools - XML Annotation Language Server**](https://marketplace.visualstudio.com/items?itemName=SAPSE.sap-ux-annotation-modeler-extension) | [SAPSE](#sapse) | `sap.com` | **173K** | — | 2025-12-05 |
+| 379. | [**Git Blame**](https://marketplace.visualstudio.com/items?itemName=solomonkinard.git-blame) | [solomonkinard](#solomonkinard) | `solomonkinard.com` | **172K** | ⭐ 4.2 | 2025-05-17 |
+| 380. | [**.NET Core EditorConfig Generator**](https://marketplace.visualstudio.com/items?itemName=doggy8088.netcore-editorconfiggenerator) | [doggy8088](#doggy8088) | `duotify.com` | **171K** | ⭐ 5 | 2023-08-05 |
+| 381. | [**SAP Fiori Tools - Guided Development**](https://marketplace.visualstudio.com/items?itemName=SAPSE.sap-ux-help-extension) | [SAPSE](#sapse) | `sap.com` | **168K** | — | 2025-12-05 |
+| 382. | [**French - Code Spell Checker**](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-french) | [streetsidesoftware](#streetsidesoftware) | `streetsidesoftware.com` | **168K** | ⭐ 5 | 2025-07-20 |
+| 383. | [**SAP Fiori Tools - Service Modeler**](https://marketplace.visualstudio.com/items?itemName=SAPSE.sap-ux-service-modeler-extension) | [SAPSE](#sapse) | `sap.com` | **167K** | ⭐ 5 | 2025-12-05 |
+| 384. | [**SQL Server Client (mssql)**](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-myssql-client2) | [cweijan](#cweijan) | `database-client.com` | **166K** | ⭐ 4 | 2025-11-26 |
+| 385. | [**Microsoft Office Add-ins Development Kit**](https://marketplace.visualstudio.com/items?itemName=msoffice.microsoft-office-add-in-debugger) | [msoffice](#msoffice) | `microsoft.com` | **166K** | ⭐ 5 | 2024-12-19 |
+| 386. | [**Open Folder Context Menus for VS Code**](https://marketplace.visualstudio.com/items?itemName=chrisdias.vscode-opennewinstance) | [chrisdias](#chrisdias) | `chrisdias.dev` | **166K** | ⭐ 5 | 2024-05-17 |
+| 387. | [**IBM Z Open Editor**](https://marketplace.visualstudio.com/items?itemName=IBM.zopeneditor) | [IBM](#ibm) | `ibm.com` | **166K** | ⭐ 4.9 | 2025-12-05 |
+| 388. | [**SAP Fiori Tools - Extension Pack**](https://marketplace.visualstudio.com/items?itemName=SAPSE.sap-ux-fiori-tools-extension-pack) | [SAPSE](#sapse) | `sap.com` | **164K** | ⭐ 5 | 2025-12-05 |
+| 389. | [**ERD Editor**](https://marketplace.visualstudio.com/items?itemName=dineug.vuerd-vscode) | [dineug](#dineug) | `erd-editor.io` | **163K** | ⭐ 4.8 | 2025-05-06 |
+| 390. | [**PHP import checker**](https://marketplace.visualstudio.com/items?itemName=marabesi.php-import-checker) | [marabesi](#marabesi) | `marabesi.com` | **162K** | ⭐ 4.7 | 2025-01-01 |
+| 391. | [**STM32CubeIDE for Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=stmicroelectronics.stm32-vscode-extension) | [stmicroelectronics](#stmicroelectronics) | `st.com` | **162K** | ⭐ 3.4 | 2025-10-13 |
+| 392. | [**JavaScript Debugger Companion Extension**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.js-debug-companion) | [ms-vscode](#ms-vscode) | `microsoft.com` | **161K** | — | 2024-07-24 |
+| 393. | [**Embedded Tools**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-embedded-tools) | [ms-vscode](#ms-vscode) | `microsoft.com` | **155K** | ⭐ 5 | 2025-11-28 |
+| 394. | [**SAP Business Application Studio toolkit**](https://marketplace.visualstudio.com/items?itemName=SAPOSS.app-studio-toolkit) | [SAPOSS](#saposs) | `sap.com` | **152K** | ⭐ 5 | 2025-11-30 |
+| 395. | [**Qt Core**](https://marketplace.visualstudio.com/items?itemName=TheQtCompany.qt-core) | [TheQtCompany](#theqtcompany) | `qt.io` | **151K** | — | 2025-11-24 |
+| 396. | [**Redis for VS Code**](https://marketplace.visualstudio.com/items?itemName=Redis.redis-for-vscode) | [Redis](#redis) | `redis.io` | **151K** | ⭐ 3.8 | 2025-06-05 |
+| 397. | [**UI5 Language Assistant**](https://marketplace.visualstudio.com/items?itemName=SAPOSS.vscode-ui5-language-assistant) | [SAPOSS](#saposs) | `sap.com` | **150K** | ⭐ 5 | 2025-07-21 |
+| 398. | [**MPEG-4 Preview**](https://marketplace.visualstudio.com/items?itemName=analytic-signal.preview-mp4) | [analytic-signal](#analytic-signal) | `analyticsignal.com` | **149K** | ⭐ 4.6 | 2021-08-17 |
+| 399. | [**Stripe**](https://marketplace.visualstudio.com/items?itemName=Stripe.vscode-stripe) | [Stripe](#stripe) | `stripe.com` | **149K** | ⭐ 2.8 | 2025-05-13 |
+| 400. | [**Parallels Desktop**](https://marketplace.visualstudio.com/items?itemName=ParallelsDesktop.parallels-desktop) | [ParallelsDesktop](#parallelsdesktop) | `parallels.com` | **148K** | ⭐ 5 | 2025-11-19 |
+| 401. | [**Debugger for Mainframe**](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.debugger-for-mainframe) | [broadcomMFD](#broadcommfd) | `broadcom.com` | **148K** | ⭐ 5 | 2025-12-04 |
+| 402. | [**Arm Tools Environment Manager**](https://marketplace.visualstudio.com/items?itemName=Arm.environment-manager) | [Arm](#arm) | `arm.com` | **146K** | — | 2025-08-26 |
+| 403. | [**extension-activator**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.extension-activator) | [ms-vscode](#ms-vscode) | `microsoft.com` | **142K** | ⭐ 1 | 2023-02-17 |
+| 404. | [**Guided Answers extension by SAP**](https://marketplace.visualstudio.com/items?itemName=SAPOSS.sap-guided-answers-extension) | [SAPOSS](#saposs) | `sap.com` | **141K** | ⭐ 5 | 2025-09-11 |
+| 405. | [**Typora**](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-typora) | [cweijan](#cweijan) | `database-client.com` | **140K** | ⭐ 4.9 | 2025-04-28 |
+| 406. | [**Azure Application Insights**](https://marketplace.visualstudio.com/items?itemName=VisualStudioOnlineApplicationInsights.application-insights) | [VisualStudioOnlineApplicationInsights](#visualstudioonlineapplicationinsights) | `microsoft.com` | **139K** | ⭐ 1 | 2018-03-02 |
+| 407. | [**Remote Access for SAP Business Application Studio**](https://marketplace.visualstudio.com/items?itemName=SAPOSS.app-studio-remote-access) | [SAPOSS](#saposs) | `sap.com` | **138K** | ⭐ 5 | 2025-04-06 |
+| 408. | [**SandDance for VSCode**](https://marketplace.visualstudio.com/items?itemName=msrvida.vscode-sanddance) | [msrvida](#msrvida) | `microsoft.com` | **138K** | ⭐ 4.7 | 2025-06-28 |
+| 409. | [**Pieces for VS Code**](https://marketplace.visualstudio.com/items?itemName=MeshIntelligentTechnologiesInc.pieces-vscode) | [MeshIntelligentTechnologiesInc](#meshintelligenttechnologiesinc) | `pieces.app` | **138K** | ⭐ 4.6 | 2025-06-15 |
+| 410. | [**Portuguese - Code Spell Checker**](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-portuguese) | [streetsidesoftware](#streetsidesoftware) | `streetsidesoftware.com` | **137K** | ⭐ 5 | 2025-07-20 |
+| 411. | [**Extension Pack for Java + Spring**](https://marketplace.visualstudio.com/items?itemName=loiane.java-spring-extension-pack) | [loiane](#loiane) | `loiane.com` | **137K** | ⭐ 5 | 2024-03-30 |
+| 412. | [**OpenShift Toolkit**](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-openshift-connector) | [redhat](#redhat) | `redhat.com` | **136K** | ⭐ 5 | 2025-11-04 |
+| 413. | [**Red Hat Authentication**](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-redhat-account) | [redhat](#redhat) | `redhat.com` | **136K** | — | 2024-04-04 |
+| 414. | [**nRF Connect for VS Code Extension Pack**](https://marketplace.visualstudio.com/items?itemName=nordic-semiconductor.nrf-connect-extension-pack) | [nordic-semiconductor](#nordic-semiconductor) | `nordicsemi.com` | **136K** | ⭐ 3.8 | 2025-04-11 |
+| 415. | [**Databricks Power Tools**](https://marketplace.visualstudio.com/items?itemName=paiqo.databricks-vscode) | [paiqo](#paiqo) | `paiqo.com` | **134K** | ⭐ 4.3 | 2025-08-31 |
+| 416. | [**Web Template Studio (Preview)**](https://marketplace.visualstudio.com/items?itemName=WASTeamAccount.WebTemplateStudio-dev-nightly) | [WASTeamAccount](#wasteamaccount) | `microsoft.com` | **134K** | ⭐ 4.6 | 2021-06-23 |
+| 417. | [**Power Query / M Language**](https://marketplace.visualstudio.com/items?itemName=PowerQuery.vscode-powerquery) | [PowerQuery](#powerquery) | `microsoft.com` | **132K** | ⭐ 4.8 | 2025-08-11 |
+| 418. | [**Calva Spritz**](https://marketplace.visualstudio.com/items?itemName=betterthantomorrow.calva-spritz) | [betterthantomorrow](#betterthantomorrow) | `calva.io` | **130K** | ⭐ 5 | 2023-08-16 |
+| 419. | [**JBoss Toolkit**](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-server-connector) | [redhat](#redhat) | `redhat.com` | **129K** | ⭐ 4 | 2025-10-07 |
+| 420. | [**Web Search for Copilot**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-websearchforcopilot) | [ms-vscode](#ms-vscode) | `microsoft.com` | **128K** | ⭐ 3.2 | 2025-12-04 |
+| 421. | [**HTML Preview**](https://marketplace.visualstudio.com/items?itemName=analytic-signal.preview-html) | [analytic-signal](#analytic-signal) | `analyticsignal.com` | **128K** | ⭐ 3.4 | 2021-06-17 |
+| 422. | [**Robocorp Code**](https://marketplace.visualstudio.com/items?itemName=robocorp.robocorp-code) | [robocorp](#robocorp) | `robocorp.com` | **128K** | ⭐ 4.9 | 2024-05-22 |
+| 423. | [**Workbench Themes**](https://marketplace.visualstudio.com/items?itemName=particle.particle-vscode-theme) | [particle](#particle) | `particle.io` | **127K** | ⭐ 3 | 2025-11-13 |
+| 424. | [**Arm CMSIS Solution**](https://marketplace.visualstudio.com/items?itemName=Arm.cmsis-csolution) | [Arm](#arm) | `arm.com` | **127K** | — | 2025-11-13 |
+| 425. | [**learn-article-templates**](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-article-templates) | [docsmsft](#docsmsft) | `microsoft.com` | **125K** | ⭐ 4 | 2025-02-12 |
+| 426. | [**Salesforce Apex Language Server (Typescript)**](https://marketplace.visualstudio.com/items?itemName=salesforce.apex-language-server-extension) | [salesforce](#salesforce) | `salesforce.com` | **124K** | — | 2025-10-17 |
+| 427. | [**Terminal Tabs (deprecated)**](https://marketplace.visualstudio.com/items?itemName=Tyriar.terminal-tabs) | [Tyriar](#tyriar) | `growingwiththeweb.com` | **124K** | ⭐ 4.5 | 2021-05-25 |
+| 428. | [**Azure PowerShell Tools**](https://marketplace.visualstudio.com/items?itemName=azps-tools.azps-tools) | [azps-tools](#azps-tools) | `microsoft.com` | **124K** | ⭐ 2 | 2023-09-28 |
+| 429. | [**1337 Theme**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.Theme-1337) | [ms-vscode](#ms-vscode) | `microsoft.com` | **124K** | ⭐ 5 | 2017-04-04 |
+| 430. | [**IoT Device Cube**](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.vscode-iot-device-cube) | [vsciot-vscode](#vsciot-vscode) | `microsoft.com` | **122K** | — | 2020-08-18 |
+| 431. | [**Qt Qml**](https://marketplace.visualstudio.com/items?itemName=TheQtCompany.qt-qml) | [TheQtCompany](#theqtcompany) | `qt.io` | **122K** | ⭐ 2 | 2025-11-24 |
+| 432. | [**SSH Client**](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-ssh) | [cweijan](#cweijan) | `database-client.com` | **121K** | ⭐ 4.5 | 2025-11-26 |
+| 433. | [**Qt C++**](https://marketplace.visualstudio.com/items?itemName=TheQtCompany.qt-cpp) | [TheQtCompany](#theqtcompany) | `qt.io` | **121K** | — | 2025-11-24 |
+| 434. | [**Arm Keil Studio Pack (MDK v6)**](https://marketplace.visualstudio.com/items?itemName=Arm.keil-studio-pack) | [Arm](#arm) | `arm.com` | **120K** | ⭐ 3.7 | 2025-06-05 |
+| 435. | [**Gather**](https://marketplace.visualstudio.com/items?itemName=ms-python.gather) | [ms-python](#ms-python) | `microsoft.com` | **119K** | ⭐ 5 | 2025-05-08 |
+| 436. | [**Learn Authoring Pack**](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-authoring-pack) | [docsmsft](#docsmsft) | `microsoft.com` | **118K** | ⭐ 2.9 | 2025-04-15 |
+| 437. | [**Qt UI**](https://marketplace.visualstudio.com/items?itemName=TheQtCompany.qt-ui) | [TheQtCompany](#theqtcompany) | `qt.io` | **117K** | — | 2025-11-24 |
+| 438. | [**AL Toolbox**](https://marketplace.visualstudio.com/items?itemName=BartPermentier.al-toolbox) | [BartPermentier](#bartpermentier) | `altoolbox.com` | **117K** | ⭐ 5 | 2024-06-06 |
+| 439. | [**Azure Logic Apps (Standard)**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurelogicapps) | [ms-azuretools](#ms-azuretools) | `microsoft.com` | **115K** | ⭐ 3.6 | 2025-12-05 |
+| 440. | [**SAP CDS Language Support**](https://marketplace.visualstudio.com/items?itemName=SAPSE.vscode-cds) | [SAPSE](#sapse) | `sap.com` | **114K** | ⭐ 5 | 2025-12-01 |
+| 441. | [**Sapphire Theme**](https://marketplace.visualstudio.com/items?itemName=Tyriar.theme-sapphire) | [Tyriar](#tyriar) | `growingwiththeweb.com` | **114K** | ⭐ 4.9 | 2022-01-11 |
+| 442. | [**JavaScript Debugger**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.js-debug) | [ms-vscode](#ms-vscode) | `microsoft.com` | **114K** | ⭐ 3.5 | 2022-08-13 |
+| 443. | [**Flame Chart Visualizer for JavaScript Profiles**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-js-profile-flame) | [ms-vscode](#ms-vscode) | `microsoft.com` | **113K** | ⭐ 3.7 | 2024-04-05 |
+| 444. | [**Search by Sourcegraph**](https://marketplace.visualstudio.com/items?itemName=sourcegraph.sourcegraph) | [sourcegraph](#sourcegraph) | `sourcegraph.com` | **113K** | ⭐ 5 | 2025-02-26 |
+| 445. | [**Zencoder: AI Coding Agent and Chat for Python, Javascript, Typescript, Java, Go, and more**](https://marketplace.visualstudio.com/items?itemName=ZencoderAI.zencoder) | [ZencoderAI](#zencoderai) | `zencoder.ai` | **112K** | ⭐ 4 | 2025-12-06 |
+| 446. | [**anycode-kotlin**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.anycode-kotlin) | [ms-vscode](#ms-vscode) | `microsoft.com` | **112K** | — | 2025-03-28 |
+| 447. | [**DBCode - Database Management**](https://marketplace.visualstudio.com/items?itemName=DBCode.dbcode) | [DBCode](#dbcode) | `dbcode.io` | **109K** | ⭐ 4.8 | 2025-12-05 |
+| 448. | [**Mojo 🔥**](https://marketplace.visualstudio.com/items?itemName=modular-mojotools.vscode-mojo) | [modular-mojotools](#modular-mojotools) | `modular.com` | **109K** | ⭐ 5 | 2025-12-05 |
+| 449. | [**Arm Device Manager**](https://marketplace.visualstudio.com/items?itemName=Arm.device-manager) | [Arm](#arm) | `arm.com` | **108K** | — | 2025-09-16 |
+| 450. | [**AWS CloudFormation Snippets**](https://marketplace.visualstudio.com/items?itemName=dannysteenman.cloudformation-yaml-snippets) | [dannysteenman](#dannysteenman) | `towardsthecloud.com` | **108K** | ⭐ 5 | 2025-12-05 |
+| 451. | [**vscode-openai**](https://marketplace.visualstudio.com/items?itemName=AndrewButson.vscode-openai) | [AndrewButson](#andrewbutson) | `arbs.io` | **108K** | ⭐ 4.4 | 2025-05-06 |
+| 452. | [**Chinese (Simplified, China) language support for VS Code Speech**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-speech-language-pack-zh-cn) | [ms-vscode](#ms-vscode) | `microsoft.com` | **108K** | ⭐ 5 | 2025-04-16 |
+| 453. | [**Rocket MV BASIC**](https://marketplace.visualstudio.com/items?itemName=RocketSoftware.rocket-mvbasic) | [RocketSoftware](#rocketsoftware) | `rocketsoftware.com` | **107K** | ⭐ 4.2 | 2025-11-05 |
+| 454. | [**anycode-rust**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.anycode-rust) | [ms-vscode](#ms-vscode) | `microsoft.com` | **107K** | — | 2025-03-28 |
+| 455. | [**Predawn Theme Kit**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.Theme-PredawnKit) | [ms-vscode](#ms-vscode) | `microsoft.com` | **107K** | ⭐ 5 | 2017-04-04 |
+| 456. | [**Jsonnet Language Server**](https://marketplace.visualstudio.com/items?itemName=Grafana.vscode-jsonnet) | [Grafana](#grafana) | `grafana.com` | **106K** | ⭐ 5 | 2024-11-04 |
+| 457. | [**Protobuf (Protocol Buffers)**](https://marketplace.visualstudio.com/items?itemName=pbkit.vscode-pbkit) | [pbkit](#pbkit) | `pbkit.dev` | **104K** | ⭐ 4.1 | 2024-10-05 |
+| 458. | [**Inline Values support for PowerShell**](https://marketplace.visualstudio.com/items?itemName=TylerLeonhardt.vscode-inline-values-powershell) | [TylerLeonhardt](#tylerleonhardt) | `tylerleonhardt.com` | **102K** | ⭐ 5 | 2022-11-03 |
+| 459. | [**Kubernetes Kind**](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.kind-vscode) | [ms-kubernetes-tools](#ms-kubernetes-tools) | `microsoft.com` | **102K** | ⭐ 4 | 2020-03-26 |
+| 460. | [**Bruno**](https://marketplace.visualstudio.com/items?itemName=bruno-api-client.bruno) | [bruno-api-client](#bruno-api-client) | `usebruno.com` | **101K** | ⭐ 4.2 | 2025-09-12 |
+| 461. | [**Kodezi AI, (Autocorrect & More) - for Python, JavaScript, TypeScript, C++, PHP, Java, C#, Ruby & more**](https://marketplace.visualstudio.com/items?itemName=kodezi.kodezi) | [kodezi](#kodezi) | `kodezi.com` | **101K** | ⭐ 4.1 | 2025-07-16 |
+| 462. | [**Coder**](https://marketplace.visualstudio.com/items?itemName=coder.coder-remote) | [coder](#coder) | `coder.com` | **101K** | ⭐ 5 | 2025-11-20 |
+| 463. | [**Brackets Extension Pack**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.brackets-pack) | [ms-vscode](#ms-vscode) | `microsoft.com` | **101K** | ⭐ 2.6 | 2021-02-26 |
+| 464. | [**Metabob: Debug and Refactor with AI**](https://marketplace.visualstudio.com/items?itemName=Metabob.metabob) | [Metabob](#metabob) | `metabob.com` | **99K** | ⭐ 4.8 | 2024-11-27 |
+| 465. | [**CircleCI**](https://marketplace.visualstudio.com/items?itemName=circleci.circleci) | [circleci](#circleci) | `circleci.com` | **97K** | ⭐ 4.8 | 2025-10-27 |
+| 466. | [**Arm Virtual Hardware**](https://marketplace.visualstudio.com/items?itemName=Arm.virtual-hardware) | [Arm](#arm) | `arm.com` | **95K** | — | 2025-01-24 |
+| 467. | [**Arm Debugger**](https://marketplace.visualstudio.com/items?itemName=Arm.arm-debugger) | [Arm](#arm) | `arm.com` | **94K** | — | 2025-09-29 |
+| 468. | [**JSON Debug Visualizer**](https://marketplace.visualstudio.com/items?itemName=TimHeuer.jsondbg) | [TimHeuer](#timheuer) | `timheuer.com` | **91K** | — | 2025-06-12 |
+| 469. | [**Debugger for Chrome (Nightly)**](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome-nightly) | [msjsdiag](#msjsdiag) | `microsoft.com` | **90K** | — | 2020-02-11 |
+| 470. | [**ChatGPT - Unfold AI**](https://marketplace.visualstudio.com/items?itemName=TalDennis-UnfoldAI-ChatGPT-Copilot.unfoldai) | [TalDennis-UnfoldAI-ChatGPT-Copilot](#taldennis-unfoldai-chatgpt-copilot) | `unfoldai.io` | **90K** | ⭐ 4.1 | 2025-11-17 |
+| 471. | [**learn-scaffolding**](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-scaffolding) | [docsmsft](#docsmsft) | `microsoft.com` | **89K** | — | 2024-09-19 |
+| 472. | [**RuboCop LSP**](https://marketplace.visualstudio.com/items?itemName=Shopify.rubocop-lsp) | [Shopify](#shopify) | `shopify.com` | **89K** | ⭐ 5 | 2021-08-12 |
+| 473. | [**vscode-mermAId**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.copilot-mermaid-diagram) | [ms-vscode](#ms-vscode) | `microsoft.com` | **89K** | ⭐ 5 | 2025-12-04 |
+| 474. | [**avro-idl**](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.avro) | [streetsidesoftware](#streetsidesoftware) | `streetsidesoftware.com` | **88K** | ⭐ 4 | 2021-06-16 |
+| 475. | [**Azure Automation**](https://marketplace.visualstudio.com/items?itemName=azure-automation.vscode-azureautomation) | [azure-automation](#azure-automation) | `microsoft.com` | **88K** | ⭐ 3.9 | 2024-07-08 |
+| 476. | [**Prompt flow for VS Code**](https://marketplace.visualstudio.com/items?itemName=prompt-flow.prompt-flow) | [prompt-flow](#prompt-flow) | `microsoft.com` | **87K** | ⭐ 4.5 | 2024-08-26 |
+| 477. | [**Find unused exports**](https://marketplace.visualstudio.com/items?itemName=iulian-radu-at.find-unused-exports) | [iulian-radu-at](#iulian-radu-at) | `iulian-radu.eu` | **85K** | ⭐ 3.3 | 2025-11-30 |
+| 478. | [**XState VSCode**](https://marketplace.visualstudio.com/items?itemName=statelyai.stately-vscode) | [statelyai](#statelyai) | `stately.ai` | **85K** | ⭐ 4.8 | 2024-01-11 |
+| 479. | [**ARB Editor**](https://marketplace.visualstudio.com/items?itemName=Google.arb-editor) | [Google](#google) | `google.com` | **84K** | ⭐ 5 | 2024-10-18 |
+| 480. | [**Polish - Code Spell Checker**](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-polish) | [streetsidesoftware](#streetsidesoftware) | `streetsidesoftware.com` | **84K** | ⭐ 5 | 2025-07-20 |
+| 481. | [**Hyperledger Fabric Debugger**](https://marketplace.visualstudio.com/items?itemName=Spydra.hyperledger-fabric-debugger) | [Spydra](#spydra) | `spydra.app` | **84K** | ⭐ 5 | 2023-12-04 |
+| 482. | [**Qt Extension Pack**](https://marketplace.visualstudio.com/items?itemName=TheQtCompany.qt) | [TheQtCompany](#theqtcompany) | `qt.io` | **84K** | ⭐ 3.6 | 2025-11-25 |
+| 483. | [**IBM Cloud Account**](https://marketplace.visualstudio.com/items?itemName=IBM.ibmcloud-account) | [IBM](#ibm) | `ibm.com` | **82K** | — | 2021-03-09 |
+| 484. | [**DVC**](https://marketplace.visualstudio.com/items?itemName=Iterative.dvc) | [Iterative](#iterative) | `iterative.ai` | **82K** | ⭐ 4.8 | 2025-12-02 |
+| 485. | [**Music Time for Spotify**](https://marketplace.visualstudio.com/items?itemName=softwaredotcom.music-time) | [softwaredotcom](#softwaredotcom) | `software.com` | **82K** | ⭐ 3.7 | 2024-10-31 |
+| 486. | [**Remote - Kubernetes**](https://marketplace.visualstudio.com/items?itemName=okteto.remote-kubernetes) | [okteto](#okteto) | `okteto.com` | **81K** | ⭐ 5 | 2025-09-16 |
+| 487. | [**Vietnamese - Code Spell Checker**](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-vietnamese) | [streetsidesoftware](#streetsidesoftware) | `streetsidesoftware.com` | **80K** | ⭐ 5 | 2025-07-20 |
+| 488. | [**Workbench Core**](https://marketplace.visualstudio.com/items?itemName=particle.particle-vscode-core) | [particle](#particle) | `particle.io` | **80K** | ⭐ 2.5 | 2025-11-13 |
+| 489. | [**Workbench Snippets**](https://marketplace.visualstudio.com/items?itemName=particle.particle-vscode-snippets) | [particle](#particle) | `particle.io` | **78K** | — | 2025-11-13 |
+| 490. | [**Dapr**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-dapr) | [ms-azuretools](#ms-azuretools) | `microsoft.com` | **78K** | ⭐ 5 | 2023-10-19 |
+| 491. | [**GitHub Copilot Workspace**](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-workspace) | [GitHub](#github) | `github.com` | **77K** | ⭐ 5 | 2025-02-12 |
+| 492. | [**SAS**](https://marketplace.visualstudio.com/items?itemName=SAS.sas-lsp) | [SAS](#sas) | `sas.com` | **77K** | ⭐ 4.8 | 2025-12-02 |
+| 493. | [**TIFF Preview**](https://marketplace.visualstudio.com/items?itemName=analytic-signal.preview-tiff) | [analytic-signal](#analytic-signal) | `analyticsignal.com` | **77K** | ⭐ 5 | 2021-06-21 |
+| 494. | [**Terminal Here**](https://marketplace.visualstudio.com/items?itemName=Tyriar.vscode-terminal-here) | [Tyriar](#tyriar) | `growingwiththeweb.com` | **77K** | ⭐ 4.4 | 2019-08-14 |
+| 495. | [**Colab**](https://marketplace.visualstudio.com/items?itemName=Google.colab) | [Google](#google) | `google.com` | **76K** | ⭐ 5 | 2025-11-17 |
+| 496. | [**WebNative**](https://marketplace.visualstudio.com/items?itemName=WebNative.webnative) | [WebNative](#webnative) | `webnative.dev` | **76K** | ⭐ 4.2 | 2025-12-02 |
+| 497. | [**Workbench**](https://marketplace.visualstudio.com/items?itemName=particle.particle-vscode-pack) | [particle](#particle) | `particle.io` | **76K** | ⭐ 3.2 | 2025-11-13 |
+| 498. | [**Azure Policy**](https://marketplace.visualstudio.com/items?itemName=AzurePolicy.azurepolicyextension) | [AzurePolicy](#azurepolicy) | `microsoft.com` | **75K** | ⭐ 2.6 | 2025-10-13 |
+| 499. | [**Vision for Copilot Preview**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-copilot-vision) | [ms-vscode](#ms-vscode) | `microsoft.com` | **75K** | ⭐ 4 | 2025-03-24 |
+| 500. | [**JS Debug Value Editor (Experimental)**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.debug-value-editor) | [ms-vscode](#ms-vscode) | `microsoft.com` | **74K** | — | 2025-07-11 |
+| 501. | [**Markdoc language support**](https://marketplace.visualstudio.com/items?itemName=Stripe.markdoc-language-support) | [Stripe](#stripe) | `stripe.com` | **74K** | — | 2024-04-28 |
+| 502. | [**Houston**](https://marketplace.visualstudio.com/items?itemName=astro-build.houston) | [astro-build](#astro-build) | `astro.build` | **74K** | ⭐ 5 | 2023-11-10 |
+| 503. | [**CodeViz | Visual codebase maps**](https://marketplace.visualstudio.com/items?itemName=CodeViz.codeviz) | [CodeViz](#codeviz) | `codeviz.ai` | **73K** | ⭐ 4 | 2025-12-04 |
+| 504. | [**CodeMate AI- Your Smartest Full Stack Coding Agent- Python, C++, C, Java, Javascript, Typescript, Ruby & 100+ languages supported**](https://marketplace.visualstudio.com/items?itemName=AyushSinghal.Code-Mate) | [AyushSinghal](#ayushsinghal) | `codemate.ai` | **73K** | ⭐ 4.4 | 2025-10-17 |
+| 505. | [**Redocly OpenAPI**](https://marketplace.visualstudio.com/items?itemName=Redocly.openapi-vs-code) | [Redocly](#redocly) | `redocly.com` | **73K** | ⭐ 4.7 | 2025-12-02 |
+| 506. | [**Spark & Hive Tools**](https://marketplace.visualstudio.com/items?itemName=mshdinsight.azure-hdinsight) | [mshdinsight](#mshdinsight) | `microsoft.com` | **72K** | ⭐ 3 | 2023-01-19 |
+| 507. | [**anycode-cpp**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.anycode-cpp) | [ms-vscode](#ms-vscode) | `microsoft.com` | **71K** | — | 2025-03-28 |
+| 508. | [**llm-vscode**](https://marketplace.visualstudio.com/items?itemName=HuggingFace.huggingface-vscode) | [HuggingFace](#huggingface) | `huggingface.co` | **71K** | ⭐ 4.8 | 2024-05-24 |
+| 509. | [**Oxc**](https://marketplace.visualstudio.com/items?itemName=oxc.oxc-vscode) | [oxc](#oxc) | `oxc.rs` | **70K** | ⭐ 4.9 | 2025-12-01 |
+| 510. | [**Fabric Data Engineering VS Code**](https://marketplace.visualstudio.com/items?itemName=SynapseVSCode.synapse) | [SynapseVSCode](#synapsevscode) | `microsoft.com` | **70K** | ⭐ 1.8 | 2025-12-02 |
+| 511. | [**Tabnine for Enterprise**](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode-self-hosted-updater) | [TabNine](#tabnine) | `tabnine.com` | **70K** | ⭐ 3.2 | 2025-01-26 |
+| 512. | [**Amp (Research Preview)**](https://marketplace.visualstudio.com/items?itemName=sourcegraph.amp) | [sourcegraph](#sourcegraph) | `sourcegraph.com` | **70K** | ⭐ 4.4 | 2025-12-05 |
+| 513. | [**Ukrainian - Code Spell Checker**](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-ukrainian) | [streetsidesoftware](#streetsidesoftware) | `streetsidesoftware.com` | **70K** | ⭐ 5 | 2025-07-20 |
+| 514. | [**Excel**](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-excel) | [cweijan](#cweijan) | `database-client.com` | **69K** | ⭐ 5 | 2025-04-28 |
+| 515. | [**SPFx Debug Configuration**](https://marketplace.visualstudio.com/items?itemName=eliostruyf.spfx-debug) | [eliostruyf](#eliostruyf) | `elio.codes` | **69K** | ⭐ 5 | 2017-11-07 |
+| 516. | [**React Native Tools (Preview)**](https://marketplace.visualstudio.com/items?itemName=msjsdiag.vscode-react-native-preview) | [msjsdiag](#msjsdiag) | `microsoft.com` | **69K** | ⭐ 5 | 2024-06-27 |
+| 517. | [**WSL: Recommender**](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl-recommender) | [ms-vscode-remote](#ms-vscode-remote) | `microsoft.com` | **69K** | ⭐ 2.3 | 2024-10-23 |
+| 518. | [**COBOL Language Support**](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.cobol-language-support) | [broadcomMFD](#broadcommfd) | `broadcom.com` | **68K** | ⭐ 4.3 | 2025-07-24 |
+| 519. | [**Italian - Code Spell Checker**](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-italian) | [streetsidesoftware](#streetsidesoftware) | `streetsidesoftware.com` | **67K** | ⭐ 3.7 | 2025-07-20 |
+| 520. | [**Tabby**](https://marketplace.visualstudio.com/items?itemName=TabbyML.vscode-tabby) | [TabbyML](#tabbyml) | `tabbyml.com` | **67K** | ⭐ 4.8 | 2025-04-30 |
+| 521. | [**Front Matter CMS**](https://marketplace.visualstudio.com/items?itemName=eliostruyf.vscode-front-matter) | [eliostruyf](#eliostruyf) | `elio.codes` | **67K** | ⭐ 5 | 2025-07-01 |
+| 522. | [**Buf**](https://marketplace.visualstudio.com/items?itemName=bufbuild.vscode-buf) | [bufbuild](#bufbuild) | `buf.build` | **67K** | ⭐ 5 | 2025-08-27 |
+| 523. | [**Databricks Driver for SQLTools**](https://marketplace.visualstudio.com/items?itemName=databricks.sqltools-databricks-driver) | [databricks](#databricks) | `databricks.com` | **66K** | ⭐ 4.8 | 2023-12-11 |
+| 524. | [**EchoAPI for VS Code**](https://marketplace.visualstudio.com/items?itemName=EchoAPI.echoapi-for-vscode) | [EchoAPI](#echoapi) | `echoapi.com` | **66K** | ⭐ 4.6 | 2025-09-17 |
+| 525. | [**AppMap**](https://marketplace.visualstudio.com/items?itemName=appland.appmap) | [appland](#appland) | `appland.com` | **66K** | ⭐ 4.9 | 2025-11-25 |
+| 526. | [**Epub Reader**](https://marketplace.visualstudio.com/items?itemName=cweijan.epub-reader) | [cweijan](#cweijan) | `database-client.com` | **66K** | ⭐ 5 | 2021-05-29 |
+| 527. | [**Dutch - Code Spell Checker**](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-dutch) | [streetsidesoftware](#streetsidesoftware) | `streetsidesoftware.com` | **66K** | ⭐ 5 | 2025-07-20 |
+| 528. | [**JSDoc Generator**](https://marketplace.visualstudio.com/items?itemName=crystal-spider.jsdoc-generator) | [crystal-spider](#crystal-spider) | `crystalnest.it` | **65K** | ⭐ 5 | 2025-08-13 |
+| 529. | [**shadowenv**](https://marketplace.visualstudio.com/items?itemName=Shopify.vscode-shadowenv) | [Shopify](#shopify) | `shopify.com` | **65K** | ⭐ 3 | 2020-06-11 |
+| 530. | [**InterSystems Language Server**](https://marketplace.visualstudio.com/items?itemName=intersystems.language-server) | [intersystems](#intersystems) | `intersystems.com` | **65K** | ⭐ 5 | 2025-07-28 |
+| 531. | [**anycode-python**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.anycode-python) | [ms-vscode](#ms-vscode) | `microsoft.com` | **65K** | — | 2025-03-28 |
+| 532. | [**Supabase**](https://marketplace.visualstudio.com/items?itemName=Supabase.vscode-supabase-extension) | [Supabase](#supabase) | `supabase.com` | **65K** | ⭐ 4.9 | 2025-07-22 |
+| 533. | [**Auto Barrel for VSCode**](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-auto-barrel) | [imgildev](#imgildev) | `imgil.dev` | **65K** | ⭐ 5 | 2025-03-11 |
+| 534. | [**Windows Terminal Integration**](https://marketplace.visualstudio.com/items?itemName=Tyriar.windows-terminal) | [Tyriar](#tyriar) | `growingwiththeweb.com` | **64K** | ⭐ 5 | 2021-10-21 |
+| 535. | [**Resharper 9 Keybindings**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.resharper9-keybindings) | [ms-vscode](#ms-vscode) | `microsoft.com` | **64K** | ⭐ 5 | 2016-09-23 |
+| 536. | [**Splunk Extension**](https://marketplace.visualstudio.com/items?itemName=Splunk.splunk) | [Splunk](#splunk) | `splunk.com` | **63K** | ⭐ 4.2 | 2025-06-09 |
+| 537. | [**DevSkim**](https://marketplace.visualstudio.com/items?itemName=MS-CST-E.vscode-devskim) | [MS-CST-E](#ms-cst-e) | `microsoft.com` | **63K** | ⭐ 5 | 2025-11-19 |
+| 538. | [**British English - Code Spell Checker**](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-british-english) | [streetsidesoftware](#streetsidesoftware) | `streetsidesoftware.com` | **62K** | ⭐ 4.2 | 2025-10-31 |
+| 539. | [**NG-ZORRO Snippets**](https://marketplace.visualstudio.com/items?itemName=cipchk.ng-zorro-vscode) | [cipchk](#cipchk) | `ng-alain.com` | **61K** | ⭐ 5 | 2025-11-24 |
+| 540. | [**Deprecated - Project Initializer by Red Hat**](https://marketplace.visualstudio.com/items?itemName=redhat.project-initializer) | [redhat](#redhat) | `redhat.com` | **61K** | — | 2022-10-13 |
+| 541. | [**SVN Blamer**](https://marketplace.visualstudio.com/items?itemName=beaugust.blamer-vs) | [beaugust](#beaugust) | `opista.com` | **61K** | ⭐ 4.5 | 2025-02-10 |
+| 542. | [**Slint**](https://marketplace.visualstudio.com/items?itemName=Slint.slint) | [Slint](#slint) | `slint.dev` | **60K** | ⭐ 5 | 2025-10-23 |
+| 543. | [**BPMN Editor**](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-extension-bpmn-editor) | [redhat](#redhat) | `redhat.com` | **60K** | ⭐ 3.8 | 2023-04-11 |
+| 544. | [**Xmind Viewer**](https://marketplace.visualstudio.com/items?itemName=cweijan.xmind-viewer) | [cweijan](#cweijan) | `database-client.com` | **59K** | ⭐ 5 | 2021-05-29 |
+| 545. | [**Arm Embedded Debugger**](https://marketplace.visualstudio.com/items?itemName=Arm.embedded-debug) | [Arm](#arm) | `arm.com` | **59K** | ⭐ 1 | 2024-09-04 |
+| 546. | [**Task**](https://marketplace.visualstudio.com/items?itemName=task.vscode-task) | [task](#task) | `taskfile.dev` | **59K** | ⭐ 4.6 | 2025-08-21 |
+| 547. | [**Gitpod Theme**](https://marketplace.visualstudio.com/items?itemName=gitpod.gitpod-theme) | [gitpod](#gitpod) | `gitpod.io` | **58K** | ⭐ 5 | 2022-05-17 |
+| 548. | [**Context7 MCP Server**](https://marketplace.visualstudio.com/items?itemName=Upstash.context7-mcp) | [Upstash](#upstash) | `upstash.com` | **58K** | ⭐ 5 | 2025-08-04 |
+| 549. | [**Ember Cli in Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=EmberTooling.vsc-ember-cli) | [EmberTooling](#embertooling) | `emberjs.com` | **58K** | ⭐ 5 | 2017-03-15 |
+| 550. | [**Anypoint Code Builder - Dependencies Extension**](https://marketplace.visualstudio.com/items?itemName=salesforce.mule-dx-dependencies) | [salesforce](#salesforce) | `salesforce.com` | **57K** | ⭐ 5 | 2025-10-04 |
+| 551. | [**Power BI Studio**](https://marketplace.visualstudio.com/items?itemName=GerhardBrueckl.powerbi-vscode) | [GerhardBrueckl](#gerhardbrueckl) | `gbrueckl.at` | **57K** | ⭐ 5 | 2025-10-31 |
+| 552. | [**Draw.io Integration - Insiders Build**](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio-insiders-build) | [hediet](#hediet) | `hediet.de` | **57K** | ⭐ 5 | 2023-01-13 |
+| 553. | [**Debug Adapter for Apache Camel by Red Hat**](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-debug-adapter-apache-camel) | [redhat](#redhat) | `redhat.com` | **57K** | — | 2025-09-22 |
+| 554. | [**Yocto Project BitBake**](https://marketplace.visualstudio.com/items?itemName=yocto-project.yocto-bitbake) | [yocto-project](#yocto-project) | `yoctoproject.org` | **56K** | ⭐ 4.7 | 2025-01-10 |
+| 555. | [**Datadog**](https://marketplace.visualstudio.com/items?itemName=Datadog.datadog-vscode) | [Datadog](#datadog) | `datadoghq.com` | **55K** | ⭐ 5 | 2025-12-01 |
+| 556. | [**Persian - Code Spell Checker**](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-persian) | [streetsidesoftware](#streetsidesoftware) | `streetsidesoftware.com` | **55K** | ⭐ 5 | 2025-07-20 |
+| 557. | [**anycode-c-sharp**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.anycode-c-sharp) | [ms-vscode](#ms-vscode) | `microsoft.com` | **54K** | — | 2025-03-28 |
+| 558. | [**anycode-java**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.anycode-java) | [ms-vscode](#ms-vscode) | `microsoft.com` | **54K** | — | 2025-03-28 |
+| 559. | [**Semantic Kernel Tools**](https://marketplace.visualstudio.com/items?itemName=ms-semantic-kernel.semantic-kernel) | [ms-semantic-kernel](#ms-semantic-kernel) | `microsoft.com` | **53K** | ⭐ 5 | 2025-05-19 |
+| 560. | [**Rocket COBOL**](https://marketplace.visualstudio.com/items?itemName=RocketSoftware.rocket-cobol) | [RocketSoftware](#rocketsoftware) | `rocketsoftware.com` | **53K** | ⭐ 5 | 2025-11-10 |
+| 561. | [**Frontier: Figma to React, leveraging your own design system and components**](https://marketplace.visualstudio.com/items?itemName=AnimaApp.vscode-anima) | [AnimaApp](#animaapp) | `animaapp.com` | **52K** | ⭐ 5 | 2025-01-22 |
+| 562. | [**Anypoint Code Builder - Platform Extension**](https://marketplace.visualstudio.com/items?itemName=salesforce.mule-dx-vscode) | [salesforce](#salesforce) | `salesforce.com` | **52K** | — | 2025-11-12 |
+| 563. | [**Endsmart**](https://marketplace.visualstudio.com/items?itemName=Stripe.endsmart) | [Stripe](#stripe) | `stripe.com` | **52K** | — | 2024-05-20 |
+| 564. | [**Nextflow**](https://marketplace.visualstudio.com/items?itemName=nextflow.nextflow) | [nextflow](#nextflow) | `nextflow.io` | **51K** | ⭐ 5 | 2025-10-23 |
+| 565. | [**VEX Robotics**](https://marketplace.visualstudio.com/items?itemName=VEXRobotics.vexcode) | [VEXRobotics](#vexrobotics) | `vexrobotics.com` | **51K** | ⭐ 3.2 | 2025-12-04 |
+| 566. | [**anycode-php**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.anycode-php) | [ms-vscode](#ms-vscode) | `microsoft.com` | **51K** | — | 2025-03-28 |
+| 567. | [**Refact – Open-Source AI Agent, Code Generator & Chat for JavaScript, Python, TypeScript, Java, PHP, Go, and more.**](https://marketplace.visualstudio.com/items?itemName=smallcloud.codify) | [smallcloud](#smallcloud) | `smallcloud.ai` | **51K** | ⭐ 4.1 | 2025-07-23 |
+| 568. | [**Go Extension Pack**](https://marketplace.visualstudio.com/items?itemName=doggy8088.go-extension-pack) | [doggy8088](#doggy8088) | `duotify.com` | **50K** | ⭐ 5 | 2021-12-16 |
+| 569. | [**Language Support for Apache Camel by Red Hat**](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-apache-camel) | [redhat](#redhat) | `redhat.com` | **50K** | ⭐ 5 | 2025-09-22 |
+| 570. | [**Dafny**](https://marketplace.visualstudio.com/items?itemName=dafny-lang.ide-vscode) | [dafny-lang](#dafny-lang) | `dafny.org` | **50K** | ⭐ 5 | 2025-09-09 |
+| 571. | [**1Password**](https://marketplace.visualstudio.com/items?itemName=1Password.op-vscode) | [1Password](#1password) | `1Password.com` | **49K** | ⭐ 3.9 | 2024-07-16 |
+| 572. | [**Turkish - Code Spell Checker**](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-turkish) | [streetsidesoftware](#streetsidesoftware) | `streetsidesoftware.com` | **49K** | ⭐ 5 | 2025-07-20 |
+| 573. | [**Open file**](https://marketplace.visualstudio.com/items?itemName=Fr43nk.seito-openfile) | [Fr43nk](#fr43nk) | `seito.de` | **49K** | ⭐ 4.8 | 2025-10-06 |
+| 574. | [**JSON Flow**](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-json-flow) | [imgildev](#imgildev) | `imgil.dev` | **49K** | ⭐ 5 | 2025-08-13 |
+| 575. | [**Million Lint**](https://marketplace.visualstudio.com/items?itemName=million.million-lint) | [million](#million) | `million.dev` | **49K** | ⭐ 4.3 | 2024-12-11 |
+| 576. | [**Apex OpenAPI Specification**](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-apex-oas) | [salesforce](#salesforce) | `salesforce.com` | **49K** | — | 2025-12-04 |
+| 577. | [**Azure Cache**](https://marketplace.visualstudio.com/items?itemName=ms-azurecache.vscode-azurecache) | [ms-azurecache](#ms-azurecache) | `microsoft.com` | **49K** | ⭐ 4 | 2020-07-22 |
+| 578. | [**Medical Terms - Code Spell Checker**](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-medical-terms) | [streetsidesoftware](#streetsidesoftware) | `streetsidesoftware.com` | **48K** | — | 2025-07-20 |
+| 579. | [**IIS and IIS Express extension for Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=lextudio.iis) | [lextudio](#lextudio) | `lextudio.com` | **48K** | ⭐ 3 | 2025-04-20 |
+| 580. | [**Liberty Tools**](https://marketplace.visualstudio.com/items?itemName=Open-Liberty.liberty-dev-vscode-ext) | [Open-Liberty](#open-liberty) | `openliberty.io` | **48K** | ⭐ 4.5 | 2025-12-02 |
+| 581. | [**anycode-go**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.anycode-go) | [ms-vscode](#ms-vscode) | `microsoft.com` | **48K** | — | 2025-03-28 |
+| 582. | [**Anypoint Code Builder - Integration Extension**](https://marketplace.visualstudio.com/items?itemName=salesforce.mule-dx-mule-dev-component) | [salesforce](#salesforce) | `salesforce.com` | **48K** | ⭐ 5 | 2025-11-04 |
+| 583. | [**Swedish - Code Spell Checker**](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-swedish) | [streetsidesoftware](#streetsidesoftware) | `streetsidesoftware.com` | **48K** | ⭐ 2.7 | 2025-07-20 |
+| 584. | [**Czech - Code Spell Checker**](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-czech) | [streetsidesoftware](#streetsidesoftware) | `streetsidesoftware.com` | **48K** | ⭐ 4 | 2025-07-20 |
+| 585. | [**Extension Pack for reStructuredText**](https://marketplace.visualstudio.com/items?itemName=lextudio.restructuredtext-pack) | [lextudio](#lextudio) | `lextudio.com` | **48K** | — | 2023-05-22 |
+| 586. | [**Prettier for Handlebars**](https://marketplace.visualstudio.com/items?itemName=EmberTooling.prettier-for-handlebars-vscode) | [EmberTooling](#embertooling) | `emberjs.com` | **48K** | ⭐ 5 | 2020-10-21 |
+| 587. | [**Plotly Express Snippets**](https://marketplace.visualstudio.com/items?itemName=analytic-signal.snippets-plotly) | [analytic-signal](#analytic-signal) | `analyticsignal.com` | **47K** | ⭐ 5 | 2025-08-19 |
+| 588. | [**VEX Robotics Feedback**](https://marketplace.visualstudio.com/items?itemName=VEXRobotics.vexfeedback) | [VEXRobotics](#vexrobotics) | `vexrobotics.com` | **47K** | — | 2025-12-04 |
+| 589. | [**Prompty**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.prompty) | [ms-toolsai](#ms-toolsai) | `microsoft.com` | **46K** | ⭐ 3.5 | 2025-07-14 |
+| 590. | [**Markdown Notebook**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-markdown-notebook) | [ms-vscode](#ms-vscode) | `microsoft.com` | **46K** | ⭐ 3 | 2021-11-03 |
+| 591. | [**Anypoint Code Builder - DataWeave Extension**](https://marketplace.visualstudio.com/items?itemName=salesforce.mule-dx-data-weave-client) | [salesforce](#salesforce) | `salesforce.com` | **46K** | ⭐ 3 | 2025-11-04 |
+| 592. | [**SAP HANA Driver for SQLTools**](https://marketplace.visualstudio.com/items?itemName=SAPOSS.sap-hana-driver-for-sqltools) | [SAPOSS](#saposs) | `sap.com` | **46K** | ⭐ 4.6 | 2020-08-04 |
+| 593. | [**Terraform AzApi Provider**](https://marketplace.visualstudio.com/items?itemName=azapi-vscode.azapi) | [azapi-vscode](#azapi-vscode) | `microsoft.com` | **45K** | ⭐ 5 | 2025-07-01 |
+| 594. | [**Pseudo Language Language Pack**](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-qps-ploc) | [MS-CEINTL](#ms-ceintl) | `microsoft.com` | **45K** | ⭐ 5 | 2025-12-03 |
+| 595. | [**IAR Build**](https://marketplace.visualstudio.com/items?itemName=iarsystems.iar-build) | [iarsystems](#iarsystems) | `iar.com` | **45K** | ⭐ 5 | 2025-06-10 |
+| 596. | [**Azure Stream Analytics Tools**](https://marketplace.visualstudio.com/items?itemName=ms-bigdatatools.vscode-asa) | [ms-bigdatatools](#ms-bigdatatools) | `microsoft.com` | **45K** | ⭐ 5 | 2024-02-01 |
+| 597. | [**anycode-typescript**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.anycode-typescript) | [ms-vscode](#ms-vscode) | `microsoft.com` | **45K** | — | 2025-03-28 |
+| 598. | [**[Deprecated] XML Language Support**](https://marketplace.visualstudio.com/items?itemName=IBM.XMLLanguageSupport) | [IBM](#ibm) | `ibm.com` | **45K** | ⭐ 2.9 | 2020-06-02 |
+| 599. | [**Adaptive Card Previewer**](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.vscode-adaptive-cards) | [TeamsDevApp](#teamsdevapp) | `microsoft.com` | **44K** | — | 2024-07-17 |
+| 600. | [**STM32Cube CMake Support**](https://marketplace.visualstudio.com/items?itemName=stmicroelectronics.stm32cube-ide-build-cmake) | [stmicroelectronics](#stmicroelectronics) | `st.com` | **44K** | — | 2025-09-29 |
+| 601. | [**Hide Comments**](https://marketplace.visualstudio.com/items?itemName=eliostruyf.vscode-hide-comments) | [eliostruyf](#eliostruyf) | `elio.codes` | **44K** | ⭐ 4.8 | 2024-09-25 |
+| 602. | [**Standard Ruby**](https://marketplace.visualstudio.com/items?itemName=testdouble.vscode-standard-ruby) | [testdouble](#testdouble) | `testdouble.com` | **44K** | ⭐ 5 | 2023-11-17 |
+| 603. | [**watsonx Code Assistant**](https://marketplace.visualstudio.com/items?itemName=IBM.wca-core) | [IBM](#ibm) | `ibm.com` | **44K** | ⭐ 5 | 2025-10-31 |
+| 604. | [**DVT IDE for Verilog/SystemVerilog/VHDL/e Language**](https://marketplace.visualstudio.com/items?itemName=amiq.dvt) | [amiq](#amiq) | `amiq.com` | **44K** | ⭐ 5 | 2025-11-25 |
+| 605. | [**Front-End Extension Pack**](https://marketplace.visualstudio.com/items?itemName=loiane.frontend-extension-pack) | [loiane](#loiane) | `loiane.com` | **43K** | ⭐ 5 | 2019-04-14 |
+| 606. | [**Anypoint Code Builder - API Extension**](https://marketplace.visualstudio.com/items?itemName=salesforce.mule-dx-api-component) | [salesforce](#salesforce) | `salesforce.com` | **43K** | ⭐ 5 | 2025-11-04 |
+| 607. | [**Greek - Code Spell Checker**](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-greek) | [streetsidesoftware](#streetsidesoftware) | `streetsidesoftware.com` | **43K** | ⭐ 5 | 2025-07-20 |
+| 608. | [**Azure Data Studio Debug**](https://marketplace.visualstudio.com/items?itemName=ms-mssql.sqlops-debug) | [ms-mssql](#ms-mssql) | `microsoft.com` | **43K** | ⭐ 5 | 2021-08-26 |
+| 609. | [**TypeScript Barrel Generator**](https://marketplace.visualstudio.com/items?itemName=eliostruyf.vscode-typescript-exportallmodules) | [eliostruyf](#eliostruyf) | `elio.codes` | **43K** | ⭐ 5 | 2025-07-06 |
+| 610. | [**Solidity (Wake)**](https://marketplace.visualstudio.com/items?itemName=AckeeBlockchain.tools-for-solidity) | [AckeeBlockchain](#ackeeblockchain) | `ackee.xyz` | **43K** | ⭐ 5 | 2025-11-24 |
+| 611. | [**T3 Stack / Next.js / React File Generator**](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-nextjs-generator) | [imgildev](#imgildev) | `imgil.dev` | **43K** | ⭐ 5 | 2025-07-18 |
+| 612. | [**Qt C++ Extension Pack**](https://marketplace.visualstudio.com/items?itemName=TheQtCompany.qt-cpp-pack) | [TheQtCompany](#theqtcompany) | `qt.io` | **42K** | ⭐ 5 | 2024-09-10 |
+| 613. | [**TypeScript (Native Preview)**](https://marketplace.visualstudio.com/items?itemName=TypeScriptTeam.native-preview) | [TypeScriptTeam](#typescriptteam) | `microsoft.com` | **42K** | ⭐ 5 | 2025-12-05 |
+| 614. | [**[DEPRECATED] LaTeX Language Support**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.latex) | [ms-vscode](#ms-vscode) | `microsoft.com` | **42K** | ⭐ 3 | 2017-08-09 |
+| 615. | [**Power Query SDK**](https://marketplace.visualstudio.com/items?itemName=PowerQuery.vscode-powerquery-sdk) | [PowerQuery](#powerquery) | `microsoft.com` | **42K** | ⭐ 5 | 2025-08-11 |
+| 616. | [**quick-lint-js**](https://marketplace.visualstudio.com/items?itemName=quick-lint.quick-lint-js) | [quick-lint](#quick-lint) | `quick-lint-js.com` | **42K** | ⭐ 5 | 2024-03-04 |
+| 617. | [**SCOPE Studio for VS Code**](https://marketplace.visualstudio.com/items?itemName=ms-ssdevteam.scope-vscode-ext) | [ms-ssdevteam](#ms-ssdevteam) | `microsoft.com` | **42K** | ⭐ 5 | 2025-11-24 |
+| 618. | [**Lightrun**](https://marketplace.visualstudio.com/items?itemName=Lightrun.lightrunplugin-saas) | [Lightrun](#lightrun) | `lightrun.com` | **42K** | ⭐ 5 | 2025-12-02 |
+| 619. | [**Danish - Code Spell Checker**](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-danish) | [streetsidesoftware](#streetsidesoftware) | `streetsidesoftware.com` | **42K** | — | 2025-07-20 |
+| 620. | [**STM32Cube Debug Core**](https://marketplace.visualstudio.com/items?itemName=stmicroelectronics.stm32cube-ide-debug-core) | [stmicroelectronics](#stmicroelectronics) | `st.com` | **41K** | — | 2025-11-24 |
+| 621. | [**Anypoint Code Builder - APIkit Extension**](https://marketplace.visualstudio.com/items?itemName=salesforce.mule-dx-apikit-component) | [salesforce](#salesforce) | `salesforce.com` | **41K** | ⭐ 5 | 2025-11-04 |
+| 622. | [**Anypoint Extension Pack**](https://marketplace.visualstudio.com/items?itemName=salesforce.mule-dx-extension-pack) | [salesforce](#salesforce) | `salesforce.com` | **41K** | ⭐ 3.6 | 2025-11-12 |
+| 623. | [**Hebrew - Code Spell Checker**](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-hebrew) | [streetsidesoftware](#streetsidesoftware) | `streetsidesoftware.com` | **41K** | ⭐ 5 | 2025-07-20 |
+| 624. | [**STM32Cube Debug STLink GDB Server**](https://marketplace.visualstudio.com/items?itemName=stmicroelectronics.stm32cube-ide-debug-stlink-gdbserver) | [stmicroelectronics](#stmicroelectronics) | `st.com` | **41K** | — | 2025-09-29 |
+| 625. | [**STM32Cube Core**](https://marketplace.visualstudio.com/items?itemName=stmicroelectronics.stm32cube-ide-core) | [stmicroelectronics](#stmicroelectronics) | `st.com` | **41K** | — | 2025-09-29 |
+| 626. | [**Uno Platform**](https://marketplace.visualstudio.com/items?itemName=unoplatform.vscode) | [unoplatform](#unoplatform) | `platform.uno` | **40K** | ⭐ 4.5 | 2025-11-13 |
+| 627. | [**Mustache Templates - Syntax Highlighting, Snippets & Autocomplete**](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-mustache-snippets) | [imgildev](#imgildev) | `imgil.dev` | **40K** | ⭐ 5 | 2025-07-19 |
+| 628. | [**vscode-dev-azurecloudshell-helper**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-dev-azurecloudshell-helper) | [ms-azuretools](#ms-azuretools) | `microsoft.com` | **40K** | — | 2025-04-22 |
+| 629. | [**Catalan - Code Spell Checker**](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-catalan) | [streetsidesoftware](#streetsidesoftware) | `streetsidesoftware.com` | **40K** | ⭐ 5 | 2025-07-20 |
+| 630. | [**STM32Cube clangd**](https://marketplace.visualstudio.com/items?itemName=stmicroelectronics.stm32cube-ide-clangd) | [stmicroelectronics](#stmicroelectronics) | `st.com` | **40K** | — | 2025-09-29 |
+| 631. | [**IAR C-SPY Debug**](https://marketplace.visualstudio.com/items?itemName=iarsystems.iar-debug) | [iarsystems](#iarsystems) | `iar.com` | **39K** | ⭐ 5 | 2025-06-10 |
+| 632. | [**STM32Cube Build Analyzer**](https://marketplace.visualstudio.com/items?itemName=stmicroelectronics.stm32cube-ide-build-analyzer) | [stmicroelectronics](#stmicroelectronics) | `st.com` | **39K** | — | 2025-09-29 |
+| 633. | [**STM32Cube Debug Jlink GDB Server**](https://marketplace.visualstudio.com/items?itemName=stmicroelectronics.stm32cube-ide-debug-jlink-gdbserver) | [stmicroelectronics](#stmicroelectronics) | `st.com` | **39K** | — | 2025-09-29 |
+| 634. | [**STM32Cube Registers View**](https://marketplace.visualstudio.com/items?itemName=stmicroelectronics.stm32cube-ide-registers) | [stmicroelectronics](#stmicroelectronics) | `st.com` | **39K** | — | 2025-09-29 |
+| 635. | [**STM32Cube Bundles Manager**](https://marketplace.visualstudio.com/items?itemName=stmicroelectronics.stm32cube-ide-bundles-manager) | [stmicroelectronics](#stmicroelectronics) | `st.com` | **38K** | — | 2025-09-29 |
+| 636. | [**STM32Cube RTOS Views**](https://marketplace.visualstudio.com/items?itemName=stmicroelectronics.stm32cube-ide-rtos) | [stmicroelectronics](#stmicroelectronics) | `st.com` | **38K** | — | 2025-09-29 |
+| 637. | [**Salesforce Org Management**](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-org) | [salesforce](#salesforce) | `salesforce.com` | **38K** | — | 2025-12-04 |
+| 638. | [**GN Language Server**](https://marketplace.visualstudio.com/items?itemName=msedge-dev.gnls) | [msedge-dev](#msedge-dev) | `microsoft.com` | **38K** | ⭐ 5 | 2023-04-16 |
+| 639. | [**SAP HANA Database Explorer**](https://marketplace.visualstudio.com/items?itemName=SAPSE.hana-database-explorer) | [SAPSE](#sapse) | `sap.com` | **38K** | ⭐ 3.8 | 2025-12-04 |
+| 640. | [**STM32Cube Debug Generic GDB Server**](https://marketplace.visualstudio.com/items?itemName=stmicroelectronics.stm32cube-ide-debug-generic-gdbserver) | [stmicroelectronics](#stmicroelectronics) | `st.com` | **38K** | — | 2025-09-29 |
+| 641. | [**Azure Event Grid**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureeventgrid) | [ms-azuretools](#ms-azuretools) | `microsoft.com` | **38K** | — | 2018-12-17 |
+| 642. | [**SemanticDiff**](https://marketplace.visualstudio.com/items?itemName=semanticdiff.semanticdiff) | [semanticdiff](#semanticdiff) | `semanticdiff.com` | **37K** | ⭐ 4.7 | 2025-01-08 |
+| 643. | [**MLIR**](https://marketplace.visualstudio.com/items?itemName=llvm-vs-code-extensions.vscode-mlir) | [llvm-vs-code-extensions](#llvm-vs-code-extensions) | `llvm.org` | **37K** | ⭐ 4 | 2022-09-28 |
+| 644. | [**NestJS Snippets - NestJS Tools Collection**](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-nestjs-snippets-extension) | [imgildev](#imgildev) | `imgil.dev` | **37K** | ⭐ 5 | 2025-08-13 |
+| 645. | [**Microsoft Fabric**](https://marketplace.visualstudio.com/items?itemName=fabric.vscode-fabric) | [fabric](#fabric) | `microsoft.com` | **37K** | ⭐ 5 | 2025-11-25 |
+| 646. | [**Tekton Pipelines**](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-tekton-pipelines) | [redhat](#redhat) | `redhat.com` | **37K** | ⭐ 5 | 2022-12-02 |
+| 647. | [**Discloud**](https://marketplace.visualstudio.com/items?itemName=discloud.discloud) | [discloud](#discloud) | `discloud.app` | **37K** | ⭐ 4.8 | 2025-10-01 |
+| 648. | [**StackSpot AI**](https://marketplace.visualstudio.com/items?itemName=StackspotAI.StackSpotAI) | [StackspotAI](#stackspotai) | `stackspot.com` | **36K** | ⭐ 4.9 | 2025-12-02 |
+| 649. | [**SuiteCloud Extension for Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=Oracle.suitecloud-vscode-extension) | [Oracle](#oracle) | `oracle.com` | **36K** | ⭐ 4.3 | 2025-02-10 |
+| 650. | [**OpenShift Extension Pack**](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-openshift-extension-pack) | [redhat](#redhat) | `redhat.com` | **36K** | — | 2019-02-26 |
+| 651. | [**STM32Cube Project Manager**](https://marketplace.visualstudio.com/items?itemName=stmicroelectronics.stm32cube-ide-project-manager) | [stmicroelectronics](#stmicroelectronics) | `st.com` | **36K** | — | 2025-09-29 |
+| 652. | [**Croatian - Code Spell Checker**](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-croatian) | [streetsidesoftware](#streetsidesoftware) | `streetsidesoftware.com` | **36K** | ⭐ 5 | 2025-07-20 |
+| 653. | [**Anypoint Code Builder - MUnit Extension**](https://marketplace.visualstudio.com/items?itemName=salesforce.mule-dx-munit-component) | [salesforce](#salesforce) | `salesforce.com` | **36K** | — | 2025-11-04 |
+| 654. | [**ESP-IDF WEB**](https://marketplace.visualstudio.com/items?itemName=espressif.esp-idf-web) | [espressif](#espressif) | `espressif.com` | **36K** | — | 2025-03-24 |
+| 655. | [**MCUXpresso for VS Code**](https://marketplace.visualstudio.com/items?itemName=NXPSemiconductors.mcuxpresso) | [NXPSemiconductors](#nxpsemiconductors) | `nxp.com` | **35K** | ⭐ 4 | 2025-11-07 |
+| 656. | [**Catppuccin Pack**](https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc-pack) | [Catppuccin](#catppuccin) | `catppuccin.com` | **35K** | ⭐ 5 | 2024-03-10 |
+| 657. | [**Blue Bazel**](https://marketplace.visualstudio.com/items?itemName=NVIDIA.bluebazel) | [NVIDIA](#nvidia) | `nvidia.com` | **35K** | ⭐ 5 | 2025-09-26 |
+| 658. | [**Time Travel Debug for C/C++**](https://marketplace.visualstudio.com/items?itemName=Undo.udb) | [Undo](#undo) | `undo.io` | **35K** | ⭐ 4.7 | 2025-11-07 |
+| 659. | [**GoCodeo: Best of Cursor and Lovable, Combined**](https://marketplace.visualstudio.com/items?itemName=GoCodeo.gocodeo) | [GoCodeo](#gocodeo) | `gocodeo.com` | **34K** | ⭐ 4.5 | 2025-07-09 |
+| 660. | [**Shiny**](https://marketplace.visualstudio.com/items?itemName=Posit.shiny) | [Posit](#posit) | `posit.co` | **34K** | ⭐ 5 | 2025-11-13 |
+| 661. | [**IBM Cloud CLI**](https://marketplace.visualstudio.com/items?itemName=IBM.ibm-developer) | [IBM](#ibm) | `ibm.com` | **34K** | ⭐ 5 | 2023-09-20 |
+| 662. | [**Expo Theme**](https://marketplace.visualstudio.com/items?itemName=expo.vscode-expo-theme) | [expo](#expo) | `expo.dev` | **34K** | ⭐ 5 | 2025-01-09 |
+| 663. | [**TMDL**](https://marketplace.visualstudio.com/items?itemName=analysis-services.TMDL) | [analysis-services](#analysis-services) | `microsoft.com` | **33K** | ⭐ 5 | 2025-11-21 |
+| 664. | [**vscode-openapi-viewer**](https://marketplace.visualstudio.com/items?itemName=AndrewButson.vscode-openapi-viewer) | [AndrewButson](#andrewbutson) | `arbs.io` | **33K** | ⭐ 5 | 2025-11-06 |
+| 665. | [**Salesforce Analytics CLI Integration**](https://marketplace.visualstudio.com/items?itemName=salesforce.analyticsdx-vscode-core) | [salesforce](#salesforce) | `salesforce.com` | **33K** | — | 2024-05-13 |
+| 666. | [**Ember Language Server**](https://marketplace.visualstudio.com/items?itemName=EmberTooling.vscode-ember) | [EmberTooling](#embertooling) | `emberjs.com` | **33K** | ⭐ 5 | 2025-10-21 |
+| 667. | [**Tiltfile**](https://marketplace.visualstudio.com/items?itemName=tilt-dev.Tiltfile) | [tilt-dev](#tilt-dev) | `tilt.dev` | **32K** | ⭐ 5 | 2024-07-24 |
+| 668. | [**DeepScan**](https://marketplace.visualstudio.com/items?itemName=DeepScan.vscode-deepscan) | [DeepScan](#deepscan) | `deepscan.io` | **32K** | ⭐ 5 | 2025-10-02 |
+| 669. | [**Arm CMSIS Debugger**](https://marketplace.visualstudio.com/items?itemName=Arm.vscode-cmsis-debugger) | [Arm](#arm) | `arm.com` | **32K** | — | 2025-11-12 |
+| 670. | [**IDL for VSCode**](https://marketplace.visualstudio.com/items?itemName=IDL.idl-for-vscode) | [IDL](#idl) | `nv5geospatialsoftware.com` | **32K** | ⭐ 5 | 2025-08-25 |
+| 671. | [**Pulumi YAML**](https://marketplace.visualstudio.com/items?itemName=pulumi.pulumi-lsp-client) | [pulumi](#pulumi) | `pulumi.com` | **32K** | ⭐ 5 | 2024-09-19 |
+| 672. | [**Infracost**](https://marketplace.visualstudio.com/items?itemName=Infracost.infracost) | [Infracost](#infracost) | `infracost.io` | **32K** | ⭐ 4.3 | 2024-08-30 |
+| 673. | [**WiseGPT (Coding Assistant by DhiWise)**](https://marketplace.visualstudio.com/items?itemName=dhiwisepvtltd.dhiwisecodesync) | [dhiwisepvtltd](#dhiwisepvtltd) | `dhiwise.com` | **32K** | ⭐ 4.3 | 2025-08-11 |
+| 674. | [**CL**](https://marketplace.visualstudio.com/items?itemName=IBM.vscode-clle) | [IBM](#ibm) | `ibm.com` | **31K** | — | 2024-06-18 |
+| 675. | [**Data Analysis for Copilot**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-copilot-data-analysis) | [ms-vscode](#ms-vscode) | `microsoft.com` | **31K** | ⭐ 3.8 | 2024-10-31 |
+| 676. | [**HashiCorp Sentinel**](https://marketplace.visualstudio.com/items?itemName=HashiCorp.sentinel) | [HashiCorp](#hashicorp) | `hashicorp.com` | **31K** | ⭐ 5 | 2023-12-05 |
+| 677. | [**Minecraft Bedrock Debugger**](https://marketplace.visualstudio.com/items?itemName=mojang-studios.minecraft-debugger) | [mojang-studios](#mojang-studios) | `minecraft.net` | **31K** | ⭐ 4.2 | 2025-12-05 |
+| 678. | [**IBM i Debug**](https://marketplace.visualstudio.com/items?itemName=IBM.ibmidebug) | [IBM](#ibm) | `ibm.com` | **31K** | ⭐ 5 | 2025-11-27 |
+| 679. | [**RobotCode GherkinParser Support**](https://marketplace.visualstudio.com/items?itemName=d-biehl.robotcode-gherkin) | [d-biehl](#d-biehl) | `robotcode.io` | **31K** | — | 2024-02-05 |
+| 680. | [**STM8 Debugger**](https://marketplace.visualstudio.com/items?itemName=CL.stm8-debug) | [CL](#cl) | `em-ide.com` | **31K** | — | 2021-08-06 |
+| 681. | [**Checkmarx One**](https://marketplace.visualstudio.com/items?itemName=checkmarx.ast-results) | [checkmarx](#checkmarx) | `checkmarx.com` | **31K** | ⭐ 4.2 | 2025-11-06 |
+| 682. | [**Design Líquido - Linguagens em Português**](https://marketplace.visualstudio.com/items?itemName=designliquido.designliquido-vscode) | [designliquido](#designliquido) | `designliquido.com.br` | **31K** | ⭐ 5 | 2025-12-06 |
+| 683. | [**SPFx Snippets**](https://marketplace.visualstudio.com/items?itemName=eliostruyf.spfx-snippets) | [eliostruyf](#eliostruyf) | `elio.codes` | **31K** | ⭐ 5 | 2024-03-13 |
+| 684. | [**Veracode Scan for VS Code**](https://marketplace.visualstudio.com/items?itemName=Veracode.veracode-vscode-plugin) | [Veracode](#veracode) | `veracode.com` | **31K** | ⭐ 4.6 | 2025-09-25 |
+| 685. | [**CodeScene**](https://marketplace.visualstudio.com/items?itemName=CodeScene.codescene-vscode) | [CodeScene](#codescene) | `codescene.com` | **30K** | ⭐ 5 | 2025-12-04 |
+| 686. | [**Emoji Log**](https://marketplace.visualstudio.com/items?itemName=ahmadawais.emoji-log-vscode) | [ahmadawais](#ahmadawais) | `ahmadawais.com` | **30K** | ⭐ 4.9 | 2023-02-15 |
+| 687. | [**NG-ALAIN Snippets**](https://marketplace.visualstudio.com/items?itemName=cipchk.ng-alain-vscode) | [cipchk](#cipchk) | `ng-alain.com` | **30K** | — | 2023-11-26 |
+| 688. | [**DMN Editor**](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-extension-dmn-editor) | [redhat](#redhat) | `redhat.com` | **30K** | ⭐ 4.9 | 2022-12-21 |
+| 689. | [**Db2 Connect**](https://marketplace.visualstudio.com/items?itemName=IBM.Db2Connect) | [IBM](#ibm) | `ibm.com` | **30K** | ⭐ 2.7 | 2023-11-21 |
+| 690. | [**CodeScan**](https://marketplace.visualstudio.com/items?itemName=codescansf.codescan-vscode) | [codescansf](#codescansf) | `codescan.io` | **30K** | ⭐ 5 | 2025-10-16 |
+| 691. | [**Odoo**](https://marketplace.visualstudio.com/items?itemName=Odoo.odoo) | [Odoo](#odoo) | `odoo.com` | **30K** | ⭐ 3.9 | 2025-11-24 |
+| 692. | [**Radon IDE**](https://marketplace.visualstudio.com/items?itemName=swmansion.react-native-ide) | [swmansion](#swmansion) | `swmansion.com` | **30K** | ⭐ 4.5 | 2025-11-07 |
+| 693. | [**Salesforce Industries & Omnistudio (Vlocity)**](https://marketplace.visualstudio.com/items?itemName=curlybracket.vlocode) | [curlybracket](#curlybracket) | `curlybracket.nl` | **30K** | ⭐ 3.8 | 2025-11-13 |
+| 694. | [**Checkmarx SAST 9.x**](https://marketplace.visualstudio.com/items?itemName=checkmarx.cxvscode) | [checkmarx](#checkmarx) | `checkmarx.com` | **30K** | ⭐ 5 | 2024-09-16 |
+| 695. | [**Workspace**](https://marketplace.visualstudio.com/items?itemName=Fooxly.workspace) | [Fooxly](#fooxly) | `fooxly.com` | **30K** | ⭐ 4.5 | 2025-04-01 |
+| 696. | [**COBOL Control Flow**](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.ccf) | [broadcomMFD](#broadcommfd) | `broadcom.com` | **29K** | ⭐ 4.5 | 2025-07-22 |
+| 697. | [**Python Data Science**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.python-ds-extension-pack) | [ms-toolsai](#ms-toolsai) | `microsoft.com` | **29K** | ⭐ 5 | 2024-09-13 |
+| 698. | [**BrowserStack**](https://marketplace.visualstudio.com/items?itemName=browserstackcom.browserstack-vscode) | [browserstackcom](#browserstackcom) | `browserstack.com` | **29K** | ⭐ 5 | 2024-06-14 |
+| 699. | [**Purecode AI - AI Coding Agent for Legacy Codebases**](https://marketplace.visualstudio.com/items?itemName=PurecodeAI.purecode-ai) | [PurecodeAI](#purecodeai) | `purecode.ai` | **29K** | ⭐ 4.9 | 2025-11-03 |
+| 700. | [**ElasticSearch**](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-es-client2) | [cweijan](#cweijan) | `database-client.com` | **29K** | ⭐ 3.7 | 2025-11-26 |
+| 701. | [**Yarn Spinner**](https://marketplace.visualstudio.com/items?itemName=SecretLab.yarn-spinner) | [SecretLab](#secretlab) | `yarnspinner.dev` | **29K** | ⭐ 5 | 2025-10-05 |
+| 702. | [**Firebase Data Connect**](https://marketplace.visualstudio.com/items?itemName=GoogleCloudTools.firebase-dataconnect-vscode) | [GoogleCloudTools](#googlecloudtools) | `google.com` | **29K** | ⭐ 5 | 2025-11-12 |
+| 703. | [**AICodeHelper**](https://marketplace.visualstudio.com/items?itemName=Kimseungtae.aicodehelper) | [Kimseungtae](#kimseungtae) | `aicodehelper.dev` | **28K** | ⭐ 5 | 2024-03-09 |
+| 704. | [**Kendo UI Productivity Tools**](https://marketplace.visualstudio.com/items?itemName=KendoUI.kendotemplatewizard) | [KendoUI](#kendoui) | `telerik.com` | **28K** | ⭐ 5 | 2025-12-05 |
+| 705. | [**marimo**](https://marketplace.visualstudio.com/items?itemName=marimo-team.vscode-marimo) | [marimo-team](#marimo-team) | `marimo.io` | **28K** | ⭐ 4.2 | 2025-12-05 |
+| 706. | [**Vetur Plus**](https://marketplace.visualstudio.com/items?itemName=cweijan.vetur-plus) | [cweijan](#cweijan) | `database-client.com` | **28K** | ⭐ 5 | 2023-08-25 |
+| 707. | [**Telerik UI for ASP.NET Core Productivity Tools**](https://marketplace.visualstudio.com/items?itemName=TelerikInc.aspnetcoretemplatewizard) | [TelerikInc](#telerikinc) | `telerik.com` | **28K** | ⭐ 5 | 2025-12-05 |
+| 708. | [**Telerik UI for Blazor Productivity Tools**](https://marketplace.visualstudio.com/items?itemName=TelerikInc.blazortemplatewizard) | [TelerikInc](#telerikinc) | `telerik.com` | **28K** | ⭐ 5 | 2025-12-05 |
+| 709. | [**Header source switch**](https://marketplace.visualstudio.com/items?itemName=ryzngard.vscode-header-source) | [ryzngard](#ryzngard) | `ryzngard.dev` | **28K** | ⭐ 5 | 2025-07-02 |
+| 710. | [**Security IntelliSense**](https://marketplace.visualstudio.com/items?itemName=azsdktm.SecurityIntelliSense) | [azsdktm](#azsdktm) | `microsoft.com` | **28K** | — | 2019-09-16 |
+| 711. | [**HLASM Language Support**](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.hlasm-language-support) | [broadcomMFD](#broadcommfd) | `broadcom.com` | **28K** | ⭐ 5 | 2025-11-12 |
+
+</details>
+
+<p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
+---
+
+## ⭐ Top Rated Extensions
+
+> **Top 50 verified extensions by average rating** — mirrors Marketplace `@sort:rating` (tie-break: installs)
+
+| Rank | Extension | Publisher | Domain | Rating | Installs | Reviews |
+|:----:|-----------|-----------|--------|:------:|:--------:|:-------:|
+| 🥇 | [**Jupyter Slide Show**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.vscode-jupyter-slideshow) | [ms-toolsai](#ms-toolsai) | `microsoft.com` | **⭐ 5** | 59M | — |
+| 🥈 | [**PHP Profiler**](https://marketplace.visualstudio.com/items?itemName=DEVSENSE.profiler-php-vscode) | [DEVSENSE](#devsense) | `devsense.com` | **⭐ 5** | 5.6M | — |
+| 🥉 | [**Spring Boot Tools**](https://marketplace.visualstudio.com/items?itemName=vmware.vscode-spring-boot) | [vmware](#vmware) | `vmware.com` | **⭐ 5** | 4.9M | — |
+| 4. | [**Test Adapter Converter**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.test-adapter-converter) | [ms-vscode](#ms-vscode) | `microsoft.com` | **⭐ 5** | 4.6M | — |
+| 5. | [**SQL Bindings**](https://marketplace.visualstudio.com/items?itemName=ms-mssql.sql-bindings-vscode) | [ms-mssql](#ms-mssql) | `microsoft.com` | **⭐ 5** | 4.2M | — |
+| 6. | [**Polish Language Pack for Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-pl) | [MS-CEINTL](#ms-ceintl) | `microsoft.com` | **⭐ 5** | 2.7M | — |
+| 7. | [**Sublime Text Keymap and Settings Importer**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.sublime-keybindings) | [ms-vscode](#ms-vscode) | `microsoft.com` | **⭐ 5** | 2.3M | — |
+| 8. | [**Svelte for VS Code**](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode) | [svelte](#svelte) | `svelte.dev` | **⭐ 5** | 2.3M | — |
+| 9. | [**GraphQL: Syntax Highlighting**](https://marketplace.visualstudio.com/items?itemName=GraphQL.vscode-graphql-syntax) | [GraphQL](#graphql) | `graphql.org` | **⭐ 5** | 2.3M | — |
+| 10. | [**Czech Language Pack for Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-cs) | [MS-CEINTL](#ms-ceintl) | `microsoft.com` | **⭐ 5** | 2.2M | — |
+| 11. | [**Azure Virtual Machines**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurevirtualmachines) | [ms-azuretools](#ms-azuretools) | `microsoft.com` | **⭐ 5** | 2M | — |
+| 12. | [**Hungarian Language Pack for Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-hu) | [MS-CEINTL](#ms-ceintl) | `microsoft.com` | **⭐ 5** | 2M | — |
+| 13. | [**Visualforce**](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-visualforce) | [salesforce](#salesforce) | `salesforce.com` | **⭐ 5** | 1.8M | — |
+| 14. | [**Bulgarian Language Pack for Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-bg) | [MS-CEINTL](#ms-ceintl) | `microsoft.com` | **⭐ 5** | 1.7M | — |
+| 15. | [**Azure Developer CLI**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.azure-dev) | [ms-azuretools](#ms-azuretools) | `microsoft.com` | **⭐ 5** | 1.7M | — |
+| 16. | [**Flake8**](https://marketplace.visualstudio.com/items?itemName=ms-python.flake8) | [ms-python](#ms-python) | `microsoft.com` | **⭐ 5** | 1.6M | — |
+| 17. | [**Bicep**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-bicep) | [ms-azuretools](#ms-azuretools) | `microsoft.com` | **⭐ 5** | 1.4M | — |
+| 18. | [**Astro**](https://marketplace.visualstudio.com/items?itemName=astro-build.astro-vscode) | [astro-build](#astro-build) | `astro.build` | **⭐ 5** | 1.2M | — |
+| 19. | [**Sort lines**](https://marketplace.visualstudio.com/items?itemName=Tyriar.sort-lines) | [Tyriar](#tyriar) | `growingwiththeweb.com` | **⭐ 5** | 1.1M | — |
+| 20. | [**Cloudfoundry Manifest YML Support**](https://marketplace.visualstudio.com/items?itemName=vmware.vscode-manifest-yaml) | [vmware](#vmware) | `vmware.com` | **⭐ 5** | 980K | — |
+| 21. | [**Catppuccin for VSCode**](https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc) | [Catppuccin](#catppuccin) | `catppuccin.com` | **⭐ 5** | 959K | — |
+| 22. | [**Concourse CI Pipeline Editor**](https://marketplace.visualstudio.com/items?itemName=vmware.vscode-concourse) | [vmware](#vmware) | `vmware.com` | **⭐ 5** | 922K | — |
+| 23. | [**File Downloader**](https://marketplace.visualstudio.com/items?itemName=mindaro-dev.file-downloader) | [mindaro-dev](#mindaro-dev) | `microsoft.com` | **⭐ 5** | 837K | — |
+| 24. | [**px to rem & rpx & vw (cssrem)**](https://marketplace.visualstudio.com/items?itemName=cipchk.cssrem) | [cipchk](#cipchk) | `ng-alain.com` | **⭐ 5** | 775K | — |
+| 25. | [**HTMLHint**](https://marketplace.visualstudio.com/items?itemName=HTMLHint.vscode-htmlhint) | [HTMLHint](#htmlhint) | `htmlhint.com` | **⭐ 5** | 642K | — |
+| 26. | [**Marp for VS Code**](https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode) | [marp-team](#marp-team) | `marp.app` | **⭐ 5** | 628K | — |
+| 27. | [**Go Nightly**](https://marketplace.visualstudio.com/items?itemName=golang.go-nightly) | [golang](#golang) | `go.dev` | **⭐ 5** | 575K | — |
+| 28. | [**Tensorboard**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.tensorboard) | [ms-toolsai](#ms-toolsai) | `microsoft.com` | **⭐ 5** | 550K | — |
+| 29. | [**Aura Theme**](https://marketplace.visualstudio.com/items?itemName=DaltonMenezes.aura-theme) | [DaltonMenezes](#daltonmenezes) | `daltonmenezes.com` | **⭐ 5** | 522K | — |
+| 30. | [**Polaris for VS Code**](https://marketplace.visualstudio.com/items?itemName=Shopify.polaris-for-vscode) | [Shopify](#shopify) | `shopify.com` | **⭐ 5** | 517K | — |
+| 31. | [**Dadroit JSON Generator**](https://marketplace.visualstudio.com/items?itemName=Dadroit.dadroit-json-generator) | [Dadroit](#dadroit) | `dadroit.com` | **⭐ 5** | 491K | — |
+| 32. | [**Expo Tools**](https://marketplace.visualstudio.com/items?itemName=expo.vscode-expo-tools) | [expo](#expo) | `expo.dev` | **⭐ 5** | 483K | — |
+| 33. | [**Angular Extension Pack**](https://marketplace.visualstudio.com/items?itemName=loiane.angular-extension-pack) | [loiane](#loiane) | `loiane.com` | **⭐ 5** | 466K | — |
+| 34. | [**learn-yaml**](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-yaml) | [docsmsft](#docsmsft) | `microsoft.com` | **⭐ 5** | 466K | — |
+| 35. | [**Inkling**](https://marketplace.visualstudio.com/items?itemName=ms-inkling.ms-inkling) | [ms-inkling](#ms-inkling) | `microsoft.com` | **⭐ 5** | 463K | — |
+| 36. | [**Azurite**](https://marketplace.visualstudio.com/items?itemName=Azurite.azurite) | [Azurite](#azurite) | `microsoft.com` | **⭐ 5** | 456K | — |
+| 37. | [**Spanish - Code Spell Checker**](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-spanish) | [streetsidesoftware](#streetsidesoftware) | `streetsidesoftware.com` | **⭐ 5** | 392K | — |
+| 38. | [**Power User for dbt**](https://marketplace.visualstudio.com/items?itemName=innoverio.vscode-dbt-power-user) | [innoverio](#innoverio) | `altimate.ai` | **⭐ 5** | 380K | — |
+| 39. | [**Essential ASP.NET Core Snippets**](https://marketplace.visualstudio.com/items?itemName=doggy8088.netcore-snippets) | [doggy8088](#doggy8088) | `duotify.com` | **⭐ 5** | 363K | — |
+| 40. | [**Quarkus**](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-quarkus) | [redhat](#redhat) | `redhat.com` | **⭐ 5** | 344K | — |
+| 41. | [**Swift**](https://marketplace.visualstudio.com/items?itemName=swiftlang.swift-vscode) | [swiftlang](#swiftlang) | `swift.org` | **⭐ 5** | 338K | — |
+| 42. | [**Azure Load Testing**](https://marketplace.visualstudio.com/items?itemName=ms-azure-load-testing.microsoft-testing) | [ms-azure-load-testing](#ms-azure-load-testing) | `microsoft.com` | **⭐ 5** | 337K | — |
+| 43. | [**Paste JSON as Code (Refresh)**](https://marketplace.visualstudio.com/items?itemName=doggy8088.quicktype-refresh) | [doggy8088](#doggy8088) | `duotify.com` | **⭐ 5** | 331K | — |
+| 44. | [**Azure MCP Server**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azure-mcp-server) | [ms-azuretools](#ms-azuretools) | `microsoft.com` | **⭐ 5** | 326K | — |
+| 45. | [**LLDB DAP**](https://marketplace.visualstudio.com/items?itemName=llvm-vs-code-extensions.lldb-dap) | [llvm-vs-code-extensions](#llvm-vs-code-extensions) | `llvm.org` | **⭐ 5** | 320K | — |
+| 46. | [**anycode**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.anycode) | [ms-vscode](#ms-vscode) | `microsoft.com` | **⭐ 5** | 319K | — |
+| 47. | [**Luna Paint — Image Editor**](https://marketplace.visualstudio.com/items?itemName=Tyriar.luna-paint) | [Tyriar](#tyriar) | `growingwiththeweb.com` | **⭐ 5** | 303K | — |
+| 48. | [**learn-images**](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-images) | [docsmsft](#docsmsft) | `microsoft.com` | **⭐ 5** | 295K | — |
+| 49. | [**.NET Core Extension Pack**](https://marketplace.visualstudio.com/items?itemName=doggy8088.netcore-extension-pack) | [doggy8088](#doggy8088) | `duotify.com` | **⭐ 5** | 278K | — |
+| 50. | [**Language Server for Java by Apache NetBeans**](https://marketplace.visualstudio.com/items?itemName=ASF.apache-netbeans-java) | [ASF](#asf) | `apache.org` | **⭐ 5** | 272K | — |
+
+<p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
+---
+
+## 🆕 Recently Updated
+
+> **Extensions updated in the last 30 days** — mirrors Marketplace `@sort:updateDate`
+
+| Extension | Publisher | Domain | Last Updated | Version | Installs |
+|-----------|-----------|--------|:------------:|:-------:|:--------:|
+| [**Design Líquido - Linguagens em Português**](https://marketplace.visualstudio.com/items?itemName=designliquido.designliquido-vscode) | [designliquido](#designliquido) | `designliquido.com.br` | 2025-12-06 | `0.20.0` | 31K |
+| [**Spring Boot Tools**](https://marketplace.visualstudio.com/items?itemName=vmware.vscode-spring-boot) | [vmware](#vmware) | `vmware.com` | 2025-12-06 | `2.0.2025120600` | 4.9M |
+| [**rust-analyzer**](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer) | [rust-lang](#rust-lang) | `rust-lang.org` | 2025-12-06 | `0.4.2707` | 5.5M |
+| [**Zencoder: AI Coding Agent and Chat for Python, Javascript, Typescript, Java, Go, and more**](https://marketplace.visualstudio.com/items?itemName=ZencoderAI.zencoder) | [ZencoderAI](#zencoderai) | `zencoder.ai` | 2025-12-06 | `3.11.9001` | 112K |
+| [**Cloudfoundry Manifest YML Support**](https://marketplace.visualstudio.com/items?itemName=vmware.vscode-manifest-yaml) | [vmware](#vmware) | `vmware.com` | 2025-12-06 | `2.0.2025120600` | 980K |
+| [**Concourse CI Pipeline Editor**](https://marketplace.visualstudio.com/items?itemName=vmware.vscode-concourse) | [vmware](#vmware) | `vmware.com` | 2025-12-06 | `2.0.2025120600` | 922K |
+| [**Cline**](https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev) | [saoudrizwan](#saoudrizwan) | `cline.bot` | 2025-12-06 | `3.40.1` | 2.7M |
+| [**Claude Code for VS Code**](https://marketplace.visualstudio.com/items?itemName=anthropic.claude-code) | [anthropic](#anthropic) | `anthropic.com` | 2025-12-06 | `2.0.60` | 2.1M |
+| [**JavaScript and TypeScript Nightly**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next) | [ms-vscode](#ms-vscode) | `microsoft.com` | 2025-12-06 | `6.0.20251205` | 6.1M |
+| [**Vue (Official)**](https://marketplace.visualstudio.com/items?itemName=Vue.volar) | [Vue](#vue) | `vuejs.org` | 2025-12-05 | `3.1.6` | 7.2M |
+| [**GitHub Copilot Chat**](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat) | [GitHub](#github) | `github.com` | 2025-12-05 | `0.35.2025120504` | 51.7M |
+| [**Gemini CLI Companion**](https://marketplace.visualstudio.com/items?itemName=Google.gemini-cli-vscode-ide-companion) | [Google](#google) | `google.com` | 2025-12-05 | `0.19.1` | 374K |
+| [**Agentforce Vibes**](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-einstein-gpt) | [salesforce](#salesforce) | `salesforce.com` | 2025-12-05 | `3.5.0` | 522K |
+| [**marimo**](https://marketplace.visualstudio.com/items?itemName=marimo-team.vscode-marimo) | [marimo-team](#marimo-team) | `marimo.io` | 2025-12-05 | `0.8.5` | 28K |
+| [**DBCode - Database Management**](https://marketplace.visualstudio.com/items?itemName=DBCode.dbcode) | [DBCode](#dbcode) | `dbcode.io` | 2025-12-05 | `1.19.10` | 109K |
+| [**Azure Logic Apps (Standard)**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurelogicapps) | [ms-azuretools](#ms-azuretools) | `microsoft.com` | 2025-12-05 | `5.230.15` | 115K |
+| [**GitHub Pull Requests**](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github) | [GitHub](#github) | `github.com` | 2025-12-05 | `0.123.2025120517` | 31.5M |
+| [**LLDB DAP**](https://marketplace.visualstudio.com/items?itemName=llvm-vs-code-extensions.lldb-dap) | [llvm-vs-code-extensions](#llvm-vs-code-extensions) | `llvm.org` | 2025-12-05 | `0.3.20251205` | 320K |
+| [**IBM Z Open Editor**](https://marketplace.visualstudio.com/items?itemName=IBM.zopeneditor) | [IBM](#ibm) | `ibm.com` | 2025-12-05 | `6.2.0` | 166K |
+| [**Mojo 🔥**](https://marketplace.visualstudio.com/items?itemName=modular-mojotools.vscode-mojo) | [modular-mojotools](#modular-mojotools) | `modular.com` | 2025-12-05 | `26.0.3` | 109K |
+| [**Amp (Research Preview)**](https://marketplace.visualstudio.com/items?itemName=sourcegraph.amp) | [sourcegraph](#sourcegraph) | `sourcegraph.com` | 2025-12-05 | `0.0.1764950983` | 70K |
+| [**GitLens — Git supercharged**](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) | [eamodio](#eamodio) | `gitkraken.com` | 2025-12-05 | `2025.12.510` | 45.8M |
+| [**Prisma - Insider**](https://marketplace.visualstudio.com/items?itemName=Prisma.prisma-insider) | [Prisma](#prisma) | `prisma.io` | 2025-12-05 | `31.1.4` | 199K |
+| [**Telerik UI for ASP.NET Core Productivity Tools**](https://marketplace.visualstudio.com/items?itemName=TelerikInc.aspnetcoretemplatewizard) | [TelerikInc](#telerikinc) | `telerik.com` | 2025-12-05 | `2.22.2` | 28K |
+| [**Kendo UI Productivity Tools**](https://marketplace.visualstudio.com/items?itemName=KendoUI.kendotemplatewizard) | [KendoUI](#kendoui) | `telerik.com` | 2025-12-05 | `2.24.2` | 28K |
+| [**Telerik UI for Blazor Productivity Tools**](https://marketplace.visualstudio.com/items?itemName=TelerikInc.blazortemplatewizard) | [TelerikInc](#telerikinc) | `telerik.com` | 2025-12-05 | `2.21.2` | 28K |
+| [**AWS CloudFormation Snippets**](https://marketplace.visualstudio.com/items?itemName=dannysteenman.cloudformation-yaml-snippets) | [dannysteenman](#dannysteenman) | `towardsthecloud.com` | 2025-12-05 | `5.84.0` | 108K |
+| [**SAP Fiori Tools - Extension Pack**](https://marketplace.visualstudio.com/items?itemName=SAPSE.sap-ux-fiori-tools-extension-pack) | [SAPSE](#sapse) | `sap.com` | 2025-12-05 | `1.20.0` | 164K |
+| [**SAP Fiori Tools - Service Modeler**](https://marketplace.visualstudio.com/items?itemName=SAPSE.sap-ux-service-modeler-extension) | [SAPSE](#sapse) | `sap.com` | 2025-12-05 | `1.20.0` | 167K |
+| [**SAP Fiori Tools - Guided Development**](https://marketplace.visualstudio.com/items?itemName=SAPSE.sap-ux-help-extension) | [SAPSE](#sapse) | `sap.com` | 2025-12-05 | `1.20.0` | 168K |
+| [**SAP Fiori Tools - Application Modeler**](https://marketplace.visualstudio.com/items?itemName=SAPSE.sap-ux-application-modeler-extension) | [SAPSE](#sapse) | `sap.com` | 2025-12-05 | `1.20.0` | 173K |
+| [**SAP Fiori Tools - XML Annotation Language Server**](https://marketplace.visualstudio.com/items?itemName=SAPSE.sap-ux-annotation-modeler-extension) | [SAPSE](#sapse) | `sap.com` | 2025-12-05 | `1.20.0` | 173K |
+| [**Kilo Code AI Agent**](https://marketplace.visualstudio.com/items?itemName=kilocode.Kilo-Code) | [kilocode](#kilocode) | `kilocode.ai` | 2025-12-05 | `4.130.1` | 535K |
+| [**Language Support for Java(TM) by Red Hat**](https://marketplace.visualstudio.com/items?itemName=redhat.java) | [redhat](#redhat) | `redhat.com` | 2025-12-05 | `1.51.2025120508` | 49.8M |
+| [**Dev Containers**](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) | [ms-vscode-remote](#ms-vscode-remote) | `microsoft.com` | 2025-12-05 | `0.435.0` | 35.2M |
+| [**Tools for MicroProfile**](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-microprofile) | [redhat](#redhat) | `redhat.com` | 2025-12-05 | `0.15.2025120508` | 414K |
+| [**TypeScript (Native Preview)**](https://marketplace.visualstudio.com/items?itemName=TypeScriptTeam.native-preview) | [TypeScriptTeam](#typescriptteam) | `microsoft.com` | 2025-12-05 | `0.20251205.1` | 42K |
+| [**Quarkus**](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-quarkus) | [redhat](#redhat) | `redhat.com` | 2025-12-05 | `1.22.2025120508` | 344K |
+| [**Microsoft Terraform**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureterraform) | [ms-azuretools](#ms-azuretools) | `microsoft.com` | 2025-12-05 | `0.8.0` | 1.1M |
+| [**Roo Code**](https://marketplace.visualstudio.com/items?itemName=RooVeterinaryInc.roo-cline) | [RooVeterinaryInc](#rooveterinaryinc) | `roocode.com` | 2025-12-05 | `3.36.2` | 1.1M |
+| [**Microsoft 365 Agents Toolkit**](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.ms-teams-vscode-extension) | [TeamsDevApp](#teamsdevapp) | `microsoft.com` | 2025-12-05 | `6.5.2025120408` | 393K |
+| [**Minecraft Bedrock Debugger**](https://marketplace.visualstudio.com/items?itemName=mojang-studios.minecraft-debugger) | [mojang-studios](#mojang-studios) | `minecraft.net` | 2025-12-05 | `1.27.0` | 31K |
+| [**CMake Tools**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cmake-tools) | [ms-vscode](#ms-vscode) | `microsoft.com` | 2025-12-05 | `1.22.20` | 53.2M |
+| [**Pylance**](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance) | [ms-python](#ms-python) | `microsoft.com` | 2025-12-05 | `2025.10.4` | 162.8M |
+| [**VEX Robotics**](https://marketplace.visualstudio.com/items?itemName=VEXRobotics.vexcode) | [VEXRobotics](#vexrobotics) | `vexrobotics.com` | 2025-12-04 | `0.8.2025120100` | 51K |
+| [**VEX Robotics Feedback**](https://marketplace.visualstudio.com/items?itemName=VEXRobotics.vexfeedback) | [VEXRobotics](#vexrobotics) | `vexrobotics.com` | 2025-12-04 | `0.2.6` | 47K |
+| [**CodeGPT: Chat & AI Agents**](https://marketplace.visualstudio.com/items?itemName=DanielSanMedium.dscodegpt) | [DanielSanMedium](#danielsanmedium) | `codegpt.co` | 2025-12-04 | `3.14.206` | 2.2M |
+| [**Python Environments**](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-python-envs) | [ms-python](#ms-python) | `microsoft.com` | 2025-12-04 | `1.13.13381830` | 16.5M |
+| [**SAP HANA Database Explorer**](https://marketplace.visualstudio.com/items?itemName=SAPSE.hana-database-explorer) | [SAPSE](#sapse) | `sap.com` | 2025-12-04 | `1.35.0` | 38K |
+| [**Codex – OpenAI’s coding agent**](https://marketplace.visualstudio.com/items?itemName=openai.chatgpt) | [openai](#openai) | `openai.com` | 2025-12-04 | `0.5.49` | 2.4M |
+| [**.NET MAUI**](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.dotnet-maui) | [ms-dotnettools](#ms-dotnettools) | `microsoft.com` | 2025-12-04 | `1.12.13` | 347K |
+| [**CodeScene**](https://marketplace.visualstudio.com/items?itemName=CodeScene.codescene-vscode) | [CodeScene](#codescene) | `codescene.com` | 2025-12-04 | `0.20.0` | 30K |
+| [**Apex Log Analyzer**](https://marketplace.visualstudio.com/items?itemName=financialforce.lana) | [financialforce](#financialforce) | `certinia.com` | 2025-12-04 | `1.19.20251204` | 991K |
+| [**Ruff**](https://marketplace.visualstudio.com/items?itemName=charliermarsh.ruff) | [charliermarsh](#charliermarsh) | `astral.sh` | 2025-12-04 | `2025.32.0` | 2.7M |
+| [**Power Platform Tools**](https://marketplace.visualstudio.com/items?itemName=microsoft-IsvExpTools.powerplatform-vscode) | [microsoft-IsvExpTools](#microsoft-isvexptools) | `microsoft.com` | 2025-12-04 | `2.0.110` | 263K |
+| [**Ansible**](https://marketplace.visualstudio.com/items?itemName=redhat.ansible) | [redhat](#redhat) | `redhat.com` | 2025-12-04 | `25.12.1` | 1.1M |
+| [**Debugger for Mainframe**](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.debugger-for-mainframe) | [broadcomMFD](#broadcommfd) | `broadcom.com` | 2025-12-04 | `1.13.2` | 148K |
+| [**Python**](https://marketplace.visualstudio.com/items?itemName=ms-python.python) | [ms-python](#ms-python) | `microsoft.com` | 2025-12-04 | `2025.19.2025120401` | 194.9M |
+| [**GitLab Workflow**](https://marketplace.visualstudio.com/items?itemName=GitLab.gitlab-workflow) | [GitLab](#gitlab) | `gitlab.com` | 2025-12-04 | `6.60.0` | 2.7M |
+| [**Python Debugger**](https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy) | [ms-python](#ms-python) | `microsoft.com` | 2025-12-04 | `2025.17.2025120401` | 100.3M |
+| [**GitHub Codespaces**](https://marketplace.visualstudio.com/items?itemName=GitHub.codespaces) | [GitHub](#github) | `github.com` | 2025-12-04 | `1.18.4` | 6.9M |
+| [**Mermaid Chart**](https://marketplace.visualstudio.com/items?itemName=MermaidChart.vscode-mermaid-chart) | [MermaidChart](#mermaidchart) | `mermaidchart.com` | 2025-12-04 | `2.5.6` | 289K |
+| [**Web Search for Copilot**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-websearchforcopilot) | [ms-vscode](#ms-vscode) | `microsoft.com` | 2025-12-04 | `0.1.2025120401` | 128K |
+| [**vscode-mermAId**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.copilot-mermaid-diagram) | [ms-vscode](#ms-vscode) | `microsoft.com` | 2025-12-04 | `0.0.2025120401` | 89K |
+| [**CodeViz | Visual codebase maps**](https://marketplace.visualstudio.com/items?itemName=CodeViz.codeviz) | [CodeViz](#codeviz) | `codeviz.ai` | 2025-12-04 | `1.6.9` | 73K |
+| [**Test Runner for Java**](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-test) | [vscjava](#vscjava) | `microsoft.com` | 2025-12-04 | `0.43.2025120408` | 40.6M |
+| [**GitHub Copilot app modernization**](https://marketplace.visualstudio.com/items?itemName=vscjava.migrate-java-to-azure) | [vscjava](#vscjava) | `microsoft.com` | 2025-12-04 | `1.8.2025120402` | 476K |
+| [**YAML**](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml) | [redhat](#redhat) | `redhat.com` | 2025-12-04 | `1.20.2025120408` | 24.5M |
+| [**Salesforce CLI Integration**](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-core) | [salesforce](#salesforce) | `salesforce.com` | 2025-12-04 | `65.7.0` | 2.2M |
+| [**Aura Components**](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-lightning) | [salesforce](#salesforce) | `salesforce.com` | 2025-12-04 | `65.7.0` | 1.9M |
+| [**Apex**](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-apex) | [salesforce](#salesforce) | `salesforce.com` | 2025-12-04 | `65.7.0` | 2M |
+| [**Apex OpenAPI Specification**](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-apex-oas) | [salesforce](#salesforce) | `salesforce.com` | 2025-12-04 | `65.7.0` | 49K |
+| [**Lightning Web Components**](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-lwc) | [salesforce](#salesforce) | `salesforce.com` | 2025-12-04 | `65.7.0` | 1.8M |
+| [**Apex Replay Debugger**](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-apex-replay-debugger) | [salesforce](#salesforce) | `salesforce.com` | 2025-12-04 | `65.7.0` | 1.8M |
+| [**Salesforce Org Management**](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-org) | [salesforce](#salesforce) | `salesforce.com` | 2025-12-04 | `65.7.0` | 38K |
+| [**Apex Interactive Debugger**](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-apex-debugger) | [salesforce](#salesforce) | `salesforce.com` | 2025-12-04 | `65.7.0` | 1.7M |
+| [**Salesforce Extension Pack**](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode) | [salesforce](#salesforce) | `salesforce.com` | 2025-12-04 | `65.7.0` | 1.7M |
+| [**SOQL**](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-soql) | [salesforce](#salesforce) | `salesforce.com` | 2025-12-04 | `65.7.0` | 1.4M |
+| [**Visualforce**](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-visualforce) | [salesforce](#salesforce) | `salesforce.com` | 2025-12-04 | `65.7.0` | 1.8M |
+| [**Salesforce Extension Pack (Expanded)**](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-expanded) | [salesforce](#salesforce) | `salesforce.com` | 2025-12-04 | `65.7.0` | 627K |
+| [**Quokka.js**](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode) | [WallabyJs](#wallabyjs) | `wallabyjs.com` | 2025-12-04 | `1.0.749` | 4.1M |
+| [**C# Dev Kit**](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit) | [ms-dotnettools](#ms-dotnettools) | `microsoft.com` | 2025-12-04 | `1.83.5` | 12.6M |
+| [**C#**](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp) | [ms-dotnettools](#ms-dotnettools) | `microsoft.com` | 2025-12-03 | `2.103.33` | 37.4M |
+| [**C/C++**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools) | [ms-vscode](#ms-vscode) | `microsoft.com` | 2025-12-03 | `1.29.2` | 91.7M |
+| [**Android iOS Emulator**](https://marketplace.visualstudio.com/items?itemName=DiemasMichiels.emulate) | [DiemasMichiels](#diemasmichiels) | `diemas.dev` | 2025-12-03 | `1.8.0` | 1.1M |
+| [**PHP**](https://marketplace.visualstudio.com/items?itemName=DEVSENSE.phptools-vscode) | [DEVSENSE](#devsense) | `devsense.com` | 2025-12-03 | `1.63.18172` | 6.1M |
+| [**PHP Profiler**](https://marketplace.visualstudio.com/items?itemName=DEVSENSE.profiler-php-vscode) | [DEVSENSE](#devsense) | `devsense.com` | 2025-12-03 | `1.63.18172` | 5.6M |
+| [**Composer**](https://marketplace.visualstudio.com/items?itemName=DEVSENSE.composer-php-vscode) | [DEVSENSE](#devsense) | `devsense.com` | 2025-12-03 | `1.63.18172` | 5.7M |
+| [**Prisma**](https://marketplace.visualstudio.com/items?itemName=Prisma.prisma) | [Prisma](#prisma) | `prisma.io` | 2025-12-03 | `31.1.0` | 2.9M |
+| [**Qodo: AI Code Review**](https://marketplace.visualstudio.com/items?itemName=Codium.codium) | [Codium](#codium) | `qodo.ai` | 2025-12-03 | `1.7.6` | 793K |
+| [**Fitten Code : Faster and Better AI Assistant**](https://marketplace.visualstudio.com/items?itemName=FittenTech.Fitten-Code) | [FittenTech](#fittentech) | `fittentech.com` | 2025-12-03 | `1.0.1` | 691K |
+| [**Flake8**](https://marketplace.visualstudio.com/items?itemName=ms-python.flake8) | [ms-python](#ms-python) | `microsoft.com` | 2025-12-03 | `2025.3.13371015` | 1.6M |
+| [**Mypy Type Checker**](https://marketplace.visualstudio.com/items?itemName=ms-python.mypy-type-checker) | [ms-python](#ms-python) | `microsoft.com` | 2025-12-03 | `2025.3.13371016` | 690K |
+| [**Chinese (Traditional) Language Pack for Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-zh-hant) | [MS-CEINTL](#ms-ceintl) | `microsoft.com` | 2025-12-03 | `1.107.2025120309` | 4.4M |
+| [**Italian Language Pack for Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-it) | [MS-CEINTL](#ms-ceintl) | `microsoft.com` | 2025-12-03 | `1.107.2025120309` | 3.2M |
+| [**Japanese Language Pack for Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-ja) | [MS-CEINTL](#ms-ceintl) | `microsoft.com` | 2025-12-03 | `1.107.2025120309` | 13M |
+| [**French Language Pack for Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-fr) | [MS-CEINTL](#ms-ceintl) | `microsoft.com` | 2025-12-03 | `1.107.2025120309` | 5.8M |
+| [**Portuguese (Brazil) Language Pack for Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-pt-BR) | [MS-CEINTL](#ms-ceintl) | `microsoft.com` | 2025-12-03 | `1.107.2025120309` | 8.4M |
+| [**Polish Language Pack for Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-pl) | [MS-CEINTL](#ms-ceintl) | `microsoft.com` | 2025-12-03 | `1.107.2025120309` | 2.7M |
+| [**Russian Language Pack for Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-ru) | [MS-CEINTL](#ms-ceintl) | `microsoft.com` | 2025-12-03 | `1.107.2025120309` | 8.1M |
+
+<details>
+<summary><strong>📂 View all 248 recently updated extensions</strong></summary>
+
+| Extension | Publisher | Domain | Last Updated | Version | Installs |
+|-----------|-----------|--------|:------------:|:-------:|:--------:|
+| [**Design Líquido - Linguagens em Português**](https://marketplace.visualstudio.com/items?itemName=designliquido.designliquido-vscode) | [designliquido](#designliquido) | `designliquido.com.br` | 2025-12-06 | `0.20.0` | 31K |
+| [**Spring Boot Tools**](https://marketplace.visualstudio.com/items?itemName=vmware.vscode-spring-boot) | [vmware](#vmware) | `vmware.com` | 2025-12-06 | `2.0.2025120600` | 4.9M |
+| [**rust-analyzer**](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer) | [rust-lang](#rust-lang) | `rust-lang.org` | 2025-12-06 | `0.4.2707` | 5.5M |
+| [**Zencoder: AI Coding Agent and Chat for Python, Javascript, Typescript, Java, Go, and more**](https://marketplace.visualstudio.com/items?itemName=ZencoderAI.zencoder) | [ZencoderAI](#zencoderai) | `zencoder.ai` | 2025-12-06 | `3.11.9001` | 112K |
+| [**Cloudfoundry Manifest YML Support**](https://marketplace.visualstudio.com/items?itemName=vmware.vscode-manifest-yaml) | [vmware](#vmware) | `vmware.com` | 2025-12-06 | `2.0.2025120600` | 980K |
+| [**Concourse CI Pipeline Editor**](https://marketplace.visualstudio.com/items?itemName=vmware.vscode-concourse) | [vmware](#vmware) | `vmware.com` | 2025-12-06 | `2.0.2025120600` | 922K |
+| [**Cline**](https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev) | [saoudrizwan](#saoudrizwan) | `cline.bot` | 2025-12-06 | `3.40.1` | 2.7M |
+| [**Claude Code for VS Code**](https://marketplace.visualstudio.com/items?itemName=anthropic.claude-code) | [anthropic](#anthropic) | `anthropic.com` | 2025-12-06 | `2.0.60` | 2.1M |
+| [**JavaScript and TypeScript Nightly**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next) | [ms-vscode](#ms-vscode) | `microsoft.com` | 2025-12-06 | `6.0.20251205` | 6.1M |
+| [**Vue (Official)**](https://marketplace.visualstudio.com/items?itemName=Vue.volar) | [Vue](#vue) | `vuejs.org` | 2025-12-05 | `3.1.6` | 7.2M |
+| [**GitHub Copilot Chat**](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat) | [GitHub](#github) | `github.com` | 2025-12-05 | `0.35.2025120504` | 51.7M |
+| [**Gemini CLI Companion**](https://marketplace.visualstudio.com/items?itemName=Google.gemini-cli-vscode-ide-companion) | [Google](#google) | `google.com` | 2025-12-05 | `0.19.1` | 374K |
+| [**Agentforce Vibes**](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-einstein-gpt) | [salesforce](#salesforce) | `salesforce.com` | 2025-12-05 | `3.5.0` | 522K |
+| [**marimo**](https://marketplace.visualstudio.com/items?itemName=marimo-team.vscode-marimo) | [marimo-team](#marimo-team) | `marimo.io` | 2025-12-05 | `0.8.5` | 28K |
+| [**DBCode - Database Management**](https://marketplace.visualstudio.com/items?itemName=DBCode.dbcode) | [DBCode](#dbcode) | `dbcode.io` | 2025-12-05 | `1.19.10` | 109K |
+| [**Azure Logic Apps (Standard)**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurelogicapps) | [ms-azuretools](#ms-azuretools) | `microsoft.com` | 2025-12-05 | `5.230.15` | 115K |
+| [**GitHub Pull Requests**](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github) | [GitHub](#github) | `github.com` | 2025-12-05 | `0.123.2025120517` | 31.5M |
+| [**LLDB DAP**](https://marketplace.visualstudio.com/items?itemName=llvm-vs-code-extensions.lldb-dap) | [llvm-vs-code-extensions](#llvm-vs-code-extensions) | `llvm.org` | 2025-12-05 | `0.3.20251205` | 320K |
+| [**IBM Z Open Editor**](https://marketplace.visualstudio.com/items?itemName=IBM.zopeneditor) | [IBM](#ibm) | `ibm.com` | 2025-12-05 | `6.2.0` | 166K |
+| [**Mojo 🔥**](https://marketplace.visualstudio.com/items?itemName=modular-mojotools.vscode-mojo) | [modular-mojotools](#modular-mojotools) | `modular.com` | 2025-12-05 | `26.0.3` | 109K |
+| [**Amp (Research Preview)**](https://marketplace.visualstudio.com/items?itemName=sourcegraph.amp) | [sourcegraph](#sourcegraph) | `sourcegraph.com` | 2025-12-05 | `0.0.1764950983` | 70K |
+| [**GitLens — Git supercharged**](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) | [eamodio](#eamodio) | `gitkraken.com` | 2025-12-05 | `2025.12.510` | 45.8M |
+| [**Prisma - Insider**](https://marketplace.visualstudio.com/items?itemName=Prisma.prisma-insider) | [Prisma](#prisma) | `prisma.io` | 2025-12-05 | `31.1.4` | 199K |
+| [**Telerik UI for ASP.NET Core Productivity Tools**](https://marketplace.visualstudio.com/items?itemName=TelerikInc.aspnetcoretemplatewizard) | [TelerikInc](#telerikinc) | `telerik.com` | 2025-12-05 | `2.22.2` | 28K |
+| [**Kendo UI Productivity Tools**](https://marketplace.visualstudio.com/items?itemName=KendoUI.kendotemplatewizard) | [KendoUI](#kendoui) | `telerik.com` | 2025-12-05 | `2.24.2` | 28K |
+| [**Telerik UI for Blazor Productivity Tools**](https://marketplace.visualstudio.com/items?itemName=TelerikInc.blazortemplatewizard) | [TelerikInc](#telerikinc) | `telerik.com` | 2025-12-05 | `2.21.2` | 28K |
+| [**AWS CloudFormation Snippets**](https://marketplace.visualstudio.com/items?itemName=dannysteenman.cloudformation-yaml-snippets) | [dannysteenman](#dannysteenman) | `towardsthecloud.com` | 2025-12-05 | `5.84.0` | 108K |
+| [**SAP Fiori Tools - Extension Pack**](https://marketplace.visualstudio.com/items?itemName=SAPSE.sap-ux-fiori-tools-extension-pack) | [SAPSE](#sapse) | `sap.com` | 2025-12-05 | `1.20.0` | 164K |
+| [**SAP Fiori Tools - Service Modeler**](https://marketplace.visualstudio.com/items?itemName=SAPSE.sap-ux-service-modeler-extension) | [SAPSE](#sapse) | `sap.com` | 2025-12-05 | `1.20.0` | 167K |
+| [**SAP Fiori Tools - Guided Development**](https://marketplace.visualstudio.com/items?itemName=SAPSE.sap-ux-help-extension) | [SAPSE](#sapse) | `sap.com` | 2025-12-05 | `1.20.0` | 168K |
+| [**SAP Fiori Tools - Application Modeler**](https://marketplace.visualstudio.com/items?itemName=SAPSE.sap-ux-application-modeler-extension) | [SAPSE](#sapse) | `sap.com` | 2025-12-05 | `1.20.0` | 173K |
+| [**SAP Fiori Tools - XML Annotation Language Server**](https://marketplace.visualstudio.com/items?itemName=SAPSE.sap-ux-annotation-modeler-extension) | [SAPSE](#sapse) | `sap.com` | 2025-12-05 | `1.20.0` | 173K |
+| [**Kilo Code AI Agent**](https://marketplace.visualstudio.com/items?itemName=kilocode.Kilo-Code) | [kilocode](#kilocode) | `kilocode.ai` | 2025-12-05 | `4.130.1` | 535K |
+| [**Language Support for Java(TM) by Red Hat**](https://marketplace.visualstudio.com/items?itemName=redhat.java) | [redhat](#redhat) | `redhat.com` | 2025-12-05 | `1.51.2025120508` | 49.8M |
+| [**Dev Containers**](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) | [ms-vscode-remote](#ms-vscode-remote) | `microsoft.com` | 2025-12-05 | `0.435.0` | 35.2M |
+| [**Tools for MicroProfile**](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-microprofile) | [redhat](#redhat) | `redhat.com` | 2025-12-05 | `0.15.2025120508` | 414K |
+| [**TypeScript (Native Preview)**](https://marketplace.visualstudio.com/items?itemName=TypeScriptTeam.native-preview) | [TypeScriptTeam](#typescriptteam) | `microsoft.com` | 2025-12-05 | `0.20251205.1` | 42K |
+| [**Quarkus**](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-quarkus) | [redhat](#redhat) | `redhat.com` | 2025-12-05 | `1.22.2025120508` | 344K |
+| [**Microsoft Terraform**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureterraform) | [ms-azuretools](#ms-azuretools) | `microsoft.com` | 2025-12-05 | `0.8.0` | 1.1M |
+| [**Roo Code**](https://marketplace.visualstudio.com/items?itemName=RooVeterinaryInc.roo-cline) | [RooVeterinaryInc](#rooveterinaryinc) | `roocode.com` | 2025-12-05 | `3.36.2` | 1.1M |
+| [**Microsoft 365 Agents Toolkit**](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.ms-teams-vscode-extension) | [TeamsDevApp](#teamsdevapp) | `microsoft.com` | 2025-12-05 | `6.5.2025120408` | 393K |
+| [**Minecraft Bedrock Debugger**](https://marketplace.visualstudio.com/items?itemName=mojang-studios.minecraft-debugger) | [mojang-studios](#mojang-studios) | `minecraft.net` | 2025-12-05 | `1.27.0` | 31K |
+| [**CMake Tools**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cmake-tools) | [ms-vscode](#ms-vscode) | `microsoft.com` | 2025-12-05 | `1.22.20` | 53.2M |
+| [**Pylance**](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance) | [ms-python](#ms-python) | `microsoft.com` | 2025-12-05 | `2025.10.4` | 162.8M |
+| [**VEX Robotics**](https://marketplace.visualstudio.com/items?itemName=VEXRobotics.vexcode) | [VEXRobotics](#vexrobotics) | `vexrobotics.com` | 2025-12-04 | `0.8.2025120100` | 51K |
+| [**VEX Robotics Feedback**](https://marketplace.visualstudio.com/items?itemName=VEXRobotics.vexfeedback) | [VEXRobotics](#vexrobotics) | `vexrobotics.com` | 2025-12-04 | `0.2.6` | 47K |
+| [**CodeGPT: Chat & AI Agents**](https://marketplace.visualstudio.com/items?itemName=DanielSanMedium.dscodegpt) | [DanielSanMedium](#danielsanmedium) | `codegpt.co` | 2025-12-04 | `3.14.206` | 2.2M |
+| [**Python Environments**](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-python-envs) | [ms-python](#ms-python) | `microsoft.com` | 2025-12-04 | `1.13.13381830` | 16.5M |
+| [**SAP HANA Database Explorer**](https://marketplace.visualstudio.com/items?itemName=SAPSE.hana-database-explorer) | [SAPSE](#sapse) | `sap.com` | 2025-12-04 | `1.35.0` | 38K |
+| [**Codex – OpenAI’s coding agent**](https://marketplace.visualstudio.com/items?itemName=openai.chatgpt) | [openai](#openai) | `openai.com` | 2025-12-04 | `0.5.49` | 2.4M |
+| [**.NET MAUI**](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.dotnet-maui) | [ms-dotnettools](#ms-dotnettools) | `microsoft.com` | 2025-12-04 | `1.12.13` | 347K |
+| [**CodeScene**](https://marketplace.visualstudio.com/items?itemName=CodeScene.codescene-vscode) | [CodeScene](#codescene) | `codescene.com` | 2025-12-04 | `0.20.0` | 30K |
+| [**Apex Log Analyzer**](https://marketplace.visualstudio.com/items?itemName=financialforce.lana) | [financialforce](#financialforce) | `certinia.com` | 2025-12-04 | `1.19.20251204` | 991K |
+| [**Ruff**](https://marketplace.visualstudio.com/items?itemName=charliermarsh.ruff) | [charliermarsh](#charliermarsh) | `astral.sh` | 2025-12-04 | `2025.32.0` | 2.7M |
+| [**Power Platform Tools**](https://marketplace.visualstudio.com/items?itemName=microsoft-IsvExpTools.powerplatform-vscode) | [microsoft-IsvExpTools](#microsoft-isvexptools) | `microsoft.com` | 2025-12-04 | `2.0.110` | 263K |
+| [**Ansible**](https://marketplace.visualstudio.com/items?itemName=redhat.ansible) | [redhat](#redhat) | `redhat.com` | 2025-12-04 | `25.12.1` | 1.1M |
+| [**Debugger for Mainframe**](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.debugger-for-mainframe) | [broadcomMFD](#broadcommfd) | `broadcom.com` | 2025-12-04 | `1.13.2` | 148K |
+| [**Python**](https://marketplace.visualstudio.com/items?itemName=ms-python.python) | [ms-python](#ms-python) | `microsoft.com` | 2025-12-04 | `2025.19.2025120401` | 194.9M |
+| [**GitLab Workflow**](https://marketplace.visualstudio.com/items?itemName=GitLab.gitlab-workflow) | [GitLab](#gitlab) | `gitlab.com` | 2025-12-04 | `6.60.0` | 2.7M |
+| [**Python Debugger**](https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy) | [ms-python](#ms-python) | `microsoft.com` | 2025-12-04 | `2025.17.2025120401` | 100.3M |
+| [**GitHub Codespaces**](https://marketplace.visualstudio.com/items?itemName=GitHub.codespaces) | [GitHub](#github) | `github.com` | 2025-12-04 | `1.18.4` | 6.9M |
+| [**Mermaid Chart**](https://marketplace.visualstudio.com/items?itemName=MermaidChart.vscode-mermaid-chart) | [MermaidChart](#mermaidchart) | `mermaidchart.com` | 2025-12-04 | `2.5.6` | 289K |
+| [**Web Search for Copilot**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-websearchforcopilot) | [ms-vscode](#ms-vscode) | `microsoft.com` | 2025-12-04 | `0.1.2025120401` | 128K |
+| [**vscode-mermAId**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.copilot-mermaid-diagram) | [ms-vscode](#ms-vscode) | `microsoft.com` | 2025-12-04 | `0.0.2025120401` | 89K |
+| [**CodeViz | Visual codebase maps**](https://marketplace.visualstudio.com/items?itemName=CodeViz.codeviz) | [CodeViz](#codeviz) | `codeviz.ai` | 2025-12-04 | `1.6.9` | 73K |
+| [**Test Runner for Java**](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-test) | [vscjava](#vscjava) | `microsoft.com` | 2025-12-04 | `0.43.2025120408` | 40.6M |
+| [**GitHub Copilot app modernization**](https://marketplace.visualstudio.com/items?itemName=vscjava.migrate-java-to-azure) | [vscjava](#vscjava) | `microsoft.com` | 2025-12-04 | `1.8.2025120402` | 476K |
+| [**YAML**](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml) | [redhat](#redhat) | `redhat.com` | 2025-12-04 | `1.20.2025120408` | 24.5M |
+| [**Salesforce CLI Integration**](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-core) | [salesforce](#salesforce) | `salesforce.com` | 2025-12-04 | `65.7.0` | 2.2M |
+| [**Aura Components**](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-lightning) | [salesforce](#salesforce) | `salesforce.com` | 2025-12-04 | `65.7.0` | 1.9M |
+| [**Apex**](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-apex) | [salesforce](#salesforce) | `salesforce.com` | 2025-12-04 | `65.7.0` | 2M |
+| [**Apex OpenAPI Specification**](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-apex-oas) | [salesforce](#salesforce) | `salesforce.com` | 2025-12-04 | `65.7.0` | 49K |
+| [**Lightning Web Components**](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-lwc) | [salesforce](#salesforce) | `salesforce.com` | 2025-12-04 | `65.7.0` | 1.8M |
+| [**Apex Replay Debugger**](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-apex-replay-debugger) | [salesforce](#salesforce) | `salesforce.com` | 2025-12-04 | `65.7.0` | 1.8M |
+| [**Salesforce Org Management**](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-org) | [salesforce](#salesforce) | `salesforce.com` | 2025-12-04 | `65.7.0` | 38K |
+| [**Apex Interactive Debugger**](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-apex-debugger) | [salesforce](#salesforce) | `salesforce.com` | 2025-12-04 | `65.7.0` | 1.7M |
+| [**Salesforce Extension Pack**](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode) | [salesforce](#salesforce) | `salesforce.com` | 2025-12-04 | `65.7.0` | 1.7M |
+| [**SOQL**](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-soql) | [salesforce](#salesforce) | `salesforce.com` | 2025-12-04 | `65.7.0` | 1.4M |
+| [**Visualforce**](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-visualforce) | [salesforce](#salesforce) | `salesforce.com` | 2025-12-04 | `65.7.0` | 1.8M |
+| [**Salesforce Extension Pack (Expanded)**](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-expanded) | [salesforce](#salesforce) | `salesforce.com` | 2025-12-04 | `65.7.0` | 627K |
+| [**Quokka.js**](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode) | [WallabyJs](#wallabyjs) | `wallabyjs.com` | 2025-12-04 | `1.0.749` | 4.1M |
+| [**C# Dev Kit**](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit) | [ms-dotnettools](#ms-dotnettools) | `microsoft.com` | 2025-12-04 | `1.83.5` | 12.6M |
+| [**C#**](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp) | [ms-dotnettools](#ms-dotnettools) | `microsoft.com` | 2025-12-03 | `2.103.33` | 37.4M |
+| [**C/C++**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools) | [ms-vscode](#ms-vscode) | `microsoft.com` | 2025-12-03 | `1.29.2` | 91.7M |
+| [**Android iOS Emulator**](https://marketplace.visualstudio.com/items?itemName=DiemasMichiels.emulate) | [DiemasMichiels](#diemasmichiels) | `diemas.dev` | 2025-12-03 | `1.8.0` | 1.1M |
+| [**PHP**](https://marketplace.visualstudio.com/items?itemName=DEVSENSE.phptools-vscode) | [DEVSENSE](#devsense) | `devsense.com` | 2025-12-03 | `1.63.18172` | 6.1M |
+| [**PHP Profiler**](https://marketplace.visualstudio.com/items?itemName=DEVSENSE.profiler-php-vscode) | [DEVSENSE](#devsense) | `devsense.com` | 2025-12-03 | `1.63.18172` | 5.6M |
+| [**Composer**](https://marketplace.visualstudio.com/items?itemName=DEVSENSE.composer-php-vscode) | [DEVSENSE](#devsense) | `devsense.com` | 2025-12-03 | `1.63.18172` | 5.7M |
+| [**Prisma**](https://marketplace.visualstudio.com/items?itemName=Prisma.prisma) | [Prisma](#prisma) | `prisma.io` | 2025-12-03 | `31.1.0` | 2.9M |
+| [**Qodo: AI Code Review**](https://marketplace.visualstudio.com/items?itemName=Codium.codium) | [Codium](#codium) | `qodo.ai` | 2025-12-03 | `1.7.6` | 793K |
+| [**Fitten Code : Faster and Better AI Assistant**](https://marketplace.visualstudio.com/items?itemName=FittenTech.Fitten-Code) | [FittenTech](#fittentech) | `fittentech.com` | 2025-12-03 | `1.0.1` | 691K |
+| [**Flake8**](https://marketplace.visualstudio.com/items?itemName=ms-python.flake8) | [ms-python](#ms-python) | `microsoft.com` | 2025-12-03 | `2025.3.13371015` | 1.6M |
+| [**Mypy Type Checker**](https://marketplace.visualstudio.com/items?itemName=ms-python.mypy-type-checker) | [ms-python](#ms-python) | `microsoft.com` | 2025-12-03 | `2025.3.13371016` | 690K |
+| [**Chinese (Traditional) Language Pack for Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-zh-hant) | [MS-CEINTL](#ms-ceintl) | `microsoft.com` | 2025-12-03 | `1.107.2025120309` | 4.4M |
+| [**Italian Language Pack for Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-it) | [MS-CEINTL](#ms-ceintl) | `microsoft.com` | 2025-12-03 | `1.107.2025120309` | 3.2M |
+| [**Japanese Language Pack for Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-ja) | [MS-CEINTL](#ms-ceintl) | `microsoft.com` | 2025-12-03 | `1.107.2025120309` | 13M |
+| [**French Language Pack for Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-fr) | [MS-CEINTL](#ms-ceintl) | `microsoft.com` | 2025-12-03 | `1.107.2025120309` | 5.8M |
+| [**Portuguese (Brazil) Language Pack for Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-pt-BR) | [MS-CEINTL](#ms-ceintl) | `microsoft.com` | 2025-12-03 | `1.107.2025120309` | 8.4M |
+| [**Polish Language Pack for Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-pl) | [MS-CEINTL](#ms-ceintl) | `microsoft.com` | 2025-12-03 | `1.107.2025120309` | 2.7M |
+| [**Russian Language Pack for Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-ru) | [MS-CEINTL](#ms-ceintl) | `microsoft.com` | 2025-12-03 | `1.107.2025120309` | 8.1M |
+| [**Spanish Language Pack for Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-es) | [MS-CEINTL](#ms-ceintl) | `microsoft.com` | 2025-12-03 | `1.107.2025120309` | 10.6M |
+| [**Turkish Language Pack for Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-tr) | [MS-CEINTL](#ms-ceintl) | `microsoft.com` | 2025-12-03 | `1.107.2025120309` | 1M |
+| [**Czech Language Pack for Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-cs) | [MS-CEINTL](#ms-ceintl) | `microsoft.com` | 2025-12-03 | `1.107.2025120309` | 2.2M |
+| [**Korean Language Pack for Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-ko) | [MS-CEINTL](#ms-ceintl) | `microsoft.com` | 2025-12-03 | `1.107.2025120309` | 6.1M |
+| [**Pseudo Language Language Pack**](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-qps-ploc) | [MS-CEINTL](#ms-ceintl) | `microsoft.com` | 2025-12-03 | `1.107.2025120309` | 45K |
+| [**German Language Pack for Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-de) | [MS-CEINTL](#ms-ceintl) | `microsoft.com` | 2025-12-03 | `1.107.2025120309` | 5.1M |
+| [**Chinese (Simplified) (简体中文) Language Pack for Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-zh-hans) | [MS-CEINTL](#ms-ceintl) | `microsoft.com` | 2025-12-03 | `1.107.2025120309` | 46.5M |
+| [**GitHub Copilot app modernization - upgrade for Java**](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-upgrade) | [vscjava](#vscjava) | `microsoft.com` | 2025-12-03 | `1.9.1` | 462K |
+| [**Console Ninja**](https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja) | [WallabyJs](#wallabyjs) | `wallabyjs.com` | 2025-12-03 | `1.0.500` | 1.3M |
+| [**RobotCode - Robot Framework Support**](https://marketplace.visualstudio.com/items?itemName=d-biehl.robotcode) | [d-biehl](#d-biehl) | `robotcode.io` | 2025-12-02 | `2.1.0` | 277K |
+| [**SQL Server (mssql)**](https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql) | [ms-mssql](#ms-mssql) | `microsoft.com` | 2025-12-02 | `1.37.1` | 8.6M |
+| [**Liberty Tools**](https://marketplace.visualstudio.com/items?itemName=Open-Liberty.liberty-dev-vscode-ext) | [Open-Liberty](#open-liberty) | `openliberty.io` | 2025-12-02 | `25.0.11` | 48K |
+| [**Vitest**](https://marketplace.visualstudio.com/items?itemName=vitest.explorer) | [vitest](#vitest) | `vitest.dev` | 2025-12-02 | `1.36.0` | 742K |
+| [**PostgreSQL**](https://marketplace.visualstudio.com/items?itemName=ms-ossdata.vscode-pgsql) | [ms-ossdata](#ms-ossdata) | `microsoft.com` | 2025-12-02 | `1.12.1` | 299K |
+| [**Salesforce Code Analyzer**](https://marketplace.visualstudio.com/items?itemName=salesforce.sfdx-code-analyzer-vscode) | [salesforce](#salesforce) | `salesforce.com` | 2025-12-02 | `1.13.0` | 442K |
+| [**Redocly OpenAPI**](https://marketplace.visualstudio.com/items?itemName=Redocly.openapi-vs-code) | [Redocly](#redocly) | `redocly.com` | 2025-12-02 | `0.9.26` | 73K |
+| [**StackSpot AI**](https://marketplace.visualstudio.com/items?itemName=StackspotAI.StackSpotAI) | [StackspotAI](#stackspotai) | `stackspot.com` | 2025-12-02 | `3.5.5` | 36K |
+| [**DVC**](https://marketplace.visualstudio.com/items?itemName=Iterative.dvc) | [Iterative](#iterative) | `iterative.ai` | 2025-12-02 | `1.2.30` | 82K |
+| [**Dart**](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code) | [Dart-Code](#dart-code) | `dartcode.org` | 2025-12-02 | `3.125.20251202` | 13.4M |
+| [**Tabnine: AI Chat & Autocomplete for JavaScript, Python, Typescript, Java, PHP, Go, and more**](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode) | [TabNine](#tabnine) | `tabnine.com` | 2025-12-02 | `3.330.0` | 9.4M |
+| [**Fabric Data Engineering VS Code**](https://marketplace.visualstudio.com/items?itemName=SynapseVSCode.synapse) | [SynapseVSCode](#synapsevscode) | `microsoft.com` | 2025-12-02 | `1.17.0` | 70K |
+| [**Lightrun**](https://marketplace.visualstudio.com/items?itemName=Lightrun.lightrunplugin-saas) | [Lightrun](#lightrun) | `lightrun.com` | 2025-12-02 | `1.73.0` | 42K |
+| [**SAS**](https://marketplace.visualstudio.com/items?itemName=SAS.sas-lsp) | [SAS](#sas) | `sas.com` | 2025-12-02 | `1.18.0` | 77K |
+| [**WebNative**](https://marketplace.visualstudio.com/items?itemName=WebNative.webnative) | [WebNative](#webnative) | `webnative.dev` | 2025-12-02 | `2.0.58` | 76K |
+| [**SAP CDS Language Support**](https://marketplace.visualstudio.com/items?itemName=SAPSE.vscode-cds) | [SAPSE](#sapse) | `sap.com` | 2025-12-01 | `9.5.0` | 114K |
+| [**Bun for Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=oven.bun-vscode) | [oven](#oven) | `bun.sh` | 2025-12-01 | `0.0.32` | 206K |
+| [**.NET Install Tool**](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscode-dotnet-runtime) | [ms-dotnettools](#ms-dotnettools) | `microsoft.com` | 2025-12-01 | `2.4.1` | 23.2M |
+| [**Oxc**](https://marketplace.visualstudio.com/items?itemName=oxc.oxc-vscode) | [oxc](#oxc) | `oxc.rs` | 2025-12-01 | `1.31.0` | 70K |
+| [**Turbo Console Log**](https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log) | [ChakrounAnas](#chakrounanas) | `turboconsolelog.io` | 2025-12-01 | `3.11.0` | 2M |
+| [**Flutter**](https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter) | [Dart-Code](#dart-code) | `dartcode.org` | 2025-12-01 | `3.125.20251201` | 12.5M |
+| [**Datadog**](https://marketplace.visualstudio.com/items?itemName=Datadog.datadog-vscode) | [Datadog](#datadog) | `datadoghq.com` | 2025-12-01 | `2.19.0` | 55K |
+| [**SAP Business Application Studio toolkit**](https://marketplace.visualstudio.com/items?itemName=SAPOSS.app-studio-toolkit) | [SAPOSS](#saposs) | `sap.com` | 2025-11-30 | `2.8.0` | 152K |
+| [**Find unused exports**](https://marketplace.visualstudio.com/items?itemName=iulian-radu-at.find-unused-exports) | [iulian-radu-at](#iulian-radu-at) | `iulian-radu.eu` | 2025-11-30 | `2.4.0` | 85K |
+| [**BLACKBOXAI Agent - Coding Copilot**](https://marketplace.visualstudio.com/items?itemName=Blackboxapp.blackboxagent) | [Blackboxapp](#blackboxapp) | `blackbox.ai` | 2025-11-29 | `3.5.34` | 2.1M |
+| [**WakaTime**](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime) | [WakaTime](#wakatime) | `wakatime.com` | 2025-11-28 | `25.5.0` | 22.9M |
+| [**Microsoft Foundry**](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.vscode-ai-foundry) | [TeamsDevApp](#teamsdevapp) | `microsoft.com` | 2025-11-28 | `0.12.4` | 467K |
+| [**HTMLHint**](https://marketplace.visualstudio.com/items?itemName=HTMLHint.vscode-htmlhint) | [HTMLHint](#htmlhint) | `htmlhint.com` | 2025-11-28 | `1.15.1` | 642K |
+| [**TRAE AI (formerly MarsCode): Coding Assistant**](https://marketplace.visualstudio.com/items?itemName=MarsCode.marscode-extension) | [MarsCode](#marscode) | `marscode.com` | 2025-11-28 | `1.4.18` | 1.3M |
+| [**Atlassian: Jira, Rovo Dev, Bitbucket**](https://marketplace.visualstudio.com/items?itemName=Atlassian.atlascode) | [Atlassian](#atlassian) | `atlassian.com` | 2025-11-28 | `4.1.62` | 2.9M |
+| [**Embedded Tools**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-embedded-tools) | [ms-vscode](#ms-vscode) | `microsoft.com` | 2025-11-28 | `0.8.251128001` | 155K |
+| [**Serial Monitor**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-serial-monitor) | [ms-vscode](#ms-vscode) | `microsoft.com` | 2025-11-28 | `0.13.251128001` | 1.7M |
+| [**Nx Console**](https://marketplace.visualstudio.com/items?itemName=nrwl.angular-console) | [nrwl](#nrwl) | `nx.dev` | 2025-11-27 | `18.81.0` | 2.1M |
+| [**Biome**](https://marketplace.visualstudio.com/items?itemName=biomejs.biome) | [biomejs](#biomejs) | `biomejs.dev` | 2025-11-27 | `2025.11.271431` | 518K |
+| [**IBM i Debug**](https://marketplace.visualstudio.com/items?itemName=IBM.ibmidebug) | [IBM](#ibm) | `ibm.com` | 2025-11-27 | `3.0.2` | 31K |
+| [**Bito AI Code Reviews**](https://marketplace.visualstudio.com/items?itemName=Bito.Bito) | [Bito](#bito) | `bito.ai` | 2025-11-27 | `1.6.4` | 918K |
+| [**Stylelint**](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint) | [stylelint](#stylelint) | `stylelint.io` | 2025-11-27 | `1.6.0` | 3.2M |
+| [**PHP Intelephense**](https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client) | [bmewburn](#bmewburn) | `intelephense.com` | 2025-11-27 | `1.16.2` | 16.3M |
+| [**Redis**](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-redis-client) | [cweijan](#cweijan) | `database-client.com` | 2025-11-26 | `8.4.4` | 309K |
+| [**Database Client**](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-database-client2) | [cweijan](#cweijan) | `database-client.com` | 2025-11-26 | `8.4.4` | 964K |
+| [**SQL Server Client (mssql)**](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-myssql-client2) | [cweijan](#cweijan) | `database-client.com` | 2025-11-26 | `8.4.4` | 166K |
+| [**MySQL**](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-mysql-client2) | [cweijan](#cweijan) | `database-client.com` | 2025-11-26 | `8.4.4` | 2.5M |
+| [**ElasticSearch**](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-es-client2) | [cweijan](#cweijan) | `database-client.com` | 2025-11-26 | `8.4.4` | 29K |
+| [**PostgreSQL**](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-postgresql-client2) | [cweijan](#cweijan) | `database-client.com` | 2025-11-26 | `8.4.4` | 535K |
+| [**SSH Client**](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-ssh) | [cweijan](#cweijan) | `database-client.com` | 2025-11-26 | `8.4.4` | 121K |
+| [**Data Wrangler**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.datawrangler) | [ms-toolsai](#ms-toolsai) | `microsoft.com` | 2025-11-26 | `1.24.0` | 1.6M |
+| [**Julia**](https://marketplace.visualstudio.com/items?itemName=julialang.language-julia) | [julialang](#julialang) | `julia-vscode.org` | 2025-11-26 | `1.161.1` | 980K |
+| [**Azure MCP Server**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azure-mcp-server) | [ms-azuretools](#ms-azuretools) | `microsoft.com` | 2025-11-26 | `2.0.7` | 326K |
+| [**JavaScript Debugger (Nightly)**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.js-debug-nightly) | [ms-vscode](#ms-vscode) | `microsoft.com` | 2025-11-26 | `2025.11.2517` | 3.2M |
+| [**AWS Toolkit**](https://marketplace.visualstudio.com/items?itemName=AmazonWebServices.aws-toolkit-vscode) | [AmazonWebServices](#amazonwebservices) | `amazon.com` | 2025-11-25 | `3.89.0` | 3.6M |
+| [**Azure Functions**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions) | [ms-azuretools](#ms-azuretools) | `microsoft.com` | 2025-11-25 | `1.20.2` | 5.6M |
+| [**Kubernetes**](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.vscode-kubernetes-tools) | [ms-kubernetes-tools](#ms-kubernetes-tools) | `microsoft.com` | 2025-11-25 | `1.3.27` | 6.3M |
+| [**DVT IDE for Verilog/SystemVerilog/VHDL/e Language**](https://marketplace.visualstudio.com/items?itemName=amiq.dvt) | [amiq](#amiq) | `amiq.com` | 2025-11-25 | `25.3.21` | 44K |
+| [**SonarQube for IDE**](https://marketplace.visualstudio.com/items?itemName=SonarSource.sonarlint-vscode) | [SonarSource](#sonarsource) | `sonarsource.com` | 2025-11-25 | `4.36.0` | 4M |
+| [**AppMap**](https://marketplace.visualstudio.com/items?itemName=appland.appmap) | [appland](#appland) | `appland.com` | 2025-11-25 | `0.140.0` | 66K |
+| [**AI Toolkit for Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=ms-windows-ai-studio.windows-ai-studio) | [ms-windows-ai-studio](#ms-windows-ai-studio) | `microsoft.com` | 2025-11-25 | `0.26.3` | 621K |
+| [**Qt Extension Pack**](https://marketplace.visualstudio.com/items?itemName=TheQtCompany.qt) | [TheQtCompany](#theqtcompany) | `qt.io` | 2025-11-25 | `1.3.0` | 84K |
+| [**Dependi**](https://marketplace.visualstudio.com/items?itemName=fill-labs.dependi) | [fill-labs](#fill-labs) | `dependi.io` | 2025-11-25 | `0.7.21` | 537K |
+| [**XML**](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-xml) | [redhat](#redhat) | `redhat.com` | 2025-11-25 | `0.29.2025112508` | 9.1M |
+| [**Wallaby.js**](https://marketplace.visualstudio.com/items?itemName=WallabyJs.wallaby-vscode) | [WallabyJs](#wallabyjs) | `wallabyjs.com` | 2025-11-25 | `1.0.482` | 304K |
+| [**Debugger for Java**](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-debug) | [vscjava](#vscjava) | `microsoft.com` | 2025-11-25 | `0.58.2025111205` | 45.5M |
+| [**Microsoft Fabric**](https://marketplace.visualstudio.com/items?itemName=fabric.vscode-fabric) | [fabric](#fabric) | `microsoft.com` | 2025-11-25 | `0.35.6` | 37K |
+| [**Solidity (Wake)**](https://marketplace.visualstudio.com/items?itemName=AckeeBlockchain.tools-for-solidity) | [AckeeBlockchain](#ackeeblockchain) | `ackee.xyz` | 2025-11-24 | `1.19.4` | 43K |
+| [**SCOPE Studio for VS Code**](https://marketplace.visualstudio.com/items?itemName=ms-ssdevteam.scope-vscode-ext) | [ms-ssdevteam](#ms-ssdevteam) | `microsoft.com` | 2025-11-24 | `1.5.0` | 42K |
+| [**Qt UI**](https://marketplace.visualstudio.com/items?itemName=TheQtCompany.qt-ui) | [TheQtCompany](#theqtcompany) | `qt.io` | 2025-11-24 | `1.11.0` | 117K |
+| [**Qt Qml**](https://marketplace.visualstudio.com/items?itemName=TheQtCompany.qt-qml) | [TheQtCompany](#theqtcompany) | `qt.io` | 2025-11-24 | `1.11.0` | 122K |
+| [**Qt C++**](https://marketplace.visualstudio.com/items?itemName=TheQtCompany.qt-cpp) | [TheQtCompany](#theqtcompany) | `qt.io` | 2025-11-24 | `1.11.0` | 121K |
+| [**Qt Core**](https://marketplace.visualstudio.com/items?itemName=TheQtCompany.qt-core) | [TheQtCompany](#theqtcompany) | `qt.io` | 2025-11-24 | `1.11.0` | 151K |
+| [**Snyk Security**](https://marketplace.visualstudio.com/items?itemName=snyk-security.snyk-vulnerability-scanner) | [snyk-security](#snyk-security) | `snyk.io` | 2025-11-24 | `2.27.0` | 359K |
+| [**Odoo**](https://marketplace.visualstudio.com/items?itemName=Odoo.odoo) | [Odoo](#odoo) | `odoo.com` | 2025-11-24 | `1.1.1` | 30K |
+| [**NG-ZORRO Snippets**](https://marketplace.visualstudio.com/items?itemName=cipchk.ng-zorro-vscode) | [cipchk](#cipchk) | `ng-alain.com` | 2025-11-24 | `20.0.3` | 61K |
+| [**STM32Cube Debug Core**](https://marketplace.visualstudio.com/items?itemName=stmicroelectronics.stm32cube-ide-debug-core) | [stmicroelectronics](#stmicroelectronics) | `st.com` | 2025-11-24 | `1.0.3` | 41K |
+| [**Maven for Java**](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-maven) | [vscjava](#vscjava) | `microsoft.com` | 2025-11-24 | `0.45.0` | 41.9M |
+| [**PHP Debug**](https://marketplace.visualstudio.com/items?itemName=xdebug.php-debug) | [xdebug](#xdebug) | `xdebug.org` | 2025-11-23 | `1.38.2` | 14.6M |
+| [**Amazon Q**](https://marketplace.visualstudio.com/items?itemName=AmazonWebServices.amazon-q-vscode) | [AmazonWebServices](#amazonwebservices) | `amazon.com` | 2025-11-22 | `1.106.0` | 1.4M |
+| [**Augment Code: AI Coding Agent for JavaScript, Go, TypeScript, Python & more**](https://marketplace.visualstudio.com/items?itemName=augment.vscode-augment) | [augment](#augment) | `augmentcode.com` | 2025-11-21 | `0.658.0` | 648K |
+| [**TMDL**](https://marketplace.visualstudio.com/items?itemName=analysis-services.TMDL) | [analysis-services](#analysis-services) | `microsoft.com` | 2025-11-21 | `1.6.1` | 33K |
+| [**Solidity**](https://marketplace.visualstudio.com/items?itemName=NomicFoundation.hardhat-solidity) | [NomicFoundation](#nomicfoundation) | `nomic.foundation` | 2025-11-21 | `0.8.26` | 392K |
+| [**Unity**](https://marketplace.visualstudio.com/items?itemName=VisualStudioToolsForUnity.vstuc) | [VisualStudioToolsForUnity](#visualstudiotoolsforunity) | `microsoft.com` | 2025-11-21 | `1.2.0` | 1.9M |
+| [**Vira Theme**](https://marketplace.visualstudio.com/items?itemName=vira.vsc-vira-theme) | [vira](#vira) | `vira.build` | 2025-11-21 | `2025.10.4` | 297K |
+| [**GitHub Actions**](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-github-actions) | [GitHub](#github) | `github.com` | 2025-11-21 | `0.28.1` | 5.7M |
+| [**isort**](https://marketplace.visualstudio.com/items?itemName=ms-python.isort) | [ms-python](#ms-python) | `microsoft.com` | 2025-11-21 | `2025.1.13251007` | 24.9M |
+| [**Gemini Code Assist**](https://marketplace.visualstudio.com/items?itemName=Google.geminicodeassist) | [Google](#google) | `google.com` | 2025-11-21 | `2.59.0` | 2.3M |
+| [**Swift**](https://marketplace.visualstudio.com/items?itemName=swiftlang.swift-vscode) | [swiftlang](#swiftlang) | `swift.org` | 2025-11-20 | `2.15.20251120` | 338K |
+| [**Coder**](https://marketplace.visualstudio.com/items?itemName=coder.coder-remote) | [coder](#coder) | `coder.com` | 2025-11-20 | `1.11.4` | 101K |
+| [**Oracle SQL Developer Extension for VSCode**](https://marketplace.visualstudio.com/items?itemName=Oracle.sql-developer) | [Oracle](#oracle) | `oracle.com` | 2025-11-20 | `25.3.2` | 648K |
+| [**Postman**](https://marketplace.visualstudio.com/items?itemName=Postman.postman-for-vscode) | [Postman](#postman) | `postman.com` | 2025-11-20 | `1.18.0` | 2.1M |
+| [**DevSkim**](https://marketplace.visualstudio.com/items?itemName=MS-CST-E.vscode-devskim) | [MS-CST-E](#ms-cst-e) | `microsoft.com` | 2025-11-19 | `1.0.68` | 63K |
+| [**Parallels Desktop**](https://marketplace.visualstudio.com/items?itemName=ParallelsDesktop.parallels-desktop) | [ParallelsDesktop](#parallelsdesktop) | `parallels.com` | 2025-11-19 | `1.5.6` | 148K |
+| [**autopep8**](https://marketplace.visualstudio.com/items?itemName=ms-python.autopep8) | [ms-python](#ms-python) | `microsoft.com` | 2025-11-19 | `2025.3.13231724` | 5M |
+| [**Playwright Test for VSCode**](https://marketplace.visualstudio.com/items?itemName=ms-playwright.playwright) | [ms-playwright](#ms-playwright) | `microsoft.com` | 2025-11-19 | `1.1.17` | 2M |
+| [**Foam**](https://marketplace.visualstudio.com/items?itemName=foam.foam-vscode) | [foam](#foam) | `foamnotes.com` | 2025-11-19 | `0.29.1` | 212K |
+| [**Claude 4, GPT-5, DeepSeek R1, ChatGPT, Copilot, Cursor AI, Codex and Cline,  AI Copilot, and Debugger, AI Agents, Code Chat, Code Assistants, Code Generator, Code Completion, Autocomplete, Generative **](https://marketplace.visualstudio.com/items?itemName=Sixth.sixth-ai) | [Sixth](#sixth) | `trysixth.com` | 2025-11-19 | `0.0.60` | 181K |
+| [**Zig Language**](https://marketplace.visualstudio.com/items?itemName=ziglang.vscode-zig) | [ziglang](#ziglang) | `ziglang.org` | 2025-11-19 | `0.6.17` | 204K |
+| [**Angular Language Service**](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template) | [Angular](#angular) | `angular.dev` | 2025-11-18 | `21.0.0` | 9M |
+| [**Azure Resources**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureresourcegroups) | [ms-azuretools](#ms-azuretools) | `microsoft.com` | 2025-11-18 | `0.11.7` | 5.8M |
+| [**SQL Database Projects**](https://marketplace.visualstudio.com/items?itemName=ms-mssql.sql-database-projects-vscode) | [ms-mssql](#ms-mssql) | `microsoft.com` | 2025-11-18 | `1.5.5` | 4.6M |
+| [**Azure Container Apps**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurecontainerapps) | [ms-azuretools](#ms-azuretools) | `microsoft.com` | 2025-11-18 | `0.10.0` | 1.5M |
+| [**Remote - SSH**](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh) | [ms-vscode-remote](#ms-vscode-remote) | `microsoft.com` | 2025-11-18 | `0.122.2025111815` | 30.7M |
+| [**Application Wizard**](https://marketplace.visualstudio.com/items?itemName=SAPOS.yeoman-ui) | [SAPOS](#sapos) | `sap.com` | 2025-11-18 | `1.20.2` | 186K |
+| [**Bicep**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-bicep) | [ms-azuretools](#ms-azuretools) | `microsoft.com` | 2025-11-17 | `0.39.26` | 1.4M |
+| [**Azure Cosmos DB**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-cosmosdb) | [ms-azuretools](#ms-azuretools) | `microsoft.com` | 2025-11-17 | `0.31.0` | 3.2M |
+| [**Colab**](https://marketplace.visualstudio.com/items?itemName=Google.colab) | [Google](#google) | `google.com` | 2025-11-17 | `0.1.1` | 76K |
+| [**ChatGPT - Unfold AI**](https://marketplace.visualstudio.com/items?itemName=TalDennis-UnfoldAI-ChatGPT-Copilot.unfoldai) | [TalDennis-UnfoldAI-ChatGPT-Copilot](#taldennis-unfoldai-chatgpt-copilot) | `unfoldai.io` | 2025-11-17 | `1.6.4` | 90K |
+| [**Extension Pack for Java**](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack) | [vscjava](#vscjava) | `microsoft.com` | 2025-11-17 | `0.30.2025111702` | 40.1M |
+| [**Code Spell Checker**](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) | [streetsidesoftware](#streetsidesoftware) | `streetsidesoftware.com` | 2025-11-15 | `4.3.2` | 15.9M |
+| [**Figma for VS Code**](https://marketplace.visualstudio.com/items?itemName=figma.figma-vscode-extension) | [figma](#figma) | `figma.com` | 2025-11-14 | `0.4.3` | 1.8M |
+| [**Gradle for Java**](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-gradle) | [vscjava](#vscjava) | `microsoft.com` | 2025-11-14 | `3.17.2025111402` | 21.2M |
+| [**Spring Initializr Java Support**](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-spring-initializr) | [vscjava](#vscjava) | `microsoft.com` | 2025-11-14 | `0.12.0` | 5.7M |
+| [**Workbench Core**](https://marketplace.visualstudio.com/items?itemName=particle.particle-vscode-core) | [particle](#particle) | `particle.io` | 2025-11-13 | `1.16.43` | 80K |
+| [**Workbench Themes**](https://marketplace.visualstudio.com/items?itemName=particle.particle-vscode-theme) | [particle](#particle) | `particle.io` | 2025-11-13 | `1.16.43` | 127K |
+| [**Workbench Snippets**](https://marketplace.visualstudio.com/items?itemName=particle.particle-vscode-snippets) | [particle](#particle) | `particle.io` | 2025-11-13 | `1.16.43` | 78K |
+| [**Workbench**](https://marketplace.visualstudio.com/items?itemName=particle.particle-vscode-pack) | [particle](#particle) | `particle.io` | 2025-11-13 | `1.16.43` | 76K |
+| [**Shiny**](https://marketplace.visualstudio.com/items?itemName=Posit.shiny) | [Posit](#posit) | `posit.co` | 2025-11-13 | `1.3.2` | 34K |
+| [**Cody: AI Code Assistant**](https://marketplace.visualstudio.com/items?itemName=sourcegraph.cody-ai) | [sourcegraph](#sourcegraph) | `sourcegraph.com` | 2025-11-13 | `1.131.1763064690` | 769K |
+| [**ESLint**](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) | [dbaeumer](#dbaeumer) | `microsoft.com` | 2025-11-13 | `3.0.21` | 46.8M |
+| [**Arm CMSIS Solution**](https://marketplace.visualstudio.com/items?itemName=Arm.cmsis-csolution) | [Arm](#arm) | `arm.com` | 2025-11-13 | `1.62.1` | 127K |
+| [**Power User for dbt**](https://marketplace.visualstudio.com/items?itemName=innoverio.vscode-dbt-power-user) | [innoverio](#innoverio) | `altimate.ai` | 2025-11-13 | `0.58.15` | 380K |
+| [**Salesforce Industries & Omnistudio (Vlocity)**](https://marketplace.visualstudio.com/items?itemName=curlybracket.vlocode) | [curlybracket](#curlybracket) | `curlybracket.nl` | 2025-11-13 | `1.40.5` | 30K |
+| [**Uno Platform**](https://marketplace.visualstudio.com/items?itemName=unoplatform.vscode) | [unoplatform](#unoplatform) | `platform.uno` | 2025-11-13 | `0.23.6` | 40K |
+| [**Microsoft Edge Tools for VS Code**](https://marketplace.visualstudio.com/items?itemName=ms-edgedevtools.vscode-edge-devtools) | [ms-edgedevtools](#ms-edgedevtools) | `microsoft.com` | 2025-11-12 | `2.1.10` | 5.5M |
+| [**MATLAB**](https://marketplace.visualstudio.com/items?itemName=MathWorks.language-matlab) | [MathWorks](#mathworks) | `mathworks.com` | 2025-11-12 | `1.3.7` | 566K |
+| [**Firebase Data Connect**](https://marketplace.visualstudio.com/items?itemName=GoogleCloudTools.firebase-dataconnect-vscode) | [GoogleCloudTools](#googlecloudtools) | `google.com` | 2025-11-12 | `1.10.1` | 29K |
+| [**HLASM Language Support**](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.hlasm-language-support) | [broadcomMFD](#broadcommfd) | `broadcom.com` | 2025-11-12 | `1.20.0` | 28K |
+| [**Arm CMSIS Debugger**](https://marketplace.visualstudio.com/items?itemName=Arm.vscode-cmsis-debugger) | [Arm](#arm) | `arm.com` | 2025-11-12 | `1.2.0` | 32K |
+| [**Anypoint Code Builder - Platform Extension**](https://marketplace.visualstudio.com/items?itemName=salesforce.mule-dx-vscode) | [salesforce](#salesforce) | `salesforce.com` | 2025-11-12 | `5.9.8` | 52K |
+| [**Anypoint Extension Pack**](https://marketplace.visualstudio.com/items?itemName=salesforce.mule-dx-extension-pack) | [salesforce](#salesforce) | `salesforce.com` | 2025-11-12 | `1.12.2` | 41K |
+| [**Svelte for VS Code**](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode) | [svelte](#svelte) | `svelte.dev` | 2025-11-11 | `109.12.0` | 2.3M |
+| [**Snowflake**](https://marketplace.visualstudio.com/items?itemName=snowflake.snowflake-vsc) | [snowflake](#snowflake) | `snowflake.com` | 2025-11-11 | `1.20.1` | 275K |
+| [**Container Tools**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-containers) | [ms-azuretools](#ms-azuretools) | `microsoft.com` | 2025-11-10 | `2.3.0` | 6.9M |
+| [**Rocket COBOL**](https://marketplace.visualstudio.com/items?itemName=RocketSoftware.rocket-cobol) | [RocketSoftware](#rocketsoftware) | `rocketsoftware.com` | 2025-11-10 | `2.0.12` | 53K |
+| [**Radon IDE**](https://marketplace.visualstudio.com/items?itemName=swmansion.react-native-ide) | [swmansion](#swmansion) | `swmansion.com` | 2025-11-07 | `1.13.0` | 30K |
+| [**MCUXpresso for VS Code**](https://marketplace.visualstudio.com/items?itemName=NXPSemiconductors.mcuxpresso) | [NXPSemiconductors](#nxpsemiconductors) | `nxp.com` | 2025-11-07 | `25.11.16` | 35K |
+| [**Time Travel Debug for C/C++**](https://marketplace.visualstudio.com/items?itemName=Undo.udb) | [Undo](#undo) | `undo.io` | 2025-11-07 | `2.1.11` | 35K |
+| [**GitHub Issue Notebooks**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-github-issue-notebooks) | [ms-vscode](#ms-vscode) | `microsoft.com` | 2025-11-07 | `0.0.134` | 255K |
+| [**Calva: Clojure & ClojureScript Interactive Programming**](https://marketplace.visualstudio.com/items?itemName=betterthantomorrow.calva) | [betterthantomorrow](#betterthantomorrow) | `calva.io` | 2025-11-06 | `2.0.540` | 208K |
+| [**Checkmarx One**](https://marketplace.visualstudio.com/items?itemName=checkmarx.ast-results) | [checkmarx](#checkmarx) | `checkmarx.com` | 2025-11-06 | `2.42.0` | 31K |
+| [**vscode-openapi-viewer**](https://marketplace.visualstudio.com/items?itemName=AndrewButson.vscode-openapi-viewer) | [AndrewButson](#andrewbutson) | `arbs.io` | 2025-11-06 | `1.1.5` | 33K |
+| [**BLACKBOXAI #1 AI Coding Agent and Coding Copilot**](https://marketplace.visualstudio.com/items?itemName=Blackboxapp.blackbox) | [Blackboxapp](#blackboxapp) | `blackbox.ai` | 2025-11-06 | `2.8.51` | 4.6M |
+
+</details>
+
+<p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
+
+---
+
+## 🏷️ Extensions by Category
+
+> **Browse verified extensions grouped by Marketplace category** — mirrors `@category:"..."`
+
+### Category Index
+
+| Category | Extensions | Top Extension |
+|----------|:----------:|---------------|
+| [AI](#category-ai) | 53 | GitHub Copilot (62.5M) |
+| [Azure](#category-azure) | 49 | Azure Account (9.1M) |
+| [Chat](#category-chat) | 44 | GitHub Copilot (62.5M) |
+| [Data Science](#category-data-science) | 41 | Python (194.9M) |
+| [Debuggers](#category-debuggers) | 118 | Python (194.9M) |
+| [Education](#category-education) | 32 | WakaTime (22.9M) |
+| [Extension Packs](#category-extension-packs) | 46 | Jupyter (98.8M) |
+| [Formatters](#category-formatters) | 73 | C/C++ (91.7M) |
+| [Keymaps](#category-keymaps) | 12 | MySQL (2.5M) |
+| [Language Packs](#category-language-packs) | 19 | Chinese (Simplified) (简体中文) Language Pack for Visual Studio Code (46.5M) |
+| [Linters](#category-linters) | 129 | C/C++ (91.7M) |
+| [Machine Learning](#category-machine-learning) | 60 | Python (194.9M) |
+| [Notebooks](#category-notebooks) | 23 | Jupyter (98.8M) |
+| [Other](#category-other) | 160 | IntelliCode (60.3M) |
+| [Programming Languages](#category-programming-languages) | 284 | Python (194.9M) |
+| [SCM Providers](#category-scm-providers) | 5 | GitLens — Git supercharged (45.8M) |
+| [Snippets](#category-snippets) | 127 | C/C++ (91.7M) |
+| [Testing](#category-testing) | 54 | Test Runner for Java (40.6M) |
+| [Themes](#category-themes) | 26 | C/C++ Themes (50.5M) |
+| [Visualization](#category-visualization) | 41 | Jupyter (98.8M) |
+
+<p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
+
+---
+
+### <a id="category-ai"></a>📂 AI
+<details>
+<summary><strong>53 extensions in this category</strong></summary>
+
+| Extension | Publisher | Installs | Rating |
+|-----------|-----------|:--------:|:------:|
+| [**GitHub Copilot**](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) | [GitHub](#github) | 62.5M | ⭐ 4.1 |
+| [**GitHub Copilot Chat**](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat) | [GitHub](#github) | 51.7M | ⭐ 3.7 |
+| [**GitHub Pull Requests**](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github) | [GitHub](#github) | 31.5M | ⭐ 4.1 |
+| [**Spring Boot Tools**](https://marketplace.visualstudio.com/items?itemName=vmware.vscode-spring-boot) | [vmware](#vmware) | 4.9M | ⭐ 5 |
+| [**SonarQube for IDE**](https://marketplace.visualstudio.com/items?itemName=SonarSource.sonarlint-vscode) | [SonarSource](#sonarsource) | 4M | ⭐ 3.8 |
+| [**MongoDB for VS Code**](https://marketplace.visualstudio.com/items?itemName=mongodb.mongodb-vscode) | [mongodb](#mongodb) | 2.7M | ⭐ 4.4 |
+| [**Cline**](https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev) | [saoudrizwan](#saoudrizwan) | 2.7M | ⭐ 4.6 |
+| [**Codex – OpenAI’s coding agent**](https://marketplace.visualstudio.com/items?itemName=openai.chatgpt) | [openai](#openai) | 2.4M | ⭐ 3.5 |
+| [**Gemini Code Assist**](https://marketplace.visualstudio.com/items?itemName=Google.geminicodeassist) | [Google](#google) | 2.3M | ⭐ 2.1 |
+| [**Claude Code for VS Code**](https://marketplace.visualstudio.com/items?itemName=anthropic.claude-code) | [anthropic](#anthropic) | 2.1M | ⭐ 3.9 |
+| [**BLACKBOXAI Agent - Coding Copilot**](https://marketplace.visualstudio.com/items?itemName=Blackboxapp.blackboxagent) | [Blackboxapp](#blackboxapp) | 2.1M | ⭐ 3.8 |
+| [**Continue - open-source AI code agent**](https://marketplace.visualstudio.com/items?itemName=Continue.continue) | [Continue](#continue) | 1.8M | ⭐ 3.9 |
+| [**Ruby LSP**](https://marketplace.visualstudio.com/items?itemName=Shopify.ruby-lsp) | [Shopify](#shopify) | 1.7M | ⭐ 2.8 |
+| [**Amazon Q**](https://marketplace.visualstudio.com/items?itemName=AmazonWebServices.amazon-q-vscode) | [AmazonWebServices](#amazonwebservices) | 1.4M | ⭐ 4.1 |
+| [**Console Ninja**](https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja) | [WallabyJs](#wallabyjs) | 1.3M | ⭐ 2.9 |
+| [**Roo Code**](https://marketplace.visualstudio.com/items?itemName=RooVeterinaryInc.roo-cline) | [RooVeterinaryInc](#rooveterinaryinc) | 1.1M | ⭐ 4.9 |
+| [**Keploy: AI Testing Assistant for Developers – Supercharge Unit, Integration, and API Testing in Python, JavaScript, TypeScript, Java, PHP, Go, and More**](https://marketplace.visualstudio.com/items?itemName=Keploy.keployio) | [Keploy](#keploy) | 1M | ⭐ 4.9 |
+| [**GitHub Copilot for Azure**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azure-github-copilot) | [ms-azuretools](#ms-azuretools) | 867K | ⭐ 3.7 |
+| [**Qodo: AI Code Review**](https://marketplace.visualstudio.com/items?itemName=Codium.codium) | [Codium](#codium) | 793K | ⭐ 4.7 |
+| [**Cody: AI Code Assistant**](https://marketplace.visualstudio.com/items?itemName=sourcegraph.cody-ai) | [sourcegraph](#sourcegraph) | 769K | ⭐ 4 |
+| [**Augment Code: AI Coding Agent for JavaScript, Go, TypeScript, Python & more**](https://marketplace.visualstudio.com/items?itemName=augment.vscode-augment) | [augment](#augment) | 648K | ⭐ 3.7 |
+| [**AI Toolkit for Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=ms-windows-ai-studio.windows-ai-studio) | [ms-windows-ai-studio](#ms-windows-ai-studio) | 621K | ⭐ 4.4 |
+| [**Kilo Code AI Agent**](https://marketplace.visualstudio.com/items?itemName=kilocode.Kilo-Code) | [kilocode](#kilocode) | 535K | ⭐ 4.5 |
+| [**GitHub Copilot app modernization**](https://marketplace.visualstudio.com/items?itemName=vscjava.migrate-java-to-azure) | [vscjava](#vscjava) | 476K | ⭐ 1.9 |
+| [**Microsoft Foundry**](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.vscode-ai-foundry) | [TeamsDevApp](#teamsdevapp) | 467K | ⭐ 3.7 |
+| [**GitHub Copilot app modernization - upgrade for Java**](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-upgrade) | [vscjava](#vscjava) | 462K | ⭐ 2.1 |
+| [**Gemini CLI Companion**](https://marketplace.visualstudio.com/items?itemName=Google.gemini-cli-vscode-ide-companion) | [Google](#google) | 374K | ⭐ 4.2 |
+| [**Azure Load Testing**](https://marketplace.visualstudio.com/items?itemName=ms-azure-load-testing.microsoft-testing) | [ms-azure-load-testing](#ms-azure-load-testing) | 337K | ⭐ 5 |
+| [**Azure MCP Server**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azure-mcp-server) | [ms-azuretools](#ms-azuretools) | 326K | ⭐ 5 |
+| [**Wallaby.js**](https://marketplace.visualstudio.com/items?itemName=WallabyJs.wallaby-vscode) | [WallabyJs](#wallabyjs) | 304K | ⭐ 4.2 |
+| [**Power Platform Tools**](https://marketplace.visualstudio.com/items?itemName=microsoft-IsvExpTools.powerplatform-vscode) | [microsoft-IsvExpTools](#microsoft-isvexptools) | 263K | ⭐ 3.8 |
+| [**Claude 4, GPT-5, DeepSeek R1, ChatGPT, Copilot, Cursor AI, Codex and Cline,  AI Copilot, and Debugger, AI Agents, Code Chat, Code Assistants, Code Generator, Code Completion, Autocomplete, Generative **](https://marketplace.visualstudio.com/items?itemName=Sixth.sixth-ai) | [Sixth](#sixth) | 181K | ⭐ 3.6 |
+| [**Parallels Desktop**](https://marketplace.visualstudio.com/items?itemName=ParallelsDesktop.parallels-desktop) | [ParallelsDesktop](#parallelsdesktop) | 148K | ⭐ 5 |
+| [**Web Search for Copilot**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-websearchforcopilot) | [ms-vscode](#ms-vscode) | 128K | ⭐ 3.2 |
+| [**DBCode - Database Management**](https://marketplace.visualstudio.com/items?itemName=DBCode.dbcode) | [DBCode](#dbcode) | 109K | ⭐ 4.8 |
+| [**vscode-mermAId**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.copilot-mermaid-diagram) | [ms-vscode](#ms-vscode) | 89K | ⭐ 5 |
+| [**Vision for Copilot Preview**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-copilot-vision) | [ms-vscode](#ms-vscode) | 75K | ⭐ 4 |
+| [**CodeViz | Visual codebase maps**](https://marketplace.visualstudio.com/items?itemName=CodeViz.codeviz) | [CodeViz](#codeviz) | 73K | ⭐ 4 |
+| [**Amp (Research Preview)**](https://marketplace.visualstudio.com/items?itemName=sourcegraph.amp) | [sourcegraph](#sourcegraph) | 70K | ⭐ 4.4 |
+| [**Front Matter CMS**](https://marketplace.visualstudio.com/items?itemName=eliostruyf.vscode-front-matter) | [eliostruyf](#eliostruyf) | 67K | ⭐ 5 |
+| [**AppMap**](https://marketplace.visualstudio.com/items?itemName=appland.appmap) | [appland](#appland) | 66K | ⭐ 4.9 |
+| [**Supabase**](https://marketplace.visualstudio.com/items?itemName=Supabase.vscode-supabase-extension) | [Supabase](#supabase) | 65K | ⭐ 4.9 |
+| [**Context7 MCP Server**](https://marketplace.visualstudio.com/items?itemName=Upstash.context7-mcp) | [Upstash](#upstash) | 58K | ⭐ 5 |
+| [**Datadog**](https://marketplace.visualstudio.com/items?itemName=Datadog.datadog-vscode) | [Datadog](#datadog) | 55K | ⭐ 5 |
+| [**Refact – Open-Source AI Agent, Code Generator & Chat for JavaScript, Python, TypeScript, Java, PHP, Go, and more.**](https://marketplace.visualstudio.com/items?itemName=smallcloud.codify) | [smallcloud](#smallcloud) | 51K | ⭐ 4.1 |
+| [**watsonx Code Assistant**](https://marketplace.visualstudio.com/items?itemName=IBM.wca-core) | [IBM](#ibm) | 44K | ⭐ 5 |
+| [**SCOPE Studio for VS Code**](https://marketplace.visualstudio.com/items?itemName=ms-ssdevteam.scope-vscode-ext) | [ms-ssdevteam](#ms-ssdevteam) | 42K | ⭐ 5 |
+| [**GoCodeo: Best of Cursor and Lovable, Combined**](https://marketplace.visualstudio.com/items?itemName=GoCodeo.gocodeo) | [GoCodeo](#gocodeo) | 34K | ⭐ 4.5 |
+| [**IDL for VSCode**](https://marketplace.visualstudio.com/items?itemName=IDL.idl-for-vscode) | [IDL](#idl) | 32K | ⭐ 5 |
+| [**WiseGPT (Coding Assistant by DhiWise)**](https://marketplace.visualstudio.com/items?itemName=dhiwisepvtltd.dhiwisecodesync) | [dhiwisepvtltd](#dhiwisepvtltd) | 32K | ⭐ 4.3 |
+| [**Data Analysis for Copilot**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-copilot-data-analysis) | [ms-vscode](#ms-vscode) | 31K | ⭐ 3.8 |
+| [**Python Data Science**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.python-ds-extension-pack) | [ms-toolsai](#ms-toolsai) | 29K | ⭐ 5 |
+| [**Purecode AI - AI Coding Agent for Legacy Codebases**](https://marketplace.visualstudio.com/items?itemName=PurecodeAI.purecode-ai) | [PurecodeAI](#purecodeai) | 29K | ⭐ 4.9 |
+
+</details>
+
+<p align="right"><a href="#-extensions-by-category">⬆️ Back to Categories</a> · <a href="#-table-of-contents">⬆️ Back to Top</a></p>
+
+---
+
+### <a id="category-azure"></a>📂 Azure
+<details>
+<summary><strong>49 extensions in this category</strong></summary>
+
+| Extension | Publisher | Installs | Rating |
+|-----------|-----------|:--------:|:------:|
+| [**Azure Account**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.azure-account) | [ms-vscode](#ms-vscode) | 9.1M | ⭐ 2.1 |
+| [**SQL Server (mssql)**](https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql) | [ms-mssql](#ms-mssql) | 8.6M | ⭐ 3.1 |
+| [**Container Tools**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-containers) | [ms-azuretools](#ms-azuretools) | 6.9M | ⭐ 3.6 |
+| [**Kubernetes**](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.vscode-kubernetes-tools) | [ms-kubernetes-tools](#ms-kubernetes-tools) | 6.3M | ⭐ 4.4 |
+| [**Azure Resources**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureresourcegroups) | [ms-azuretools](#ms-azuretools) | 5.8M | ⭐ 2.5 |
+| [**Azure Functions**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions) | [ms-azuretools](#ms-azuretools) | 5.6M | ⭐ 3.2 |
+| [**Azure Cosmos DB**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-cosmosdb) | [ms-azuretools](#ms-azuretools) | 3.2M | ⭐ 3.2 |
+| [**Azure App Service**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureappservice) | [ms-azuretools](#ms-azuretools) | 2.9M | ⭐ 3.4 |
+| [**Azure Machine Learning**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.vscode-ai) | [ms-toolsai](#ms-toolsai) | 2.7M | ⭐ 4.6 |
+| [**Azure Machine Learning - Remote**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.vscode-ai-remote) | [ms-toolsai](#ms-toolsai) | 2.5M | ⭐ 3.2 |
+| [**Azure Storage**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurestorage) | [ms-azuretools](#ms-azuretools) | 2.4M | ⭐ 3 |
+| [**Azure CLI Tools**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.azurecli) | [ms-vscode](#ms-vscode) | 2.3M | ⭐ 3.2 |
+| [**Azure Virtual Machines**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurevirtualmachines) | [ms-azuretools](#ms-azuretools) | 2M | ⭐ 5 |
+| [**Azure Tools**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-node-azure-pack) | [ms-vscode](#ms-vscode) | 2M | ⭐ 2.9 |
+| [**Azure Static Web Apps**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurestaticwebapps) | [ms-azuretools](#ms-azuretools) | 1.9M | ⭐ 3 |
+| [**Azure Developer CLI**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.azure-dev) | [ms-azuretools](#ms-azuretools) | 1.7M | ⭐ 5 |
+| [**Azure Container Apps**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurecontainerapps) | [ms-azuretools](#ms-azuretools) | 1.5M | — |
+| [**Azure Resource Manager (ARM) Tools**](https://marketplace.visualstudio.com/items?itemName=msazurermtools.azurerm-vscode-tools) | [msazurermtools](#msazurermtools) | 1.5M | ⭐ 4.2 |
+| [**Bicep**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-bicep) | [ms-azuretools](#ms-azuretools) | 1.4M | ⭐ 5 |
+| [**Azure Pipelines**](https://marketplace.visualstudio.com/items?itemName=ms-azure-devops.azure-pipelines) | [ms-azure-devops](#ms-azure-devops) | 1.4M | ⭐ 2.4 |
+| [**Microsoft Terraform**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureterraform) | [ms-azuretools](#ms-azuretools) | 1.1M | ⭐ 3.9 |
+| [**GitHub Copilot for Azure**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azure-github-copilot) | [ms-azuretools](#ms-azuretools) | 867K | ⭐ 3.7 |
+| [**AI Toolkit for Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=ms-windows-ai-studio.windows-ai-studio) | [ms-windows-ai-studio](#ms-windows-ai-studio) | 621K | ⭐ 4.4 |
+| [**Bridge to Kubernetes**](https://marketplace.visualstudio.com/items?itemName=mindaro.mindaro) | [mindaro](#mindaro) | 488K | ⭐ 4.8 |
+| [**Microsoft Foundry**](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.vscode-ai-foundry) | [TeamsDevApp](#teamsdevapp) | 467K | ⭐ 3.7 |
+| [**learn-yaml**](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-yaml) | [docsmsft](#docsmsft) | 466K | ⭐ 5 |
+| [**Azure IoT Hub**](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.azure-iot-toolkit) | [vsciot-vscode](#vsciot-vscode) | 435K | ⭐ 4.6 |
+| [**Azure Kubernetes Service**](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.vscode-aks-tools) | [ms-kubernetes-tools](#ms-kubernetes-tools) | 402K | ⭐ 4.8 |
+| [**Microsoft 365 Agents Toolkit**](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.ms-teams-vscode-extension) | [TeamsDevApp](#teamsdevapp) | 393K | ⭐ 3.5 |
+| [**Azure Load Testing**](https://marketplace.visualstudio.com/items?itemName=ms-azure-load-testing.microsoft-testing) | [ms-azure-load-testing](#ms-azure-load-testing) | 337K | ⭐ 5 |
+| [**Azure MCP Server**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azure-mcp-server) | [ms-azuretools](#ms-azuretools) | 326K | ⭐ 5 |
+| [**Azure Data Lake Tools**](https://marketplace.visualstudio.com/items?itemName=usqlextpublisher.usql-vscode-ext) | [usqlextpublisher](#usqlextpublisher) | 310K | ⭐ 2.3 |
+| [**PostgreSQL**](https://marketplace.visualstudio.com/items?itemName=ms-ossdata.vscode-pgsql) | [ms-ossdata](#ms-ossdata) | 299K | ⭐ 4.5 |
+| [**Azure IoT Edge**](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.azure-iot-edge) | [vsciot-vscode](#vsciot-vscode) | 257K | ⭐ 4.2 |
+| [**Azure API Management**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-apimanagement) | [ms-azuretools](#ms-azuretools) | 246K | ⭐ 4.2 |
+| [**Azure Logic Apps (Consumption)**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-logicapps) | [ms-azuretools](#ms-azuretools) | 176K | ⭐ 2.8 |
+| [**OpenShift Toolkit**](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-openshift-connector) | [redhat](#redhat) | 136K | ⭐ 5 |
+| [**Databricks Power Tools**](https://marketplace.visualstudio.com/items?itemName=paiqo.databricks-vscode) | [paiqo](#paiqo) | 134K | ⭐ 4.3 |
+| [**Azure PowerShell Tools**](https://marketplace.visualstudio.com/items?itemName=azps-tools.azps-tools) | [azps-tools](#azps-tools) | 124K | ⭐ 2 |
+| [**Azure Logic Apps (Standard)**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurelogicapps) | [ms-azuretools](#ms-azuretools) | 115K | ⭐ 3.6 |
+| [**Azure Automation**](https://marketplace.visualstudio.com/items?itemName=azure-automation.vscode-azureautomation) | [azure-automation](#azure-automation) | 88K | ⭐ 3.9 |
+| [**Remote - Kubernetes**](https://marketplace.visualstudio.com/items?itemName=okteto.remote-kubernetes) | [okteto](#okteto) | 81K | ⭐ 5 |
+| [**Spark & Hive Tools**](https://marketplace.visualstudio.com/items?itemName=mshdinsight.azure-hdinsight) | [mshdinsight](#mshdinsight) | 72K | ⭐ 3 |
+| [**Power BI Studio**](https://marketplace.visualstudio.com/items?itemName=GerhardBrueckl.powerbi-vscode) | [GerhardBrueckl](#gerhardbrueckl) | 57K | ⭐ 5 |
+| [**Azure Cache**](https://marketplace.visualstudio.com/items?itemName=ms-azurecache.vscode-azurecache) | [ms-azurecache](#ms-azurecache) | 49K | ⭐ 4 |
+| [**Prompty**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.prompty) | [ms-toolsai](#ms-toolsai) | 46K | ⭐ 3.5 |
+| [**Azure Stream Analytics Tools**](https://marketplace.visualstudio.com/items?itemName=ms-bigdatatools.vscode-asa) | [ms-bigdatatools](#ms-bigdatatools) | 45K | ⭐ 5 |
+| [**SCOPE Studio for VS Code**](https://marketplace.visualstudio.com/items?itemName=ms-ssdevteam.scope-vscode-ext) | [ms-ssdevteam](#ms-ssdevteam) | 42K | ⭐ 5 |
+| [**Azure Event Grid**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureeventgrid) | [ms-azuretools](#ms-azuretools) | 38K | — |
+
+</details>
+
+<p align="right"><a href="#-extensions-by-category">⬆️ Back to Categories</a> · <a href="#-table-of-contents">⬆️ Back to Top</a></p>
+
+---
+
+### <a id="category-chat"></a>📂 Chat
+<details>
+<summary><strong>44 extensions in this category</strong></summary>
+
+| Extension | Publisher | Installs | Rating |
+|-----------|-----------|:--------:|:------:|
+| [**GitHub Copilot**](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) | [GitHub](#github) | 62.5M | ⭐ 4.1 |
+| [**GitHub Copilot Chat**](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat) | [GitHub](#github) | 51.7M | ⭐ 3.7 |
+| [**GitHub Pull Requests**](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github) | [GitHub](#github) | 31.5M | ⭐ 4.1 |
+| [**Spring Boot Tools**](https://marketplace.visualstudio.com/items?itemName=vmware.vscode-spring-boot) | [vmware](#vmware) | 4.9M | ⭐ 5 |
+| [**MongoDB for VS Code**](https://marketplace.visualstudio.com/items?itemName=mongodb.mongodb-vscode) | [mongodb](#mongodb) | 2.7M | ⭐ 4.4 |
+| [**Cline**](https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev) | [saoudrizwan](#saoudrizwan) | 2.7M | ⭐ 4.6 |
+| [**Codex – OpenAI’s coding agent**](https://marketplace.visualstudio.com/items?itemName=openai.chatgpt) | [openai](#openai) | 2.4M | ⭐ 3.5 |
+| [**Gemini Code Assist**](https://marketplace.visualstudio.com/items?itemName=Google.geminicodeassist) | [Google](#google) | 2.3M | ⭐ 2.1 |
+| [**Claude Code for VS Code**](https://marketplace.visualstudio.com/items?itemName=anthropic.claude-code) | [anthropic](#anthropic) | 2.1M | ⭐ 3.9 |
+| [**Continue - open-source AI code agent**](https://marketplace.visualstudio.com/items?itemName=Continue.continue) | [Continue](#continue) | 1.8M | ⭐ 3.9 |
+| [**Ruby LSP**](https://marketplace.visualstudio.com/items?itemName=Shopify.ruby-lsp) | [Shopify](#shopify) | 1.7M | ⭐ 2.8 |
+| [**Amazon Q**](https://marketplace.visualstudio.com/items?itemName=AmazonWebServices.amazon-q-vscode) | [AmazonWebServices](#amazonwebservices) | 1.4M | ⭐ 4.1 |
+| [**Console Ninja**](https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja) | [WallabyJs](#wallabyjs) | 1.3M | ⭐ 2.9 |
+| [**Roo Code**](https://marketplace.visualstudio.com/items?itemName=RooVeterinaryInc.roo-cline) | [RooVeterinaryInc](#rooveterinaryinc) | 1.1M | ⭐ 4.9 |
+| [**Keploy: AI Testing Assistant for Developers – Supercharge Unit, Integration, and API Testing in Python, JavaScript, TypeScript, Java, PHP, Go, and More**](https://marketplace.visualstudio.com/items?itemName=Keploy.keployio) | [Keploy](#keploy) | 1M | ⭐ 4.9 |
+| [**GitHub Copilot for Azure**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azure-github-copilot) | [ms-azuretools](#ms-azuretools) | 867K | ⭐ 3.7 |
+| [**Qodo: AI Code Review**](https://marketplace.visualstudio.com/items?itemName=Codium.codium) | [Codium](#codium) | 793K | ⭐ 4.7 |
+| [**Cody: AI Code Assistant**](https://marketplace.visualstudio.com/items?itemName=sourcegraph.cody-ai) | [sourcegraph](#sourcegraph) | 769K | ⭐ 4 |
+| [**Augment Code: AI Coding Agent for JavaScript, Go, TypeScript, Python & more**](https://marketplace.visualstudio.com/items?itemName=augment.vscode-augment) | [augment](#augment) | 648K | ⭐ 3.7 |
+| [**AI Toolkit for Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=ms-windows-ai-studio.windows-ai-studio) | [ms-windows-ai-studio](#ms-windows-ai-studio) | 621K | ⭐ 4.4 |
+| [**Kilo Code AI Agent**](https://marketplace.visualstudio.com/items?itemName=kilocode.Kilo-Code) | [kilocode](#kilocode) | 535K | ⭐ 4.5 |
+| [**GitHub Copilot app modernization**](https://marketplace.visualstudio.com/items?itemName=vscjava.migrate-java-to-azure) | [vscjava](#vscjava) | 476K | ⭐ 1.9 |
+| [**GitHub Copilot app modernization - upgrade for Java**](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-upgrade) | [vscjava](#vscjava) | 462K | ⭐ 2.1 |
+| [**Azure MCP Server**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azure-mcp-server) | [ms-azuretools](#ms-azuretools) | 326K | ⭐ 5 |
+| [**Wallaby.js**](https://marketplace.visualstudio.com/items?itemName=WallabyJs.wallaby-vscode) | [WallabyJs](#wallabyjs) | 304K | ⭐ 4.2 |
+| [**Power Platform Tools**](https://marketplace.visualstudio.com/items?itemName=microsoft-IsvExpTools.powerplatform-vscode) | [microsoft-IsvExpTools](#microsoft-isvexptools) | 263K | ⭐ 3.8 |
+| [**Claude 4, GPT-5, DeepSeek R1, ChatGPT, Copilot, Cursor AI, Codex and Cline,  AI Copilot, and Debugger, AI Agents, Code Chat, Code Assistants, Code Generator, Code Completion, Autocomplete, Generative **](https://marketplace.visualstudio.com/items?itemName=Sixth.sixth-ai) | [Sixth](#sixth) | 181K | ⭐ 3.6 |
+| [**Parallels Desktop**](https://marketplace.visualstudio.com/items?itemName=ParallelsDesktop.parallels-desktop) | [ParallelsDesktop](#parallelsdesktop) | 148K | ⭐ 5 |
+| [**Web Search for Copilot**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-websearchforcopilot) | [ms-vscode](#ms-vscode) | 128K | ⭐ 3.2 |
+| [**DBCode - Database Management**](https://marketplace.visualstudio.com/items?itemName=DBCode.dbcode) | [DBCode](#dbcode) | 109K | ⭐ 4.8 |
+| [**vscode-mermAId**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.copilot-mermaid-diagram) | [ms-vscode](#ms-vscode) | 89K | ⭐ 5 |
+| [**Vision for Copilot Preview**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-copilot-vision) | [ms-vscode](#ms-vscode) | 75K | ⭐ 4 |
+| [**CodeViz | Visual codebase maps**](https://marketplace.visualstudio.com/items?itemName=CodeViz.codeviz) | [CodeViz](#codeviz) | 73K | ⭐ 4 |
+| [**Amp (Research Preview)**](https://marketplace.visualstudio.com/items?itemName=sourcegraph.amp) | [sourcegraph](#sourcegraph) | 70K | ⭐ 4.4 |
+| [**AppMap**](https://marketplace.visualstudio.com/items?itemName=appland.appmap) | [appland](#appland) | 66K | ⭐ 4.9 |
+| [**Supabase**](https://marketplace.visualstudio.com/items?itemName=Supabase.vscode-supabase-extension) | [Supabase](#supabase) | 65K | ⭐ 4.9 |
+| [**Context7 MCP Server**](https://marketplace.visualstudio.com/items?itemName=Upstash.context7-mcp) | [Upstash](#upstash) | 58K | ⭐ 5 |
+| [**Refact – Open-Source AI Agent, Code Generator & Chat for JavaScript, Python, TypeScript, Java, PHP, Go, and more.**](https://marketplace.visualstudio.com/items?itemName=smallcloud.codify) | [smallcloud](#smallcloud) | 51K | ⭐ 4.1 |
+| [**watsonx Code Assistant**](https://marketplace.visualstudio.com/items?itemName=IBM.wca-core) | [IBM](#ibm) | 44K | ⭐ 5 |
+| [**SCOPE Studio for VS Code**](https://marketplace.visualstudio.com/items?itemName=ms-ssdevteam.scope-vscode-ext) | [ms-ssdevteam](#ms-ssdevteam) | 42K | ⭐ 5 |
+| [**GoCodeo: Best of Cursor and Lovable, Combined**](https://marketplace.visualstudio.com/items?itemName=GoCodeo.gocodeo) | [GoCodeo](#gocodeo) | 34K | ⭐ 4.5 |
+| [**WiseGPT (Coding Assistant by DhiWise)**](https://marketplace.visualstudio.com/items?itemName=dhiwisepvtltd.dhiwisecodesync) | [dhiwisepvtltd](#dhiwisepvtltd) | 32K | ⭐ 4.3 |
+| [**Data Analysis for Copilot**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-copilot-data-analysis) | [ms-vscode](#ms-vscode) | 31K | ⭐ 3.8 |
+| [**Purecode AI - AI Coding Agent for Legacy Codebases**](https://marketplace.visualstudio.com/items?itemName=PurecodeAI.purecode-ai) | [PurecodeAI](#purecodeai) | 29K | ⭐ 4.9 |
+
+</details>
+
+<p align="right"><a href="#-extensions-by-category">⬆️ Back to Categories</a> · <a href="#-table-of-contents">⬆️ Back to Top</a></p>
+
+---
+
+### <a id="category-data-science"></a>📂 Data Science
+<details>
+<summary><strong>41 extensions in this category</strong></summary>
+
+| Extension | Publisher | Installs | Rating |
+|-----------|-----------|:--------:|:------:|
+| [**Python**](https://marketplace.visualstudio.com/items?itemName=ms-python.python) | [ms-python](#ms-python) | 194.9M | ⭐ 4.2 |
+| [**Jupyter**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter) | [ms-toolsai](#ms-toolsai) | 98.8M | ⭐ 2.7 |
+| [**Jupyter Notebook Renderers**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter-renderers) | [ms-toolsai](#ms-toolsai) | 77.7M | ⭐ 2.8 |
+| [**Azure Cosmos DB**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-cosmosdb) | [ms-azuretools](#ms-azuretools) | 3.2M | ⭐ 3.2 |
+| [**MongoDB for VS Code**](https://marketplace.visualstudio.com/items?itemName=mongodb.mongodb-vscode) | [mongodb](#mongodb) | 2.7M | ⭐ 4.4 |
+| [**CodeGPT: Chat & AI Agents**](https://marketplace.visualstudio.com/items?itemName=DanielSanMedium.dscodegpt) | [DanielSanMedium](#danielsanmedium) | 2.2M | ⭐ 3.5 |
+| [**Polyglot Notebooks**](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.dotnet-interactive-vscode) | [ms-dotnettools](#ms-dotnettools) | 1.8M | ⭐ 4.1 |
+| [**Data Wrangler**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.datawrangler) | [ms-toolsai](#ms-toolsai) | 1.6M | ⭐ 4.5 |
+| [**Keploy: AI Testing Assistant for Developers – Supercharge Unit, Integration, and API Testing in Python, JavaScript, TypeScript, Java, PHP, Go, and More**](https://marketplace.visualstudio.com/items?itemName=Keploy.keployio) | [Keploy](#keploy) | 1M | ⭐ 4.9 |
+| [**Julia**](https://marketplace.visualstudio.com/items?itemName=julialang.language-julia) | [julialang](#julialang) | 980K | ⭐ 4.5 |
+| [**Jupyter PowerToys**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.vscode-jupyter-powertoys) | [ms-toolsai](#ms-toolsai) | 792K | ⭐ 4.7 |
+| [**Fitten Code : Faster and Better AI Assistant**](https://marketplace.visualstudio.com/items?itemName=FittenTech.Fitten-Code) | [FittenTech](#fittentech) | 691K | ⭐ 4.3 |
+| [**AI Toolkit for Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=ms-windows-ai-studio.windows-ai-studio) | [ms-windows-ai-studio](#ms-windows-ai-studio) | 621K | ⭐ 4.4 |
+| [**Tensorboard**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.tensorboard) | [ms-toolsai](#ms-toolsai) | 550K | ⭐ 5 |
+| [**Power User for dbt**](https://marketplace.visualstudio.com/items?itemName=innoverio.vscode-dbt-power-user) | [innoverio](#innoverio) | 380K | ⭐ 5 |
+| [**MySQL Shell for VS Code**](https://marketplace.visualstudio.com/items?itemName=Oracle.mysql-shell-for-vs-code) | [Oracle](#oracle) | 371K | ⭐ 3.8 |
+| [**Quarto**](https://marketplace.visualstudio.com/items?itemName=quarto.quarto) | [quarto](#quarto) | 299K | ⭐ 4.9 |
+| [**Snowflake**](https://marketplace.visualstudio.com/items?itemName=snowflake.snowflake-vsc) | [snowflake](#snowflake) | 275K | ⭐ 4.1 |
+| [**JupyterHub**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter-hub) | [ms-toolsai](#ms-toolsai) | 253K | — |
+| [**Databricks**](https://marketplace.visualstudio.com/items?itemName=databricks.databricks) | [databricks](#databricks) | 253K | ⭐ 3.6 |
+| [**SandDance for VSCode**](https://marketplace.visualstudio.com/items?itemName=msrvida.vscode-sanddance) | [msrvida](#msrvida) | 138K | ⭐ 4.7 |
+| [**Databricks Power Tools**](https://marketplace.visualstudio.com/items?itemName=paiqo.databricks-vscode) | [paiqo](#paiqo) | 134K | ⭐ 4.3 |
+| [**Gather**](https://marketplace.visualstudio.com/items?itemName=ms-python.gather) | [ms-python](#ms-python) | 119K | ⭐ 5 |
+| [**DBCode - Database Management**](https://marketplace.visualstudio.com/items?itemName=DBCode.dbcode) | [DBCode](#dbcode) | 109K | ⭐ 4.8 |
+| [**vscode-openai**](https://marketplace.visualstudio.com/items?itemName=AndrewButson.vscode-openai) | [AndrewButson](#andrewbutson) | 108K | ⭐ 4.4 |
+| [**Metabob: Debug and Refactor with AI**](https://marketplace.visualstudio.com/items?itemName=Metabob.metabob) | [Metabob](#metabob) | 99K | ⭐ 4.8 |
+| [**ChatGPT - Unfold AI**](https://marketplace.visualstudio.com/items?itemName=TalDennis-UnfoldAI-ChatGPT-Copilot.unfoldai) | [TalDennis-UnfoldAI-ChatGPT-Copilot](#taldennis-unfoldai-chatgpt-copilot) | 90K | ⭐ 4.1 |
+| [**DVC**](https://marketplace.visualstudio.com/items?itemName=Iterative.dvc) | [Iterative](#iterative) | 82K | ⭐ 4.8 |
+| [**SAS**](https://marketplace.visualstudio.com/items?itemName=SAS.sas-lsp) | [SAS](#sas) | 77K | ⭐ 4.8 |
+| [**Fabric Data Engineering VS Code**](https://marketplace.visualstudio.com/items?itemName=SynapseVSCode.synapse) | [SynapseVSCode](#synapsevscode) | 70K | ⭐ 1.8 |
+| [**Databricks Driver for SQLTools**](https://marketplace.visualstudio.com/items?itemName=databricks.sqltools-databricks-driver) | [databricks](#databricks) | 66K | ⭐ 4.8 |
+| [**Semantic Kernel Tools**](https://marketplace.visualstudio.com/items?itemName=ms-semantic-kernel.semantic-kernel) | [ms-semantic-kernel](#ms-semantic-kernel) | 53K | ⭐ 5 |
+| [**Refact – Open-Source AI Agent, Code Generator & Chat for JavaScript, Python, TypeScript, Java, PHP, Go, and more.**](https://marketplace.visualstudio.com/items?itemName=smallcloud.codify) | [smallcloud](#smallcloud) | 51K | ⭐ 4.1 |
+| [**JSON Flow**](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-json-flow) | [imgildev](#imgildev) | 49K | ⭐ 5 |
+| [**Plotly Express Snippets**](https://marketplace.visualstudio.com/items?itemName=analytic-signal.snippets-plotly) | [analytic-signal](#analytic-signal) | 47K | ⭐ 5 |
+| [**Prompty**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.prompty) | [ms-toolsai](#ms-toolsai) | 46K | ⭐ 3.5 |
+| [**Microsoft Fabric**](https://marketplace.visualstudio.com/items?itemName=fabric.vscode-fabric) | [fabric](#fabric) | 37K | ⭐ 5 |
+| [**GoCodeo: Best of Cursor and Lovable, Combined**](https://marketplace.visualstudio.com/items?itemName=GoCodeo.gocodeo) | [GoCodeo](#gocodeo) | 34K | ⭐ 4.5 |
+| [**Data Analysis for Copilot**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-copilot-data-analysis) | [ms-vscode](#ms-vscode) | 31K | ⭐ 3.8 |
+| [**Python Data Science**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.python-ds-extension-pack) | [ms-toolsai](#ms-toolsai) | 29K | ⭐ 5 |
+| [**marimo**](https://marketplace.visualstudio.com/items?itemName=marimo-team.vscode-marimo) | [marimo-team](#marimo-team) | 28K | ⭐ 4.2 |
+
+</details>
+
+<p align="right"><a href="#-extensions-by-category">⬆️ Back to Categories</a> · <a href="#-table-of-contents">⬆️ Back to Top</a></p>
+
+---
+
+### <a id="category-debuggers"></a>📂 Debuggers
+<details>
+<summary><strong>118 extensions in this category</strong></summary>
+
+| Extension | Publisher | Installs | Rating |
+|-----------|-----------|:--------:|:------:|
+| [**Python**](https://marketplace.visualstudio.com/items?itemName=ms-python.python) | [ms-python](#ms-python) | 194.9M | ⭐ 4.2 |
+| [**Python Debugger**](https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy) | [ms-python](#ms-python) | 100.3M | ⭐ 4.6 |
+| [**C/C++**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools) | [ms-vscode](#ms-vscode) | 91.7M | ⭐ 3.4 |
+| [**CMake Tools**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cmake-tools) | [ms-vscode](#ms-vscode) | 53.2M | ⭐ 4.5 |
+| [**Debugger for Java**](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-debug) | [vscjava](#vscjava) | 45.5M | ⭐ 4 |
+| [**Extension Pack for Java**](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack) | [vscjava](#vscjava) | 40.1M | ⭐ 3.7 |
+| [**C#**](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp) | [ms-dotnettools](#ms-dotnettools) | 37.4M | ⭐ 2.7 |
+| [**Go**](https://marketplace.visualstudio.com/items?itemName=golang.Go) | [golang](#golang) | 17.4M | ⭐ 4.3 |
+| [**PowerShell**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell) | [ms-vscode](#ms-vscode) | 17M | ⭐ 3.6 |
+| [**PHP Debug**](https://marketplace.visualstudio.com/items?itemName=xdebug.php-debug) | [xdebug](#xdebug) | 14.6M | ⭐ 4.1 |
+| [**Dart**](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code) | [Dart-Code](#dart-code) | 13.4M | ⭐ 4.8 |
+| [**C# Dev Kit**](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit) | [ms-dotnettools](#ms-dotnettools) | 12.6M | ⭐ 2.9 |
+| [**Flutter**](https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter) | [Dart-Code](#dart-code) | 12.5M | ⭐ 4.9 |
+| [**[Deprecated] Debugger for Chrome**](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome) | [msjsdiag](#msjsdiag) | 10.8M | ⭐ 4.2 |
+| [**Makefile Tools**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.makefile-tools) | [ms-vscode](#ms-vscode) | 8.7M | ⭐ 2.6 |
+| [**Kubernetes**](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.vscode-kubernetes-tools) | [ms-kubernetes-tools](#ms-kubernetes-tools) | 6.3M | ⭐ 4.4 |
+| [**PlatformIO IDE**](https://marketplace.visualstudio.com/items?itemName=platformio.platformio-ide) | [platformio](#platformio) | 6.1M | ⭐ 4.9 |
+| [**PHP**](https://marketplace.visualstudio.com/items?itemName=DEVSENSE.phptools-vscode) | [DEVSENSE](#devsense) | 6.1M | ⭐ 4.1 |
+| [**React Native Tools**](https://marketplace.visualstudio.com/items?itemName=msjsdiag.vscode-react-native) | [msjsdiag](#msjsdiag) | 5.8M | ⭐ 4.1 |
+| [**PHP Profiler**](https://marketplace.visualstudio.com/items?itemName=DEVSENSE.profiler-php-vscode) | [DEVSENSE](#devsense) | 5.6M | ⭐ 5 |
+| [**Microsoft Edge Tools for VS Code**](https://marketplace.visualstudio.com/items?itemName=ms-edgedevtools.vscode-edge-devtools) | [ms-edgedevtools](#ms-edgedevtools) | 5.5M | ⭐ 4 |
+| [**Java**](https://marketplace.visualstudio.com/items?itemName=Oracle.oracle-java) | [Oracle](#oracle) | 4.6M | ⭐ 4.9 |
+| [**Quokka.js**](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode) | [WallabyJs](#wallabyjs) | 4.1M | ⭐ 3.7 |
+| [**AWS Toolkit**](https://marketplace.visualstudio.com/items?itemName=AmazonWebServices.aws-toolkit-vscode) | [AmazonWebServices](#amazonwebservices) | 3.6M | ⭐ 2.5 |
+| [**JavaScript Debugger (Nightly)**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.js-debug-nightly) | [ms-vscode](#ms-vscode) | 3.2M | ⭐ 4.1 |
+| [**Turbo Console Log**](https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log) | [ChakrounAnas](#chakrounanas) | 2M | ⭐ 4.1 |
+| [**Unity**](https://marketplace.visualstudio.com/items?itemName=VisualStudioToolsForUnity.vstuc) | [VisualStudioToolsForUnity](#visualstudiotoolsforunity) | 1.9M | ⭐ 3.8 |
+| [**Docker DX**](https://marketplace.visualstudio.com/items?itemName=docker.docker) | [docker](#docker) | 1.9M | ⭐ 2.8 |
+| [**Google Cloud Code**](https://marketplace.visualstudio.com/items?itemName=GoogleCloudTools.cloudcode) | [GoogleCloudTools](#googlecloudtools) | 1.8M | ⭐ 2.6 |
+| [**Apex Replay Debugger**](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-apex-replay-debugger) | [salesforce](#salesforce) | 1.8M | ⭐ 4 |
+| [**Apex Interactive Debugger**](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-apex-debugger) | [salesforce](#salesforce) | 1.7M | ⭐ 2 |
+| [**.NET Extension Pack**](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscode-dotnet-pack) | [ms-dotnettools](#ms-dotnettools) | 1.4M | ⭐ 2.6 |
+| [**Console Ninja**](https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja) | [WallabyJs](#wallabyjs) | 1.3M | ⭐ 2.9 |
+| [**ROS**](https://marketplace.visualstudio.com/items?itemName=ms-iot.vscode-ros) | [ms-iot](#ms-iot) | 1.3M | ⭐ 4.1 |
+| [**Deno**](https://marketplace.visualstudio.com/items?itemName=denoland.vscode-deno) | [denoland](#denoland) | 1.2M | ⭐ 4.1 |
+| [**ESP-IDF**](https://marketplace.visualstudio.com/items?itemName=espressif.esp-idf-extension) | [espressif](#espressif) | 1.2M | ⭐ 2.9 |
+| [**Android iOS Emulator**](https://marketplace.visualstudio.com/items?itemName=DiemasMichiels.emulate) | [DiemasMichiels](#diemasmichiels) | 1.1M | ⭐ 4.4 |
+| [**Keploy: AI Testing Assistant for Developers – Supercharge Unit, Integration, and API Testing in Python, JavaScript, TypeScript, Java, PHP, Go, and More**](https://marketplace.visualstudio.com/items?itemName=Keploy.keployio) | [Keploy](#keploy) | 1M | ⭐ 4.9 |
+| [**Julia**](https://marketplace.visualstudio.com/items?itemName=julialang.language-julia) | [julialang](#julialang) | 980K | ⭐ 4.5 |
+| [**Mono Debug**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.mono-debug) | [ms-vscode](#ms-vscode) | 917K | ⭐ 3.5 |
+| [**Go Nightly**](https://marketplace.visualstudio.com/items?itemName=golang.go-nightly) | [golang](#golang) | 575K | ⭐ 5 |
+| [**MATLAB**](https://marketplace.visualstudio.com/items?itemName=MathWorks.language-matlab) | [MathWorks](#mathworks) | 566K | ⭐ 4.6 |
+| [**Modern Fortran**](https://marketplace.visualstudio.com/items?itemName=fortran-lang.linter-gfortran) | [fortran-lang](#fortran-lang) | 543K | ⭐ 4.6 |
+| [**Cordova Tools**](https://marketplace.visualstudio.com/items?itemName=msjsdiag.cordova-tools) | [msjsdiag](#msjsdiag) | 515K | ⭐ 4.4 |
+| [**Dadroit JSON Generator**](https://marketplace.visualstudio.com/items?itemName=Dadroit.dadroit-json-generator) | [Dadroit](#dadroit) | 491K | ⭐ 5 |
+| [**Bridge to Kubernetes**](https://marketplace.visualstudio.com/items?itemName=mindaro.mindaro) | [mindaro](#mindaro) | 488K | ⭐ 4.8 |
+| [**Expo Tools**](https://marketplace.visualstudio.com/items?itemName=expo.vscode-expo-tools) | [expo](#expo) | 483K | ⭐ 5 |
+| [**AL Language extension for Microsoft Dynamics 365 Business Central**](https://marketplace.visualstudio.com/items?itemName=ms-dynamics-smb.al) | [ms-dynamics-smb](#ms-dynamics-smb) | 470K | ⭐ 4.5 |
+| [**[Deprecated] Node Debug**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.node-debug2) | [ms-vscode](#ms-vscode) | 374K | ⭐ 4.7 |
+| [**.NET MAUI**](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.dotnet-maui) | [ms-dotnettools](#ms-dotnettools) | 347K | ⭐ 3.5 |
+| [**Swift**](https://marketplace.visualstudio.com/items?itemName=swiftlang.swift-vscode) | [swiftlang](#swiftlang) | 338K | ⭐ 5 |
+| [**LLDB DAP**](https://marketplace.visualstudio.com/items?itemName=llvm-vs-code-extensions.lldb-dap) | [llvm-vs-code-extensions](#llvm-vs-code-extensions) | 320K | ⭐ 5 |
+| [**IBM Db2 for z/OS Developer Extension**](https://marketplace.visualstudio.com/items?itemName=IBM.db2forzosdeveloperextension) | [IBM](#ibm) | 313K | ⭐ 4.4 |
+| [**RobotCode - Robot Framework Support**](https://marketplace.visualstudio.com/items?itemName=d-biehl.robotcode) | [d-biehl](#d-biehl) | 277K | ⭐ 4.8 |
+| [**Language Server for Java by Apache NetBeans**](https://marketplace.visualstudio.com/items?itemName=ASF.apache-netbeans-java) | [ASF](#asf) | 272K | ⭐ 5 |
+| [**Azure IoT Edge**](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.azure-iot-edge) | [vsciot-vscode](#vsciot-vscode) | 257K | ⭐ 4.2 |
+| [**Nsight Visual Studio Code Edition**](https://marketplace.visualstudio.com/items?itemName=NVIDIA.nsight-vscode-edition) | [NVIDIA](#nvidia) | 232K | ⭐ 3.2 |
+| [**[Deprecated] Node Debug (legacy)**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.node-debug) | [ms-vscode](#ms-vscode) | 231K | — |
+| [**NativeScript**](https://marketplace.visualstudio.com/items?itemName=NativeScript.nativescript) | [NativeScript](#nativescript) | 221K | ⭐ 4 |
+| [**Calva: Clojure & ClojureScript Interactive Programming**](https://marketplace.visualstudio.com/items?itemName=betterthantomorrow.calva) | [betterthantomorrow](#betterthantomorrow) | 208K | ⭐ 5 |
+| [**Bun for Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=oven.bun-vscode) | [oven](#oven) | 206K | ⭐ 4.3 |
+| [**Claude 4, GPT-5, DeepSeek R1, ChatGPT, Copilot, Cursor AI, Codex and Cline,  AI Copilot, and Debugger, AI Agents, Code Chat, Code Assistants, Code Generator, Code Completion, Autocomplete, Generative **](https://marketplace.visualstudio.com/items?itemName=Sixth.sixth-ai) | [Sixth](#sixth) | 181K | ⭐ 3.6 |
+| [**Puppet**](https://marketplace.visualstudio.com/items?itemName=puppet.puppet-vscode) | [puppet](#puppet) | 174K | ⭐ 4.4 |
+| [**Microsoft Office Add-ins Development Kit**](https://marketplace.visualstudio.com/items?itemName=msoffice.microsoft-office-add-in-debugger) | [msoffice](#msoffice) | 166K | ⭐ 5 |
+| [**Embedded Tools**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-embedded-tools) | [ms-vscode](#ms-vscode) | 155K | ⭐ 5 |
+| [**Stripe**](https://marketplace.visualstudio.com/items?itemName=Stripe.vscode-stripe) | [Stripe](#stripe) | 149K | ⭐ 2.8 |
+| [**Debugger for Mainframe**](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.debugger-for-mainframe) | [broadcomMFD](#broadcommfd) | 148K | ⭐ 5 |
+| [**OpenShift Toolkit**](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-openshift-connector) | [redhat](#redhat) | 136K | ⭐ 5 |
+| [**Robocorp Code**](https://marketplace.visualstudio.com/items?itemName=robocorp.robocorp-code) | [robocorp](#robocorp) | 128K | ⭐ 4.9 |
+| [**Qt Qml**](https://marketplace.visualstudio.com/items?itemName=TheQtCompany.qt-qml) | [TheQtCompany](#theqtcompany) | 122K | ⭐ 2 |
+| [**JavaScript Debugger**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.js-debug) | [ms-vscode](#ms-vscode) | 114K | ⭐ 3.5 |
+| [**Zencoder: AI Coding Agent and Chat for Python, Javascript, Typescript, Java, Go, and more**](https://marketplace.visualstudio.com/items?itemName=ZencoderAI.zencoder) | [ZencoderAI](#zencoderai) | 112K | ⭐ 4 |
+| [**Mojo 🔥**](https://marketplace.visualstudio.com/items?itemName=modular-mojotools.vscode-mojo) | [modular-mojotools](#modular-mojotools) | 109K | ⭐ 5 |
+| [**Rocket MV BASIC**](https://marketplace.visualstudio.com/items?itemName=RocketSoftware.rocket-mvbasic) | [RocketSoftware](#rocketsoftware) | 107K | ⭐ 4.2 |
+| [**Jsonnet Language Server**](https://marketplace.visualstudio.com/items?itemName=Grafana.vscode-jsonnet) | [Grafana](#grafana) | 106K | ⭐ 5 |
+| [**Inline Values support for PowerShell**](https://marketplace.visualstudio.com/items?itemName=TylerLeonhardt.vscode-inline-values-powershell) | [TylerLeonhardt](#tylerleonhardt) | 102K | ⭐ 5 |
+| [**Kodezi AI, (Autocorrect & More) - for Python, JavaScript, TypeScript, C++, PHP, Java, C#, Ruby & more**](https://marketplace.visualstudio.com/items?itemName=kodezi.kodezi) | [kodezi](#kodezi) | 101K | ⭐ 4.1 |
+| [**Metabob: Debug and Refactor with AI**](https://marketplace.visualstudio.com/items?itemName=Metabob.metabob) | [Metabob](#metabob) | 99K | ⭐ 4.8 |
+| [**Arm Debugger**](https://marketplace.visualstudio.com/items?itemName=Arm.arm-debugger) | [Arm](#arm) | 94K | — |
+| [**JSON Debug Visualizer**](https://marketplace.visualstudio.com/items?itemName=TimHeuer.jsondbg) | [TimHeuer](#timheuer) | 91K | — |
+| [**Debugger for Chrome (Nightly)**](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome-nightly) | [msjsdiag](#msjsdiag) | 90K | — |
+| [**ChatGPT - Unfold AI**](https://marketplace.visualstudio.com/items?itemName=TalDennis-UnfoldAI-ChatGPT-Copilot.unfoldai) | [TalDennis-UnfoldAI-ChatGPT-Copilot](#taldennis-unfoldai-chatgpt-copilot) | 90K | ⭐ 4.1 |
+| [**Hyperledger Fabric Debugger**](https://marketplace.visualstudio.com/items?itemName=Spydra.hyperledger-fabric-debugger) | [Spydra](#spydra) | 84K | ⭐ 5 |
+| [**Dapr**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-dapr) | [ms-azuretools](#ms-azuretools) | 78K | ⭐ 5 |
+| [**JS Debug Value Editor (Experimental)**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.debug-value-editor) | [ms-vscode](#ms-vscode) | 74K | — |
+| [**CodeMate AI- Your Smartest Full Stack Coding Agent- Python, C++, C, Java, Javascript, Typescript, Ruby & 100+ languages supported**](https://marketplace.visualstudio.com/items?itemName=AyushSinghal.Code-Mate) | [AyushSinghal](#ayushsinghal) | 73K | ⭐ 4.4 |
+| [**SPFx Debug Configuration**](https://marketplace.visualstudio.com/items?itemName=eliostruyf.spfx-debug) | [eliostruyf](#eliostruyf) | 69K | ⭐ 5 |
+| [**React Native Tools (Preview)**](https://marketplace.visualstudio.com/items?itemName=msjsdiag.vscode-react-native-preview) | [msjsdiag](#msjsdiag) | 69K | ⭐ 5 |
+| [**AppMap**](https://marketplace.visualstudio.com/items?itemName=appland.appmap) | [appland](#appland) | 66K | ⭐ 4.9 |
+| [**Splunk Extension**](https://marketplace.visualstudio.com/items?itemName=Splunk.splunk) | [Splunk](#splunk) | 63K | ⭐ 4.2 |
+| [**Arm Embedded Debugger**](https://marketplace.visualstudio.com/items?itemName=Arm.embedded-debug) | [Arm](#arm) | 59K | ⭐ 1 |
+| [**Debug Adapter for Apache Camel by Red Hat**](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-debug-adapter-apache-camel) | [redhat](#redhat) | 57K | — |
+| [**Datadog**](https://marketplace.visualstudio.com/items?itemName=Datadog.datadog-vscode) | [Datadog](#datadog) | 55K | ⭐ 5 |
+| [**Rocket COBOL**](https://marketplace.visualstudio.com/items?itemName=RocketSoftware.rocket-cobol) | [RocketSoftware](#rocketsoftware) | 53K | ⭐ 5 |
+| [**Anypoint Code Builder - Integration Extension**](https://marketplace.visualstudio.com/items?itemName=salesforce.mule-dx-mule-dev-component) | [salesforce](#salesforce) | 48K | ⭐ 5 |
+| [**Azure Data Studio Debug**](https://marketplace.visualstudio.com/items?itemName=ms-mssql.sqlops-debug) | [ms-mssql](#ms-mssql) | 43K | ⭐ 5 |
+| [**SCOPE Studio for VS Code**](https://marketplace.visualstudio.com/items?itemName=ms-ssdevteam.scope-vscode-ext) | [ms-ssdevteam](#ms-ssdevteam) | 42K | ⭐ 5 |
+| [**Lightrun**](https://marketplace.visualstudio.com/items?itemName=Lightrun.lightrunplugin-saas) | [Lightrun](#lightrun) | 42K | ⭐ 5 |
+| [**STM32Cube Debug Core**](https://marketplace.visualstudio.com/items?itemName=stmicroelectronics.stm32cube-ide-debug-core) | [stmicroelectronics](#stmicroelectronics) | 41K | — |
+| [**STM32Cube Debug STLink GDB Server**](https://marketplace.visualstudio.com/items?itemName=stmicroelectronics.stm32cube-ide-debug-stlink-gdbserver) | [stmicroelectronics](#stmicroelectronics) | 41K | — |
+| [**Uno Platform**](https://marketplace.visualstudio.com/items?itemName=unoplatform.vscode) | [unoplatform](#unoplatform) | 40K | ⭐ 4.5 |
+| [**IAR C-SPY Debug**](https://marketplace.visualstudio.com/items?itemName=iarsystems.iar-debug) | [iarsystems](#iarsystems) | 39K | ⭐ 5 |
+| [**STM32Cube Debug Jlink GDB Server**](https://marketplace.visualstudio.com/items?itemName=stmicroelectronics.stm32cube-ide-debug-jlink-gdbserver) | [stmicroelectronics](#stmicroelectronics) | 39K | — |
+| [**STM32Cube Registers View**](https://marketplace.visualstudio.com/items?itemName=stmicroelectronics.stm32cube-ide-registers) | [stmicroelectronics](#stmicroelectronics) | 39K | — |
+| [**STM32Cube RTOS Views**](https://marketplace.visualstudio.com/items?itemName=stmicroelectronics.stm32cube-ide-rtos) | [stmicroelectronics](#stmicroelectronics) | 38K | — |
+| [**Anypoint Code Builder - MUnit Extension**](https://marketplace.visualstudio.com/items?itemName=salesforce.mule-dx-munit-component) | [salesforce](#salesforce) | 36K | — |
+| [**MCUXpresso for VS Code**](https://marketplace.visualstudio.com/items?itemName=NXPSemiconductors.mcuxpresso) | [NXPSemiconductors](#nxpsemiconductors) | 35K | ⭐ 4 |
+| [**Blue Bazel**](https://marketplace.visualstudio.com/items?itemName=NVIDIA.bluebazel) | [NVIDIA](#nvidia) | 35K | ⭐ 5 |
+| [**Time Travel Debug for C/C++**](https://marketplace.visualstudio.com/items?itemName=Undo.udb) | [Undo](#undo) | 35K | ⭐ 4.7 |
+| [**vscode-openapi-viewer**](https://marketplace.visualstudio.com/items?itemName=AndrewButson.vscode-openapi-viewer) | [AndrewButson](#andrewbutson) | 33K | ⭐ 5 |
+| [**Arm CMSIS Debugger**](https://marketplace.visualstudio.com/items?itemName=Arm.vscode-cmsis-debugger) | [Arm](#arm) | 32K | — |
+| [**IDL for VSCode**](https://marketplace.visualstudio.com/items?itemName=IDL.idl-for-vscode) | [IDL](#idl) | 32K | ⭐ 5 |
+| [**Minecraft Bedrock Debugger**](https://marketplace.visualstudio.com/items?itemName=mojang-studios.minecraft-debugger) | [mojang-studios](#mojang-studios) | 31K | ⭐ 4.2 |
+| [**IBM i Debug**](https://marketplace.visualstudio.com/items?itemName=IBM.ibmidebug) | [IBM](#ibm) | 31K | ⭐ 5 |
+| [**RobotCode GherkinParser Support**](https://marketplace.visualstudio.com/items?itemName=d-biehl.robotcode-gherkin) | [d-biehl](#d-biehl) | 31K | — |
+| [**STM8 Debugger**](https://marketplace.visualstudio.com/items?itemName=CL.stm8-debug) | [CL](#cl) | 31K | — |
+| [**Design Líquido - Linguagens em Português**](https://marketplace.visualstudio.com/items?itemName=designliquido.designliquido-vscode) | [designliquido](#designliquido) | 31K | ⭐ 5 |
+| [**Radon IDE**](https://marketplace.visualstudio.com/items?itemName=swmansion.react-native-ide) | [swmansion](#swmansion) | 30K | ⭐ 4.5 |
+
+</details>
+
+<p align="right"><a href="#-extensions-by-category">⬆️ Back to Categories</a> · <a href="#-table-of-contents">⬆️ Back to Top</a></p>
+
+---
+
+### <a id="category-education"></a>📂 Education
+<details>
+<summary><strong>32 extensions in this category</strong></summary>
+
+| Extension | Publisher | Installs | Rating |
+|-----------|-----------|:--------:|:------:|
+| [**WakaTime**](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime) | [WakaTime](#wakatime) | 22.9M | ⭐ 4.2 |
+| [**Tabnine: AI Chat & Autocomplete for JavaScript, Python, Typescript, Java, PHP, Go, and more**](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode) | [TabNine](#tabnine) | 9.4M | ⭐ 4 |
+| [**BLACKBOXAI #1 AI Coding Agent and Coding Copilot**](https://marketplace.visualstudio.com/items?itemName=Blackboxapp.blackbox) | [Blackboxapp](#blackboxapp) | 4.6M | ⭐ 3.9 |
+| [**SonarQube for IDE**](https://marketplace.visualstudio.com/items?itemName=SonarSource.sonarlint-vscode) | [SonarSource](#sonarsource) | 4M | ⭐ 3.8 |
+| [**Cline**](https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev) | [saoudrizwan](#saoudrizwan) | 2.7M | ⭐ 4.6 |
+| [**CodeGPT: Chat & AI Agents**](https://marketplace.visualstudio.com/items?itemName=DanielSanMedium.dscodegpt) | [DanielSanMedium](#danielsanmedium) | 2.2M | ⭐ 3.5 |
+| [**Postman**](https://marketplace.visualstudio.com/items?itemName=Postman.postman-for-vscode) | [Postman](#postman) | 2.1M | ⭐ 3.1 |
+| [**BLACKBOXAI Agent - Coding Copilot**](https://marketplace.visualstudio.com/items?itemName=Blackboxapp.blackboxagent) | [Blackboxapp](#blackboxapp) | 2.1M | ⭐ 3.8 |
+| [**Continue - open-source AI code agent**](https://marketplace.visualstudio.com/items?itemName=Continue.continue) | [Continue](#continue) | 1.8M | ⭐ 3.9 |
+| [**Amazon Q**](https://marketplace.visualstudio.com/items?itemName=AmazonWebServices.amazon-q-vscode) | [AmazonWebServices](#amazonwebservices) | 1.4M | ⭐ 4.1 |
+| [**TRAE AI (formerly MarsCode): Coding Assistant**](https://marketplace.visualstudio.com/items?itemName=MarsCode.marscode-extension) | [MarsCode](#marscode) | 1.3M | ⭐ 3.7 |
+| [**Roo Code**](https://marketplace.visualstudio.com/items?itemName=RooVeterinaryInc.roo-cline) | [RooVeterinaryInc](#rooveterinaryinc) | 1.1M | ⭐ 4.9 |
+| [**Keploy: AI Testing Assistant for Developers – Supercharge Unit, Integration, and API Testing in Python, JavaScript, TypeScript, Java, PHP, Go, and More**](https://marketplace.visualstudio.com/items?itemName=Keploy.keployio) | [Keploy](#keploy) | 1M | ⭐ 4.9 |
+| [**Bito AI Code Reviews**](https://marketplace.visualstudio.com/items?itemName=Bito.Bito) | [Bito](#bito) | 918K | ⭐ 4.3 |
+| [**Qodo: AI Code Review**](https://marketplace.visualstudio.com/items?itemName=Codium.codium) | [Codium](#codium) | 793K | ⭐ 4.7 |
+| [**Cody: AI Code Assistant**](https://marketplace.visualstudio.com/items?itemName=sourcegraph.cody-ai) | [sourcegraph](#sourcegraph) | 769K | ⭐ 4 |
+| [**Fitten Code : Faster and Better AI Assistant**](https://marketplace.visualstudio.com/items?itemName=FittenTech.Fitten-Code) | [FittenTech](#fittentech) | 691K | ⭐ 4.3 |
+| [**Kilo Code AI Agent**](https://marketplace.visualstudio.com/items?itemName=kilocode.Kilo-Code) | [kilocode](#kilocode) | 535K | ⭐ 4.5 |
+| [**GitHub Classroom**](https://marketplace.visualstudio.com/items?itemName=GitHub.classroom) | [GitHub](#github) | 283K | ⭐ 3.4 |
+| [**Claude 4, GPT-5, DeepSeek R1, ChatGPT, Copilot, Cursor AI, Codex and Cline,  AI Copilot, and Debugger, AI Agents, Code Chat, Code Assistants, Code Generator, Code Completion, Autocomplete, Generative **](https://marketplace.visualstudio.com/items?itemName=Sixth.sixth-ai) | [Sixth](#sixth) | 181K | ⭐ 3.6 |
+| [**Guided Answers extension by SAP**](https://marketplace.visualstudio.com/items?itemName=SAPOSS.sap-guided-answers-extension) | [SAPOSS](#saposs) | 141K | ⭐ 5 |
+| [**Zencoder: AI Coding Agent and Chat for Python, Javascript, Typescript, Java, Go, and more**](https://marketplace.visualstudio.com/items?itemName=ZencoderAI.zencoder) | [ZencoderAI](#zencoderai) | 112K | ⭐ 4 |
+| [**ChatGPT - Unfold AI**](https://marketplace.visualstudio.com/items?itemName=TalDennis-UnfoldAI-ChatGPT-Copilot.unfoldai) | [TalDennis-UnfoldAI-ChatGPT-Copilot](#taldennis-unfoldai-chatgpt-copilot) | 90K | ⭐ 4.1 |
+| [**CodeViz | Visual codebase maps**](https://marketplace.visualstudio.com/items?itemName=CodeViz.codeviz) | [CodeViz](#codeviz) | 73K | ⭐ 4 |
+| [**Frontier: Figma to React, leveraging your own design system and components**](https://marketplace.visualstudio.com/items?itemName=AnimaApp.vscode-anima) | [AnimaApp](#animaapp) | 52K | ⭐ 5 |
+| [**VEX Robotics**](https://marketplace.visualstudio.com/items?itemName=VEXRobotics.vexcode) | [VEXRobotics](#vexrobotics) | 51K | ⭐ 3.2 |
+| [**Refact – Open-Source AI Agent, Code Generator & Chat for JavaScript, Python, TypeScript, Java, PHP, Go, and more.**](https://marketplace.visualstudio.com/items?itemName=smallcloud.codify) | [smallcloud](#smallcloud) | 51K | ⭐ 4.1 |
+| [**IIS and IIS Express extension for Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=lextudio.iis) | [lextudio](#lextudio) | 48K | ⭐ 3 |
+| [**VEX Robotics Feedback**](https://marketplace.visualstudio.com/items?itemName=VEXRobotics.vexfeedback) | [VEXRobotics](#vexrobotics) | 47K | — |
+| [**watsonx Code Assistant**](https://marketplace.visualstudio.com/items?itemName=IBM.wca-core) | [IBM](#ibm) | 44K | ⭐ 5 |
+| [**Design Líquido - Linguagens em Português**](https://marketplace.visualstudio.com/items?itemName=designliquido.designliquido-vscode) | [designliquido](#designliquido) | 31K | ⭐ 5 |
+| [**Purecode AI - AI Coding Agent for Legacy Codebases**](https://marketplace.visualstudio.com/items?itemName=PurecodeAI.purecode-ai) | [PurecodeAI](#purecodeai) | 29K | ⭐ 4.9 |
+
+</details>
+
+<p align="right"><a href="#-extensions-by-category">⬆️ Back to Categories</a> · <a href="#-table-of-contents">⬆️ Back to Top</a></p>
+
+---
+
+### <a id="category-extension-packs"></a>📂 Extension Packs
+<details>
+<summary><strong>46 extensions in this category</strong></summary>
+
+| Extension | Publisher | Installs | Rating |
+|-----------|-----------|:--------:|:------:|
+| [**Jupyter**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter) | [ms-toolsai](#ms-toolsai) | 98.8M | ⭐ 2.7 |
+| [**C/C++ Extension Pack**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools-extension-pack) | [ms-vscode](#ms-vscode) | 49M | ⭐ 4.6 |
+| [**Extension Pack for Java**](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack) | [vscjava](#vscjava) | 40.1M | ⭐ 3.7 |
+| [**Remote Development**](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack) | [ms-vscode-remote](#ms-vscode-remote) | 8.1M | ⭐ 4.6 |
+| [**PHP Extension Pack**](https://marketplace.visualstudio.com/items?itemName=xdebug.php-pack) | [xdebug](#xdebug) | 6.1M | ⭐ 4.6 |
+| [**Spring Boot Extension Pack**](https://marketplace.visualstudio.com/items?itemName=vmware.vscode-boot-dev-pack) | [vmware](#vmware) | 3.8M | ⭐ 4.7 |
+| [**Azure Tools**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-node-azure-pack) | [ms-vscode](#ms-vscode) | 2M | ⭐ 2.9 |
+| [**Salesforce Extension Pack**](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode) | [salesforce](#salesforce) | 1.7M | ⭐ 2.6 |
+| [**.NET Extension Pack**](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscode-dotnet-pack) | [ms-dotnettools](#ms-dotnettools) | 1.4M | ⭐ 2.6 |
+| [**Keploy: AI Testing Assistant for Developers – Supercharge Unit, Integration, and API Testing in Python, JavaScript, TypeScript, Java, PHP, Go, and More**](https://marketplace.visualstudio.com/items?itemName=Keploy.keployio) | [Keploy](#keploy) | 1M | ⭐ 4.9 |
+| [**Ruby**](https://marketplace.visualstudio.com/items?itemName=Shopify.ruby-extensions-pack) | [Shopify](#shopify) | 669K | ⭐ 3.7 |
+| [**Salesforce Extension Pack (Expanded)**](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-expanded) | [salesforce](#salesforce) | 627K | ⭐ 3.3 |
+| [**Angular Extension Pack**](https://marketplace.visualstudio.com/items?itemName=loiane.angular-extension-pack) | [loiane](#loiane) | 466K | ⭐ 5 |
+| [**Microsoft 365 Agents Toolkit**](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.ms-teams-vscode-extension) | [TeamsDevApp](#teamsdevapp) | 393K | ⭐ 3.5 |
+| [**Essential ASP.NET Core Snippets**](https://marketplace.visualstudio.com/items?itemName=doggy8088.netcore-snippets) | [doggy8088](#doggy8088) | 363K | ⭐ 5 |
+| [**ShaderlabVSCode(Free)**](https://marketplace.visualstudio.com/items?itemName=amlovey.shaderlabvscodefree) | [amlovey](#amlovey) | 341K | ⭐ 4.1 |
+| [**Azure MCP Server**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azure-mcp-server) | [ms-azuretools](#ms-azuretools) | 326K | ⭐ 5 |
+| [**.NET Core Extension Pack**](https://marketplace.visualstudio.com/items?itemName=doggy8088.netcore-extension-pack) | [doggy8088](#doggy8088) | 278K | ⭐ 5 |
+| [**Angular Extension Pack**](https://marketplace.visualstudio.com/items?itemName=doggy8088.angular-extension-pack) | [doggy8088](#doggy8088) | 230K | ⭐ 4.8 |
+| [**TypeScript Extension Pack**](https://marketplace.visualstudio.com/items?itemName=loiane.ts-extension-pack) | [loiane](#loiane) | 223K | ⭐ 5 |
+| [**Claude 4, GPT-5, DeepSeek R1, ChatGPT, Copilot, Cursor AI, Codex and Cline,  AI Copilot, and Debugger, AI Agents, Code Chat, Code Assistants, Code Generator, Code Completion, Autocomplete, Generative **](https://marketplace.visualstudio.com/items?itemName=Sixth.sixth-ai) | [Sixth](#sixth) | 181K | ⭐ 3.6 |
+| [**SAP Fiori Tools - Extension Pack**](https://marketplace.visualstudio.com/items?itemName=SAPSE.sap-ux-fiori-tools-extension-pack) | [SAPSE](#sapse) | 164K | ⭐ 5 |
+| [**STM32CubeIDE for Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=stmicroelectronics.stm32-vscode-extension) | [stmicroelectronics](#stmicroelectronics) | 162K | ⭐ 3.4 |
+| [**Extension Pack for Java + Spring**](https://marketplace.visualstudio.com/items?itemName=loiane.java-spring-extension-pack) | [loiane](#loiane) | 137K | ⭐ 5 |
+| [**nRF Connect for VS Code Extension Pack**](https://marketplace.visualstudio.com/items?itemName=nordic-semiconductor.nrf-connect-extension-pack) | [nordic-semiconductor](#nordic-semiconductor) | 136K | ⭐ 3.8 |
+| [**Arm Keil Studio Pack (MDK v6)**](https://marketplace.visualstudio.com/items?itemName=Arm.keil-studio-pack) | [Arm](#arm) | 120K | ⭐ 3.7 |
+| [**Gather**](https://marketplace.visualstudio.com/items?itemName=ms-python.gather) | [ms-python](#ms-python) | 119K | ⭐ 5 |
+| [**Learn Authoring Pack**](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-authoring-pack) | [docsmsft](#docsmsft) | 118K | ⭐ 2.9 |
+| [**Kodezi AI, (Autocorrect & More) - for Python, JavaScript, TypeScript, C++, PHP, Java, C#, Ruby & more**](https://marketplace.visualstudio.com/items?itemName=kodezi.kodezi) | [kodezi](#kodezi) | 101K | ⭐ 4.1 |
+| [**Brackets Extension Pack**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.brackets-pack) | [ms-vscode](#ms-vscode) | 101K | ⭐ 2.6 |
+| [**ChatGPT - Unfold AI**](https://marketplace.visualstudio.com/items?itemName=TalDennis-UnfoldAI-ChatGPT-Copilot.unfoldai) | [TalDennis-UnfoldAI-ChatGPT-Copilot](#taldennis-unfoldai-chatgpt-copilot) | 90K | ⭐ 4.1 |
+| [**Qt Extension Pack**](https://marketplace.visualstudio.com/items?itemName=TheQtCompany.qt) | [TheQtCompany](#theqtcompany) | 84K | ⭐ 3.6 |
+| [**Workbench**](https://marketplace.visualstudio.com/items?itemName=particle.particle-vscode-pack) | [particle](#particle) | 76K | ⭐ 3.2 |
+| [**CodeMate AI- Your Smartest Full Stack Coding Agent- Python, C++, C, Java, Javascript, Typescript, Ruby & 100+ languages supported**](https://marketplace.visualstudio.com/items?itemName=AyushSinghal.Code-Mate) | [AyushSinghal](#ayushsinghal) | 73K | ⭐ 4.4 |
+| [**Power BI Studio**](https://marketplace.visualstudio.com/items?itemName=GerhardBrueckl.powerbi-vscode) | [GerhardBrueckl](#gerhardbrueckl) | 57K | ⭐ 5 |
+| [**Go Extension Pack**](https://marketplace.visualstudio.com/items?itemName=doggy8088.go-extension-pack) | [doggy8088](#doggy8088) | 50K | ⭐ 5 |
+| [**Extension Pack for reStructuredText**](https://marketplace.visualstudio.com/items?itemName=lextudio.restructuredtext-pack) | [lextudio](#lextudio) | 48K | — |
+| [**Adaptive Card Previewer**](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.vscode-adaptive-cards) | [TeamsDevApp](#teamsdevapp) | 44K | — |
+| [**Front-End Extension Pack**](https://marketplace.visualstudio.com/items?itemName=loiane.frontend-extension-pack) | [loiane](#loiane) | 43K | ⭐ 5 |
+| [**Qt C++ Extension Pack**](https://marketplace.visualstudio.com/items?itemName=TheQtCompany.qt-cpp-pack) | [TheQtCompany](#theqtcompany) | 42K | ⭐ 5 |
+| [**Anypoint Extension Pack**](https://marketplace.visualstudio.com/items?itemName=salesforce.mule-dx-extension-pack) | [salesforce](#salesforce) | 41K | ⭐ 3.6 |
+| [**OpenShift Extension Pack**](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-openshift-extension-pack) | [redhat](#redhat) | 36K | — |
+| [**Anypoint Code Builder - MUnit Extension**](https://marketplace.visualstudio.com/items?itemName=salesforce.mule-dx-munit-component) | [salesforce](#salesforce) | 36K | — |
+| [**Catppuccin Pack**](https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc-pack) | [Catppuccin](#catppuccin) | 35K | ⭐ 5 |
+| [**Arm CMSIS Debugger**](https://marketplace.visualstudio.com/items?itemName=Arm.vscode-cmsis-debugger) | [Arm](#arm) | 32K | — |
+| [**Python Data Science**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.python-ds-extension-pack) | [ms-toolsai](#ms-toolsai) | 29K | ⭐ 5 |
+
+</details>
+
+<p align="right"><a href="#-extensions-by-category">⬆️ Back to Categories</a> · <a href="#-table-of-contents">⬆️ Back to Top</a></p>
+
+---
+
+### <a id="category-formatters"></a>📂 Formatters
+<details>
+<summary><strong>73 extensions in this category</strong></summary>
+
+| Extension | Publisher | Installs | Rating |
+|-----------|-----------|:--------:|:------:|
+| [**C/C++**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools) | [ms-vscode](#ms-vscode) | 91.7M | ⭐ 3.4 |
+| [**Language Support for Java(TM) by Red Hat**](https://marketplace.visualstudio.com/items?itemName=redhat.java) | [redhat](#redhat) | 49.8M | ⭐ 3.3 |
+| [**Extension Pack for Java**](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack) | [vscjava](#vscjava) | 40.1M | ⭐ 3.7 |
+| [**isort**](https://marketplace.visualstudio.com/items?itemName=ms-python.isort) | [ms-python](#ms-python) | 24.9M | ⭐ 2.5 |
+| [**YAML**](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml) | [redhat](#redhat) | 24.5M | ⭐ 3.5 |
+| [**Go**](https://marketplace.visualstudio.com/items?itemName=golang.Go) | [golang](#golang) | 17.4M | ⭐ 4.3 |
+| [**PowerShell**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell) | [ms-vscode](#ms-vscode) | 17M | ⭐ 3.6 |
+| [**PHP Intelephense**](https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client) | [bmewburn](#bmewburn) | 16.3M | ⭐ 4.2 |
+| [**Dart**](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code) | [Dart-Code](#dart-code) | 13.4M | ⭐ 4.8 |
+| [**Flutter**](https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter) | [Dart-Code](#dart-code) | 12.5M | ⭐ 4.9 |
+| [**markdownlint**](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) | [DavidAnson](#davidanson) | 10M | ⭐ 4.5 |
+| [**XML**](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-xml) | [redhat](#redhat) | 9.1M | ⭐ 3.8 |
+| [**PHP**](https://marketplace.visualstudio.com/items?itemName=DEVSENSE.phptools-vscode) | [DEVSENSE](#devsense) | 6.1M | ⭐ 4.1 |
+| [**Black Formatter**](https://marketplace.visualstudio.com/items?itemName=ms-python.black-formatter) | [ms-python](#ms-python) | 6M | ⭐ 3.4 |
+| [**HashiCorp Terraform**](https://marketplace.visualstudio.com/items?itemName=HashiCorp.terraform) | [HashiCorp](#hashicorp) | 5.8M | ⭐ 2.4 |
+| [**rust-analyzer**](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer) | [rust-lang](#rust-lang) | 5.5M | ⭐ 4.8 |
+| [**autopep8**](https://marketplace.visualstudio.com/items?itemName=ms-python.autopep8) | [ms-python](#ms-python) | 5M | ⭐ 2.9 |
+| [**Java**](https://marketplace.visualstudio.com/items?itemName=Oracle.oracle-java) | [Oracle](#oracle) | 4.6M | ⭐ 4.9 |
+| [**Ruff**](https://marketplace.visualstudio.com/items?itemName=charliermarsh.ruff) | [charliermarsh](#charliermarsh) | 2.7M | ⭐ 4.9 |
+| [**Svelte for VS Code**](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode) | [svelte](#svelte) | 2.3M | ⭐ 5 |
+| [**clangd**](https://marketplace.visualstudio.com/items?itemName=llvm-vs-code-extensions.vscode-clangd) | [llvm-vs-code-extensions](#llvm-vs-code-extensions) | 2.3M | ⭐ 4.7 |
+| [**CodeGPT: Chat & AI Agents**](https://marketplace.visualstudio.com/items?itemName=DanielSanMedium.dscodegpt) | [DanielSanMedium](#danielsanmedium) | 2.2M | ⭐ 3.5 |
+| [**Rust (deprecated)**](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust) | [rust-lang](#rust-lang) | 1.9M | ⭐ 2.7 |
+| [**Figma for VS Code**](https://marketplace.visualstudio.com/items?itemName=figma.figma-vscode-extension) | [figma](#figma) | 1.8M | ⭐ 3.1 |
+| [**Azure Resource Manager (ARM) Tools**](https://marketplace.visualstudio.com/items?itemName=msazurermtools.azurerm-vscode-tools) | [msazurermtools](#msazurermtools) | 1.5M | ⭐ 4.2 |
+| [**Deno**](https://marketplace.visualstudio.com/items?itemName=denoland.vscode-deno) | [denoland](#denoland) | 1.2M | ⭐ 4.1 |
+| [**Astro**](https://marketplace.visualstudio.com/items?itemName=astro-build.astro-vscode) | [astro-build](#astro-build) | 1.2M | ⭐ 5 |
+| [**Keploy: AI Testing Assistant for Developers – Supercharge Unit, Integration, and API Testing in Python, JavaScript, TypeScript, Java, PHP, Go, and More**](https://marketplace.visualstudio.com/items?itemName=Keploy.keployio) | [Keploy](#keploy) | 1M | ⭐ 4.9 |
+| [**Bito AI Code Reviews**](https://marketplace.visualstudio.com/items?itemName=Bito.Bito) | [Bito](#bito) | 918K | ⭐ 4.3 |
+| [**px to rem & rpx & vw (cssrem)**](https://marketplace.visualstudio.com/items?itemName=cipchk.cssrem) | [cipchk](#cipchk) | 775K | ⭐ 5 |
+| [**Fitten Code : Faster and Better AI Assistant**](https://marketplace.visualstudio.com/items?itemName=FittenTech.Fitten-Code) | [FittenTech](#fittentech) | 691K | ⭐ 4.3 |
+| [**Mypy Type Checker**](https://marketplace.visualstudio.com/items?itemName=ms-python.mypy-type-checker) | [ms-python](#ms-python) | 690K | ⭐ 3.3 |
+| [**Oracle SQL Developer Extension for VSCode**](https://marketplace.visualstudio.com/items?itemName=Oracle.sql-developer) | [Oracle](#oracle) | 648K | ⭐ 3.6 |
+| [**Go Nightly**](https://marketplace.visualstudio.com/items?itemName=golang.go-nightly) | [golang](#golang) | 575K | ⭐ 5 |
+| [**Modern Fortran**](https://marketplace.visualstudio.com/items?itemName=fortran-lang.linter-gfortran) | [fortran-lang](#fortran-lang) | 543K | ⭐ 4.6 |
+| [**Biome**](https://marketplace.visualstudio.com/items?itemName=biomejs.biome) | [biomejs](#biomejs) | 518K | ⭐ 3.4 |
+| [**AL Language extension for Microsoft Dynamics 365 Business Central**](https://marketplace.visualstudio.com/items?itemName=ms-dynamics-smb.al) | [ms-dynamics-smb](#ms-dynamics-smb) | 470K | ⭐ 4.5 |
+| [**Solidity**](https://marketplace.visualstudio.com/items?itemName=NomicFoundation.hardhat-solidity) | [NomicFoundation](#nomicfoundation) | 392K | ⭐ 4.4 |
+| [**Power User for dbt**](https://marketplace.visualstudio.com/items?itemName=innoverio.vscode-dbt-power-user) | [innoverio](#innoverio) | 380K | ⭐ 5 |
+| [**IBM Db2 for z/OS Developer Extension**](https://marketplace.visualstudio.com/items?itemName=IBM.db2forzosdeveloperextension) | [IBM](#ibm) | 313K | ⭐ 4.4 |
+| [**CSharpier - Code formatter**](https://marketplace.visualstudio.com/items?itemName=csharpier.csharpier-vscode) | [csharpier](#csharpier) | 292K | ⭐ 4.1 |
+| [**RobotCode - Robot Framework Support**](https://marketplace.visualstudio.com/items?itemName=d-biehl.robotcode) | [d-biehl](#d-biehl) | 277K | ⭐ 4.8 |
+| [**Calva: Clojure & ClojureScript Interactive Programming**](https://marketplace.visualstudio.com/items?itemName=betterthantomorrow.calva) | [betterthantomorrow](#betterthantomorrow) | 208K | ⭐ 5 |
+| [**Puppet**](https://marketplace.visualstudio.com/items?itemName=puppet.puppet-vscode) | [puppet](#puppet) | 174K | ⭐ 4.4 |
+| [**Qt Qml**](https://marketplace.visualstudio.com/items?itemName=TheQtCompany.qt-qml) | [TheQtCompany](#theqtcompany) | 122K | ⭐ 2 |
+| [**Qt C++**](https://marketplace.visualstudio.com/items?itemName=TheQtCompany.qt-cpp) | [TheQtCompany](#theqtcompany) | 121K | — |
+| [**Qt UI**](https://marketplace.visualstudio.com/items?itemName=TheQtCompany.qt-ui) | [TheQtCompany](#theqtcompany) | 117K | — |
+| [**SAP CDS Language Support**](https://marketplace.visualstudio.com/items?itemName=SAPSE.vscode-cds) | [SAPSE](#sapse) | 114K | ⭐ 5 |
+| [**Mojo 🔥**](https://marketplace.visualstudio.com/items?itemName=modular-mojotools.vscode-mojo) | [modular-mojotools](#modular-mojotools) | 109K | ⭐ 5 |
+| [**Rocket MV BASIC**](https://marketplace.visualstudio.com/items?itemName=RocketSoftware.rocket-mvbasic) | [RocketSoftware](#rocketsoftware) | 107K | ⭐ 4.2 |
+| [**Jsonnet Language Server**](https://marketplace.visualstudio.com/items?itemName=Grafana.vscode-jsonnet) | [Grafana](#grafana) | 106K | ⭐ 5 |
+| [**ChatGPT - Unfold AI**](https://marketplace.visualstudio.com/items?itemName=TalDennis-UnfoldAI-ChatGPT-Copilot.unfoldai) | [TalDennis-UnfoldAI-ChatGPT-Copilot](#taldennis-unfoldai-chatgpt-copilot) | 90K | ⭐ 4.1 |
+| [**Qt Extension Pack**](https://marketplace.visualstudio.com/items?itemName=TheQtCompany.qt) | [TheQtCompany](#theqtcompany) | 84K | ⭐ 3.6 |
+| [**Buf**](https://marketplace.visualstudio.com/items?itemName=bufbuild.vscode-buf) | [bufbuild](#bufbuild) | 67K | ⭐ 5 |
+| [**Databricks Driver for SQLTools**](https://marketplace.visualstudio.com/items?itemName=databricks.sqltools-databricks-driver) | [databricks](#databricks) | 66K | ⭐ 4.8 |
+| [**InterSystems Language Server**](https://marketplace.visualstudio.com/items?itemName=intersystems.language-server) | [intersystems](#intersystems) | 65K | ⭐ 5 |
+| [**Splunk Extension**](https://marketplace.visualstudio.com/items?itemName=Splunk.splunk) | [Splunk](#splunk) | 63K | ⭐ 4.2 |
+| [**Endsmart**](https://marketplace.visualstudio.com/items?itemName=Stripe.endsmart) | [Stripe](#stripe) | 52K | — |
+| [**Anypoint Code Builder - Integration Extension**](https://marketplace.visualstudio.com/items?itemName=salesforce.mule-dx-mule-dev-component) | [salesforce](#salesforce) | 48K | ⭐ 5 |
+| [**Prettier for Handlebars**](https://marketplace.visualstudio.com/items?itemName=EmberTooling.prettier-for-handlebars-vscode) | [EmberTooling](#embertooling) | 48K | ⭐ 5 |
+| [**SAP HANA Driver for SQLTools**](https://marketplace.visualstudio.com/items?itemName=SAPOSS.sap-hana-driver-for-sqltools) | [SAPOSS](#saposs) | 46K | ⭐ 4.6 |
+| [**Terraform AzApi Provider**](https://marketplace.visualstudio.com/items?itemName=azapi-vscode.azapi) | [azapi-vscode](#azapi-vscode) | 45K | ⭐ 5 |
+| [**Standard Ruby**](https://marketplace.visualstudio.com/items?itemName=testdouble.vscode-standard-ruby) | [testdouble](#testdouble) | 44K | ⭐ 5 |
+| [**DVT IDE for Verilog/SystemVerilog/VHDL/e Language**](https://marketplace.visualstudio.com/items?itemName=amiq.dvt) | [amiq](#amiq) | 44K | ⭐ 5 |
+| [**Qt C++ Extension Pack**](https://marketplace.visualstudio.com/items?itemName=TheQtCompany.qt-cpp-pack) | [TheQtCompany](#theqtcompany) | 42K | ⭐ 5 |
+| [**SCOPE Studio for VS Code**](https://marketplace.visualstudio.com/items?itemName=ms-ssdevteam.scope-vscode-ext) | [ms-ssdevteam](#ms-ssdevteam) | 42K | ⭐ 5 |
+| [**Mustache Templates - Syntax Highlighting, Snippets & Autocomplete**](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-mustache-snippets) | [imgildev](#imgildev) | 40K | ⭐ 5 |
+| [**STM32Cube clangd**](https://marketplace.visualstudio.com/items?itemName=stmicroelectronics.stm32cube-ide-clangd) | [stmicroelectronics](#stmicroelectronics) | 40K | — |
+| [**vscode-openapi-viewer**](https://marketplace.visualstudio.com/items?itemName=AndrewButson.vscode-openapi-viewer) | [AndrewButson](#andrewbutson) | 33K | ⭐ 5 |
+| [**IDL for VSCode**](https://marketplace.visualstudio.com/items?itemName=IDL.idl-for-vscode) | [IDL](#idl) | 32K | ⭐ 5 |
+| [**Infracost**](https://marketplace.visualstudio.com/items?itemName=Infracost.infracost) | [Infracost](#infracost) | 32K | ⭐ 4.3 |
+| [**RobotCode GherkinParser Support**](https://marketplace.visualstudio.com/items?itemName=d-biehl.robotcode-gherkin) | [d-biehl](#d-biehl) | 31K | — |
+| [**Design Líquido - Linguagens em Português**](https://marketplace.visualstudio.com/items?itemName=designliquido.designliquido-vscode) | [designliquido](#designliquido) | 31K | ⭐ 5 |
+
+</details>
+
+<p align="right"><a href="#-extensions-by-category">⬆️ Back to Categories</a> · <a href="#-table-of-contents">⬆️ Back to Top</a></p>
+
+---
+
+### <a id="category-keymaps"></a>📂 Keymaps
+| Extension | Publisher | Installs | Rating |
+|-----------|-----------|:--------:|:------:|
+| [**MySQL**](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-mysql-client2) | [cweijan](#cweijan) | 2.5M | ⭐ 4.2 |
+| [**Notepad++ keymap**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.notepadplusplus-keybindings) | [ms-vscode](#ms-vscode) | 2.3M | ⭐ 4.7 |
+| [**Sublime Text Keymap and Settings Importer**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.sublime-keybindings) | [ms-vscode](#ms-vscode) | 2.3M | ⭐ 5 |
+| [**Atom Keymap**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.atom-keybindings) | [ms-vscode](#ms-vscode) | 1.1M | ⭐ 4.8 |
+| [**Database Client**](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-database-client2) | [cweijan](#cweijan) | 964K | ⭐ 4.2 |
+| [**Visual Studio Keymap**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vs-keybindings) | [ms-vscode](#ms-vscode) | 675K | ⭐ 4.3 |
+| [**PostgreSQL**](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-postgresql-client2) | [cweijan](#cweijan) | 535K | ⭐ 4 |
+| [**Redis**](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-redis-client) | [cweijan](#cweijan) | 309K | ⭐ 3.7 |
+| [**Brackets Keymap**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.brackets-keybindings) | [ms-vscode](#ms-vscode) | 207K | ⭐ 5 |
+| [**SQL Server Client (mssql)**](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-myssql-client2) | [cweijan](#cweijan) | 166K | ⭐ 4 |
+| [**SSH Client**](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-ssh) | [cweijan](#cweijan) | 121K | ⭐ 4.5 |
+| [**ElasticSearch**](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-es-client2) | [cweijan](#cweijan) | 29K | ⭐ 3.7 |
+
+<p align="right"><a href="#-extensions-by-category">⬆️ Back to Categories</a> · <a href="#-table-of-contents">⬆️ Back to Top</a></p>
+
+---
+
+### <a id="category-language-packs"></a>📂 Language Packs
+| Extension | Publisher | Installs | Rating |
+|-----------|-----------|:--------:|:------:|
+| [**Chinese (Simplified) (简体中文) Language Pack for Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-zh-hans) | [MS-CEINTL](#ms-ceintl) | 46.5M | ⭐ 4.8 |
+| [**Japanese Language Pack for Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-ja) | [MS-CEINTL](#ms-ceintl) | 13M | ⭐ 4.6 |
+| [**Spanish Language Pack for Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-es) | [MS-CEINTL](#ms-ceintl) | 10.6M | ⭐ 4.4 |
+| [**Portuguese (Brazil) Language Pack for Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-pt-BR) | [MS-CEINTL](#ms-ceintl) | 8.4M | ⭐ 4.7 |
+| [**Russian Language Pack for Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-ru) | [MS-CEINTL](#ms-ceintl) | 8.1M | ⭐ 4.7 |
+| [**Korean Language Pack for Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-ko) | [MS-CEINTL](#ms-ceintl) | 6.1M | ⭐ 4.3 |
+| [**French Language Pack for Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-fr) | [MS-CEINTL](#ms-ceintl) | 5.8M | ⭐ 4.2 |
+| [**German Language Pack for Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-de) | [MS-CEINTL](#ms-ceintl) | 5.1M | ⭐ 4 |
+| [**Chinese (Traditional) Language Pack for Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-zh-hant) | [MS-CEINTL](#ms-ceintl) | 4.4M | ⭐ 4.9 |
+| [**Italian Language Pack for Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-it) | [MS-CEINTL](#ms-ceintl) | 3.2M | ⭐ 4.5 |
+| [**Polish Language Pack for Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-pl) | [MS-CEINTL](#ms-ceintl) | 2.7M | ⭐ 5 |
+| [**Czech Language Pack for Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-cs) | [MS-CEINTL](#ms-ceintl) | 2.2M | ⭐ 5 |
+| [**Hungarian Language Pack for Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-hu) | [MS-CEINTL](#ms-ceintl) | 2M | ⭐ 5 |
+| [**Bulgarian Language Pack for Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-bg) | [MS-CEINTL](#ms-ceintl) | 1.7M | ⭐ 5 |
+| [**Turkish Language Pack for Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-tr) | [MS-CEINTL](#ms-ceintl) | 1M | ⭐ 4.7 |
+| [**Shopify Liquid**](https://marketplace.visualstudio.com/items?itemName=Shopify.theme-check-vscode) | [Shopify](#shopify) | 303K | ⭐ 3.2 |
+| [**CircleCI**](https://marketplace.visualstudio.com/items?itemName=circleci.circleci) | [circleci](#circleci) | 97K | ⭐ 4.8 |
+| [**Pseudo Language Language Pack**](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-qps-ploc) | [MS-CEINTL](#ms-ceintl) | 45K | ⭐ 5 |
+| [**Design Líquido - Linguagens em Português**](https://marketplace.visualstudio.com/items?itemName=designliquido.designliquido-vscode) | [designliquido](#designliquido) | 31K | ⭐ 5 |
+
+<p align="right"><a href="#-extensions-by-category">⬆️ Back to Categories</a> · <a href="#-table-of-contents">⬆️ Back to Top</a></p>
+
+---
+
+### <a id="category-linters"></a>📂 Linters
+<details>
+<summary><strong>129 extensions in this category</strong></summary>
+
+| Extension | Publisher | Installs | Rating |
+|-----------|-----------|:--------:|:------:|
+| [**C/C++**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools) | [ms-vscode](#ms-vscode) | 91.7M | ⭐ 3.4 |
+| [**Language Support for Java(TM) by Red Hat**](https://marketplace.visualstudio.com/items?itemName=redhat.java) | [redhat](#redhat) | 49.8M | ⭐ 3.3 |
+| [**ESLint**](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) | [dbaeumer](#dbaeumer) | 46.8M | ⭐ 4.3 |
+| [**Extension Pack for Java**](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack) | [vscjava](#vscjava) | 40.1M | ⭐ 3.7 |
+| [**C#**](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp) | [ms-dotnettools](#ms-dotnettools) | 37.4M | ⭐ 2.7 |
+| [**YAML**](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml) | [redhat](#redhat) | 24.5M | ⭐ 3.5 |
+| [**Go**](https://marketplace.visualstudio.com/items?itemName=golang.Go) | [golang](#golang) | 17.4M | ⭐ 4.3 |
+| [**PowerShell**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell) | [ms-vscode](#ms-vscode) | 17M | ⭐ 3.6 |
+| [**PHP Intelephense**](https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client) | [bmewburn](#bmewburn) | 16.3M | ⭐ 4.2 |
+| [**Code Spell Checker**](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) | [streetsidesoftware](#streetsidesoftware) | 15.9M | ⭐ 4.5 |
+| [**Dart**](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code) | [Dart-Code](#dart-code) | 13.4M | ⭐ 4.8 |
+| [**C# Dev Kit**](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit) | [ms-dotnettools](#ms-dotnettools) | 12.6M | ⭐ 2.9 |
+| [**Flutter**](https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter) | [Dart-Code](#dart-code) | 12.5M | ⭐ 4.9 |
+| [**Tailwind CSS IntelliSense**](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) | [bradlc](#bradlc) | 12.2M | ⭐ 4.5 |
+| [**markdownlint**](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) | [DavidAnson](#davidanson) | 10M | ⭐ 4.5 |
+| [**XML**](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-xml) | [redhat](#redhat) | 9.1M | ⭐ 3.8 |
+| [**Container Tools**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-containers) | [ms-azuretools](#ms-azuretools) | 6.9M | ⭐ 3.6 |
+| [**Kubernetes**](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.vscode-kubernetes-tools) | [ms-kubernetes-tools](#ms-kubernetes-tools) | 6.3M | ⭐ 4.4 |
+| [**PlatformIO IDE**](https://marketplace.visualstudio.com/items?itemName=platformio.platformio-ide) | [platformio](#platformio) | 6.1M | ⭐ 4.9 |
+| [**PHP**](https://marketplace.visualstudio.com/items?itemName=DEVSENSE.phptools-vscode) | [DEVSENSE](#devsense) | 6.1M | ⭐ 4.1 |
+| [**HashiCorp Terraform**](https://marketplace.visualstudio.com/items?itemName=HashiCorp.terraform) | [HashiCorp](#hashicorp) | 5.8M | ⭐ 2.4 |
+| [**Composer**](https://marketplace.visualstudio.com/items?itemName=DEVSENSE.composer-php-vscode) | [DEVSENSE](#devsense) | 5.7M | ⭐ 4.5 |
+| [**Spring Boot Tools**](https://marketplace.visualstudio.com/items?itemName=vmware.vscode-spring-boot) | [vmware](#vmware) | 4.9M | ⭐ 5 |
+| [**Java**](https://marketplace.visualstudio.com/items?itemName=Oracle.oracle-java) | [Oracle](#oracle) | 4.6M | ⭐ 4.9 |
+| [**SonarQube for IDE**](https://marketplace.visualstudio.com/items?itemName=SonarSource.sonarlint-vscode) | [SonarSource](#sonarsource) | 4M | ⭐ 3.8 |
+| [**Spring Boot Extension Pack**](https://marketplace.visualstudio.com/items?itemName=vmware.vscode-boot-dev-pack) | [vmware](#vmware) | 3.8M | ⭐ 4.7 |
+| [**AWS Toolkit**](https://marketplace.visualstudio.com/items?itemName=AmazonWebServices.aws-toolkit-vscode) | [AmazonWebServices](#amazonwebservices) | 3.6M | ⭐ 2.5 |
+| [**Stylelint**](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint) | [stylelint](#stylelint) | 3.2M | ⭐ 4 |
+| [**Pylint**](https://marketplace.visualstudio.com/items?itemName=ms-python.pylint) | [ms-python](#ms-python) | 2.9M | ⭐ 2.9 |
+| [**Ruff**](https://marketplace.visualstudio.com/items?itemName=charliermarsh.ruff) | [charliermarsh](#charliermarsh) | 2.7M | ⭐ 4.9 |
+| [**GraphQL: Language Feature Support**](https://marketplace.visualstudio.com/items?itemName=GraphQL.vscode-graphql) | [GraphQL](#graphql) | 2.6M | ⭐ 3.1 |
+| [**jshint**](https://marketplace.visualstudio.com/items?itemName=dbaeumer.jshint) | [dbaeumer](#dbaeumer) | 2.4M | ⭐ 3.7 |
+| [**clangd**](https://marketplace.visualstudio.com/items?itemName=llvm-vs-code-extensions.vscode-clangd) | [llvm-vs-code-extensions](#llvm-vs-code-extensions) | 2.3M | ⭐ 4.7 |
+| [**CodeGPT: Chat & AI Agents**](https://marketplace.visualstudio.com/items?itemName=DanielSanMedium.dscodegpt) | [DanielSanMedium](#danielsanmedium) | 2.2M | ⭐ 3.5 |
+| [**Unity**](https://marketplace.visualstudio.com/items?itemName=VisualStudioToolsForUnity.vstuc) | [VisualStudioToolsForUnity](#visualstudiotoolsforunity) | 1.9M | ⭐ 3.8 |
+| [**Docker DX**](https://marketplace.visualstudio.com/items?itemName=docker.docker) | [docker](#docker) | 1.9M | ⭐ 2.8 |
+| [**Rust (deprecated)**](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust) | [rust-lang](#rust-lang) | 1.9M | ⭐ 2.7 |
+| [**Google Cloud Code**](https://marketplace.visualstudio.com/items?itemName=GoogleCloudTools.cloudcode) | [GoogleCloudTools](#googlecloudtools) | 1.8M | ⭐ 2.6 |
+| [**Flake8**](https://marketplace.visualstudio.com/items?itemName=ms-python.flake8) | [ms-python](#ms-python) | 1.6M | ⭐ 5 |
+| [**Azure Resource Manager (ARM) Tools**](https://marketplace.visualstudio.com/items?itemName=msazurermtools.azurerm-vscode-tools) | [msazurermtools](#msazurermtools) | 1.5M | ⭐ 4.2 |
+| [**.NET Extension Pack**](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscode-dotnet-pack) | [ms-dotnettools](#ms-dotnettools) | 1.4M | ⭐ 2.6 |
+| [**OpenAPI (Swagger) Editor**](https://marketplace.visualstudio.com/items?itemName=42Crunch.vscode-openapi) | [42Crunch](#42crunch) | 1.3M | ⭐ 4.2 |
+| [**Deno**](https://marketplace.visualstudio.com/items?itemName=denoland.vscode-deno) | [denoland](#denoland) | 1.2M | ⭐ 4.1 |
+| [**Astro**](https://marketplace.visualstudio.com/items?itemName=astro-build.astro-vscode) | [astro-build](#astro-build) | 1.2M | ⭐ 5 |
+| [**Ansible**](https://marketplace.visualstudio.com/items?itemName=redhat.ansible) | [redhat](#redhat) | 1.1M | ⭐ 2.9 |
+| [**Keploy: AI Testing Assistant for Developers – Supercharge Unit, Integration, and API Testing in Python, JavaScript, TypeScript, Java, PHP, Go, and More**](https://marketplace.visualstudio.com/items?itemName=Keploy.keployio) | [Keploy](#keploy) | 1M | ⭐ 4.9 |
+| [**Cloudfoundry Manifest YML Support**](https://marketplace.visualstudio.com/items?itemName=vmware.vscode-manifest-yaml) | [vmware](#vmware) | 980K | ⭐ 5 |
+| [**Julia**](https://marketplace.visualstudio.com/items?itemName=julialang.language-julia) | [julialang](#julialang) | 980K | ⭐ 4.5 |
+| [**Concourse CI Pipeline Editor**](https://marketplace.visualstudio.com/items?itemName=vmware.vscode-concourse) | [vmware](#vmware) | 922K | ⭐ 5 |
+| [**Bito AI Code Reviews**](https://marketplace.visualstudio.com/items?itemName=Bito.Bito) | [Bito](#bito) | 918K | ⭐ 4.3 |
+| [**reStructuredText**](https://marketplace.visualstudio.com/items?itemName=lextudio.restructuredtext) | [lextudio](#lextudio) | 721K | ⭐ 2.9 |
+| [**Fitten Code : Faster and Better AI Assistant**](https://marketplace.visualstudio.com/items?itemName=FittenTech.Fitten-Code) | [FittenTech](#fittentech) | 691K | ⭐ 4.3 |
+| [**Mypy Type Checker**](https://marketplace.visualstudio.com/items?itemName=ms-python.mypy-type-checker) | [ms-python](#ms-python) | 690K | ⭐ 3.3 |
+| [**Apollo GraphQL**](https://marketplace.visualstudio.com/items?itemName=apollographql.vscode-apollo) | [apollographql](#apollographql) | 676K | ⭐ 2.5 |
+| [**HTMLHint**](https://marketplace.visualstudio.com/items?itemName=HTMLHint.vscode-htmlhint) | [HTMLHint](#htmlhint) | 642K | ⭐ 5 |
+| [**Go Nightly**](https://marketplace.visualstudio.com/items?itemName=golang.go-nightly) | [golang](#golang) | 575K | ⭐ 5 |
+| [**Modern Fortran**](https://marketplace.visualstudio.com/items?itemName=fortran-lang.linter-gfortran) | [fortran-lang](#fortran-lang) | 543K | ⭐ 4.6 |
+| [**Biome**](https://marketplace.visualstudio.com/items?itemName=biomejs.biome) | [biomejs](#biomejs) | 518K | ⭐ 3.4 |
+| [**Salesforce Code Analyzer**](https://marketplace.visualstudio.com/items?itemName=salesforce.sfdx-code-analyzer-vscode) | [salesforce](#salesforce) | 442K | ⭐ 3.7 |
+| [**Brazilian Portuguese - Code Spell Checker**](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-portuguese-brazilian) | [streetsidesoftware](#streetsidesoftware) | 436K | ⭐ 4.6 |
+| [**Spanish - Code Spell Checker**](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-spanish) | [streetsidesoftware](#streetsidesoftware) | 392K | ⭐ 5 |
+| [**Solidity**](https://marketplace.visualstudio.com/items?itemName=NomicFoundation.hardhat-solidity) | [NomicFoundation](#nomicfoundation) | 392K | ⭐ 4.4 |
+| [**Russian - Code Spell Checker**](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-russian) | [streetsidesoftware](#streetsidesoftware) | 366K | ⭐ 4.5 |
+| [**Snyk Security**](https://marketplace.visualstudio.com/items?itemName=snyk-security.snyk-vulnerability-scanner) | [snyk-security](#snyk-security) | 359K | ⭐ 3.1 |
+| [**.NET MAUI**](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.dotnet-maui) | [ms-dotnettools](#ms-dotnettools) | 347K | ⭐ 3.5 |
+| [**Shopify Liquid**](https://marketplace.visualstudio.com/items?itemName=Shopify.theme-check-vscode) | [Shopify](#shopify) | 303K | ⭐ 3.2 |
+| [**RobotCode - Robot Framework Support**](https://marketplace.visualstudio.com/items?itemName=d-biehl.robotcode) | [d-biehl](#d-biehl) | 277K | ⭐ 4.8 |
+| [**German - Code Spell Checker**](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-german) | [streetsidesoftware](#streetsidesoftware) | 259K | ⭐ 4.8 |
+| [**Calva: Clojure & ClojureScript Interactive Programming**](https://marketplace.visualstudio.com/items?itemName=betterthantomorrow.calva) | [betterthantomorrow](#betterthantomorrow) | 208K | ⭐ 5 |
+| [**nRF DeviceTree**](https://marketplace.visualstudio.com/items?itemName=nordic-semiconductor.nrf-devicetree) | [nordic-semiconductor](#nordic-semiconductor) | 199K | ⭐ 4.3 |
+| [**nRF Kconfig**](https://marketplace.visualstudio.com/items?itemName=nordic-semiconductor.nrf-kconfig) | [nordic-semiconductor](#nordic-semiconductor) | 195K | ⭐ 4 |
+| [**Puppet**](https://marketplace.visualstudio.com/items?itemName=puppet.puppet-vscode) | [puppet](#puppet) | 174K | ⭐ 4.4 |
+| [**SAP Fiori Tools - XML Annotation Language Server**](https://marketplace.visualstudio.com/items?itemName=SAPSE.sap-ux-annotation-modeler-extension) | [SAPSE](#sapse) | 173K | — |
+| [**French - Code Spell Checker**](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-french) | [streetsidesoftware](#streetsidesoftware) | 168K | ⭐ 5 |
+| [**Portuguese - Code Spell Checker**](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-portuguese) | [streetsidesoftware](#streetsidesoftware) | 137K | ⭐ 5 |
+| [**Salesforce Apex Language Server (Typescript)**](https://marketplace.visualstudio.com/items?itemName=salesforce.apex-language-server-extension) | [salesforce](#salesforce) | 124K | — |
+| [**Rocket MV BASIC**](https://marketplace.visualstudio.com/items?itemName=RocketSoftware.rocket-mvbasic) | [RocketSoftware](#rocketsoftware) | 107K | ⭐ 4.2 |
+| [**Jsonnet Language Server**](https://marketplace.visualstudio.com/items?itemName=Grafana.vscode-jsonnet) | [Grafana](#grafana) | 106K | ⭐ 5 |
+| [**Kodezi AI, (Autocorrect & More) - for Python, JavaScript, TypeScript, C++, PHP, Java, C#, Ruby & more**](https://marketplace.visualstudio.com/items?itemName=kodezi.kodezi) | [kodezi](#kodezi) | 101K | ⭐ 4.1 |
+| [**Metabob: Debug and Refactor with AI**](https://marketplace.visualstudio.com/items?itemName=Metabob.metabob) | [Metabob](#metabob) | 99K | ⭐ 4.8 |
+| [**ChatGPT - Unfold AI**](https://marketplace.visualstudio.com/items?itemName=TalDennis-UnfoldAI-ChatGPT-Copilot.unfoldai) | [TalDennis-UnfoldAI-ChatGPT-Copilot](#taldennis-unfoldai-chatgpt-copilot) | 90K | ⭐ 4.1 |
+| [**Find unused exports**](https://marketplace.visualstudio.com/items?itemName=iulian-radu-at.find-unused-exports) | [iulian-radu-at](#iulian-radu-at) | 85K | ⭐ 3.3 |
+| [**XState VSCode**](https://marketplace.visualstudio.com/items?itemName=statelyai.stately-vscode) | [statelyai](#statelyai) | 85K | ⭐ 4.8 |
+| [**Polish - Code Spell Checker**](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-polish) | [streetsidesoftware](#streetsidesoftware) | 84K | ⭐ 5 |
+| [**Vietnamese - Code Spell Checker**](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-vietnamese) | [streetsidesoftware](#streetsidesoftware) | 80K | ⭐ 5 |
+| [**CodeMate AI- Your Smartest Full Stack Coding Agent- Python, C++, C, Java, Javascript, Typescript, Ruby & 100+ languages supported**](https://marketplace.visualstudio.com/items?itemName=AyushSinghal.Code-Mate) | [AyushSinghal](#ayushsinghal) | 73K | ⭐ 4.4 |
+| [**Redocly OpenAPI**](https://marketplace.visualstudio.com/items?itemName=Redocly.openapi-vs-code) | [Redocly](#redocly) | 73K | ⭐ 4.7 |
+| [**Oxc**](https://marketplace.visualstudio.com/items?itemName=oxc.oxc-vscode) | [oxc](#oxc) | 70K | ⭐ 4.9 |
+| [**Ukrainian - Code Spell Checker**](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-ukrainian) | [streetsidesoftware](#streetsidesoftware) | 70K | ⭐ 5 |
+| [**Italian - Code Spell Checker**](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-italian) | [streetsidesoftware](#streetsidesoftware) | 67K | ⭐ 3.7 |
+| [**Buf**](https://marketplace.visualstudio.com/items?itemName=bufbuild.vscode-buf) | [bufbuild](#bufbuild) | 67K | ⭐ 5 |
+| [**Dutch - Code Spell Checker**](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-dutch) | [streetsidesoftware](#streetsidesoftware) | 66K | ⭐ 5 |
+| [**InterSystems Language Server**](https://marketplace.visualstudio.com/items?itemName=intersystems.language-server) | [intersystems](#intersystems) | 65K | ⭐ 5 |
+| [**Splunk Extension**](https://marketplace.visualstudio.com/items?itemName=Splunk.splunk) | [Splunk](#splunk) | 63K | ⭐ 4.2 |
+| [**DevSkim**](https://marketplace.visualstudio.com/items?itemName=MS-CST-E.vscode-devskim) | [MS-CST-E](#ms-cst-e) | 63K | ⭐ 5 |
+| [**British English - Code Spell Checker**](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-british-english) | [streetsidesoftware](#streetsidesoftware) | 62K | ⭐ 4.2 |
+| [**Datadog**](https://marketplace.visualstudio.com/items?itemName=Datadog.datadog-vscode) | [Datadog](#datadog) | 55K | ⭐ 5 |
+| [**Persian - Code Spell Checker**](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-persian) | [streetsidesoftware](#streetsidesoftware) | 55K | ⭐ 5 |
+| [**Language Support for Apache Camel by Red Hat**](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-apache-camel) | [redhat](#redhat) | 50K | ⭐ 5 |
+| [**Turkish - Code Spell Checker**](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-turkish) | [streetsidesoftware](#streetsidesoftware) | 49K | ⭐ 5 |
+| [**Medical Terms - Code Spell Checker**](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-medical-terms) | [streetsidesoftware](#streetsidesoftware) | 48K | — |
+| [**Swedish - Code Spell Checker**](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-swedish) | [streetsidesoftware](#streetsidesoftware) | 48K | ⭐ 2.7 |
+| [**Czech - Code Spell Checker**](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-czech) | [streetsidesoftware](#streetsidesoftware) | 48K | ⭐ 4 |
+| [**Extension Pack for reStructuredText**](https://marketplace.visualstudio.com/items?itemName=lextudio.restructuredtext-pack) | [lextudio](#lextudio) | 48K | — |
+| [**Terraform AzApi Provider**](https://marketplace.visualstudio.com/items?itemName=azapi-vscode.azapi) | [azapi-vscode](#azapi-vscode) | 45K | ⭐ 5 |
+| [**Standard Ruby**](https://marketplace.visualstudio.com/items?itemName=testdouble.vscode-standard-ruby) | [testdouble](#testdouble) | 44K | ⭐ 5 |
+| [**DVT IDE for Verilog/SystemVerilog/VHDL/e Language**](https://marketplace.visualstudio.com/items?itemName=amiq.dvt) | [amiq](#amiq) | 44K | ⭐ 5 |
+| [**Greek - Code Spell Checker**](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-greek) | [streetsidesoftware](#streetsidesoftware) | 43K | ⭐ 5 |
+| [**Solidity (Wake)**](https://marketplace.visualstudio.com/items?itemName=AckeeBlockchain.tools-for-solidity) | [AckeeBlockchain](#ackeeblockchain) | 43K | ⭐ 5 |
+| [**quick-lint-js**](https://marketplace.visualstudio.com/items?itemName=quick-lint.quick-lint-js) | [quick-lint](#quick-lint) | 42K | ⭐ 5 |
+| [**Danish - Code Spell Checker**](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-danish) | [streetsidesoftware](#streetsidesoftware) | 42K | — |
+| [**Hebrew - Code Spell Checker**](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-hebrew) | [streetsidesoftware](#streetsidesoftware) | 41K | ⭐ 5 |
+| [**Mustache Templates - Syntax Highlighting, Snippets & Autocomplete**](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-mustache-snippets) | [imgildev](#imgildev) | 40K | ⭐ 5 |
+| [**Catalan - Code Spell Checker**](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-catalan) | [streetsidesoftware](#streetsidesoftware) | 40K | ⭐ 5 |
+| [**STM32Cube clangd**](https://marketplace.visualstudio.com/items?itemName=stmicroelectronics.stm32cube-ide-clangd) | [stmicroelectronics](#stmicroelectronics) | 40K | — |
+| [**Croatian - Code Spell Checker**](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-croatian) | [streetsidesoftware](#streetsidesoftware) | 36K | ⭐ 5 |
+| [**vscode-openapi-viewer**](https://marketplace.visualstudio.com/items?itemName=AndrewButson.vscode-openapi-viewer) | [AndrewButson](#andrewbutson) | 33K | ⭐ 5 |
+| [**Ember Language Server**](https://marketplace.visualstudio.com/items?itemName=EmberTooling.vscode-ember) | [EmberTooling](#embertooling) | 33K | ⭐ 5 |
+| [**DeepScan**](https://marketplace.visualstudio.com/items?itemName=DeepScan.vscode-deepscan) | [DeepScan](#deepscan) | 32K | ⭐ 5 |
+| [**IDL for VSCode**](https://marketplace.visualstudio.com/items?itemName=IDL.idl-for-vscode) | [IDL](#idl) | 32K | ⭐ 5 |
+| [**Pulumi YAML**](https://marketplace.visualstudio.com/items?itemName=pulumi.pulumi-lsp-client) | [pulumi](#pulumi) | 32K | ⭐ 5 |
+| [**Infracost**](https://marketplace.visualstudio.com/items?itemName=Infracost.infracost) | [Infracost](#infracost) | 32K | ⭐ 4.3 |
+| [**RobotCode GherkinParser Support**](https://marketplace.visualstudio.com/items?itemName=d-biehl.robotcode-gherkin) | [d-biehl](#d-biehl) | 31K | — |
+| [**Design Líquido - Linguagens em Português**](https://marketplace.visualstudio.com/items?itemName=designliquido.designliquido-vscode) | [designliquido](#designliquido) | 31K | ⭐ 5 |
+| [**Veracode Scan for VS Code**](https://marketplace.visualstudio.com/items?itemName=Veracode.veracode-vscode-plugin) | [Veracode](#veracode) | 31K | ⭐ 4.6 |
+| [**CodeScene**](https://marketplace.visualstudio.com/items?itemName=CodeScene.codescene-vscode) | [CodeScene](#codescene) | 30K | ⭐ 5 |
+| [**CodeScan**](https://marketplace.visualstudio.com/items?itemName=codescansf.codescan-vscode) | [codescansf](#codescansf) | 30K | ⭐ 5 |
+| [**Odoo**](https://marketplace.visualstudio.com/items?itemName=Odoo.odoo) | [Odoo](#odoo) | 30K | ⭐ 3.9 |
+| [**HLASM Language Support**](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.hlasm-language-support) | [broadcomMFD](#broadcommfd) | 28K | ⭐ 5 |
+
+</details>
+
+<p align="right"><a href="#-extensions-by-category">⬆️ Back to Categories</a> · <a href="#-table-of-contents">⬆️ Back to Top</a></p>
+
+---
+
+### <a id="category-machine-learning"></a>📂 Machine Learning
+<details>
+<summary><strong>60 extensions in this category</strong></summary>
+
+| Extension | Publisher | Installs | Rating |
+|-----------|-----------|:--------:|:------:|
+| [**Python**](https://marketplace.visualstudio.com/items?itemName=ms-python.python) | [ms-python](#ms-python) | 194.9M | ⭐ 4.2 |
+| [**Jupyter**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter) | [ms-toolsai](#ms-toolsai) | 98.8M | ⭐ 2.7 |
+| [**Jupyter Notebook Renderers**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter-renderers) | [ms-toolsai](#ms-toolsai) | 77.7M | ⭐ 2.8 |
+| [**GitHub Copilot**](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) | [GitHub](#github) | 62.5M | ⭐ 4.1 |
+| [**GitHub Copilot Chat**](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat) | [GitHub](#github) | 51.7M | ⭐ 3.7 |
+| [**Tabnine: AI Chat & Autocomplete for JavaScript, Python, Typescript, Java, PHP, Go, and more**](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode) | [TabNine](#tabnine) | 9.4M | ⭐ 4 |
+| [**IntelliPHP - AI Autocomplete for PHP**](https://marketplace.visualstudio.com/items?itemName=DEVSENSE.intelli-php-vscode) | [DEVSENSE](#devsense) | 5M | ⭐ 3.5 |
+| [**BLACKBOXAI #1 AI Coding Agent and Coding Copilot**](https://marketplace.visualstudio.com/items?itemName=Blackboxapp.blackbox) | [Blackboxapp](#blackboxapp) | 4.6M | ⭐ 3.9 |
+| [**Gemini Code Assist**](https://marketplace.visualstudio.com/items?itemName=Google.geminicodeassist) | [Google](#google) | 2.3M | ⭐ 2.1 |
+| [**CodeGPT: Chat & AI Agents**](https://marketplace.visualstudio.com/items?itemName=DanielSanMedium.dscodegpt) | [DanielSanMedium](#danielsanmedium) | 2.2M | ⭐ 3.5 |
+| [**BLACKBOXAI Agent - Coding Copilot**](https://marketplace.visualstudio.com/items?itemName=Blackboxapp.blackboxagent) | [Blackboxapp](#blackboxapp) | 2.1M | ⭐ 3.8 |
+| [**Continue - open-source AI code agent**](https://marketplace.visualstudio.com/items?itemName=Continue.continue) | [Continue](#continue) | 1.8M | ⭐ 3.9 |
+| [**Polyglot Notebooks**](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.dotnet-interactive-vscode) | [ms-dotnettools](#ms-dotnettools) | 1.8M | ⭐ 4.1 |
+| [**Data Wrangler**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.datawrangler) | [ms-toolsai](#ms-toolsai) | 1.6M | ⭐ 4.5 |
+| [**Amazon Q**](https://marketplace.visualstudio.com/items?itemName=AmazonWebServices.amazon-q-vscode) | [AmazonWebServices](#amazonwebservices) | 1.4M | ⭐ 4.1 |
+| [**TRAE AI (formerly MarsCode): Coding Assistant**](https://marketplace.visualstudio.com/items?itemName=MarsCode.marscode-extension) | [MarsCode](#marscode) | 1.3M | ⭐ 3.7 |
+| [**Keploy: AI Testing Assistant for Developers – Supercharge Unit, Integration, and API Testing in Python, JavaScript, TypeScript, Java, PHP, Go, and More**](https://marketplace.visualstudio.com/items?itemName=Keploy.keployio) | [Keploy](#keploy) | 1M | ⭐ 4.9 |
+| [**Julia**](https://marketplace.visualstudio.com/items?itemName=julialang.language-julia) | [julialang](#julialang) | 980K | ⭐ 4.5 |
+| [**Bito AI Code Reviews**](https://marketplace.visualstudio.com/items?itemName=Bito.Bito) | [Bito](#bito) | 918K | ⭐ 4.3 |
+| [**Qodo: AI Code Review**](https://marketplace.visualstudio.com/items?itemName=Codium.codium) | [Codium](#codium) | 793K | ⭐ 4.7 |
+| [**Jupyter PowerToys**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.vscode-jupyter-powertoys) | [ms-toolsai](#ms-toolsai) | 792K | ⭐ 4.7 |
+| [**Cody: AI Code Assistant**](https://marketplace.visualstudio.com/items?itemName=sourcegraph.cody-ai) | [sourcegraph](#sourcegraph) | 769K | ⭐ 4 |
+| [**Fitten Code : Faster and Better AI Assistant**](https://marketplace.visualstudio.com/items?itemName=FittenTech.Fitten-Code) | [FittenTech](#fittentech) | 691K | ⭐ 4.3 |
+| [**Augment Code: AI Coding Agent for JavaScript, Go, TypeScript, Python & more**](https://marketplace.visualstudio.com/items?itemName=augment.vscode-augment) | [augment](#augment) | 648K | ⭐ 3.7 |
+| [**AI Toolkit for Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=ms-windows-ai-studio.windows-ai-studio) | [ms-windows-ai-studio](#ms-windows-ai-studio) | 621K | ⭐ 4.4 |
+| [**Tensorboard**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.tensorboard) | [ms-toolsai](#ms-toolsai) | 550K | ⭐ 5 |
+| [**Quarto**](https://marketplace.visualstudio.com/items?itemName=quarto.quarto) | [quarto](#quarto) | 299K | ⭐ 4.9 |
+| [**JupyterHub**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter-hub) | [ms-toolsai](#ms-toolsai) | 253K | — |
+| [**Databricks**](https://marketplace.visualstudio.com/items?itemName=databricks.databricks) | [databricks](#databricks) | 253K | ⭐ 3.6 |
+| [**Claude 4, GPT-5, DeepSeek R1, ChatGPT, Copilot, Cursor AI, Codex and Cline,  AI Copilot, and Debugger, AI Agents, Code Chat, Code Assistants, Code Generator, Code Completion, Autocomplete, Generative **](https://marketplace.visualstudio.com/items?itemName=Sixth.sixth-ai) | [Sixth](#sixth) | 181K | ⭐ 3.6 |
+| [**Pieces for VS Code**](https://marketplace.visualstudio.com/items?itemName=MeshIntelligentTechnologiesInc.pieces-vscode) | [MeshIntelligentTechnologiesInc](#meshintelligenttechnologiesinc) | 138K | ⭐ 4.6 |
+| [**Databricks Power Tools**](https://marketplace.visualstudio.com/items?itemName=paiqo.databricks-vscode) | [paiqo](#paiqo) | 134K | ⭐ 4.3 |
+| [**Gather**](https://marketplace.visualstudio.com/items?itemName=ms-python.gather) | [ms-python](#ms-python) | 119K | ⭐ 5 |
+| [**Zencoder: AI Coding Agent and Chat for Python, Javascript, Typescript, Java, Go, and more**](https://marketplace.visualstudio.com/items?itemName=ZencoderAI.zencoder) | [ZencoderAI](#zencoderai) | 112K | ⭐ 4 |
+| [**vscode-openai**](https://marketplace.visualstudio.com/items?itemName=AndrewButson.vscode-openai) | [AndrewButson](#andrewbutson) | 108K | ⭐ 4.4 |
+| [**Kodezi AI, (Autocorrect & More) - for Python, JavaScript, TypeScript, C++, PHP, Java, C#, Ruby & more**](https://marketplace.visualstudio.com/items?itemName=kodezi.kodezi) | [kodezi](#kodezi) | 101K | ⭐ 4.1 |
+| [**Metabob: Debug and Refactor with AI**](https://marketplace.visualstudio.com/items?itemName=Metabob.metabob) | [Metabob](#metabob) | 99K | ⭐ 4.8 |
+| [**ChatGPT - Unfold AI**](https://marketplace.visualstudio.com/items?itemName=TalDennis-UnfoldAI-ChatGPT-Copilot.unfoldai) | [TalDennis-UnfoldAI-ChatGPT-Copilot](#taldennis-unfoldai-chatgpt-copilot) | 90K | ⭐ 4.1 |
+| [**Prompt flow for VS Code**](https://marketplace.visualstudio.com/items?itemName=prompt-flow.prompt-flow) | [prompt-flow](#prompt-flow) | 87K | ⭐ 4.5 |
+| [**DVC**](https://marketplace.visualstudio.com/items?itemName=Iterative.dvc) | [Iterative](#iterative) | 82K | ⭐ 4.8 |
+| [**SAS**](https://marketplace.visualstudio.com/items?itemName=SAS.sas-lsp) | [SAS](#sas) | 77K | ⭐ 4.8 |
+| [**CodeViz | Visual codebase maps**](https://marketplace.visualstudio.com/items?itemName=CodeViz.codeviz) | [CodeViz](#codeviz) | 73K | ⭐ 4 |
+| [**CodeMate AI- Your Smartest Full Stack Coding Agent- Python, C++, C, Java, Javascript, Typescript, Ruby & 100+ languages supported**](https://marketplace.visualstudio.com/items?itemName=AyushSinghal.Code-Mate) | [AyushSinghal](#ayushsinghal) | 73K | ⭐ 4.4 |
+| [**llm-vscode**](https://marketplace.visualstudio.com/items?itemName=HuggingFace.huggingface-vscode) | [HuggingFace](#huggingface) | 71K | ⭐ 4.8 |
+| [**Fabric Data Engineering VS Code**](https://marketplace.visualstudio.com/items?itemName=SynapseVSCode.synapse) | [SynapseVSCode](#synapsevscode) | 70K | ⭐ 1.8 |
+| [**Amp (Research Preview)**](https://marketplace.visualstudio.com/items?itemName=sourcegraph.amp) | [sourcegraph](#sourcegraph) | 70K | ⭐ 4.4 |
+| [**Tabby**](https://marketplace.visualstudio.com/items?itemName=TabbyML.vscode-tabby) | [TabbyML](#tabbyml) | 67K | ⭐ 4.8 |
+| [**Databricks Driver for SQLTools**](https://marketplace.visualstudio.com/items?itemName=databricks.sqltools-databricks-driver) | [databricks](#databricks) | 66K | ⭐ 4.8 |
+| [**AppMap**](https://marketplace.visualstudio.com/items?itemName=appland.appmap) | [appland](#appland) | 66K | ⭐ 4.9 |
+| [**Semantic Kernel Tools**](https://marketplace.visualstudio.com/items?itemName=ms-semantic-kernel.semantic-kernel) | [ms-semantic-kernel](#ms-semantic-kernel) | 53K | ⭐ 5 |
+| [**Frontier: Figma to React, leveraging your own design system and components**](https://marketplace.visualstudio.com/items?itemName=AnimaApp.vscode-anima) | [AnimaApp](#animaapp) | 52K | ⭐ 5 |
+| [**Refact – Open-Source AI Agent, Code Generator & Chat for JavaScript, Python, TypeScript, Java, PHP, Go, and more.**](https://marketplace.visualstudio.com/items?itemName=smallcloud.codify) | [smallcloud](#smallcloud) | 51K | ⭐ 4.1 |
+| [**Prompty**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.prompty) | [ms-toolsai](#ms-toolsai) | 46K | ⭐ 3.5 |
+| [**watsonx Code Assistant**](https://marketplace.visualstudio.com/items?itemName=IBM.wca-core) | [IBM](#ibm) | 44K | ⭐ 5 |
+| [**GoCodeo: Best of Cursor and Lovable, Combined**](https://marketplace.visualstudio.com/items?itemName=GoCodeo.gocodeo) | [GoCodeo](#gocodeo) | 34K | ⭐ 4.5 |
+| [**WiseGPT (Coding Assistant by DhiWise)**](https://marketplace.visualstudio.com/items?itemName=dhiwisepvtltd.dhiwisecodesync) | [dhiwisepvtltd](#dhiwisepvtltd) | 32K | ⭐ 4.3 |
+| [**Data Analysis for Copilot**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-copilot-data-analysis) | [ms-vscode](#ms-vscode) | 31K | ⭐ 3.8 |
+| [**Python Data Science**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.python-ds-extension-pack) | [ms-toolsai](#ms-toolsai) | 29K | ⭐ 5 |
+| [**Purecode AI - AI Coding Agent for Legacy Codebases**](https://marketplace.visualstudio.com/items?itemName=PurecodeAI.purecode-ai) | [PurecodeAI](#purecodeai) | 29K | ⭐ 4.9 |
+| [**AICodeHelper**](https://marketplace.visualstudio.com/items?itemName=Kimseungtae.aicodehelper) | [Kimseungtae](#kimseungtae) | 28K | ⭐ 5 |
+
+</details>
+
+<p align="right"><a href="#-extensions-by-category">⬆️ Back to Categories</a> · <a href="#-table-of-contents">⬆️ Back to Top</a></p>
+
+---
+
+### <a id="category-notebooks"></a>📂 Notebooks
+<details>
+<summary><strong>23 extensions in this category</strong></summary>
+
+| Extension | Publisher | Installs | Rating |
+|-----------|-----------|:--------:|:------:|
+| [**Jupyter**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter) | [ms-toolsai](#ms-toolsai) | 98.8M | ⭐ 2.7 |
+| [**Jupyter Keymap**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter-keymap) | [ms-toolsai](#ms-toolsai) | 78.6M | ⭐ 4 |
+| [**Jupyter Notebook Renderers**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter-renderers) | [ms-toolsai](#ms-toolsai) | 77.7M | ⭐ 2.8 |
+| [**Jupyter Cell Tags**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.vscode-jupyter-cell-tags) | [ms-toolsai](#ms-toolsai) | 59M | ⭐ 4 |
+| [**Jupyter Slide Show**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.vscode-jupyter-slideshow) | [ms-toolsai](#ms-toolsai) | 59M | ⭐ 5 |
+| [**SonarQube for IDE**](https://marketplace.visualstudio.com/items?itemName=SonarSource.sonarlint-vscode) | [SonarSource](#sonarsource) | 4M | ⭐ 3.8 |
+| [**AWS Toolkit**](https://marketplace.visualstudio.com/items?itemName=AmazonWebServices.aws-toolkit-vscode) | [AmazonWebServices](#amazonwebservices) | 3.6M | ⭐ 2.5 |
+| [**Polyglot Notebooks**](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.dotnet-interactive-vscode) | [ms-dotnettools](#ms-dotnettools) | 1.8M | ⭐ 4.1 |
+| [**.NET Extension Pack**](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscode-dotnet-pack) | [ms-dotnettools](#ms-dotnettools) | 1.4M | ⭐ 2.6 |
+| [**Julia**](https://marketplace.visualstudio.com/items?itemName=julialang.language-julia) | [julialang](#julialang) | 980K | ⭐ 4.5 |
+| [**Jupyter PowerToys**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.vscode-jupyter-powertoys) | [ms-toolsai](#ms-toolsai) | 792K | ⭐ 4.7 |
+| [**Tensorboard**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.tensorboard) | [ms-toolsai](#ms-toolsai) | 550K | ⭐ 5 |
+| [**Quarto**](https://marketplace.visualstudio.com/items?itemName=quarto.quarto) | [quarto](#quarto) | 299K | ⭐ 4.9 |
+| [**JupyterHub**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter-hub) | [ms-toolsai](#ms-toolsai) | 253K | — |
+| [**Databricks Power Tools**](https://marketplace.visualstudio.com/items?itemName=paiqo.databricks-vscode) | [paiqo](#paiqo) | 134K | ⭐ 4.3 |
+| [**Calva Spritz**](https://marketplace.visualstudio.com/items?itemName=betterthantomorrow.calva-spritz) | [betterthantomorrow](#betterthantomorrow) | 130K | ⭐ 5 |
+| [**Gather**](https://marketplace.visualstudio.com/items?itemName=ms-python.gather) | [ms-python](#ms-python) | 119K | ⭐ 5 |
+| [**SAS**](https://marketplace.visualstudio.com/items?itemName=SAS.sas-lsp) | [SAS](#sas) | 77K | ⭐ 4.8 |
+| [**Colab**](https://marketplace.visualstudio.com/items?itemName=Google.colab) | [Google](#google) | 76K | ⭐ 5 |
+| [**Rocket COBOL**](https://marketplace.visualstudio.com/items?itemName=RocketSoftware.rocket-cobol) | [RocketSoftware](#rocketsoftware) | 53K | ⭐ 5 |
+| [**IDL for VSCode**](https://marketplace.visualstudio.com/items?itemName=IDL.idl-for-vscode) | [IDL](#idl) | 32K | ⭐ 5 |
+| [**Python Data Science**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.python-ds-extension-pack) | [ms-toolsai](#ms-toolsai) | 29K | ⭐ 5 |
+| [**marimo**](https://marketplace.visualstudio.com/items?itemName=marimo-team.vscode-marimo) | [marimo-team](#marimo-team) | 28K | ⭐ 4.2 |
+
+</details>
+
+<p align="right"><a href="#-extensions-by-category">⬆️ Back to Categories</a> · <a href="#-table-of-contents">⬆️ Back to Top</a></p>
+
+---
+
+### <a id="category-other"></a>📂 Other
+<details>
+<summary><strong>160 extensions in this category</strong></summary>
+
+| Extension | Publisher | Installs | Rating |
+|-----------|-----------|:--------:|:------:|
+| [**IntelliCode**](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode) | [VisualStudioExptTeam](#visualstudioexptteam) | 60.3M | ⭐ 3.9 |
+| [**Docker**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) | [ms-azuretools](#ms-azuretools) | 48.7M | ⭐ 4.5 |
+| [**IntelliCode API Usage Examples**](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.intellicode-api-usage-examples) | [VisualStudioExptTeam](#visualstudioexptteam) | 44.6M | ⭐ 3.8 |
+| [**Project Manager for Java**](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-dependency) | [vscjava](#vscjava) | 40.3M | ⭐ 4.1 |
+| [**WSL**](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl) | [ms-vscode-remote](#ms-vscode-remote) | 37.2M | ⭐ 4.8 |
+| [**Dev Containers**](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) | [ms-vscode-remote](#ms-vscode-remote) | 35.2M | ⭐ 4.3 |
+| [**Remote - SSH**](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh) | [ms-vscode-remote](#ms-vscode-remote) | 30.7M | ⭐ 3.7 |
+| [**.NET Install Tool**](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscode-dotnet-runtime) | [ms-dotnettools](#ms-dotnettools) | 23.2M | ⭐ 1.9 |
+| [**Remote Explorer**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.remote-explorer) | [ms-vscode](#ms-vscode) | 22.8M | ⭐ 4.5 |
+| [**Live Share**](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) | [MS-vsliveshare](#ms-vsliveshare) | 22.2M | ⭐ 4.2 |
+| [**Python Environments**](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-python-envs) | [ms-python](#ms-python) | 16.5M | ⭐ 1.4 |
+| [**Live Preview**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server) | [ms-vscode](#ms-vscode) | 11M | ⭐ 4.4 |
+| [**Remote - Tunnels**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.remote-server) | [ms-vscode](#ms-vscode) | 7.4M | ⭐ 4.4 |
+| [**GitHub Codespaces**](https://marketplace.visualstudio.com/items?itemName=GitHub.codespaces) | [GitHub](#github) | 6.9M | ⭐ 4.8 |
+| [**Hex Editor**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.hexeditor) | [ms-vscode](#ms-vscode) | 6.4M | ⭐ 3.5 |
+| [**JavaScript and TypeScript Nightly**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next) | [ms-vscode](#ms-vscode) | 6.1M | ⭐ 2.8 |
+| [**GitHub Actions**](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-github-actions) | [GitHub](#github) | 5.7M | ⭐ 3.2 |
+| [**Spring Initializr Java Support**](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-spring-initializr) | [vscjava](#vscjava) | 5.7M | ⭐ 4 |
+| [**GitHub Repositories**](https://marketplace.visualstudio.com/items?itemName=GitHub.remotehub) | [GitHub](#github) | 5.5M | ⭐ 4.4 |
+| [**[Deprecated] Live Share Audio**](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-audio) | [MS-vsliveshare](#ms-vsliveshare) | 5.4M | ⭐ 4.6 |
+| [**Remote Repositories**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.remote-repositories) | [ms-vscode](#ms-vscode) | 5.2M | ⭐ 4.2 |
+| [**Import Cost**](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) | [wix](#wix) | 5.1M | ⭐ 3 |
+| [**Data Workspace**](https://marketplace.visualstudio.com/items?itemName=ms-mssql.data-workspace-vscode) | [ms-mssql](#ms-mssql) | 4.8M | ⭐ 4 |
+| [**Azure Repos**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.azure-repos) | [ms-vscode](#ms-vscode) | 4.7M | ⭐ 3.2 |
+| [**SQL Database Projects**](https://marketplace.visualstudio.com/items?itemName=ms-mssql.sql-database-projects-vscode) | [ms-mssql](#ms-mssql) | 4.6M | ⭐ 4.2 |
+| [**Test Adapter Converter**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.test-adapter-converter) | [ms-vscode](#ms-vscode) | 4.6M | ⭐ 5 |
+| [**Spring Boot Dashboard**](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-spring-boot-dashboard) | [vscjava](#vscjava) | 4.3M | ⭐ 4.2 |
+| [**SQL Bindings**](https://marketplace.visualstudio.com/items?itemName=ms-mssql.sql-bindings-vscode) | [ms-mssql](#ms-mssql) | 4.2M | ⭐ 5 |
+| [**Database Client JDBC**](https://marketplace.visualstudio.com/items?itemName=cweijan.dbclient-jdbc) | [cweijan](#cweijan) | 3M | ⭐ 3.7 |
+| [**Red Hat Dependency Analytics**](https://marketplace.visualstudio.com/items?itemName=redhat.fabric8-analytics) | [redhat](#redhat) | 3M | ⭐ 2.7 |
+| [**Atlassian: Jira, Rovo Dev, Bitbucket**](https://marketplace.visualstudio.com/items?itemName=Atlassian.atlascode) | [Atlassian](#atlassian) | 2.9M | ⭐ 2.6 |
+| [**GitLab Workflow**](https://marketplace.visualstudio.com/items?itemName=GitLab.gitlab-workflow) | [GitLab](#gitlab) | 2.7M | ⭐ 3.3 |
+| [**Red Hat Commons**](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-commons) | [redhat](#redhat) | 2.3M | ⭐ 2.2 |
+| [**Salesforce CLI Integration**](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-core) | [salesforce](#salesforce) | 2.2M | ⭐ 1.7 |
+| [**Nx Console**](https://marketplace.visualstudio.com/items?itemName=nrwl.angular-console) | [nrwl](#nrwl) | 2.1M | ⭐ 3.7 |
+| [**Lombok Annotations Support for VS Code**](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-lombok) | [vscjava](#vscjava) | 1.1M | ⭐ 4.3 |
+| [**Gitpod Classic Remote**](https://marketplace.visualstudio.com/items?itemName=gitpod.gitpod-remote-ssh) | [gitpod](#gitpod) | 1.1M | ⭐ 2 |
+| [**VS Code Speech**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-speech) | [ms-vscode](#ms-vscode) | 1.1M | ⭐ 3.4 |
+| [**Sort lines**](https://marketplace.visualstudio.com/items?itemName=Tyriar.sort-lines) | [Tyriar](#tyriar) | 1.1M | ⭐ 5 |
+| [**Lorem ipsum**](https://marketplace.visualstudio.com/items?itemName=Tyriar.lorem-ipsum) | [Tyriar](#tyriar) | 1M | ⭐ 4.4 |
+| [**Apex Log Analyzer**](https://marketplace.visualstudio.com/items?itemName=financialforce.lana) | [financialforce](#financialforce) | 991K | ⭐ 4.8 |
+| [**File Downloader**](https://marketplace.visualstudio.com/items?itemName=mindaro-dev.file-downloader) | [mindaro-dev](#mindaro-dev) | 837K | ⭐ 5 |
+| [**Runtime Server Protocol UI**](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-rsp-ui) | [redhat](#redhat) | 676K | ⭐ 2 |
+| [**Code Time**](https://marketplace.visualstudio.com/items?itemName=softwaredotcom.swdc-vscode) | [softwaredotcom](#softwaredotcom) | 638K | ⭐ 3.4 |
+| [**Marp for VS Code**](https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode) | [marp-team](#marp-team) | 628K | ⭐ 5 |
+| [**Print**](https://marketplace.visualstudio.com/items?itemName=pdconsec.vscode-print) | [pdconsec](#pdconsec) | 598K | ⭐ 4.7 |
+| [**Run on Save**](https://marketplace.visualstudio.com/items?itemName=emeraldwalk.RunOnSave) | [emeraldwalk](#emeraldwalk) | 596K | ⭐ 3.8 |
+| [**Ionic**](https://marketplace.visualstudio.com/items?itemName=ionic.ionic) | [ionic](#ionic) | 590K | ⭐ 4.2 |
+| [**Competitive Programming Helper (cph)**](https://marketplace.visualstudio.com/items?itemName=DivyanshuAgrawal.competitive-programming-helper) | [DivyanshuAgrawal](#divyanshuagrawal) | 566K | ⭐ 4.7 |
+| [**Community Server Connectors**](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-community-server-connector) | [redhat](#redhat) | 536K | ⭐ 4.2 |
+| [**IntelliCode Completions**](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode-completions) | [VisualStudioExptTeam](#visualstudioexptteam) | 528K | ⭐ 4.8 |
+| [**Agentforce Vibes**](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-einstein-gpt) | [salesforce](#salesforce) | 522K | ⭐ 2.8 |
+| [**Polaris for VS Code**](https://marketplace.visualstudio.com/items?itemName=Shopify.polaris-for-vscode) | [Shopify](#shopify) | 517K | ⭐ 5 |
+| [**yarn**](https://marketplace.visualstudio.com/items?itemName=gamunu.vscode-yarn) | [gamunu](#gamunu) | 504K | ⭐ 4.7 |
+| [**exe Runner**](https://marketplace.visualstudio.com/items?itemName=brandonfowler.exe-runner) | [brandonfowler](#brandonfowler) | 502K | ⭐ 4.2 |
+| [**learn-markdown**](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-markdown) | [docsmsft](#docsmsft) | 471K | ⭐ 4.1 |
+| [**Azurite**](https://marketplace.visualstudio.com/items?itemName=Azurite.azurite) | [Azurite](#azurite) | 456K | ⭐ 5 |
+| [**New Relic CodeStream**](https://marketplace.visualstudio.com/items?itemName=CodeStream.codestream) | [CodeStream](#codestream) | 386K | ⭐ 4 |
+| [**Laravel**](https://marketplace.visualstudio.com/items?itemName=laravel.vscode-laravel) | [laravel](#laravel) | 369K | ⭐ 4.6 |
+| [**Paste JSON as Code (Refresh)**](https://marketplace.visualstudio.com/items?itemName=doggy8088.quicktype-refresh) | [doggy8088](#doggy8088) | 331K | ⭐ 5 |
+| [**Gitpod Classic**](https://marketplace.visualstudio.com/items?itemName=gitpod.gitpod-desktop) | [gitpod](#gitpod) | 327K | ⭐ 4.7 |
+| [**SARIF Viewer**](https://marketplace.visualstudio.com/items?itemName=MS-SarifVSCode.sarif-viewer) | [MS-SarifVSCode](#ms-sarifvscode) | 326K | ⭐ 3.8 |
+| [**PDF Preview**](https://marketplace.visualstudio.com/items?itemName=analytic-signal.preview-pdf) | [analytic-signal](#analytic-signal) | 311K | ⭐ 4.6 |
+| [**learn-images**](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-images) | [docsmsft](#docsmsft) | 295K | ⭐ 5 |
+| [**Debug Visualizer**](https://marketplace.visualstudio.com/items?itemName=hediet.debug-visualizer) | [hediet](#hediet) | 294K | ⭐ 4 |
+| [**Word Count**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.wordcount) | [ms-vscode](#ms-vscode) | 273K | ⭐ 2.8 |
+| [**GitHub Issue Notebooks**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-github-issue-notebooks) | [ms-vscode](#ms-vscode) | 255K | ⭐ 5 |
+| [**Foam**](https://marketplace.visualstudio.com/items?itemName=foam.foam-vscode) | [foam](#foam) | 212K | ⭐ 5 |
+| [**Zowe Explorer**](https://marketplace.visualstudio.com/items?itemName=Zowe.vscode-extension-for-zowe) | [Zowe](#zowe) | 211K | ⭐ 5 |
+| [**nRF Connect for VS Code**](https://marketplace.visualstudio.com/items?itemName=nordic-semiconductor.nrf-connect) | [nordic-semiconductor](#nordic-semiconductor) | 196K | ⭐ 3.5 |
+| [**Wokwi Simulator**](https://marketplace.visualstudio.com/items?itemName=Wokwi.wokwi-vscode) | [Wokwi](#wokwi) | 195K | ⭐ 4.8 |
+| [**nRF Terminal**](https://marketplace.visualstudio.com/items?itemName=nordic-semiconductor.nrf-terminal) | [nordic-semiconductor](#nordic-semiconductor) | 193K | ⭐ 5 |
+| [**CodeSandbox**](https://marketplace.visualstudio.com/items?itemName=CodeSandbox-io.codesandbox-projects) | [CodeSandbox-io](#codesandbox-io) | 187K | ⭐ 3.4 |
+| [**Application Wizard**](https://marketplace.visualstudio.com/items?itemName=SAPOS.yeoman-ui) | [SAPOS](#sapos) | 186K | ⭐ 5 |
+| [**Azure Devops Codespaces Authentication**](https://marketplace.visualstudio.com/items?itemName=ms-codespaces-tools.ado-codespaces-auth) | [ms-codespaces-tools](#ms-codespaces-tools) | 184K | — |
+| [**IntelliCode Insiders**](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode-insiders) | [VisualStudioExptTeam](#visualstudioexptteam) | 177K | ⭐ 5 |
+| [**Microsoft.AspNetCore.Razor.VSCode.BlazorWasmDebuggingExtension**](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.blazorwasm-companion) | [ms-dotnettools](#ms-dotnettools) | 176K | ⭐ 5 |
+| [**vscode-smoketest-check**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-smoketest-check) | [ms-vscode](#ms-vscode) | 174K | — |
+| [**Shell launcher**](https://marketplace.visualstudio.com/items?itemName=Tyriar.shell-launcher) | [Tyriar](#tyriar) | 173K | ⭐ 4.9 |
+| [**.NET Core EditorConfig Generator**](https://marketplace.visualstudio.com/items?itemName=doggy8088.netcore-editorconfiggenerator) | [doggy8088](#doggy8088) | 171K | ⭐ 5 |
+| [**Open Folder Context Menus for VS Code**](https://marketplace.visualstudio.com/items?itemName=chrisdias.vscode-opennewinstance) | [chrisdias](#chrisdias) | 166K | ⭐ 5 |
+| [**PHP import checker**](https://marketplace.visualstudio.com/items?itemName=marabesi.php-import-checker) | [marabesi](#marabesi) | 162K | ⭐ 4.7 |
+| [**JavaScript Debugger Companion Extension**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.js-debug-companion) | [ms-vscode](#ms-vscode) | 161K | — |
+| [**SAP Business Application Studio toolkit**](https://marketplace.visualstudio.com/items?itemName=SAPOSS.app-studio-toolkit) | [SAPOSS](#saposs) | 152K | ⭐ 5 |
+| [**MPEG-4 Preview**](https://marketplace.visualstudio.com/items?itemName=analytic-signal.preview-mp4) | [analytic-signal](#analytic-signal) | 149K | ⭐ 4.6 |
+| [**Arm Tools Environment Manager**](https://marketplace.visualstudio.com/items?itemName=Arm.environment-manager) | [Arm](#arm) | 146K | — |
+| [**extension-activator**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.extension-activator) | [ms-vscode](#ms-vscode) | 142K | ⭐ 1 |
+| [**Azure Application Insights**](https://marketplace.visualstudio.com/items?itemName=VisualStudioOnlineApplicationInsights.application-insights) | [VisualStudioOnlineApplicationInsights](#visualstudioonlineapplicationinsights) | 139K | ⭐ 1 |
+| [**Remote Access for SAP Business Application Studio**](https://marketplace.visualstudio.com/items?itemName=SAPOSS.app-studio-remote-access) | [SAPOSS](#saposs) | 138K | ⭐ 5 |
+| [**Red Hat Authentication**](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-redhat-account) | [redhat](#redhat) | 136K | — |
+| [**Web Template Studio (Preview)**](https://marketplace.visualstudio.com/items?itemName=WASTeamAccount.WebTemplateStudio-dev-nightly) | [WASTeamAccount](#wasteamaccount) | 134K | ⭐ 4.6 |
+| [**JBoss Toolkit**](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-server-connector) | [redhat](#redhat) | 129K | ⭐ 4 |
+| [**HTML Preview**](https://marketplace.visualstudio.com/items?itemName=analytic-signal.preview-html) | [analytic-signal](#analytic-signal) | 128K | ⭐ 3.4 |
+| [**learn-article-templates**](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-article-templates) | [docsmsft](#docsmsft) | 125K | ⭐ 4 |
+| [**Terminal Tabs (deprecated)**](https://marketplace.visualstudio.com/items?itemName=Tyriar.terminal-tabs) | [Tyriar](#tyriar) | 124K | ⭐ 4.5 |
+| [**IoT Device Cube**](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.vscode-iot-device-cube) | [vsciot-vscode](#vsciot-vscode) | 122K | — |
+| [**Flame Chart Visualizer for JavaScript Profiles**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-js-profile-flame) | [ms-vscode](#ms-vscode) | 113K | ⭐ 3.7 |
+| [**Search by Sourcegraph**](https://marketplace.visualstudio.com/items?itemName=sourcegraph.sourcegraph) | [sourcegraph](#sourcegraph) | 113K | ⭐ 5 |
+| [**Arm Device Manager**](https://marketplace.visualstudio.com/items?itemName=Arm.device-manager) | [Arm](#arm) | 108K | — |
+| [**Chinese (Simplified, China) language support for VS Code Speech**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-speech-language-pack-zh-cn) | [ms-vscode](#ms-vscode) | 108K | ⭐ 5 |
+| [**Protobuf (Protocol Buffers)**](https://marketplace.visualstudio.com/items?itemName=pbkit.vscode-pbkit) | [pbkit](#pbkit) | 104K | ⭐ 4.1 |
+| [**Kubernetes Kind**](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.kind-vscode) | [ms-kubernetes-tools](#ms-kubernetes-tools) | 102K | ⭐ 4 |
+| [**Coder**](https://marketplace.visualstudio.com/items?itemName=coder.coder-remote) | [coder](#coder) | 101K | ⭐ 5 |
+| [**Arm Virtual Hardware**](https://marketplace.visualstudio.com/items?itemName=Arm.virtual-hardware) | [Arm](#arm) | 95K | — |
+| [**learn-scaffolding**](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-scaffolding) | [docsmsft](#docsmsft) | 89K | — |
+| [**ARB Editor**](https://marketplace.visualstudio.com/items?itemName=Google.arb-editor) | [Google](#google) | 84K | ⭐ 5 |
+| [**IBM Cloud Account**](https://marketplace.visualstudio.com/items?itemName=IBM.ibmcloud-account) | [IBM](#ibm) | 82K | — |
+| [**Music Time for Spotify**](https://marketplace.visualstudio.com/items?itemName=softwaredotcom.music-time) | [softwaredotcom](#softwaredotcom) | 82K | ⭐ 3.7 |
+| [**Workbench Core**](https://marketplace.visualstudio.com/items?itemName=particle.particle-vscode-core) | [particle](#particle) | 80K | ⭐ 2.5 |
+| [**GitHub Copilot Workspace**](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-workspace) | [GitHub](#github) | 77K | ⭐ 5 |
+| [**TIFF Preview**](https://marketplace.visualstudio.com/items?itemName=analytic-signal.preview-tiff) | [analytic-signal](#analytic-signal) | 77K | ⭐ 5 |
+| [**Terminal Here**](https://marketplace.visualstudio.com/items?itemName=Tyriar.vscode-terminal-here) | [Tyriar](#tyriar) | 77K | ⭐ 4.4 |
+| [**WebNative**](https://marketplace.visualstudio.com/items?itemName=WebNative.webnative) | [WebNative](#webnative) | 76K | ⭐ 4.2 |
+| [**Azure Policy**](https://marketplace.visualstudio.com/items?itemName=AzurePolicy.azurepolicyextension) | [AzurePolicy](#azurepolicy) | 75K | ⭐ 2.6 |
+| [**Markdoc language support**](https://marketplace.visualstudio.com/items?itemName=Stripe.markdoc-language-support) | [Stripe](#stripe) | 74K | — |
+| [**Tabnine for Enterprise**](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode-self-hosted-updater) | [TabNine](#tabnine) | 70K | ⭐ 3.2 |
+| [**WSL: Recommender**](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl-recommender) | [ms-vscode-remote](#ms-vscode-remote) | 69K | ⭐ 2.3 |
+| [**Epub Reader**](https://marketplace.visualstudio.com/items?itemName=cweijan.epub-reader) | [cweijan](#cweijan) | 66K | ⭐ 5 |
+| [**shadowenv**](https://marketplace.visualstudio.com/items?itemName=Shopify.vscode-shadowenv) | [Shopify](#shopify) | 65K | ⭐ 3 |
+| [**Auto Barrel for VSCode**](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-auto-barrel) | [imgildev](#imgildev) | 65K | ⭐ 5 |
+| [**Windows Terminal Integration**](https://marketplace.visualstudio.com/items?itemName=Tyriar.windows-terminal) | [Tyriar](#tyriar) | 64K | ⭐ 5 |
+| [**Resharper 9 Keybindings**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.resharper9-keybindings) | [ms-vscode](#ms-vscode) | 64K | ⭐ 5 |
+| [**Deprecated - Project Initializer by Red Hat**](https://marketplace.visualstudio.com/items?itemName=redhat.project-initializer) | [redhat](#redhat) | 61K | — |
+| [**BPMN Editor**](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-extension-bpmn-editor) | [redhat](#redhat) | 60K | ⭐ 3.8 |
+| [**Xmind Viewer**](https://marketplace.visualstudio.com/items?itemName=cweijan.xmind-viewer) | [cweijan](#cweijan) | 59K | ⭐ 5 |
+| [**Task**](https://marketplace.visualstudio.com/items?itemName=task.vscode-task) | [task](#task) | 59K | ⭐ 4.6 |
+| [**Ember Cli in Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=EmberTooling.vsc-ember-cli) | [EmberTooling](#embertooling) | 58K | ⭐ 5 |
+| [**Anypoint Code Builder - Dependencies Extension**](https://marketplace.visualstudio.com/items?itemName=salesforce.mule-dx-dependencies) | [salesforce](#salesforce) | 57K | ⭐ 5 |
+| [**Open file**](https://marketplace.visualstudio.com/items?itemName=Fr43nk.seito-openfile) | [Fr43nk](#fr43nk) | 49K | ⭐ 4.8 |
+| [**Million Lint**](https://marketplace.visualstudio.com/items?itemName=million.million-lint) | [million](#million) | 49K | ⭐ 4.3 |
+| [**Markdown Notebook**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-markdown-notebook) | [ms-vscode](#ms-vscode) | 46K | ⭐ 3 |
+| [**IAR Build**](https://marketplace.visualstudio.com/items?itemName=iarsystems.iar-build) | [iarsystems](#iarsystems) | 45K | ⭐ 5 |
+| [**Hide Comments**](https://marketplace.visualstudio.com/items?itemName=eliostruyf.vscode-hide-comments) | [eliostruyf](#eliostruyf) | 44K | ⭐ 4.8 |
+| [**Anypoint Code Builder - API Extension**](https://marketplace.visualstudio.com/items?itemName=salesforce.mule-dx-api-component) | [salesforce](#salesforce) | 43K | ⭐ 5 |
+| [**TypeScript Barrel Generator**](https://marketplace.visualstudio.com/items?itemName=eliostruyf.vscode-typescript-exportallmodules) | [eliostruyf](#eliostruyf) | 43K | ⭐ 5 |
+| [**TypeScript (Native Preview)**](https://marketplace.visualstudio.com/items?itemName=TypeScriptTeam.native-preview) | [TypeScriptTeam](#typescriptteam) | 42K | ⭐ 5 |
+| [**STM32Cube Core**](https://marketplace.visualstudio.com/items?itemName=stmicroelectronics.stm32cube-ide-core) | [stmicroelectronics](#stmicroelectronics) | 41K | — |
+| [**vscode-dev-azurecloudshell-helper**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-dev-azurecloudshell-helper) | [ms-azuretools](#ms-azuretools) | 40K | — |
+| [**Salesforce Org Management**](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-org) | [salesforce](#salesforce) | 38K | — |
+| [**SAP HANA Database Explorer**](https://marketplace.visualstudio.com/items?itemName=SAPSE.hana-database-explorer) | [SAPSE](#sapse) | 38K | ⭐ 3.8 |
+| [**STM32Cube Debug Generic GDB Server**](https://marketplace.visualstudio.com/items?itemName=stmicroelectronics.stm32cube-ide-debug-generic-gdbserver) | [stmicroelectronics](#stmicroelectronics) | 38K | — |
+| [**Discloud**](https://marketplace.visualstudio.com/items?itemName=discloud.discloud) | [discloud](#discloud) | 37K | ⭐ 4.8 |
+| [**StackSpot AI**](https://marketplace.visualstudio.com/items?itemName=StackspotAI.StackSpotAI) | [StackspotAI](#stackspotai) | 36K | ⭐ 4.9 |
+| [**SuiteCloud Extension for Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=Oracle.suitecloud-vscode-extension) | [Oracle](#oracle) | 36K | ⭐ 4.3 |
+| [**STM32Cube Project Manager**](https://marketplace.visualstudio.com/items?itemName=stmicroelectronics.stm32cube-ide-project-manager) | [stmicroelectronics](#stmicroelectronics) | 36K | — |
+| [**Shiny**](https://marketplace.visualstudio.com/items?itemName=Posit.shiny) | [Posit](#posit) | 34K | ⭐ 5 |
+| [**IBM Cloud CLI**](https://marketplace.visualstudio.com/items?itemName=IBM.ibm-developer) | [IBM](#ibm) | 34K | ⭐ 5 |
+| [**TMDL**](https://marketplace.visualstudio.com/items?itemName=analysis-services.TMDL) | [analysis-services](#analysis-services) | 33K | ⭐ 5 |
+| [**Salesforce Analytics CLI Integration**](https://marketplace.visualstudio.com/items?itemName=salesforce.analyticsdx-vscode-core) | [salesforce](#salesforce) | 33K | — |
+| [**Checkmarx One**](https://marketplace.visualstudio.com/items?itemName=checkmarx.ast-results) | [checkmarx](#checkmarx) | 31K | ⭐ 4.2 |
+| [**Emoji Log**](https://marketplace.visualstudio.com/items?itemName=ahmadawais.emoji-log-vscode) | [ahmadawais](#ahmadawais) | 30K | ⭐ 4.9 |
+| [**DMN Editor**](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-extension-dmn-editor) | [redhat](#redhat) | 30K | ⭐ 4.9 |
+| [**Db2 Connect**](https://marketplace.visualstudio.com/items?itemName=IBM.Db2Connect) | [IBM](#ibm) | 30K | ⭐ 2.7 |
+| [**Salesforce Industries & Omnistudio (Vlocity)**](https://marketplace.visualstudio.com/items?itemName=curlybracket.vlocode) | [curlybracket](#curlybracket) | 30K | ⭐ 3.8 |
+| [**Checkmarx SAST 9.x**](https://marketplace.visualstudio.com/items?itemName=checkmarx.cxvscode) | [checkmarx](#checkmarx) | 30K | ⭐ 5 |
+| [**Workspace**](https://marketplace.visualstudio.com/items?itemName=Fooxly.workspace) | [Fooxly](#fooxly) | 30K | ⭐ 4.5 |
+| [**COBOL Control Flow**](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.ccf) | [broadcomMFD](#broadcommfd) | 29K | ⭐ 4.5 |
+| [**Firebase Data Connect**](https://marketplace.visualstudio.com/items?itemName=GoogleCloudTools.firebase-dataconnect-vscode) | [GoogleCloudTools](#googlecloudtools) | 29K | ⭐ 5 |
+| [**Header source switch**](https://marketplace.visualstudio.com/items?itemName=ryzngard.vscode-header-source) | [ryzngard](#ryzngard) | 28K | ⭐ 5 |
+| [**Security IntelliSense**](https://marketplace.visualstudio.com/items?itemName=azsdktm.SecurityIntelliSense) | [azsdktm](#azsdktm) | 28K | — |
+
+</details>
+
+<p align="right"><a href="#-extensions-by-category">⬆️ Back to Categories</a> · <a href="#-table-of-contents">⬆️ Back to Top</a></p>
+
+---
+
+### <a id="category-programming-languages"></a>📂 Programming Languages
+<details>
+<summary><strong>284 extensions in this category</strong></summary>
+
+| Extension | Publisher | Installs | Rating |
+|-----------|-----------|:--------:|:------:|
+| [**Python**](https://marketplace.visualstudio.com/items?itemName=ms-python.python) | [ms-python](#ms-python) | 194.9M | ⭐ 4.2 |
+| [**Pylance**](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance) | [ms-python](#ms-python) | 162.8M | ⭐ 3 |
+| [**C/C++**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools) | [ms-vscode](#ms-vscode) | 91.7M | ⭐ 3.4 |
+| [**GitHub Copilot**](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) | [GitHub](#github) | 62.5M | ⭐ 4.1 |
+| [**CMake Tools**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cmake-tools) | [ms-vscode](#ms-vscode) | 53.2M | ⭐ 4.5 |
+| [**GitHub Copilot Chat**](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat) | [GitHub](#github) | 51.7M | ⭐ 3.7 |
+| [**Language Support for Java(TM) by Red Hat**](https://marketplace.visualstudio.com/items?itemName=redhat.java) | [redhat](#redhat) | 49.8M | ⭐ 3.3 |
+| [**C/C++ Extension Pack**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools-extension-pack) | [ms-vscode](#ms-vscode) | 49M | ⭐ 4.6 |
+| [**ESLint**](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) | [dbaeumer](#dbaeumer) | 46.8M | ⭐ 4.3 |
+| [**Debugger for Java**](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-debug) | [vscjava](#vscjava) | 45.5M | ⭐ 4 |
+| [**Maven for Java**](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-maven) | [vscjava](#vscjava) | 41.9M | ⭐ 4.1 |
+| [**Extension Pack for Java**](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack) | [vscjava](#vscjava) | 40.1M | ⭐ 3.7 |
+| [**C#**](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp) | [ms-dotnettools](#ms-dotnettools) | 37.4M | ⭐ 2.7 |
+| [**Remote - SSH: Editing Configuration Files**](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh-edit) | [ms-vscode-remote](#ms-vscode-remote) | 28.6M | ⭐ 4.2 |
+| [**isort**](https://marketplace.visualstudio.com/items?itemName=ms-python.isort) | [ms-python](#ms-python) | 24.9M | ⭐ 2.5 |
+| [**YAML**](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml) | [redhat](#redhat) | 24.5M | ⭐ 3.5 |
+| [**Gradle for Java**](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-gradle) | [vscjava](#vscjava) | 21.2M | ⭐ 3.6 |
+| [**Go**](https://marketplace.visualstudio.com/items?itemName=golang.Go) | [golang](#golang) | 17.4M | ⭐ 4.3 |
+| [**PowerShell**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell) | [ms-vscode](#ms-vscode) | 17M | ⭐ 3.6 |
+| [**PHP Intelephense**](https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client) | [bmewburn](#bmewburn) | 16.3M | ⭐ 4.2 |
+| [**Dart**](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code) | [Dart-Code](#dart-code) | 13.4M | ⭐ 4.8 |
+| [**C# Dev Kit**](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit) | [ms-dotnettools](#ms-dotnettools) | 12.6M | ⭐ 2.9 |
+| [**Flutter**](https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter) | [Dart-Code](#dart-code) | 12.5M | ⭐ 4.9 |
+| [**Tabnine: AI Chat & Autocomplete for JavaScript, Python, Typescript, Java, PHP, Go, and more**](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode) | [TabNine](#tabnine) | 9.4M | ⭐ 4 |
+| [**XML**](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-xml) | [redhat](#redhat) | 9.1M | ⭐ 3.8 |
+| [**Angular Language Service**](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template) | [Angular](#angular) | 9M | ⭐ 3.2 |
+| [**Makefile Tools**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.makefile-tools) | [ms-vscode](#ms-vscode) | 8.7M | ⭐ 2.6 |
+| [**SQL Server (mssql)**](https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql) | [ms-mssql](#ms-mssql) | 8.6M | ⭐ 3.1 |
+| [**Vue (Official)**](https://marketplace.visualstudio.com/items?itemName=Vue.volar) | [Vue](#vue) | 7.2M | ⭐ 3 |
+| [**Container Tools**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-containers) | [ms-azuretools](#ms-azuretools) | 6.9M | ⭐ 3.6 |
+| [**PlatformIO IDE**](https://marketplace.visualstudio.com/items?itemName=platformio.platformio-ide) | [platformio](#platformio) | 6.1M | ⭐ 4.9 |
+| [**PHP**](https://marketplace.visualstudio.com/items?itemName=DEVSENSE.phptools-vscode) | [DEVSENSE](#devsense) | 6.1M | ⭐ 4.1 |
+| [**Black Formatter**](https://marketplace.visualstudio.com/items?itemName=ms-python.black-formatter) | [ms-python](#ms-python) | 6M | ⭐ 3.4 |
+| [**HashiCorp Terraform**](https://marketplace.visualstudio.com/items?itemName=HashiCorp.terraform) | [HashiCorp](#hashicorp) | 5.8M | ⭐ 2.4 |
+| [**Composer**](https://marketplace.visualstudio.com/items?itemName=DEVSENSE.composer-php-vscode) | [DEVSENSE](#devsense) | 5.7M | ⭐ 4.5 |
+| [**PHP Profiler**](https://marketplace.visualstudio.com/items?itemName=DEVSENSE.profiler-php-vscode) | [DEVSENSE](#devsense) | 5.6M | ⭐ 5 |
+| [**rust-analyzer**](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer) | [rust-lang](#rust-lang) | 5.5M | ⭐ 4.8 |
+| [**autopep8**](https://marketplace.visualstudio.com/items?itemName=ms-python.autopep8) | [ms-python](#ms-python) | 5M | ⭐ 2.9 |
+| [**IntelliPHP - AI Autocomplete for PHP**](https://marketplace.visualstudio.com/items?itemName=DEVSENSE.intelli-php-vscode) | [DEVSENSE](#devsense) | 5M | ⭐ 3.5 |
+| [**Spring Boot Tools**](https://marketplace.visualstudio.com/items?itemName=vmware.vscode-spring-boot) | [vmware](#vmware) | 4.9M | ⭐ 5 |
+| [**Java**](https://marketplace.visualstudio.com/items?itemName=Oracle.oracle-java) | [Oracle](#oracle) | 4.6M | ⭐ 4.9 |
+| [**BLACKBOXAI #1 AI Coding Agent and Coding Copilot**](https://marketplace.visualstudio.com/items?itemName=Blackboxapp.blackbox) | [Blackboxapp](#blackboxapp) | 4.6M | ⭐ 3.9 |
+| [**TSLint**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin) | [ms-vscode](#ms-vscode) | 4.5M | ⭐ 3 |
+| [**IntelliCode for C# Dev Kit**](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscodeintellicode-csharp) | [ms-dotnettools](#ms-dotnettools) | 4.2M | ⭐ 2.1 |
+| [**SonarQube for IDE**](https://marketplace.visualstudio.com/items?itemName=SonarSource.sonarlint-vscode) | [SonarSource](#sonarsource) | 4M | ⭐ 3.8 |
+| [**Spring Boot Extension Pack**](https://marketplace.visualstudio.com/items?itemName=vmware.vscode-boot-dev-pack) | [vmware](#vmware) | 3.8M | ⭐ 4.7 |
+| [**Stylelint**](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint) | [stylelint](#stylelint) | 3.2M | ⭐ 4 |
+| [**Prisma**](https://marketplace.visualstudio.com/items?itemName=Prisma.prisma) | [Prisma](#prisma) | 2.9M | ⭐ 4.8 |
+| [**Pylint**](https://marketplace.visualstudio.com/items?itemName=ms-python.pylint) | [ms-python](#ms-python) | 2.9M | ⭐ 2.9 |
+| [**Ruff**](https://marketplace.visualstudio.com/items?itemName=charliermarsh.ruff) | [charliermarsh](#charliermarsh) | 2.7M | ⭐ 4.9 |
+| [**MongoDB for VS Code**](https://marketplace.visualstudio.com/items?itemName=mongodb.mongodb-vscode) | [mongodb](#mongodb) | 2.7M | ⭐ 4.4 |
+| [**Cline**](https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev) | [saoudrizwan](#saoudrizwan) | 2.7M | ⭐ 4.6 |
+| [**GraphQL: Language Feature Support**](https://marketplace.visualstudio.com/items?itemName=GraphQL.vscode-graphql) | [GraphQL](#graphql) | 2.6M | ⭐ 3.1 |
+| [**MySQL**](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-mysql-client2) | [cweijan](#cweijan) | 2.5M | ⭐ 4.2 |
+| [**Svelte for VS Code**](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode) | [svelte](#svelte) | 2.3M | ⭐ 5 |
+| [**Gemini Code Assist**](https://marketplace.visualstudio.com/items?itemName=Google.geminicodeassist) | [Google](#google) | 2.3M | ⭐ 2.1 |
+| [**GraphQL: Syntax Highlighting**](https://marketplace.visualstudio.com/items?itemName=GraphQL.vscode-graphql-syntax) | [GraphQL](#graphql) | 2.3M | ⭐ 5 |
+| [**Version Lens**](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens) | [pflannery](#pflannery) | 2.3M | ⭐ 4.6 |
+| [**Azure CLI Tools**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.azurecli) | [ms-vscode](#ms-vscode) | 2.3M | ⭐ 3.2 |
+| [**clangd**](https://marketplace.visualstudio.com/items?itemName=llvm-vs-code-extensions.vscode-clangd) | [llvm-vs-code-extensions](#llvm-vs-code-extensions) | 2.3M | ⭐ 4.7 |
+| [**CodeGPT: Chat & AI Agents**](https://marketplace.visualstudio.com/items?itemName=DanielSanMedium.dscodegpt) | [DanielSanMedium](#danielsanmedium) | 2.2M | ⭐ 3.5 |
+| [**Postman**](https://marketplace.visualstudio.com/items?itemName=Postman.postman-for-vscode) | [Postman](#postman) | 2.1M | ⭐ 3.1 |
+| [**BLACKBOXAI Agent - Coding Copilot**](https://marketplace.visualstudio.com/items?itemName=Blackboxapp.blackboxagent) | [Blackboxapp](#blackboxapp) | 2.1M | ⭐ 3.8 |
+| [**Turbo Console Log**](https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log) | [ChakrounAnas](#chakrounanas) | 2M | ⭐ 4.1 |
+| [**Apex**](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-apex) | [salesforce](#salesforce) | 2M | ⭐ 2.6 |
+| [**Unity**](https://marketplace.visualstudio.com/items?itemName=VisualStudioToolsForUnity.vstuc) | [VisualStudioToolsForUnity](#visualstudiotoolsforunity) | 1.9M | ⭐ 3.8 |
+| [**Docker DX**](https://marketplace.visualstudio.com/items?itemName=docker.docker) | [docker](#docker) | 1.9M | ⭐ 2.8 |
+| [**Aura Components**](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-lightning) | [salesforce](#salesforce) | 1.9M | ⭐ 3 |
+| [**Rust (deprecated)**](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust) | [rust-lang](#rust-lang) | 1.9M | ⭐ 2.7 |
+| [**Visualforce**](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-visualforce) | [salesforce](#salesforce) | 1.8M | ⭐ 5 |
+| [**Lightning Web Components**](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-lwc) | [salesforce](#salesforce) | 1.8M | ⭐ 3.7 |
+| [**Continue - open-source AI code agent**](https://marketplace.visualstudio.com/items?itemName=Continue.continue) | [Continue](#continue) | 1.8M | ⭐ 3.9 |
+| [**Ruby LSP**](https://marketplace.visualstudio.com/items?itemName=Shopify.ruby-lsp) | [Shopify](#shopify) | 1.7M | ⭐ 2.8 |
+| [**Flake8**](https://marketplace.visualstudio.com/items?itemName=ms-python.flake8) | [ms-python](#ms-python) | 1.6M | ⭐ 5 |
+| [**SLDS Validator**](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforce-vscode-slds) | [salesforce](#salesforce) | 1.6M | ⭐ 3.2 |
+| [**Azure Resource Manager (ARM) Tools**](https://marketplace.visualstudio.com/items?itemName=msazurermtools.azurerm-vscode-tools) | [msazurermtools](#msazurermtools) | 1.5M | ⭐ 4.2 |
+| [**Output Colorizer**](https://marketplace.visualstudio.com/items?itemName=IBM.output-colorizer) | [IBM](#ibm) | 1.5M | ⭐ 4.9 |
+| [**SOQL**](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-soql) | [salesforce](#salesforce) | 1.4M | ⭐ 1.5 |
+| [**Bicep**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-bicep) | [ms-azuretools](#ms-azuretools) | 1.4M | ⭐ 5 |
+| [**Azure Pipelines**](https://marketplace.visualstudio.com/items?itemName=ms-azure-devops.azure-pipelines) | [ms-azure-devops](#ms-azure-devops) | 1.4M | ⭐ 2.4 |
+| [**Amazon Q**](https://marketplace.visualstudio.com/items?itemName=AmazonWebServices.amazon-q-vscode) | [AmazonWebServices](#amazonwebservices) | 1.4M | ⭐ 4.1 |
+| [**.NET Extension Pack**](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscode-dotnet-pack) | [ms-dotnettools](#ms-dotnettools) | 1.4M | ⭐ 2.6 |
+| [**OpenAPI (Swagger) Editor**](https://marketplace.visualstudio.com/items?itemName=42Crunch.vscode-openapi) | [42Crunch](#42crunch) | 1.3M | ⭐ 4.2 |
+| [**TRAE AI (formerly MarsCode): Coding Assistant**](https://marketplace.visualstudio.com/items?itemName=MarsCode.marscode-extension) | [MarsCode](#marscode) | 1.3M | ⭐ 3.7 |
+| [**Deno**](https://marketplace.visualstudio.com/items?itemName=denoland.vscode-deno) | [denoland](#denoland) | 1.2M | ⭐ 4.1 |
+| [**ESP-IDF**](https://marketplace.visualstudio.com/items?itemName=espressif.esp-idf-extension) | [espressif](#espressif) | 1.2M | ⭐ 2.9 |
+| [**Astro**](https://marketplace.visualstudio.com/items?itemName=astro-build.astro-vscode) | [astro-build](#astro-build) | 1.2M | ⭐ 5 |
+| [**Ansible**](https://marketplace.visualstudio.com/items?itemName=redhat.ansible) | [redhat](#redhat) | 1.1M | ⭐ 2.9 |
+| [**Roo Code**](https://marketplace.visualstudio.com/items?itemName=RooVeterinaryInc.roo-cline) | [RooVeterinaryInc](#rooveterinaryinc) | 1.1M | ⭐ 4.9 |
+| [**MDX**](https://marketplace.visualstudio.com/items?itemName=unifiedjs.vscode-mdx) | [unifiedjs](#unifiedjs) | 1M | ⭐ 4.6 |
+| [**Keploy: AI Testing Assistant for Developers – Supercharge Unit, Integration, and API Testing in Python, JavaScript, TypeScript, Java, PHP, Go, and More**](https://marketplace.visualstudio.com/items?itemName=Keploy.keployio) | [Keploy](#keploy) | 1M | ⭐ 4.9 |
+| [**Cloudfoundry Manifest YML Support**](https://marketplace.visualstudio.com/items?itemName=vmware.vscode-manifest-yaml) | [vmware](#vmware) | 980K | ⭐ 5 |
+| [**Julia**](https://marketplace.visualstudio.com/items?itemName=julialang.language-julia) | [julialang](#julialang) | 980K | ⭐ 4.5 |
+| [**Database Client**](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-database-client2) | [cweijan](#cweijan) | 964K | ⭐ 4.2 |
+| [**Concourse CI Pipeline Editor**](https://marketplace.visualstudio.com/items?itemName=vmware.vscode-concourse) | [vmware](#vmware) | 922K | ⭐ 5 |
+| [**Bito AI Code Reviews**](https://marketplace.visualstudio.com/items?itemName=Bito.Bito) | [Bito](#bito) | 918K | ⭐ 4.3 |
+| [**Qodo: AI Code Review**](https://marketplace.visualstudio.com/items?itemName=Codium.codium) | [Codium](#codium) | 793K | ⭐ 4.7 |
+| [**Bazel**](https://marketplace.visualstudio.com/items?itemName=BazelBuild.vscode-bazel) | [BazelBuild](#bazelbuild) | 775K | ⭐ 3.4 |
+| [**Cody: AI Code Assistant**](https://marketplace.visualstudio.com/items?itemName=sourcegraph.cody-ai) | [sourcegraph](#sourcegraph) | 769K | ⭐ 4 |
+| [**reStructuredText**](https://marketplace.visualstudio.com/items?itemName=lextudio.restructuredtext) | [lextudio](#lextudio) | 721K | ⭐ 2.9 |
+| [**Fitten Code : Faster and Better AI Assistant**](https://marketplace.visualstudio.com/items?itemName=FittenTech.Fitten-Code) | [FittenTech](#fittentech) | 691K | ⭐ 4.3 |
+| [**Mypy Type Checker**](https://marketplace.visualstudio.com/items?itemName=ms-python.mypy-type-checker) | [ms-python](#ms-python) | 690K | ⭐ 3.3 |
+| [**Apollo GraphQL**](https://marketplace.visualstudio.com/items?itemName=apollographql.vscode-apollo) | [apollographql](#apollographql) | 676K | ⭐ 2.5 |
+| [**Ruby**](https://marketplace.visualstudio.com/items?itemName=Shopify.ruby-extensions-pack) | [Shopify](#shopify) | 669K | ⭐ 3.7 |
+| [**Augment Code: AI Coding Agent for JavaScript, Go, TypeScript, Python & more**](https://marketplace.visualstudio.com/items?itemName=augment.vscode-augment) | [augment](#augment) | 648K | ⭐ 3.7 |
+| [**Oracle SQL Developer Extension for VSCode**](https://marketplace.visualstudio.com/items?itemName=Oracle.sql-developer) | [Oracle](#oracle) | 648K | ⭐ 3.6 |
+| [**HTMLHint**](https://marketplace.visualstudio.com/items?itemName=HTMLHint.vscode-htmlhint) | [HTMLHint](#htmlhint) | 642K | ⭐ 5 |
+| [**AsciiDoc**](https://marketplace.visualstudio.com/items?itemName=asciidoctor.asciidoctor-vscode) | [asciidoctor](#asciidoctor) | 641K | ⭐ 4.4 |
+| [**Go Nightly**](https://marketplace.visualstudio.com/items?itemName=golang.go-nightly) | [golang](#golang) | 575K | ⭐ 5 |
+| [**MATLAB**](https://marketplace.visualstudio.com/items?itemName=MathWorks.language-matlab) | [MathWorks](#mathworks) | 566K | ⭐ 4.6 |
+| [**HashiCorp HCL**](https://marketplace.visualstudio.com/items?itemName=HashiCorp.HCL) | [HashiCorp](#hashicorp) | 554K | ⭐ 3.5 |
+| [**Modern Fortran**](https://marketplace.visualstudio.com/items?itemName=fortran-lang.linter-gfortran) | [fortran-lang](#fortran-lang) | 543K | ⭐ 4.6 |
+| [**Dependi**](https://marketplace.visualstudio.com/items?itemName=fill-labs.dependi) | [fill-labs](#fill-labs) | 537K | ⭐ 4.4 |
+| [**Kilo Code AI Agent**](https://marketplace.visualstudio.com/items?itemName=kilocode.Kilo-Code) | [kilocode](#kilocode) | 535K | ⭐ 4.5 |
+| [**PostgreSQL**](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-postgresql-client2) | [cweijan](#cweijan) | 535K | ⭐ 4 |
+| [**Dadroit JSON Generator**](https://marketplace.visualstudio.com/items?itemName=Dadroit.dadroit-json-generator) | [Dadroit](#dadroit) | 491K | ⭐ 5 |
+| [**AL Language extension for Microsoft Dynamics 365 Business Central**](https://marketplace.visualstudio.com/items?itemName=ms-dynamics-smb.al) | [ms-dynamics-smb](#ms-dynamics-smb) | 470K | ⭐ 4.5 |
+| [**learn-yaml**](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-yaml) | [docsmsft](#docsmsft) | 466K | ⭐ 5 |
+| [**Inkling**](https://marketplace.visualstudio.com/items?itemName=ms-inkling.ms-inkling) | [ms-inkling](#ms-inkling) | 463K | ⭐ 5 |
+| [**Pyright**](https://marketplace.visualstudio.com/items?itemName=ms-pyright.pyright) | [ms-pyright](#ms-pyright) | 459K | ⭐ 4.6 |
+| [**Salesforce Code Analyzer**](https://marketplace.visualstudio.com/items?itemName=salesforce.sfdx-code-analyzer-vscode) | [salesforce](#salesforce) | 442K | ⭐ 3.7 |
+| [**Azure IoT Hub**](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.azure-iot-toolkit) | [vsciot-vscode](#vsciot-vscode) | 435K | ⭐ 4.6 |
+| [**Tools for MicroProfile**](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-microprofile) | [redhat](#redhat) | 414K | — |
+| [**Solidity**](https://marketplace.visualstudio.com/items?itemName=NomicFoundation.hardhat-solidity) | [NomicFoundation](#nomicfoundation) | 392K | ⭐ 4.4 |
+| [**Power User for dbt**](https://marketplace.visualstudio.com/items?itemName=innoverio.vscode-dbt-power-user) | [innoverio](#innoverio) | 380K | ⭐ 5 |
+| [**MySQL Shell for VS Code**](https://marketplace.visualstudio.com/items?itemName=Oracle.mysql-shell-for-vs-code) | [Oracle](#oracle) | 371K | ⭐ 3.8 |
+| [**Snyk Security**](https://marketplace.visualstudio.com/items?itemName=snyk-security.snyk-vulnerability-scanner) | [snyk-security](#snyk-security) | 359K | ⭐ 3.1 |
+| [**.NET MAUI**](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.dotnet-maui) | [ms-dotnettools](#ms-dotnettools) | 347K | ⭐ 3.5 |
+| [**Keil Assistant**](https://marketplace.visualstudio.com/items?itemName=CL.keil-assistant) | [CL](#cl) | 347K | ⭐ 4.7 |
+| [**Quarkus**](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-quarkus) | [redhat](#redhat) | 344K | ⭐ 5 |
+| [**Swift**](https://marketplace.visualstudio.com/items?itemName=swiftlang.swift-vscode) | [swiftlang](#swiftlang) | 338K | ⭐ 5 |
+| [**anycode**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.anycode) | [ms-vscode](#ms-vscode) | 319K | ⭐ 5 |
+| [**IBM Db2 for z/OS Developer Extension**](https://marketplace.visualstudio.com/items?itemName=IBM.db2forzosdeveloperextension) | [IBM](#ibm) | 313K | ⭐ 4.4 |
+| [**Azure Data Lake Tools**](https://marketplace.visualstudio.com/items?itemName=usqlextpublisher.usql-vscode-ext) | [usqlextpublisher](#usqlextpublisher) | 310K | ⭐ 2.3 |
+| [**Redis**](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-redis-client) | [cweijan](#cweijan) | 309K | ⭐ 3.7 |
+| [**Shopify Liquid**](https://marketplace.visualstudio.com/items?itemName=Shopify.theme-check-vscode) | [Shopify](#shopify) | 303K | ⭐ 3.2 |
+| [**PostgreSQL**](https://marketplace.visualstudio.com/items?itemName=ms-ossdata.vscode-pgsql) | [ms-ossdata](#ms-ossdata) | 299K | ⭐ 4.5 |
+| [**Quarto**](https://marketplace.visualstudio.com/items?itemName=quarto.quarto) | [quarto](#quarto) | 299K | ⭐ 4.9 |
+| [**RobotCode - Robot Framework Support**](https://marketplace.visualstudio.com/items?itemName=d-biehl.robotcode) | [d-biehl](#d-biehl) | 277K | ⭐ 4.8 |
+| [**Snowflake**](https://marketplace.visualstudio.com/items?itemName=snowflake.snowflake-vsc) | [snowflake](#snowflake) | 275K | ⭐ 4.1 |
+| [**Language Server for Java by Apache NetBeans**](https://marketplace.visualstudio.com/items?itemName=ASF.apache-netbeans-java) | [ASF](#asf) | 272K | ⭐ 5 |
+| [**GraphQL: Inline Operation Execution**](https://marketplace.visualstudio.com/items?itemName=GraphQL.vscode-graphql-execution) | [GraphQL](#graphql) | 269K | ⭐ 2 |
+| [**JavaScript Atom Grammar**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.js-atom-grammar) | [ms-vscode](#ms-vscode) | 261K | ⭐ 4.6 |
+| [**glean**](https://marketplace.visualstudio.com/items?itemName=wix.glean) | [wix](#wix) | 258K | ⭐ 2.8 |
+| [**Azure IoT Edge**](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.azure-iot-edge) | [vsciot-vscode](#vsciot-vscode) | 257K | ⭐ 4.2 |
+| [**AutoHotkey Plus (AHK V1)**](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-autohotkey-plus) | [cweijan](#cweijan) | 252K | ⭐ 5 |
+| [**Nsight Visual Studio Code Edition**](https://marketplace.visualstudio.com/items?itemName=NVIDIA.nsight-vscode-edition) | [NVIDIA](#nvidia) | 232K | ⭐ 3.2 |
+| [**XML Toolkit**](https://marketplace.visualstudio.com/items?itemName=SAPOSS.xml-toolkit) | [SAPOSS](#saposs) | 224K | ⭐ 5 |
+| [**TypeScript Extension Pack**](https://marketplace.visualstudio.com/items?itemName=loiane.ts-extension-pack) | [loiane](#loiane) | 223K | ⭐ 5 |
+| [**Embedded IDE**](https://marketplace.visualstudio.com/items?itemName=CL.eide) | [CL](#cl) | 221K | ⭐ 5 |
+| [**Calva: Clojure & ClojureScript Interactive Programming**](https://marketplace.visualstudio.com/items?itemName=betterthantomorrow.calva) | [betterthantomorrow](#betterthantomorrow) | 208K | ⭐ 5 |
+| [**Bun for Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=oven.bun-vscode) | [oven](#oven) | 206K | ⭐ 4.3 |
+| [**Zig Language**](https://marketplace.visualstudio.com/items?itemName=ziglang.vscode-zig) | [ziglang](#ziglang) | 204K | ⭐ 5 |
+| [**Prisma - Insider**](https://marketplace.visualstudio.com/items?itemName=Prisma.prisma-insider) | [Prisma](#prisma) | 199K | ⭐ 5 |
+| [**nRF DeviceTree**](https://marketplace.visualstudio.com/items?itemName=nordic-semiconductor.nrf-devicetree) | [nordic-semiconductor](#nordic-semiconductor) | 199K | ⭐ 4.3 |
+| [**nRF Kconfig**](https://marketplace.visualstudio.com/items?itemName=nordic-semiconductor.nrf-kconfig) | [nordic-semiconductor](#nordic-semiconductor) | 195K | ⭐ 4 |
+| [**Relay GraphQL**](https://marketplace.visualstudio.com/items?itemName=meta.relay) | [meta](#meta) | 192K | ⭐ 5 |
+| [**CodeQL**](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-codeql) | [GitHub](#github) | 185K | ⭐ 3.5 |
+| [**Claude 4, GPT-5, DeepSeek R1, ChatGPT, Copilot, Cursor AI, Codex and Cline,  AI Copilot, and Debugger, AI Agents, Code Chat, Code Assistants, Code Generator, Code Completion, Autocomplete, Generative **](https://marketplace.visualstudio.com/items?itemName=Sixth.sixth-ai) | [Sixth](#sixth) | 181K | ⭐ 3.6 |
+| [**Puppet**](https://marketplace.visualstudio.com/items?itemName=puppet.puppet-vscode) | [puppet](#puppet) | 174K | ⭐ 4.4 |
+| [**SAP Fiori Tools - Application Modeler**](https://marketplace.visualstudio.com/items?itemName=SAPSE.sap-ux-application-modeler-extension) | [SAPSE](#sapse) | 173K | ⭐ 5 |
+| [**SAP Fiori Tools - XML Annotation Language Server**](https://marketplace.visualstudio.com/items?itemName=SAPSE.sap-ux-annotation-modeler-extension) | [SAPSE](#sapse) | 173K | — |
+| [**SAP Fiori Tools - Guided Development**](https://marketplace.visualstudio.com/items?itemName=SAPSE.sap-ux-help-extension) | [SAPSE](#sapse) | 168K | — |
+| [**SAP Fiori Tools - Service Modeler**](https://marketplace.visualstudio.com/items?itemName=SAPSE.sap-ux-service-modeler-extension) | [SAPSE](#sapse) | 167K | ⭐ 5 |
+| [**SQL Server Client (mssql)**](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-myssql-client2) | [cweijan](#cweijan) | 166K | ⭐ 4 |
+| [**IBM Z Open Editor**](https://marketplace.visualstudio.com/items?itemName=IBM.zopeneditor) | [IBM](#ibm) | 166K | ⭐ 4.9 |
+| [**Qt Core**](https://marketplace.visualstudio.com/items?itemName=TheQtCompany.qt-core) | [TheQtCompany](#theqtcompany) | 151K | — |
+| [**Redis for VS Code**](https://marketplace.visualstudio.com/items?itemName=Redis.redis-for-vscode) | [Redis](#redis) | 151K | ⭐ 3.8 |
+| [**UI5 Language Assistant**](https://marketplace.visualstudio.com/items?itemName=SAPOSS.vscode-ui5-language-assistant) | [SAPOSS](#saposs) | 150K | ⭐ 5 |
+| [**Pieces for VS Code**](https://marketplace.visualstudio.com/items?itemName=MeshIntelligentTechnologiesInc.pieces-vscode) | [MeshIntelligentTechnologiesInc](#meshintelligenttechnologiesinc) | 138K | ⭐ 4.6 |
+| [**Power Query / M Language**](https://marketplace.visualstudio.com/items?itemName=PowerQuery.vscode-powerquery) | [PowerQuery](#powerquery) | 132K | ⭐ 4.8 |
+| [**Arm CMSIS Solution**](https://marketplace.visualstudio.com/items?itemName=Arm.cmsis-csolution) | [Arm](#arm) | 127K | — |
+| [**Salesforce Apex Language Server (Typescript)**](https://marketplace.visualstudio.com/items?itemName=salesforce.apex-language-server-extension) | [salesforce](#salesforce) | 124K | — |
+| [**Qt Qml**](https://marketplace.visualstudio.com/items?itemName=TheQtCompany.qt-qml) | [TheQtCompany](#theqtcompany) | 122K | ⭐ 2 |
+| [**SSH Client**](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-ssh) | [cweijan](#cweijan) | 121K | ⭐ 4.5 |
+| [**Qt C++**](https://marketplace.visualstudio.com/items?itemName=TheQtCompany.qt-cpp) | [TheQtCompany](#theqtcompany) | 121K | — |
+| [**Gather**](https://marketplace.visualstudio.com/items?itemName=ms-python.gather) | [ms-python](#ms-python) | 119K | ⭐ 5 |
+| [**Qt UI**](https://marketplace.visualstudio.com/items?itemName=TheQtCompany.qt-ui) | [TheQtCompany](#theqtcompany) | 117K | — |
+| [**SAP CDS Language Support**](https://marketplace.visualstudio.com/items?itemName=SAPSE.vscode-cds) | [SAPSE](#sapse) | 114K | ⭐ 5 |
+| [**Zencoder: AI Coding Agent and Chat for Python, Javascript, Typescript, Java, Go, and more**](https://marketplace.visualstudio.com/items?itemName=ZencoderAI.zencoder) | [ZencoderAI](#zencoderai) | 112K | ⭐ 4 |
+| [**anycode-kotlin**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.anycode-kotlin) | [ms-vscode](#ms-vscode) | 112K | — |
+| [**DBCode - Database Management**](https://marketplace.visualstudio.com/items?itemName=DBCode.dbcode) | [DBCode](#dbcode) | 109K | ⭐ 4.8 |
+| [**Mojo 🔥**](https://marketplace.visualstudio.com/items?itemName=modular-mojotools.vscode-mojo) | [modular-mojotools](#modular-mojotools) | 109K | ⭐ 5 |
+| [**vscode-openai**](https://marketplace.visualstudio.com/items?itemName=AndrewButson.vscode-openai) | [AndrewButson](#andrewbutson) | 108K | ⭐ 4.4 |
+| [**Rocket MV BASIC**](https://marketplace.visualstudio.com/items?itemName=RocketSoftware.rocket-mvbasic) | [RocketSoftware](#rocketsoftware) | 107K | ⭐ 4.2 |
+| [**anycode-rust**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.anycode-rust) | [ms-vscode](#ms-vscode) | 107K | — |
+| [**Jsonnet Language Server**](https://marketplace.visualstudio.com/items?itemName=Grafana.vscode-jsonnet) | [Grafana](#grafana) | 106K | ⭐ 5 |
+| [**Inline Values support for PowerShell**](https://marketplace.visualstudio.com/items?itemName=TylerLeonhardt.vscode-inline-values-powershell) | [TylerLeonhardt](#tylerleonhardt) | 102K | ⭐ 5 |
+| [**Bruno**](https://marketplace.visualstudio.com/items?itemName=bruno-api-client.bruno) | [bruno-api-client](#bruno-api-client) | 101K | ⭐ 4.2 |
+| [**Kodezi AI, (Autocorrect & More) - for Python, JavaScript, TypeScript, C++, PHP, Java, C#, Ruby & more**](https://marketplace.visualstudio.com/items?itemName=kodezi.kodezi) | [kodezi](#kodezi) | 101K | ⭐ 4.1 |
+| [**Metabob: Debug and Refactor with AI**](https://marketplace.visualstudio.com/items?itemName=Metabob.metabob) | [Metabob](#metabob) | 99K | ⭐ 4.8 |
+| [**ChatGPT - Unfold AI**](https://marketplace.visualstudio.com/items?itemName=TalDennis-UnfoldAI-ChatGPT-Copilot.unfoldai) | [TalDennis-UnfoldAI-ChatGPT-Copilot](#taldennis-unfoldai-chatgpt-copilot) | 90K | ⭐ 4.1 |
+| [**RuboCop LSP**](https://marketplace.visualstudio.com/items?itemName=Shopify.rubocop-lsp) | [Shopify](#shopify) | 89K | ⭐ 5 |
+| [**avro-idl**](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.avro) | [streetsidesoftware](#streetsidesoftware) | 88K | ⭐ 4 |
+| [**Hyperledger Fabric Debugger**](https://marketplace.visualstudio.com/items?itemName=Spydra.hyperledger-fabric-debugger) | [Spydra](#spydra) | 84K | ⭐ 5 |
+| [**Qt Extension Pack**](https://marketplace.visualstudio.com/items?itemName=TheQtCompany.qt) | [TheQtCompany](#theqtcompany) | 84K | ⭐ 3.6 |
+| [**Dapr**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-dapr) | [ms-azuretools](#ms-azuretools) | 78K | ⭐ 5 |
+| [**SAS**](https://marketplace.visualstudio.com/items?itemName=SAS.sas-lsp) | [SAS](#sas) | 77K | ⭐ 4.8 |
+| [**CodeViz | Visual codebase maps**](https://marketplace.visualstudio.com/items?itemName=CodeViz.codeviz) | [CodeViz](#codeviz) | 73K | ⭐ 4 |
+| [**CodeMate AI- Your Smartest Full Stack Coding Agent- Python, C++, C, Java, Javascript, Typescript, Ruby & 100+ languages supported**](https://marketplace.visualstudio.com/items?itemName=AyushSinghal.Code-Mate) | [AyushSinghal](#ayushsinghal) | 73K | ⭐ 4.4 |
+| [**Redocly OpenAPI**](https://marketplace.visualstudio.com/items?itemName=Redocly.openapi-vs-code) | [Redocly](#redocly) | 73K | ⭐ 4.7 |
+| [**Spark & Hive Tools**](https://marketplace.visualstudio.com/items?itemName=mshdinsight.azure-hdinsight) | [mshdinsight](#mshdinsight) | 72K | ⭐ 3 |
+| [**anycode-cpp**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.anycode-cpp) | [ms-vscode](#ms-vscode) | 71K | — |
+| [**llm-vscode**](https://marketplace.visualstudio.com/items?itemName=HuggingFace.huggingface-vscode) | [HuggingFace](#huggingface) | 71K | ⭐ 4.8 |
+| [**Amp (Research Preview)**](https://marketplace.visualstudio.com/items?itemName=sourcegraph.amp) | [sourcegraph](#sourcegraph) | 70K | ⭐ 4.4 |
+| [**COBOL Language Support**](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.cobol-language-support) | [broadcomMFD](#broadcommfd) | 68K | ⭐ 4.3 |
+| [**Tabby**](https://marketplace.visualstudio.com/items?itemName=TabbyML.vscode-tabby) | [TabbyML](#tabbyml) | 67K | ⭐ 4.8 |
+| [**Databricks Driver for SQLTools**](https://marketplace.visualstudio.com/items?itemName=databricks.sqltools-databricks-driver) | [databricks](#databricks) | 66K | ⭐ 4.8 |
+| [**EchoAPI for VS Code**](https://marketplace.visualstudio.com/items?itemName=EchoAPI.echoapi-for-vscode) | [EchoAPI](#echoapi) | 66K | ⭐ 4.6 |
+| [**AppMap**](https://marketplace.visualstudio.com/items?itemName=appland.appmap) | [appland](#appland) | 66K | ⭐ 4.9 |
+| [**JSDoc Generator**](https://marketplace.visualstudio.com/items?itemName=crystal-spider.jsdoc-generator) | [crystal-spider](#crystal-spider) | 65K | ⭐ 5 |
+| [**InterSystems Language Server**](https://marketplace.visualstudio.com/items?itemName=intersystems.language-server) | [intersystems](#intersystems) | 65K | ⭐ 5 |
+| [**anycode-python**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.anycode-python) | [ms-vscode](#ms-vscode) | 65K | — |
+| [**Splunk Extension**](https://marketplace.visualstudio.com/items?itemName=Splunk.splunk) | [Splunk](#splunk) | 63K | ⭐ 4.2 |
+| [**NG-ZORRO Snippets**](https://marketplace.visualstudio.com/items?itemName=cipchk.ng-zorro-vscode) | [cipchk](#cipchk) | 61K | ⭐ 5 |
+| [**Slint**](https://marketplace.visualstudio.com/items?itemName=Slint.slint) | [Slint](#slint) | 60K | ⭐ 5 |
+| [**Yocto Project BitBake**](https://marketplace.visualstudio.com/items?itemName=yocto-project.yocto-bitbake) | [yocto-project](#yocto-project) | 56K | ⭐ 4.7 |
+| [**Datadog**](https://marketplace.visualstudio.com/items?itemName=Datadog.datadog-vscode) | [Datadog](#datadog) | 55K | ⭐ 5 |
+| [**anycode-c-sharp**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.anycode-c-sharp) | [ms-vscode](#ms-vscode) | 54K | — |
+| [**anycode-java**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.anycode-java) | [ms-vscode](#ms-vscode) | 54K | — |
+| [**Semantic Kernel Tools**](https://marketplace.visualstudio.com/items?itemName=ms-semantic-kernel.semantic-kernel) | [ms-semantic-kernel](#ms-semantic-kernel) | 53K | ⭐ 5 |
+| [**Rocket COBOL**](https://marketplace.visualstudio.com/items?itemName=RocketSoftware.rocket-cobol) | [RocketSoftware](#rocketsoftware) | 53K | ⭐ 5 |
+| [**Frontier: Figma to React, leveraging your own design system and components**](https://marketplace.visualstudio.com/items?itemName=AnimaApp.vscode-anima) | [AnimaApp](#animaapp) | 52K | ⭐ 5 |
+| [**Anypoint Code Builder - Platform Extension**](https://marketplace.visualstudio.com/items?itemName=salesforce.mule-dx-vscode) | [salesforce](#salesforce) | 52K | — |
+| [**Endsmart**](https://marketplace.visualstudio.com/items?itemName=Stripe.endsmart) | [Stripe](#stripe) | 52K | — |
+| [**Nextflow**](https://marketplace.visualstudio.com/items?itemName=nextflow.nextflow) | [nextflow](#nextflow) | 51K | ⭐ 5 |
+| [**VEX Robotics**](https://marketplace.visualstudio.com/items?itemName=VEXRobotics.vexcode) | [VEXRobotics](#vexrobotics) | 51K | ⭐ 3.2 |
+| [**anycode-php**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.anycode-php) | [ms-vscode](#ms-vscode) | 51K | — |
+| [**Refact – Open-Source AI Agent, Code Generator & Chat for JavaScript, Python, TypeScript, Java, PHP, Go, and more.**](https://marketplace.visualstudio.com/items?itemName=smallcloud.codify) | [smallcloud](#smallcloud) | 51K | ⭐ 4.1 |
+| [**Language Support for Apache Camel by Red Hat**](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-apache-camel) | [redhat](#redhat) | 50K | ⭐ 5 |
+| [**Dafny**](https://marketplace.visualstudio.com/items?itemName=dafny-lang.ide-vscode) | [dafny-lang](#dafny-lang) | 50K | ⭐ 5 |
+| [**Apex OpenAPI Specification**](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-apex-oas) | [salesforce](#salesforce) | 49K | — |
+| [**Liberty Tools**](https://marketplace.visualstudio.com/items?itemName=Open-Liberty.liberty-dev-vscode-ext) | [Open-Liberty](#open-liberty) | 48K | ⭐ 4.5 |
+| [**anycode-go**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.anycode-go) | [ms-vscode](#ms-vscode) | 48K | — |
+| [**Anypoint Code Builder - Integration Extension**](https://marketplace.visualstudio.com/items?itemName=salesforce.mule-dx-mule-dev-component) | [salesforce](#salesforce) | 48K | ⭐ 5 |
+| [**Extension Pack for reStructuredText**](https://marketplace.visualstudio.com/items?itemName=lextudio.restructuredtext-pack) | [lextudio](#lextudio) | 48K | — |
+| [**VEX Robotics Feedback**](https://marketplace.visualstudio.com/items?itemName=VEXRobotics.vexfeedback) | [VEXRobotics](#vexrobotics) | 47K | — |
+| [**Anypoint Code Builder - DataWeave Extension**](https://marketplace.visualstudio.com/items?itemName=salesforce.mule-dx-data-weave-client) | [salesforce](#salesforce) | 46K | ⭐ 3 |
+| [**SAP HANA Driver for SQLTools**](https://marketplace.visualstudio.com/items?itemName=SAPOSS.sap-hana-driver-for-sqltools) | [SAPOSS](#saposs) | 46K | ⭐ 4.6 |
+| [**Terraform AzApi Provider**](https://marketplace.visualstudio.com/items?itemName=azapi-vscode.azapi) | [azapi-vscode](#azapi-vscode) | 45K | ⭐ 5 |
+| [**Azure Stream Analytics Tools**](https://marketplace.visualstudio.com/items?itemName=ms-bigdatatools.vscode-asa) | [ms-bigdatatools](#ms-bigdatatools) | 45K | ⭐ 5 |
+| [**anycode-typescript**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.anycode-typescript) | [ms-vscode](#ms-vscode) | 45K | — |
+| [**[Deprecated] XML Language Support**](https://marketplace.visualstudio.com/items?itemName=IBM.XMLLanguageSupport) | [IBM](#ibm) | 45K | ⭐ 2.9 |
+| [**STM32Cube CMake Support**](https://marketplace.visualstudio.com/items?itemName=stmicroelectronics.stm32cube-ide-build-cmake) | [stmicroelectronics](#stmicroelectronics) | 44K | — |
+| [**watsonx Code Assistant**](https://marketplace.visualstudio.com/items?itemName=IBM.wca-core) | [IBM](#ibm) | 44K | ⭐ 5 |
+| [**DVT IDE for Verilog/SystemVerilog/VHDL/e Language**](https://marketplace.visualstudio.com/items?itemName=amiq.dvt) | [amiq](#amiq) | 44K | ⭐ 5 |
+| [**Solidity (Wake)**](https://marketplace.visualstudio.com/items?itemName=AckeeBlockchain.tools-for-solidity) | [AckeeBlockchain](#ackeeblockchain) | 43K | ⭐ 5 |
+| [**T3 Stack / Next.js / React File Generator**](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-nextjs-generator) | [imgildev](#imgildev) | 43K | ⭐ 5 |
+| [**Qt C++ Extension Pack**](https://marketplace.visualstudio.com/items?itemName=TheQtCompany.qt-cpp-pack) | [TheQtCompany](#theqtcompany) | 42K | ⭐ 5 |
+| [**[DEPRECATED] LaTeX Language Support**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.latex) | [ms-vscode](#ms-vscode) | 42K | ⭐ 3 |
+| [**Power Query SDK**](https://marketplace.visualstudio.com/items?itemName=PowerQuery.vscode-powerquery-sdk) | [PowerQuery](#powerquery) | 42K | ⭐ 5 |
+| [**SCOPE Studio for VS Code**](https://marketplace.visualstudio.com/items?itemName=ms-ssdevteam.scope-vscode-ext) | [ms-ssdevteam](#ms-ssdevteam) | 42K | ⭐ 5 |
+| [**Anypoint Code Builder - APIkit Extension**](https://marketplace.visualstudio.com/items?itemName=salesforce.mule-dx-apikit-component) | [salesforce](#salesforce) | 41K | ⭐ 5 |
+| [**Mustache Templates - Syntax Highlighting, Snippets & Autocomplete**](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-mustache-snippets) | [imgildev](#imgildev) | 40K | ⭐ 5 |
+| [**STM32Cube clangd**](https://marketplace.visualstudio.com/items?itemName=stmicroelectronics.stm32cube-ide-clangd) | [stmicroelectronics](#stmicroelectronics) | 40K | — |
+| [**STM32Cube Build Analyzer**](https://marketplace.visualstudio.com/items?itemName=stmicroelectronics.stm32cube-ide-build-analyzer) | [stmicroelectronics](#stmicroelectronics) | 39K | — |
+| [**STM32Cube Bundles Manager**](https://marketplace.visualstudio.com/items?itemName=stmicroelectronics.stm32cube-ide-bundles-manager) | [stmicroelectronics](#stmicroelectronics) | 38K | — |
+| [**GN Language Server**](https://marketplace.visualstudio.com/items?itemName=msedge-dev.gnls) | [msedge-dev](#msedge-dev) | 38K | ⭐ 5 |
+| [**MLIR**](https://marketplace.visualstudio.com/items?itemName=llvm-vs-code-extensions.vscode-mlir) | [llvm-vs-code-extensions](#llvm-vs-code-extensions) | 37K | ⭐ 4 |
+| [**MCUXpresso for VS Code**](https://marketplace.visualstudio.com/items?itemName=NXPSemiconductors.mcuxpresso) | [NXPSemiconductors](#nxpsemiconductors) | 35K | ⭐ 4 |
+| [**Blue Bazel**](https://marketplace.visualstudio.com/items?itemName=NVIDIA.bluebazel) | [NVIDIA](#nvidia) | 35K | ⭐ 5 |
+| [**Time Travel Debug for C/C++**](https://marketplace.visualstudio.com/items?itemName=Undo.udb) | [Undo](#undo) | 35K | ⭐ 4.7 |
+| [**GoCodeo: Best of Cursor and Lovable, Combined**](https://marketplace.visualstudio.com/items?itemName=GoCodeo.gocodeo) | [GoCodeo](#gocodeo) | 34K | ⭐ 4.5 |
+| [**vscode-openapi-viewer**](https://marketplace.visualstudio.com/items?itemName=AndrewButson.vscode-openapi-viewer) | [AndrewButson](#andrewbutson) | 33K | ⭐ 5 |
+| [**Ember Language Server**](https://marketplace.visualstudio.com/items?itemName=EmberTooling.vscode-ember) | [EmberTooling](#embertooling) | 33K | ⭐ 5 |
+| [**Tiltfile**](https://marketplace.visualstudio.com/items?itemName=tilt-dev.Tiltfile) | [tilt-dev](#tilt-dev) | 32K | ⭐ 5 |
+| [**IDL for VSCode**](https://marketplace.visualstudio.com/items?itemName=IDL.idl-for-vscode) | [IDL](#idl) | 32K | ⭐ 5 |
+| [**Pulumi YAML**](https://marketplace.visualstudio.com/items?itemName=pulumi.pulumi-lsp-client) | [pulumi](#pulumi) | 32K | ⭐ 5 |
+| [**WiseGPT (Coding Assistant by DhiWise)**](https://marketplace.visualstudio.com/items?itemName=dhiwisepvtltd.dhiwisecodesync) | [dhiwisepvtltd](#dhiwisepvtltd) | 32K | ⭐ 4.3 |
+| [**CL**](https://marketplace.visualstudio.com/items?itemName=IBM.vscode-clle) | [IBM](#ibm) | 31K | — |
+| [**Data Analysis for Copilot**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-copilot-data-analysis) | [ms-vscode](#ms-vscode) | 31K | ⭐ 3.8 |
+| [**HashiCorp Sentinel**](https://marketplace.visualstudio.com/items?itemName=HashiCorp.sentinel) | [HashiCorp](#hashicorp) | 31K | ⭐ 5 |
+| [**RobotCode GherkinParser Support**](https://marketplace.visualstudio.com/items?itemName=d-biehl.robotcode-gherkin) | [d-biehl](#d-biehl) | 31K | — |
+| [**Design Líquido - Linguagens em Português**](https://marketplace.visualstudio.com/items?itemName=designliquido.designliquido-vscode) | [designliquido](#designliquido) | 31K | ⭐ 5 |
+| [**Veracode Scan for VS Code**](https://marketplace.visualstudio.com/items?itemName=Veracode.veracode-vscode-plugin) | [Veracode](#veracode) | 31K | ⭐ 4.6 |
+| [**CodeScene**](https://marketplace.visualstudio.com/items?itemName=CodeScene.codescene-vscode) | [CodeScene](#codescene) | 30K | ⭐ 5 |
+| [**NG-ALAIN Snippets**](https://marketplace.visualstudio.com/items?itemName=cipchk.ng-alain-vscode) | [cipchk](#cipchk) | 30K | — |
+| [**Radon IDE**](https://marketplace.visualstudio.com/items?itemName=swmansion.react-native-ide) | [swmansion](#swmansion) | 30K | ⭐ 4.5 |
+| [**Purecode AI - AI Coding Agent for Legacy Codebases**](https://marketplace.visualstudio.com/items?itemName=PurecodeAI.purecode-ai) | [PurecodeAI](#purecodeai) | 29K | ⭐ 4.9 |
+| [**ElasticSearch**](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-es-client2) | [cweijan](#cweijan) | 29K | ⭐ 3.7 |
+| [**Yarn Spinner**](https://marketplace.visualstudio.com/items?itemName=SecretLab.yarn-spinner) | [SecretLab](#secretlab) | 29K | ⭐ 5 |
+| [**AICodeHelper**](https://marketplace.visualstudio.com/items?itemName=Kimseungtae.aicodehelper) | [Kimseungtae](#kimseungtae) | 28K | ⭐ 5 |
+| [**Vetur Plus**](https://marketplace.visualstudio.com/items?itemName=cweijan.vetur-plus) | [cweijan](#cweijan) | 28K | ⭐ 5 |
+| [**HLASM Language Support**](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.hlasm-language-support) | [broadcomMFD](#broadcommfd) | 28K | ⭐ 5 |
+
+</details>
+
+<p align="right"><a href="#-extensions-by-category">⬆️ Back to Categories</a> · <a href="#-table-of-contents">⬆️ Back to Top</a></p>
+
+---
+
+### <a id="category-scm-providers"></a>📂 SCM Providers
+| Extension | Publisher | Installs | Rating |
+|-----------|-----------|:--------:|:------:|
+| [**GitLens — Git supercharged**](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) | [eamodio](#eamodio) | 45.8M | ⭐ 3.5 |
+| [**Claude 4, GPT-5, DeepSeek R1, ChatGPT, Copilot, Cursor AI, Codex and Cline,  AI Copilot, and Debugger, AI Agents, Code Chat, Code Assistants, Code Generator, Code Completion, Autocomplete, Generative **](https://marketplace.visualstudio.com/items?itemName=Sixth.sixth-ai) | [Sixth](#sixth) | 181K | ⭐ 3.6 |
+| [**Git Blame**](https://marketplace.visualstudio.com/items?itemName=solomonkinard.git-blame) | [solomonkinard](#solomonkinard) | 172K | ⭐ 4.2 |
+| [**DVC**](https://marketplace.visualstudio.com/items?itemName=Iterative.dvc) | [Iterative](#iterative) | 82K | ⭐ 4.8 |
+| [**SVN Blamer**](https://marketplace.visualstudio.com/items?itemName=beaugust.blamer-vs) | [beaugust](#beaugust) | 61K | ⭐ 4.5 |
+
+<p align="right"><a href="#-extensions-by-category">⬆️ Back to Categories</a> · <a href="#-table-of-contents">⬆️ Back to Top</a></p>
+
+---
+
+### <a id="category-snippets"></a>📂 Snippets
+<details>
+<summary><strong>127 extensions in this category</strong></summary>
+
+| Extension | Publisher | Installs | Rating |
+|-----------|-----------|:--------:|:------:|
+| [**C/C++**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools) | [ms-vscode](#ms-vscode) | 91.7M | ⭐ 3.4 |
+| [**Language Support for Java(TM) by Red Hat**](https://marketplace.visualstudio.com/items?itemName=redhat.java) | [redhat](#redhat) | 49.8M | ⭐ 3.3 |
+| [**Extension Pack for Java**](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack) | [vscjava](#vscjava) | 40.1M | ⭐ 3.7 |
+| [**C#**](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp) | [ms-dotnettools](#ms-dotnettools) | 37.4M | ⭐ 2.7 |
+| [**Remote - SSH: Editing Configuration Files**](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh-edit) | [ms-vscode-remote](#ms-vscode-remote) | 28.6M | ⭐ 4.2 |
+| [**YAML**](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml) | [redhat](#redhat) | 24.5M | ⭐ 3.5 |
+| [**Go**](https://marketplace.visualstudio.com/items?itemName=golang.Go) | [golang](#golang) | 17.4M | ⭐ 4.3 |
+| [**PowerShell**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell) | [ms-vscode](#ms-vscode) | 17M | ⭐ 3.6 |
+| [**Dart**](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code) | [Dart-Code](#dart-code) | 13.4M | ⭐ 4.8 |
+| [**Flutter**](https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter) | [Dart-Code](#dart-code) | 12.5M | ⭐ 4.9 |
+| [**Tabnine: AI Chat & Autocomplete for JavaScript, Python, Typescript, Java, PHP, Go, and more**](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode) | [TabNine](#tabnine) | 9.4M | ⭐ 4 |
+| [**XML**](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-xml) | [redhat](#redhat) | 9.1M | ⭐ 3.8 |
+| [**Kubernetes**](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.vscode-kubernetes-tools) | [ms-kubernetes-tools](#ms-kubernetes-tools) | 6.3M | ⭐ 4.4 |
+| [**PHP**](https://marketplace.visualstudio.com/items?itemName=DEVSENSE.phptools-vscode) | [DEVSENSE](#devsense) | 6.1M | ⭐ 4.1 |
+| [**Composer**](https://marketplace.visualstudio.com/items?itemName=DEVSENSE.composer-php-vscode) | [DEVSENSE](#devsense) | 5.7M | ⭐ 4.5 |
+| [**IntelliPHP - AI Autocomplete for PHP**](https://marketplace.visualstudio.com/items?itemName=DEVSENSE.intelli-php-vscode) | [DEVSENSE](#devsense) | 5M | ⭐ 3.5 |
+| [**Java**](https://marketplace.visualstudio.com/items?itemName=Oracle.oracle-java) | [Oracle](#oracle) | 4.6M | ⭐ 4.9 |
+| [**BLACKBOXAI #1 AI Coding Agent and Coding Copilot**](https://marketplace.visualstudio.com/items?itemName=Blackboxapp.blackbox) | [Blackboxapp](#blackboxapp) | 4.6M | ⭐ 3.9 |
+| [**Stylelint**](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint) | [stylelint](#stylelint) | 3.2M | ⭐ 4 |
+| [**MongoDB for VS Code**](https://marketplace.visualstudio.com/items?itemName=mongodb.mongodb-vscode) | [mongodb](#mongodb) | 2.7M | ⭐ 4.4 |
+| [**Cline**](https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev) | [saoudrizwan](#saoudrizwan) | 2.7M | ⭐ 4.6 |
+| [**Azure CLI Tools**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.azurecli) | [ms-vscode](#ms-vscode) | 2.3M | ⭐ 3.2 |
+| [**BLACKBOXAI Agent - Coding Copilot**](https://marketplace.visualstudio.com/items?itemName=Blackboxapp.blackboxagent) | [Blackboxapp](#blackboxapp) | 2.1M | ⭐ 3.8 |
+| [**Turbo Console Log**](https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log) | [ChakrounAnas](#chakrounanas) | 2M | ⭐ 4.1 |
+| [**Rust (deprecated)**](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust) | [rust-lang](#rust-lang) | 1.9M | ⭐ 2.7 |
+| [**Google Cloud Code**](https://marketplace.visualstudio.com/items?itemName=GoogleCloudTools.cloudcode) | [GoogleCloudTools](#googlecloudtools) | 1.8M | ⭐ 2.6 |
+| [**Continue - open-source AI code agent**](https://marketplace.visualstudio.com/items?itemName=Continue.continue) | [Continue](#continue) | 1.8M | ⭐ 3.9 |
+| [**Figma for VS Code**](https://marketplace.visualstudio.com/items?itemName=figma.figma-vscode-extension) | [figma](#figma) | 1.8M | ⭐ 3.1 |
+| [**Ruby LSP**](https://marketplace.visualstudio.com/items?itemName=Shopify.ruby-lsp) | [Shopify](#shopify) | 1.7M | ⭐ 2.8 |
+| [**Azure Resource Manager (ARM) Tools**](https://marketplace.visualstudio.com/items?itemName=msazurermtools.azurerm-vscode-tools) | [msazurermtools](#msazurermtools) | 1.5M | ⭐ 4.2 |
+| [**.NET Extension Pack**](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscode-dotnet-pack) | [ms-dotnettools](#ms-dotnettools) | 1.4M | ⭐ 2.6 |
+| [**OpenAPI (Swagger) Editor**](https://marketplace.visualstudio.com/items?itemName=42Crunch.vscode-openapi) | [42Crunch](#42crunch) | 1.3M | ⭐ 4.2 |
+| [**TRAE AI (formerly MarsCode): Coding Assistant**](https://marketplace.visualstudio.com/items?itemName=MarsCode.marscode-extension) | [MarsCode](#marscode) | 1.3M | ⭐ 3.7 |
+| [**ESP-IDF**](https://marketplace.visualstudio.com/items?itemName=espressif.esp-idf-extension) | [espressif](#espressif) | 1.2M | ⭐ 2.9 |
+| [**Roo Code**](https://marketplace.visualstudio.com/items?itemName=RooVeterinaryInc.roo-cline) | [RooVeterinaryInc](#rooveterinaryinc) | 1.1M | ⭐ 4.9 |
+| [**Keploy: AI Testing Assistant for Developers – Supercharge Unit, Integration, and API Testing in Python, JavaScript, TypeScript, Java, PHP, Go, and More**](https://marketplace.visualstudio.com/items?itemName=Keploy.keployio) | [Keploy](#keploy) | 1M | ⭐ 4.9 |
+| [**Julia**](https://marketplace.visualstudio.com/items?itemName=julialang.language-julia) | [julialang](#julialang) | 980K | ⭐ 4.5 |
+| [**Qodo: AI Code Review**](https://marketplace.visualstudio.com/items?itemName=Codium.codium) | [Codium](#codium) | 793K | ⭐ 4.7 |
+| [**px to rem & rpx & vw (cssrem)**](https://marketplace.visualstudio.com/items?itemName=cipchk.cssrem) | [cipchk](#cipchk) | 775K | ⭐ 5 |
+| [**Cody: AI Code Assistant**](https://marketplace.visualstudio.com/items?itemName=sourcegraph.cody-ai) | [sourcegraph](#sourcegraph) | 769K | ⭐ 4 |
+| [**reStructuredText**](https://marketplace.visualstudio.com/items?itemName=lextudio.restructuredtext) | [lextudio](#lextudio) | 721K | ⭐ 2.9 |
+| [**Augment Code: AI Coding Agent for JavaScript, Go, TypeScript, Python & more**](https://marketplace.visualstudio.com/items?itemName=augment.vscode-augment) | [augment](#augment) | 648K | ⭐ 3.7 |
+| [**Oracle SQL Developer Extension for VSCode**](https://marketplace.visualstudio.com/items?itemName=Oracle.sql-developer) | [Oracle](#oracle) | 648K | ⭐ 3.6 |
+| [**Go Nightly**](https://marketplace.visualstudio.com/items?itemName=golang.go-nightly) | [golang](#golang) | 575K | ⭐ 5 |
+| [**MATLAB**](https://marketplace.visualstudio.com/items?itemName=MathWorks.language-matlab) | [MathWorks](#mathworks) | 566K | ⭐ 4.6 |
+| [**Modern Fortran**](https://marketplace.visualstudio.com/items?itemName=fortran-lang.linter-gfortran) | [fortran-lang](#fortran-lang) | 543K | ⭐ 4.6 |
+| [**Kilo Code AI Agent**](https://marketplace.visualstudio.com/items?itemName=kilocode.Kilo-Code) | [kilocode](#kilocode) | 535K | ⭐ 4.5 |
+| [**Cordova Tools**](https://marketplace.visualstudio.com/items?itemName=msjsdiag.cordova-tools) | [msjsdiag](#msjsdiag) | 515K | ⭐ 4.4 |
+| [**AL Language extension for Microsoft Dynamics 365 Business Central**](https://marketplace.visualstudio.com/items?itemName=ms-dynamics-smb.al) | [ms-dynamics-smb](#ms-dynamics-smb) | 470K | ⭐ 4.5 |
+| [**learn-yaml**](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-yaml) | [docsmsft](#docsmsft) | 466K | ⭐ 5 |
+| [**Azure IoT Hub**](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.azure-iot-toolkit) | [vsciot-vscode](#vsciot-vscode) | 435K | ⭐ 4.6 |
+| [**Tools for MicroProfile**](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-microprofile) | [redhat](#redhat) | 414K | — |
+| [**Microsoft 365 Agents Toolkit**](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.ms-teams-vscode-extension) | [TeamsDevApp](#teamsdevapp) | 393K | ⭐ 3.5 |
+| [**Solidity**](https://marketplace.visualstudio.com/items?itemName=NomicFoundation.hardhat-solidity) | [NomicFoundation](#nomicfoundation) | 392K | ⭐ 4.4 |
+| [**Power User for dbt**](https://marketplace.visualstudio.com/items?itemName=innoverio.vscode-dbt-power-user) | [innoverio](#innoverio) | 380K | ⭐ 5 |
+| [**Essential ASP.NET Core Snippets**](https://marketplace.visualstudio.com/items?itemName=doggy8088.netcore-snippets) | [doggy8088](#doggy8088) | 363K | ⭐ 5 |
+| [**Keil Assistant**](https://marketplace.visualstudio.com/items?itemName=CL.keil-assistant) | [CL](#cl) | 347K | ⭐ 4.7 |
+| [**Swift**](https://marketplace.visualstudio.com/items?itemName=swiftlang.swift-vscode) | [swiftlang](#swiftlang) | 338K | ⭐ 5 |
+| [**IBM Db2 for z/OS Developer Extension**](https://marketplace.visualstudio.com/items?itemName=IBM.db2forzosdeveloperextension) | [IBM](#ibm) | 313K | ⭐ 4.4 |
+| [**Snowflake**](https://marketplace.visualstudio.com/items?itemName=snowflake.snowflake-vsc) | [snowflake](#snowflake) | 275K | ⭐ 4.1 |
+| [**Power Platform Tools**](https://marketplace.visualstudio.com/items?itemName=microsoft-IsvExpTools.powerplatform-vscode) | [microsoft-IsvExpTools](#microsoft-isvexptools) | 263K | ⭐ 3.8 |
+| [**AutoHotkey Plus (AHK V1)**](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-autohotkey-plus) | [cweijan](#cweijan) | 252K | ⭐ 5 |
+| [**learn-preview**](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-preview) | [docsmsft](#docsmsft) | 247K | ⭐ 3.3 |
+| [**Angular Extension Pack**](https://marketplace.visualstudio.com/items?itemName=doggy8088.angular-extension-pack) | [doggy8088](#doggy8088) | 230K | ⭐ 4.8 |
+| [**Embedded IDE**](https://marketplace.visualstudio.com/items?itemName=CL.eide) | [CL](#cl) | 221K | ⭐ 5 |
+| [**Claude 4, GPT-5, DeepSeek R1, ChatGPT, Copilot, Cursor AI, Codex and Cline,  AI Copilot, and Debugger, AI Agents, Code Chat, Code Assistants, Code Generator, Code Completion, Autocomplete, Generative **](https://marketplace.visualstudio.com/items?itemName=Sixth.sixth-ai) | [Sixth](#sixth) | 181K | ⭐ 3.6 |
+| [**Raspberry Pi Pico**](https://marketplace.visualstudio.com/items?itemName=raspberry-pi.raspberry-pi-pico) | [raspberry-pi](#raspberry-pi) | 179K | ⭐ 4 |
+| [**Puppet**](https://marketplace.visualstudio.com/items?itemName=puppet.puppet-vscode) | [puppet](#puppet) | 174K | ⭐ 4.4 |
+| [**SAP Fiori Tools - Application Modeler**](https://marketplace.visualstudio.com/items?itemName=SAPSE.sap-ux-application-modeler-extension) | [SAPSE](#sapse) | 173K | ⭐ 5 |
+| [**SAP Fiori Tools - XML Annotation Language Server**](https://marketplace.visualstudio.com/items?itemName=SAPSE.sap-ux-annotation-modeler-extension) | [SAPSE](#sapse) | 173K | — |
+| [**SAP Fiori Tools - Guided Development**](https://marketplace.visualstudio.com/items?itemName=SAPSE.sap-ux-help-extension) | [SAPSE](#sapse) | 168K | — |
+| [**SAP Fiori Tools - Service Modeler**](https://marketplace.visualstudio.com/items?itemName=SAPSE.sap-ux-service-modeler-extension) | [SAPSE](#sapse) | 167K | ⭐ 5 |
+| [**IBM Z Open Editor**](https://marketplace.visualstudio.com/items?itemName=IBM.zopeneditor) | [IBM](#ibm) | 166K | ⭐ 4.9 |
+| [**Stripe**](https://marketplace.visualstudio.com/items?itemName=Stripe.vscode-stripe) | [Stripe](#stripe) | 149K | ⭐ 2.8 |
+| [**Pieces for VS Code**](https://marketplace.visualstudio.com/items?itemName=MeshIntelligentTechnologiesInc.pieces-vscode) | [MeshIntelligentTechnologiesInc](#meshintelligenttechnologiesinc) | 138K | ⭐ 4.6 |
+| [**Salesforce Apex Language Server (Typescript)**](https://marketplace.visualstudio.com/items?itemName=salesforce.apex-language-server-extension) | [salesforce](#salesforce) | 124K | — |
+| [**Qt Qml**](https://marketplace.visualstudio.com/items?itemName=TheQtCompany.qt-qml) | [TheQtCompany](#theqtcompany) | 122K | ⭐ 2 |
+| [**Qt C++**](https://marketplace.visualstudio.com/items?itemName=TheQtCompany.qt-cpp) | [TheQtCompany](#theqtcompany) | 121K | — |
+| [**Qt UI**](https://marketplace.visualstudio.com/items?itemName=TheQtCompany.qt-ui) | [TheQtCompany](#theqtcompany) | 117K | — |
+| [**AL Toolbox**](https://marketplace.visualstudio.com/items?itemName=BartPermentier.al-toolbox) | [BartPermentier](#bartpermentier) | 117K | ⭐ 5 |
+| [**Zencoder: AI Coding Agent and Chat for Python, Javascript, Typescript, Java, Go, and more**](https://marketplace.visualstudio.com/items?itemName=ZencoderAI.zencoder) | [ZencoderAI](#zencoderai) | 112K | ⭐ 4 |
+| [**AWS CloudFormation Snippets**](https://marketplace.visualstudio.com/items?itemName=dannysteenman.cloudformation-yaml-snippets) | [dannysteenman](#dannysteenman) | 108K | ⭐ 5 |
+| [**Rocket MV BASIC**](https://marketplace.visualstudio.com/items?itemName=RocketSoftware.rocket-mvbasic) | [RocketSoftware](#rocketsoftware) | 107K | ⭐ 4.2 |
+| [**Bruno**](https://marketplace.visualstudio.com/items?itemName=bruno-api-client.bruno) | [bruno-api-client](#bruno-api-client) | 101K | ⭐ 4.2 |
+| [**Metabob: Debug and Refactor with AI**](https://marketplace.visualstudio.com/items?itemName=Metabob.metabob) | [Metabob](#metabob) | 99K | ⭐ 4.8 |
+| [**ChatGPT - Unfold AI**](https://marketplace.visualstudio.com/items?itemName=TalDennis-UnfoldAI-ChatGPT-Copilot.unfoldai) | [TalDennis-UnfoldAI-ChatGPT-Copilot](#taldennis-unfoldai-chatgpt-copilot) | 90K | ⭐ 4.1 |
+| [**XState VSCode**](https://marketplace.visualstudio.com/items?itemName=statelyai.stately-vscode) | [statelyai](#statelyai) | 85K | ⭐ 4.8 |
+| [**Qt Extension Pack**](https://marketplace.visualstudio.com/items?itemName=TheQtCompany.qt) | [TheQtCompany](#theqtcompany) | 84K | ⭐ 3.6 |
+| [**DVC**](https://marketplace.visualstudio.com/items?itemName=Iterative.dvc) | [Iterative](#iterative) | 82K | ⭐ 4.8 |
+| [**Workbench Snippets**](https://marketplace.visualstudio.com/items?itemName=particle.particle-vscode-snippets) | [particle](#particle) | 78K | — |
+| [**Redocly OpenAPI**](https://marketplace.visualstudio.com/items?itemName=Redocly.openapi-vs-code) | [Redocly](#redocly) | 73K | ⭐ 4.7 |
+| [**Databricks Driver for SQLTools**](https://marketplace.visualstudio.com/items?itemName=databricks.sqltools-databricks-driver) | [databricks](#databricks) | 66K | ⭐ 4.8 |
+| [**EchoAPI for VS Code**](https://marketplace.visualstudio.com/items?itemName=EchoAPI.echoapi-for-vscode) | [EchoAPI](#echoapi) | 66K | ⭐ 4.6 |
+| [**JSDoc Generator**](https://marketplace.visualstudio.com/items?itemName=crystal-spider.jsdoc-generator) | [crystal-spider](#crystal-spider) | 65K | ⭐ 5 |
+| [**Splunk Extension**](https://marketplace.visualstudio.com/items?itemName=Splunk.splunk) | [Splunk](#splunk) | 63K | ⭐ 4.2 |
+| [**NG-ZORRO Snippets**](https://marketplace.visualstudio.com/items?itemName=cipchk.ng-zorro-vscode) | [cipchk](#cipchk) | 61K | ⭐ 5 |
+| [**Rocket COBOL**](https://marketplace.visualstudio.com/items?itemName=RocketSoftware.rocket-cobol) | [RocketSoftware](#rocketsoftware) | 53K | ⭐ 5 |
+| [**Frontier: Figma to React, leveraging your own design system and components**](https://marketplace.visualstudio.com/items?itemName=AnimaApp.vscode-anima) | [AnimaApp](#animaapp) | 52K | ⭐ 5 |
+| [**Refact – Open-Source AI Agent, Code Generator & Chat for JavaScript, Python, TypeScript, Java, PHP, Go, and more.**](https://marketplace.visualstudio.com/items?itemName=smallcloud.codify) | [smallcloud](#smallcloud) | 51K | ⭐ 4.1 |
+| [**Go Extension Pack**](https://marketplace.visualstudio.com/items?itemName=doggy8088.go-extension-pack) | [doggy8088](#doggy8088) | 50K | ⭐ 5 |
+| [**1Password**](https://marketplace.visualstudio.com/items?itemName=1Password.op-vscode) | [1Password](#1password) | 49K | ⭐ 3.9 |
+| [**Extension Pack for reStructuredText**](https://marketplace.visualstudio.com/items?itemName=lextudio.restructuredtext-pack) | [lextudio](#lextudio) | 48K | — |
+| [**Plotly Express Snippets**](https://marketplace.visualstudio.com/items?itemName=analytic-signal.snippets-plotly) | [analytic-signal](#analytic-signal) | 47K | ⭐ 5 |
+| [**SAP HANA Driver for SQLTools**](https://marketplace.visualstudio.com/items?itemName=SAPOSS.sap-hana-driver-for-sqltools) | [SAPOSS](#saposs) | 46K | ⭐ 4.6 |
+| [**Adaptive Card Previewer**](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.vscode-adaptive-cards) | [TeamsDevApp](#teamsdevapp) | 44K | — |
+| [**DVT IDE for Verilog/SystemVerilog/VHDL/e Language**](https://marketplace.visualstudio.com/items?itemName=amiq.dvt) | [amiq](#amiq) | 44K | ⭐ 5 |
+| [**T3 Stack / Next.js / React File Generator**](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-nextjs-generator) | [imgildev](#imgildev) | 43K | ⭐ 5 |
+| [**Qt C++ Extension Pack**](https://marketplace.visualstudio.com/items?itemName=TheQtCompany.qt-cpp-pack) | [TheQtCompany](#theqtcompany) | 42K | ⭐ 5 |
+| [**[DEPRECATED] LaTeX Language Support**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.latex) | [ms-vscode](#ms-vscode) | 42K | ⭐ 3 |
+| [**SCOPE Studio for VS Code**](https://marketplace.visualstudio.com/items?itemName=ms-ssdevteam.scope-vscode-ext) | [ms-ssdevteam](#ms-ssdevteam) | 42K | ⭐ 5 |
+| [**Mustache Templates - Syntax Highlighting, Snippets & Autocomplete**](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-mustache-snippets) | [imgildev](#imgildev) | 40K | ⭐ 5 |
+| [**NestJS Snippets - NestJS Tools Collection**](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-nestjs-snippets-extension) | [imgildev](#imgildev) | 37K | ⭐ 5 |
+| [**Tekton Pipelines**](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-tekton-pipelines) | [redhat](#redhat) | 37K | ⭐ 5 |
+| [**ESP-IDF WEB**](https://marketplace.visualstudio.com/items?itemName=espressif.esp-idf-web) | [espressif](#espressif) | 36K | — |
+| [**GoCodeo: Best of Cursor and Lovable, Combined**](https://marketplace.visualstudio.com/items?itemName=GoCodeo.gocodeo) | [GoCodeo](#gocodeo) | 34K | ⭐ 4.5 |
+| [**IDL for VSCode**](https://marketplace.visualstudio.com/items?itemName=IDL.idl-for-vscode) | [IDL](#idl) | 32K | ⭐ 5 |
+| [**Pulumi YAML**](https://marketplace.visualstudio.com/items?itemName=pulumi.pulumi-lsp-client) | [pulumi](#pulumi) | 32K | ⭐ 5 |
+| [**WiseGPT (Coding Assistant by DhiWise)**](https://marketplace.visualstudio.com/items?itemName=dhiwisepvtltd.dhiwisecodesync) | [dhiwisepvtltd](#dhiwisepvtltd) | 32K | ⭐ 4.3 |
+| [**Design Líquido - Linguagens em Português**](https://marketplace.visualstudio.com/items?itemName=designliquido.designliquido-vscode) | [designliquido](#designliquido) | 31K | ⭐ 5 |
+| [**SPFx Snippets**](https://marketplace.visualstudio.com/items?itemName=eliostruyf.spfx-snippets) | [eliostruyf](#eliostruyf) | 31K | ⭐ 5 |
+| [**NG-ALAIN Snippets**](https://marketplace.visualstudio.com/items?itemName=cipchk.ng-alain-vscode) | [cipchk](#cipchk) | 30K | — |
+| [**Odoo**](https://marketplace.visualstudio.com/items?itemName=Odoo.odoo) | [Odoo](#odoo) | 30K | ⭐ 3.9 |
+| [**Purecode AI - AI Coding Agent for Legacy Codebases**](https://marketplace.visualstudio.com/items?itemName=PurecodeAI.purecode-ai) | [PurecodeAI](#purecodeai) | 29K | ⭐ 4.9 |
+| [**Kendo UI Productivity Tools**](https://marketplace.visualstudio.com/items?itemName=KendoUI.kendotemplatewizard) | [KendoUI](#kendoui) | 28K | ⭐ 5 |
+| [**Telerik UI for ASP.NET Core Productivity Tools**](https://marketplace.visualstudio.com/items?itemName=TelerikInc.aspnetcoretemplatewizard) | [TelerikInc](#telerikinc) | 28K | ⭐ 5 |
+| [**Telerik UI for Blazor Productivity Tools**](https://marketplace.visualstudio.com/items?itemName=TelerikInc.blazortemplatewizard) | [TelerikInc](#telerikinc) | 28K | ⭐ 5 |
+| [**HLASM Language Support**](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.hlasm-language-support) | [broadcomMFD](#broadcommfd) | 28K | ⭐ 5 |
+
+</details>
+
+<p align="right"><a href="#-extensions-by-category">⬆️ Back to Categories</a> · <a href="#-table-of-contents">⬆️ Back to Top</a></p>
+
+---
+
+### <a id="category-testing"></a>📂 Testing
+<details>
+<summary><strong>54 extensions in this category</strong></summary>
+
+| Extension | Publisher | Installs | Rating |
+|-----------|-----------|:--------:|:------:|
+| [**Test Runner for Java**](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-test) | [vscjava](#vscjava) | 40.6M | ⭐ 4.2 |
+| [**Go**](https://marketplace.visualstudio.com/items?itemName=golang.Go) | [golang](#golang) | 17.4M | ⭐ 4.3 |
+| [**Dart**](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code) | [Dart-Code](#dart-code) | 13.4M | ⭐ 4.8 |
+| [**C# Dev Kit**](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit) | [ms-dotnettools](#ms-dotnettools) | 12.6M | ⭐ 2.9 |
+| [**PlatformIO IDE**](https://marketplace.visualstudio.com/items?itemName=platformio.platformio-ide) | [platformio](#platformio) | 6.1M | ⭐ 4.9 |
+| [**PHP**](https://marketplace.visualstudio.com/items?itemName=DEVSENSE.phptools-vscode) | [DEVSENSE](#devsense) | 6.1M | ⭐ 4.1 |
+| [**PHP Profiler**](https://marketplace.visualstudio.com/items?itemName=DEVSENSE.profiler-php-vscode) | [DEVSENSE](#devsense) | 5.6M | ⭐ 5 |
+| [**Java**](https://marketplace.visualstudio.com/items?itemName=Oracle.oracle-java) | [Oracle](#oracle) | 4.6M | ⭐ 4.9 |
+| [**Quokka.js**](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode) | [WallabyJs](#wallabyjs) | 4.1M | ⭐ 3.7 |
+| [**Cline**](https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev) | [saoudrizwan](#saoudrizwan) | 2.7M | ⭐ 4.6 |
+| [**CodeGPT: Chat & AI Agents**](https://marketplace.visualstudio.com/items?itemName=DanielSanMedium.dscodegpt) | [DanielSanMedium](#danielsanmedium) | 2.2M | ⭐ 3.5 |
+| [**Postman**](https://marketplace.visualstudio.com/items?itemName=Postman.postman-for-vscode) | [Postman](#postman) | 2.1M | ⭐ 3.1 |
+| [**Playwright Test for VSCode**](https://marketplace.visualstudio.com/items?itemName=ms-playwright.playwright) | [ms-playwright](#ms-playwright) | 2M | ⭐ 4 |
+| [**Serial Monitor**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-serial-monitor) | [ms-vscode](#ms-vscode) | 1.7M | ⭐ 3.6 |
+| [**Ruby LSP**](https://marketplace.visualstudio.com/items?itemName=Shopify.ruby-lsp) | [Shopify](#shopify) | 1.7M | ⭐ 2.8 |
+| [**OpenAPI (Swagger) Editor**](https://marketplace.visualstudio.com/items?itemName=42Crunch.vscode-openapi) | [42Crunch](#42crunch) | 1.3M | ⭐ 4.2 |
+| [**Roo Code**](https://marketplace.visualstudio.com/items?itemName=RooVeterinaryInc.roo-cline) | [RooVeterinaryInc](#rooveterinaryinc) | 1.1M | ⭐ 4.9 |
+| [**Keploy: AI Testing Assistant for Developers – Supercharge Unit, Integration, and API Testing in Python, JavaScript, TypeScript, Java, PHP, Go, and More**](https://marketplace.visualstudio.com/items?itemName=Keploy.keployio) | [Keploy](#keploy) | 1M | ⭐ 4.9 |
+| [**Bito AI Code Reviews**](https://marketplace.visualstudio.com/items?itemName=Bito.Bito) | [Bito](#bito) | 918K | ⭐ 4.3 |
+| [**Qodo: AI Code Review**](https://marketplace.visualstudio.com/items?itemName=Codium.codium) | [Codium](#codium) | 793K | ⭐ 4.7 |
+| [**Vitest**](https://marketplace.visualstudio.com/items?itemName=vitest.explorer) | [vitest](#vitest) | 742K | ⭐ 3.6 |
+| [**Fitten Code : Faster and Better AI Assistant**](https://marketplace.visualstudio.com/items?itemName=FittenTech.Fitten-Code) | [FittenTech](#fittentech) | 691K | ⭐ 4.3 |
+| [**Go Nightly**](https://marketplace.visualstudio.com/items?itemName=golang.go-nightly) | [golang](#golang) | 575K | ⭐ 5 |
+| [**Kilo Code AI Agent**](https://marketplace.visualstudio.com/items?itemName=kilocode.Kilo-Code) | [kilocode](#kilocode) | 535K | ⭐ 4.5 |
+| [**Dadroit JSON Generator**](https://marketplace.visualstudio.com/items?itemName=Dadroit.dadroit-json-generator) | [Dadroit](#dadroit) | 491K | ⭐ 5 |
+| [**Salesforce Code Analyzer**](https://marketplace.visualstudio.com/items?itemName=salesforce.sfdx-code-analyzer-vscode) | [salesforce](#salesforce) | 442K | ⭐ 3.7 |
+| [**Power User for dbt**](https://marketplace.visualstudio.com/items?itemName=innoverio.vscode-dbt-power-user) | [innoverio](#innoverio) | 380K | ⭐ 5 |
+| [**Swift**](https://marketplace.visualstudio.com/items?itemName=swiftlang.swift-vscode) | [swiftlang](#swiftlang) | 338K | ⭐ 5 |
+| [**Azure Load Testing**](https://marketplace.visualstudio.com/items?itemName=ms-azure-load-testing.microsoft-testing) | [ms-azure-load-testing](#ms-azure-load-testing) | 337K | ⭐ 5 |
+| [**Wallaby.js**](https://marketplace.visualstudio.com/items?itemName=WallabyJs.wallaby-vscode) | [WallabyJs](#wallabyjs) | 304K | ⭐ 4.2 |
+| [**RobotCode - Robot Framework Support**](https://marketplace.visualstudio.com/items?itemName=d-biehl.robotcode) | [d-biehl](#d-biehl) | 277K | ⭐ 4.8 |
+| [**Language Server for Java by Apache NetBeans**](https://marketplace.visualstudio.com/items?itemName=ASF.apache-netbeans-java) | [ASF](#asf) | 272K | ⭐ 5 |
+| [**Calva: Clojure & ClojureScript Interactive Programming**](https://marketplace.visualstudio.com/items?itemName=betterthantomorrow.calva) | [betterthantomorrow](#betterthantomorrow) | 208K | ⭐ 5 |
+| [**Bun for Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=oven.bun-vscode) | [oven](#oven) | 206K | ⭐ 4.3 |
+| [**Extension Test Runner**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.extension-test-runner) | [ms-vscode](#ms-vscode) | 198K | ⭐ 5 |
+| [**Claude 4, GPT-5, DeepSeek R1, ChatGPT, Copilot, Cursor AI, Codex and Cline,  AI Copilot, and Debugger, AI Agents, Code Chat, Code Assistants, Code Generator, Code Completion, Autocomplete, Generative **](https://marketplace.visualstudio.com/items?itemName=Sixth.sixth-ai) | [Sixth](#sixth) | 181K | ⭐ 3.6 |
+| [**Parallels Desktop**](https://marketplace.visualstudio.com/items?itemName=ParallelsDesktop.parallels-desktop) | [ParallelsDesktop](#parallelsdesktop) | 148K | ⭐ 5 |
+| [**vscode-openai**](https://marketplace.visualstudio.com/items?itemName=AndrewButson.vscode-openai) | [AndrewButson](#andrewbutson) | 108K | ⭐ 4.4 |
+| [**Bruno**](https://marketplace.visualstudio.com/items?itemName=bruno-api-client.bruno) | [bruno-api-client](#bruno-api-client) | 101K | ⭐ 4.2 |
+| [**CircleCI**](https://marketplace.visualstudio.com/items?itemName=circleci.circleci) | [circleci](#circleci) | 97K | ⭐ 4.8 |
+| [**ChatGPT - Unfold AI**](https://marketplace.visualstudio.com/items?itemName=TalDennis-UnfoldAI-ChatGPT-Copilot.unfoldai) | [TalDennis-UnfoldAI-ChatGPT-Copilot](#taldennis-unfoldai-chatgpt-copilot) | 90K | ⭐ 4.1 |
+| [**Hyperledger Fabric Debugger**](https://marketplace.visualstudio.com/items?itemName=Spydra.hyperledger-fabric-debugger) | [Spydra](#spydra) | 84K | ⭐ 5 |
+| [**EchoAPI for VS Code**](https://marketplace.visualstudio.com/items?itemName=EchoAPI.echoapi-for-vscode) | [EchoAPI](#echoapi) | 66K | ⭐ 4.6 |
+| [**Datadog**](https://marketplace.visualstudio.com/items?itemName=Datadog.datadog-vscode) | [Datadog](#datadog) | 55K | ⭐ 5 |
+| [**Refact – Open-Source AI Agent, Code Generator & Chat for JavaScript, Python, TypeScript, Java, PHP, Go, and more.**](https://marketplace.visualstudio.com/items?itemName=smallcloud.codify) | [smallcloud](#smallcloud) | 51K | ⭐ 4.1 |
+| [**IIS and IIS Express extension for Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=lextudio.iis) | [lextudio](#lextudio) | 48K | ⭐ 3 |
+| [**Solidity (Wake)**](https://marketplace.visualstudio.com/items?itemName=AckeeBlockchain.tools-for-solidity) | [AckeeBlockchain](#ackeeblockchain) | 43K | ⭐ 5 |
+| [**Lightrun**](https://marketplace.visualstudio.com/items?itemName=Lightrun.lightrunplugin-saas) | [Lightrun](#lightrun) | 42K | ⭐ 5 |
+| [**Anypoint Code Builder - MUnit Extension**](https://marketplace.visualstudio.com/items?itemName=salesforce.mule-dx-munit-component) | [salesforce](#salesforce) | 36K | — |
+| [**Blue Bazel**](https://marketplace.visualstudio.com/items?itemName=NVIDIA.bluebazel) | [NVIDIA](#nvidia) | 35K | ⭐ 5 |
+| [**GoCodeo: Best of Cursor and Lovable, Combined**](https://marketplace.visualstudio.com/items?itemName=GoCodeo.gocodeo) | [GoCodeo](#gocodeo) | 34K | ⭐ 4.5 |
+| [**RobotCode GherkinParser Support**](https://marketplace.visualstudio.com/items?itemName=d-biehl.robotcode-gherkin) | [d-biehl](#d-biehl) | 31K | — |
+| [**Veracode Scan for VS Code**](https://marketplace.visualstudio.com/items?itemName=Veracode.veracode-vscode-plugin) | [Veracode](#veracode) | 31K | ⭐ 4.6 |
+| [**BrowserStack**](https://marketplace.visualstudio.com/items?itemName=browserstackcom.browserstack-vscode) | [browserstackcom](#browserstackcom) | 29K | ⭐ 5 |
+
+</details>
+
+<p align="right"><a href="#-extensions-by-category">⬆️ Back to Categories</a> · <a href="#-table-of-contents">⬆️ Back to Top</a></p>
+
+---
+
+### <a id="category-themes"></a>📂 Themes
+<details>
+<summary><strong>26 extensions in this category</strong></summary>
+
+| Extension | Publisher | Installs | Rating |
+|-----------|-----------|:--------:|:------:|
+| [**C/C++ Themes**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools-themes) | [ms-vscode](#ms-vscode) | 50.5M | ⭐ 3.5 |
+| [**vscode-icons**](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons) | [vscode-icons-team](#vscode-icons-team) | 22.8M | ⭐ 4.8 |
+| [**GitHub Theme**](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme) | [GitHub](#github) | 17.7M | ⭐ 4.6 |
+| [**PowerShell**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell) | [ms-vscode](#ms-vscode) | 17M | ⭐ 3.6 |
+| [**Dracula Theme Official**](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula) | [dracula-theme](#dracula-theme) | 9.8M | ⭐ 4.8 |
+| [**Monokai Pro**](https://marketplace.visualstudio.com/items?itemName=monokai.theme-monokai-pro-vscode) | [monokai](#monokai) | 3.8M | ⭐ 3.6 |
+| [**Shades of Purple**](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple) | [ahmadawais](#ahmadawais) | 2.2M | ⭐ 4.9 |
+| [**Catppuccin for VSCode**](https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc) | [Catppuccin](#catppuccin) | 959K | ⭐ 5 |
+| [**Ruby**](https://marketplace.visualstudio.com/items?itemName=Shopify.ruby-extensions-pack) | [Shopify](#shopify) | 669K | ⭐ 3.7 |
+| [**Markdown Theme Kit**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.Theme-MarkdownKit) | [ms-vscode](#ms-vscode) | 565K | ⭐ 4.3 |
+| [**Aura Theme**](https://marketplace.visualstudio.com/items?itemName=DaltonMenezes.aura-theme) | [DaltonMenezes](#daltonmenezes) | 522K | ⭐ 5 |
+| [**Catppuccin Icons for VSCode**](https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc-icons) | [Catppuccin](#catppuccin) | 429K | ⭐ 4.9 |
+| [**Material Theme Kit**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.Theme-MaterialKit) | [ms-vscode](#ms-vscode) | 415K | ⭐ 3.9 |
+| [**City Lights theme**](https://marketplace.visualstudio.com/items?itemName=Yummygum.city-lights-theme) | [Yummygum](#yummygum) | 302K | ⭐ 4.9 |
+| [**Vira Theme**](https://marketplace.visualstudio.com/items?itemName=vira.vsc-vira-theme) | [vira](#vira) | 297K | ⭐ 3.4 |
+| [**Rosé Pine**](https://marketplace.visualstudio.com/items?itemName=mvllow.rose-pine) | [mvllow](#mvllow) | 277K | ⭐ 4.7 |
+| [**Tomorrow and Tomorrow Night Theme Kit**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.Theme-TomorrowKit) | [ms-vscode](#ms-vscode) | 207K | ⭐ 4.2 |
+| [**City Lights Icon package**](https://marketplace.visualstudio.com/items?itemName=Yummygum.city-lights-icon-vsc) | [Yummygum](#yummygum) | 184K | ⭐ 5 |
+| [**Workbench Themes**](https://marketplace.visualstudio.com/items?itemName=particle.particle-vscode-theme) | [particle](#particle) | 127K | ⭐ 3 |
+| [**1337 Theme**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.Theme-1337) | [ms-vscode](#ms-vscode) | 124K | ⭐ 5 |
+| [**Sapphire Theme**](https://marketplace.visualstudio.com/items?itemName=Tyriar.theme-sapphire) | [Tyriar](#tyriar) | 114K | ⭐ 4.9 |
+| [**Predawn Theme Kit**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.Theme-PredawnKit) | [ms-vscode](#ms-vscode) | 107K | ⭐ 5 |
+| [**Houston**](https://marketplace.visualstudio.com/items?itemName=astro-build.houston) | [astro-build](#astro-build) | 74K | ⭐ 5 |
+| [**Gitpod Theme**](https://marketplace.visualstudio.com/items?itemName=gitpod.gitpod-theme) | [gitpod](#gitpod) | 58K | ⭐ 5 |
+| [**Expo Theme**](https://marketplace.visualstudio.com/items?itemName=expo.vscode-expo-theme) | [expo](#expo) | 34K | ⭐ 5 |
+| [**IDL for VSCode**](https://marketplace.visualstudio.com/items?itemName=IDL.idl-for-vscode) | [IDL](#idl) | 32K | ⭐ 5 |
+
+</details>
+
+<p align="right"><a href="#-extensions-by-category">⬆️ Back to Categories</a> · <a href="#-table-of-contents">⬆️ Back to Top</a></p>
+
+---
+
+### <a id="category-visualization"></a>📂 Visualization
+<details>
+<summary><strong>41 extensions in this category</strong></summary>
+
+| Extension | Publisher | Installs | Rating |
+|-----------|-----------|:--------:|:------:|
+| [**Jupyter**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter) | [ms-toolsai](#ms-toolsai) | 98.8M | ⭐ 2.7 |
+| [**Jupyter Notebook Renderers**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter-renderers) | [ms-toolsai](#ms-toolsai) | 77.7M | ⭐ 2.8 |
+| [**WakaTime**](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime) | [WakaTime](#wakatime) | 22.9M | ⭐ 4.2 |
+| [**Composer**](https://marketplace.visualstudio.com/items?itemName=DEVSENSE.composer-php-vscode) | [DEVSENSE](#devsense) | 5.7M | ⭐ 4.5 |
+| [**PHP Profiler**](https://marketplace.visualstudio.com/items?itemName=DEVSENSE.profiler-php-vscode) | [DEVSENSE](#devsense) | 5.6M | ⭐ 5 |
+| [**AWS Toolkit**](https://marketplace.visualstudio.com/items?itemName=AmazonWebServices.aws-toolkit-vscode) | [AmazonWebServices](#amazonwebservices) | 3.6M | ⭐ 2.5 |
+| [**Draw.io Integration**](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio) | [hediet](#hediet) | 3.4M | ⭐ 4.9 |
+| [**Turbo Console Log**](https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log) | [ChakrounAnas](#chakrounanas) | 2M | ⭐ 4.1 |
+| [**Polyglot Notebooks**](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.dotnet-interactive-vscode) | [ms-dotnettools](#ms-dotnettools) | 1.8M | ⭐ 4.1 |
+| [**Serial Monitor**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-serial-monitor) | [ms-vscode](#ms-vscode) | 1.7M | ⭐ 3.6 |
+| [**Office Viewer**](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-office) | [cweijan](#cweijan) | 950K | ⭐ 4.4 |
+| [**Jupyter PowerToys**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.vscode-jupyter-powertoys) | [ms-toolsai](#ms-toolsai) | 792K | ⭐ 4.7 |
+| [**JSON Crack**](https://marketplace.visualstudio.com/items?itemName=AykutSarac.jsoncrack-vscode) | [AykutSarac](#aykutsarac) | 612K | ⭐ 4.3 |
+| [**Dependi**](https://marketplace.visualstudio.com/items?itemName=fill-labs.dependi) | [fill-labs](#fill-labs) | 537K | ⭐ 4.4 |
+| [**MySQL Shell for VS Code**](https://marketplace.visualstudio.com/items?itemName=Oracle.mysql-shell-for-vs-code) | [Oracle](#oracle) | 371K | ⭐ 3.8 |
+| [**Luna Paint — Image Editor**](https://marketplace.visualstudio.com/items?itemName=Tyriar.luna-paint) | [Tyriar](#tyriar) | 303K | ⭐ 5 |
+| [**Mermaid Chart**](https://marketplace.visualstudio.com/items?itemName=MermaidChart.vscode-mermaid-chart) | [MermaidChart](#mermaidchart) | 289K | ⭐ 4 |
+| [**Claude 4, GPT-5, DeepSeek R1, ChatGPT, Copilot, Cursor AI, Codex and Cline,  AI Copilot, and Debugger, AI Agents, Code Chat, Code Assistants, Code Generator, Code Completion, Autocomplete, Generative **](https://marketplace.visualstudio.com/items?itemName=Sixth.sixth-ai) | [Sixth](#sixth) | 181K | ⭐ 3.6 |
+| [**ERD Editor**](https://marketplace.visualstudio.com/items?itemName=dineug.vuerd-vscode) | [dineug](#dineug) | 163K | ⭐ 4.8 |
+| [**Redis for VS Code**](https://marketplace.visualstudio.com/items?itemName=Redis.redis-for-vscode) | [Redis](#redis) | 151K | ⭐ 3.8 |
+| [**Typora**](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-typora) | [cweijan](#cweijan) | 140K | ⭐ 4.9 |
+| [**SandDance for VSCode**](https://marketplace.visualstudio.com/items?itemName=msrvida.vscode-sanddance) | [msrvida](#msrvida) | 138K | ⭐ 4.7 |
+| [**CircleCI**](https://marketplace.visualstudio.com/items?itemName=circleci.circleci) | [circleci](#circleci) | 97K | ⭐ 4.8 |
+| [**JSON Debug Visualizer**](https://marketplace.visualstudio.com/items?itemName=TimHeuer.jsondbg) | [TimHeuer](#timheuer) | 91K | — |
+| [**vscode-mermAId**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.copilot-mermaid-diagram) | [ms-vscode](#ms-vscode) | 89K | ⭐ 5 |
+| [**XState VSCode**](https://marketplace.visualstudio.com/items?itemName=statelyai.stately-vscode) | [statelyai](#statelyai) | 85K | ⭐ 4.8 |
+| [**DVC**](https://marketplace.visualstudio.com/items?itemName=Iterative.dvc) | [Iterative](#iterative) | 82K | ⭐ 4.8 |
+| [**CodeViz | Visual codebase maps**](https://marketplace.visualstudio.com/items?itemName=CodeViz.codeviz) | [CodeViz](#codeviz) | 73K | ⭐ 4 |
+| [**Excel**](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-excel) | [cweijan](#cweijan) | 69K | ⭐ 5 |
+| [**Front Matter CMS**](https://marketplace.visualstudio.com/items?itemName=eliostruyf.vscode-front-matter) | [eliostruyf](#eliostruyf) | 67K | ⭐ 5 |
+| [**AppMap**](https://marketplace.visualstudio.com/items?itemName=appland.appmap) | [appland](#appland) | 66K | ⭐ 4.9 |
+| [**Draw.io Integration - Insiders Build**](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio-insiders-build) | [hediet](#hediet) | 57K | ⭐ 5 |
+| [**JSON Flow**](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-json-flow) | [imgildev](#imgildev) | 49K | ⭐ 5 |
+| [**Plotly Express Snippets**](https://marketplace.visualstudio.com/items?itemName=analytic-signal.snippets-plotly) | [analytic-signal](#analytic-signal) | 47K | ⭐ 5 |
+| [**Adaptive Card Previewer**](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.vscode-adaptive-cards) | [TeamsDevApp](#teamsdevapp) | 44K | — |
+| [**Solidity (Wake)**](https://marketplace.visualstudio.com/items?itemName=AckeeBlockchain.tools-for-solidity) | [AckeeBlockchain](#ackeeblockchain) | 43K | ⭐ 5 |
+| [**Uno Platform**](https://marketplace.visualstudio.com/items?itemName=unoplatform.vscode) | [unoplatform](#unoplatform) | 40K | ⭐ 4.5 |
+| [**SemanticDiff**](https://marketplace.visualstudio.com/items?itemName=semanticdiff.semanticdiff) | [semanticdiff](#semanticdiff) | 37K | ⭐ 4.7 |
+| [**vscode-openapi-viewer**](https://marketplace.visualstudio.com/items?itemName=AndrewButson.vscode-openapi-viewer) | [AndrewButson](#andrewbutson) | 33K | ⭐ 5 |
+| [**Data Analysis for Copilot**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-copilot-data-analysis) | [ms-vscode](#ms-vscode) | 31K | ⭐ 3.8 |
+| [**Python Data Science**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.python-ds-extension-pack) | [ms-toolsai](#ms-toolsai) | 29K | ⭐ 5 |
+
+</details>
+
+<p align="right"><a href="#-extensions-by-category">⬆️ Back to Categories</a> · <a href="#-table-of-contents">⬆️ Back to Top</a></p>
+
+---
+
+## 🔎 Identifier Index
+
+> **Alphabetical listing by extension identifier** — use with Marketplace `@id:publisher.extension`
+
+<details>
+<summary><strong>📂 Click to expand all 711 identifiers (A–Z)</strong></summary>
+
+| # | Identifier | Name | Publisher | Links |
+|--:|------------|------|-----------|:-----:|
+| 1 | `1Password.op-vscode` | 1Password | [1Password](#1password) | [🏪](https://marketplace.visualstudio.com/items?itemName=1Password.op-vscode) |
+| 2 | `42Crunch.vscode-openapi` | OpenAPI (Swagger) Editor | [42Crunch](#42crunch) | [🏪](https://marketplace.visualstudio.com/items?itemName=42Crunch.vscode-openapi) |
+| 3 | `AckeeBlockchain.tools-for-solidity` | Solidity (Wake) | [AckeeBlockchain](#ackeeblockchain) | [🏪](https://marketplace.visualstudio.com/items?itemName=AckeeBlockchain.tools-for-solidity) |
+| 4 | `ahmadawais.emoji-log-vscode` | Emoji Log | [ahmadawais](#ahmadawais) | [🏪](https://marketplace.visualstudio.com/items?itemName=ahmadawais.emoji-log-vscode) |
+| 5 | `ahmadawais.shades-of-purple` | Shades of Purple | [ahmadawais](#ahmadawais) | [🏪](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple) |
+| 6 | `AmazonWebServices.amazon-q-vscode` | Amazon Q | [AmazonWebServices](#amazonwebservices) | [🏪](https://marketplace.visualstudio.com/items?itemName=AmazonWebServices.amazon-q-vscode) |
+| 7 | `AmazonWebServices.aws-toolkit-vscode` | AWS Toolkit | [AmazonWebServices](#amazonwebservices) | [🏪](https://marketplace.visualstudio.com/items?itemName=AmazonWebServices.aws-toolkit-vscode) |
+| 8 | `amiq.dvt` | DVT IDE for Verilog/SystemVerilog/VHDL/e Language | [amiq](#amiq) | [🏪](https://marketplace.visualstudio.com/items?itemName=amiq.dvt) |
+| 9 | `amlovey.shaderlabvscodefree` | ShaderlabVSCode(Free) | [amlovey](#amlovey) | [🏪](https://marketplace.visualstudio.com/items?itemName=amlovey.shaderlabvscodefree) |
+| 10 | `analysis-services.TMDL` | TMDL | [analysis-services](#analysis-services) | [🏪](https://marketplace.visualstudio.com/items?itemName=analysis-services.TMDL) |
+| 11 | `analytic-signal.preview-html` | HTML Preview | [analytic-signal](#analytic-signal) | [🏪](https://marketplace.visualstudio.com/items?itemName=analytic-signal.preview-html) |
+| 12 | `analytic-signal.preview-mp4` | MPEG-4 Preview | [analytic-signal](#analytic-signal) | [🏪](https://marketplace.visualstudio.com/items?itemName=analytic-signal.preview-mp4) |
+| 13 | `analytic-signal.preview-pdf` | PDF Preview | [analytic-signal](#analytic-signal) | [🏪](https://marketplace.visualstudio.com/items?itemName=analytic-signal.preview-pdf) |
+| 14 | `analytic-signal.preview-tiff` | TIFF Preview | [analytic-signal](#analytic-signal) | [🏪](https://marketplace.visualstudio.com/items?itemName=analytic-signal.preview-tiff) |
+| 15 | `analytic-signal.snippets-plotly` | Plotly Express Snippets | [analytic-signal](#analytic-signal) | [🏪](https://marketplace.visualstudio.com/items?itemName=analytic-signal.snippets-plotly) |
+| 16 | `AndrewButson.vscode-openai` | vscode-openai | [AndrewButson](#andrewbutson) | [🏪](https://marketplace.visualstudio.com/items?itemName=AndrewButson.vscode-openai) |
+| 17 | `AndrewButson.vscode-openapi-viewer` | vscode-openapi-viewer | [AndrewButson](#andrewbutson) | [🏪](https://marketplace.visualstudio.com/items?itemName=AndrewButson.vscode-openapi-viewer) |
+| 18 | `Angular.ng-template` | Angular Language Service | [Angular](#angular) | [🏪](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template) |
+| 19 | `AnimaApp.vscode-anima` | Frontier: Figma to React, leveraging your own design system and components | [AnimaApp](#animaapp) | [🏪](https://marketplace.visualstudio.com/items?itemName=AnimaApp.vscode-anima) |
+| 20 | `anthropic.claude-code` | Claude Code for VS Code | [anthropic](#anthropic) | [🏪](https://marketplace.visualstudio.com/items?itemName=anthropic.claude-code) |
+| 21 | `apollographql.vscode-apollo` | Apollo GraphQL | [apollographql](#apollographql) | [🏪](https://marketplace.visualstudio.com/items?itemName=apollographql.vscode-apollo) |
+| 22 | `appland.appmap` | AppMap | [appland](#appland) | [🏪](https://marketplace.visualstudio.com/items?itemName=appland.appmap) |
+| 23 | `Arm.arm-debugger` | Arm Debugger | [Arm](#arm) | [🏪](https://marketplace.visualstudio.com/items?itemName=Arm.arm-debugger) |
+| 24 | `Arm.cmsis-csolution` | Arm CMSIS Solution | [Arm](#arm) | [🏪](https://marketplace.visualstudio.com/items?itemName=Arm.cmsis-csolution) |
+| 25 | `Arm.device-manager` | Arm Device Manager | [Arm](#arm) | [🏪](https://marketplace.visualstudio.com/items?itemName=Arm.device-manager) |
+| 26 | `Arm.embedded-debug` | Arm Embedded Debugger | [Arm](#arm) | [🏪](https://marketplace.visualstudio.com/items?itemName=Arm.embedded-debug) |
+| 27 | `Arm.environment-manager` | Arm Tools Environment Manager | [Arm](#arm) | [🏪](https://marketplace.visualstudio.com/items?itemName=Arm.environment-manager) |
+| 28 | `Arm.keil-studio-pack` | Arm Keil Studio Pack (MDK v6) | [Arm](#arm) | [🏪](https://marketplace.visualstudio.com/items?itemName=Arm.keil-studio-pack) |
+| 29 | `Arm.virtual-hardware` | Arm Virtual Hardware | [Arm](#arm) | [🏪](https://marketplace.visualstudio.com/items?itemName=Arm.virtual-hardware) |
+| 30 | `Arm.vscode-cmsis-debugger` | Arm CMSIS Debugger | [Arm](#arm) | [🏪](https://marketplace.visualstudio.com/items?itemName=Arm.vscode-cmsis-debugger) |
+| 31 | `asciidoctor.asciidoctor-vscode` | AsciiDoc | [asciidoctor](#asciidoctor) | [🏪](https://marketplace.visualstudio.com/items?itemName=asciidoctor.asciidoctor-vscode) |
+| 32 | `ASF.apache-netbeans-java` | Language Server for Java by Apache NetBeans | [ASF](#asf) | [🏪](https://marketplace.visualstudio.com/items?itemName=ASF.apache-netbeans-java) |
+| 33 | `astro-build.astro-vscode` | Astro | [astro-build](#astro-build) | [🏪](https://marketplace.visualstudio.com/items?itemName=astro-build.astro-vscode) |
+| 34 | `astro-build.houston` | Houston | [astro-build](#astro-build) | [🏪](https://marketplace.visualstudio.com/items?itemName=astro-build.houston) |
+| 35 | `Atlassian.atlascode` | Atlassian: Jira, Rovo Dev, Bitbucket | [Atlassian](#atlassian) | [🏪](https://marketplace.visualstudio.com/items?itemName=Atlassian.atlascode) |
+| 36 | `augment.vscode-augment` | Augment Code: AI Coding Agent for JavaScript, Go, TypeScript, Python & more | [augment](#augment) | [🏪](https://marketplace.visualstudio.com/items?itemName=augment.vscode-augment) |
+| 37 | `AykutSarac.jsoncrack-vscode` | JSON Crack | [AykutSarac](#aykutsarac) | [🏪](https://marketplace.visualstudio.com/items?itemName=AykutSarac.jsoncrack-vscode) |
+| 38 | `AyushSinghal.Code-Mate` | CodeMate AI- Your Smartest Full Stack Coding Agent- Python, C++, C, Java, Javascript, Typescript, Ruby & 100+ languages supported | [AyushSinghal](#ayushsinghal) | [🏪](https://marketplace.visualstudio.com/items?itemName=AyushSinghal.Code-Mate) |
+| 39 | `azapi-vscode.azapi` | Terraform AzApi Provider | [azapi-vscode](#azapi-vscode) | [🏪](https://marketplace.visualstudio.com/items?itemName=azapi-vscode.azapi) |
+| 40 | `azps-tools.azps-tools` | Azure PowerShell Tools | [azps-tools](#azps-tools) | [🏪](https://marketplace.visualstudio.com/items?itemName=azps-tools.azps-tools) |
+| 41 | `azsdktm.SecurityIntelliSense` | Security IntelliSense | [azsdktm](#azsdktm) | [🏪](https://marketplace.visualstudio.com/items?itemName=azsdktm.SecurityIntelliSense) |
+| 42 | `azure-automation.vscode-azureautomation` | Azure Automation | [azure-automation](#azure-automation) | [🏪](https://marketplace.visualstudio.com/items?itemName=azure-automation.vscode-azureautomation) |
+| 43 | `AzurePolicy.azurepolicyextension` | Azure Policy | [AzurePolicy](#azurepolicy) | [🏪](https://marketplace.visualstudio.com/items?itemName=AzurePolicy.azurepolicyextension) |
+| 44 | `Azurite.azurite` | Azurite | [Azurite](#azurite) | [🏪](https://marketplace.visualstudio.com/items?itemName=Azurite.azurite) |
+| 45 | `BartPermentier.al-toolbox` | AL Toolbox | [BartPermentier](#bartpermentier) | [🏪](https://marketplace.visualstudio.com/items?itemName=BartPermentier.al-toolbox) |
+| 46 | `BazelBuild.vscode-bazel` | Bazel | [BazelBuild](#bazelbuild) | [🏪](https://marketplace.visualstudio.com/items?itemName=BazelBuild.vscode-bazel) |
+| 47 | `beaugust.blamer-vs` | SVN Blamer | [beaugust](#beaugust) | [🏪](https://marketplace.visualstudio.com/items?itemName=beaugust.blamer-vs) |
+| 48 | `betterthantomorrow.calva` | Calva: Clojure & ClojureScript Interactive Programming | [betterthantomorrow](#betterthantomorrow) | [🏪](https://marketplace.visualstudio.com/items?itemName=betterthantomorrow.calva) |
+| 49 | `betterthantomorrow.calva-spritz` | Calva Spritz | [betterthantomorrow](#betterthantomorrow) | [🏪](https://marketplace.visualstudio.com/items?itemName=betterthantomorrow.calva-spritz) |
+| 50 | `biomejs.biome` | Biome | [biomejs](#biomejs) | [🏪](https://marketplace.visualstudio.com/items?itemName=biomejs.biome) |
+| 51 | `Bito.Bito` | Bito AI Code Reviews | [Bito](#bito) | [🏪](https://marketplace.visualstudio.com/items?itemName=Bito.Bito) |
+| 52 | `Blackboxapp.blackbox` | BLACKBOXAI #1 AI Coding Agent and Coding Copilot | [Blackboxapp](#blackboxapp) | [🏪](https://marketplace.visualstudio.com/items?itemName=Blackboxapp.blackbox) |
+| 53 | `Blackboxapp.blackboxagent` | BLACKBOXAI Agent - Coding Copilot | [Blackboxapp](#blackboxapp) | [🏪](https://marketplace.visualstudio.com/items?itemName=Blackboxapp.blackboxagent) |
+| 54 | `bmewburn.vscode-intelephense-client` | PHP Intelephense | [bmewburn](#bmewburn) | [🏪](https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client) |
+| 55 | `bradlc.vscode-tailwindcss` | Tailwind CSS IntelliSense | [bradlc](#bradlc) | [🏪](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) |
+| 56 | `brandonfowler.exe-runner` | exe Runner | [brandonfowler](#brandonfowler) | [🏪](https://marketplace.visualstudio.com/items?itemName=brandonfowler.exe-runner) |
+| 57 | `broadcomMFD.ccf` | COBOL Control Flow | [broadcomMFD](#broadcommfd) | [🏪](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.ccf) |
+| 58 | `broadcomMFD.cobol-language-support` | COBOL Language Support | [broadcomMFD](#broadcommfd) | [🏪](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.cobol-language-support) |
+| 59 | `broadcomMFD.debugger-for-mainframe` | Debugger for Mainframe | [broadcomMFD](#broadcommfd) | [🏪](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.debugger-for-mainframe) |
+| 60 | `broadcomMFD.hlasm-language-support` | HLASM Language Support | [broadcomMFD](#broadcommfd) | [🏪](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.hlasm-language-support) |
+| 61 | `browserstackcom.browserstack-vscode` | BrowserStack | [browserstackcom](#browserstackcom) | [🏪](https://marketplace.visualstudio.com/items?itemName=browserstackcom.browserstack-vscode) |
+| 62 | `bruno-api-client.bruno` | Bruno | [bruno-api-client](#bruno-api-client) | [🏪](https://marketplace.visualstudio.com/items?itemName=bruno-api-client.bruno) |
+| 63 | `bufbuild.vscode-buf` | Buf | [bufbuild](#bufbuild) | [🏪](https://marketplace.visualstudio.com/items?itemName=bufbuild.vscode-buf) |
+| 64 | `Catppuccin.catppuccin-vsc` | Catppuccin for VSCode | [Catppuccin](#catppuccin) | [🏪](https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc) |
+| 65 | `Catppuccin.catppuccin-vsc-icons` | Catppuccin Icons for VSCode | [Catppuccin](#catppuccin) | [🏪](https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc-icons) |
+| 66 | `Catppuccin.catppuccin-vsc-pack` | Catppuccin Pack | [Catppuccin](#catppuccin) | [🏪](https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc-pack) |
+| 67 | `ChakrounAnas.turbo-console-log` | Turbo Console Log | [ChakrounAnas](#chakrounanas) | [🏪](https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log) |
+| 68 | `charliermarsh.ruff` | Ruff | [charliermarsh](#charliermarsh) | [🏪](https://marketplace.visualstudio.com/items?itemName=charliermarsh.ruff) |
+| 69 | `checkmarx.ast-results` | Checkmarx One | [checkmarx](#checkmarx) | [🏪](https://marketplace.visualstudio.com/items?itemName=checkmarx.ast-results) |
+| 70 | `checkmarx.cxvscode` | Checkmarx SAST 9.x | [checkmarx](#checkmarx) | [🏪](https://marketplace.visualstudio.com/items?itemName=checkmarx.cxvscode) |
+| 71 | `chrisdias.vscode-opennewinstance` | Open Folder Context Menus for VS Code | [chrisdias](#chrisdias) | [🏪](https://marketplace.visualstudio.com/items?itemName=chrisdias.vscode-opennewinstance) |
+| 72 | `cipchk.cssrem` | px to rem & rpx & vw (cssrem) | [cipchk](#cipchk) | [🏪](https://marketplace.visualstudio.com/items?itemName=cipchk.cssrem) |
+| 73 | `cipchk.ng-alain-vscode` | NG-ALAIN Snippets | [cipchk](#cipchk) | [🏪](https://marketplace.visualstudio.com/items?itemName=cipchk.ng-alain-vscode) |
+| 74 | `cipchk.ng-zorro-vscode` | NG-ZORRO Snippets | [cipchk](#cipchk) | [🏪](https://marketplace.visualstudio.com/items?itemName=cipchk.ng-zorro-vscode) |
+| 75 | `circleci.circleci` | CircleCI | [circleci](#circleci) | [🏪](https://marketplace.visualstudio.com/items?itemName=circleci.circleci) |
+| 76 | `CL.eide` | Embedded IDE | [CL](#cl) | [🏪](https://marketplace.visualstudio.com/items?itemName=CL.eide) |
+| 77 | `CL.keil-assistant` | Keil Assistant | [CL](#cl) | [🏪](https://marketplace.visualstudio.com/items?itemName=CL.keil-assistant) |
+| 78 | `CL.stm8-debug` | STM8 Debugger | [CL](#cl) | [🏪](https://marketplace.visualstudio.com/items?itemName=CL.stm8-debug) |
+| 79 | `coder.coder-remote` | Coder | [coder](#coder) | [🏪](https://marketplace.visualstudio.com/items?itemName=coder.coder-remote) |
+| 80 | `CodeSandbox-io.codesandbox-projects` | CodeSandbox | [CodeSandbox-io](#codesandbox-io) | [🏪](https://marketplace.visualstudio.com/items?itemName=CodeSandbox-io.codesandbox-projects) |
+| 81 | `codescansf.codescan-vscode` | CodeScan | [codescansf](#codescansf) | [🏪](https://marketplace.visualstudio.com/items?itemName=codescansf.codescan-vscode) |
+| 82 | `CodeScene.codescene-vscode` | CodeScene | [CodeScene](#codescene) | [🏪](https://marketplace.visualstudio.com/items?itemName=CodeScene.codescene-vscode) |
+| 83 | `CodeStream.codestream` | New Relic CodeStream | [CodeStream](#codestream) | [🏪](https://marketplace.visualstudio.com/items?itemName=CodeStream.codestream) |
+| 84 | `CodeViz.codeviz` | CodeViz | Visual codebase maps | [CodeViz](#codeviz) | [🏪](https://marketplace.visualstudio.com/items?itemName=CodeViz.codeviz) |
+| 85 | `Codium.codium` | Qodo: AI Code Review | [Codium](#codium) | [🏪](https://marketplace.visualstudio.com/items?itemName=Codium.codium) |
+| 86 | `Continue.continue` | Continue - open-source AI code agent | [Continue](#continue) | [🏪](https://marketplace.visualstudio.com/items?itemName=Continue.continue) |
+| 87 | `crystal-spider.jsdoc-generator` | JSDoc Generator | [crystal-spider](#crystal-spider) | [🏪](https://marketplace.visualstudio.com/items?itemName=crystal-spider.jsdoc-generator) |
+| 88 | `csharpier.csharpier-vscode` | CSharpier - Code formatter | [csharpier](#csharpier) | [🏪](https://marketplace.visualstudio.com/items?itemName=csharpier.csharpier-vscode) |
+| 89 | `curlybracket.vlocode` | Salesforce Industries & Omnistudio (Vlocity) | [curlybracket](#curlybracket) | [🏪](https://marketplace.visualstudio.com/items?itemName=curlybracket.vlocode) |
+| 90 | `cweijan.dbclient-jdbc` | Database Client JDBC | [cweijan](#cweijan) | [🏪](https://marketplace.visualstudio.com/items?itemName=cweijan.dbclient-jdbc) |
+| 91 | `cweijan.epub-reader` | Epub Reader | [cweijan](#cweijan) | [🏪](https://marketplace.visualstudio.com/items?itemName=cweijan.epub-reader) |
+| 92 | `cweijan.vetur-plus` | Vetur Plus | [cweijan](#cweijan) | [🏪](https://marketplace.visualstudio.com/items?itemName=cweijan.vetur-plus) |
+| 93 | `cweijan.vscode-autohotkey-plus` | AutoHotkey Plus (AHK V1) | [cweijan](#cweijan) | [🏪](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-autohotkey-plus) |
+| 94 | `cweijan.vscode-database-client2` | Database Client | [cweijan](#cweijan) | [🏪](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-database-client2) |
+| 95 | `cweijan.vscode-es-client2` | ElasticSearch | [cweijan](#cweijan) | [🏪](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-es-client2) |
+| 96 | `cweijan.vscode-excel` | Excel | [cweijan](#cweijan) | [🏪](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-excel) |
+| 97 | `cweijan.vscode-mysql-client2` | MySQL | [cweijan](#cweijan) | [🏪](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-mysql-client2) |
+| 98 | `cweijan.vscode-myssql-client2` | SQL Server Client (mssql) | [cweijan](#cweijan) | [🏪](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-myssql-client2) |
+| 99 | `cweijan.vscode-office` | Office Viewer | [cweijan](#cweijan) | [🏪](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-office) |
+| 100 | `cweijan.vscode-postgresql-client2` | PostgreSQL | [cweijan](#cweijan) | [🏪](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-postgresql-client2) |
+| 101 | `cweijan.vscode-redis-client` | Redis | [cweijan](#cweijan) | [🏪](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-redis-client) |
+| 102 | `cweijan.vscode-ssh` | SSH Client | [cweijan](#cweijan) | [🏪](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-ssh) |
+| 103 | `cweijan.vscode-typora` | Typora | [cweijan](#cweijan) | [🏪](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-typora) |
+| 104 | `cweijan.xmind-viewer` | Xmind Viewer | [cweijan](#cweijan) | [🏪](https://marketplace.visualstudio.com/items?itemName=cweijan.xmind-viewer) |
+| 105 | `d-biehl.robotcode` | RobotCode - Robot Framework Support | [d-biehl](#d-biehl) | [🏪](https://marketplace.visualstudio.com/items?itemName=d-biehl.robotcode) |
+| 106 | `d-biehl.robotcode-gherkin` | RobotCode GherkinParser Support | [d-biehl](#d-biehl) | [🏪](https://marketplace.visualstudio.com/items?itemName=d-biehl.robotcode-gherkin) |
+| 107 | `Dadroit.dadroit-json-generator` | Dadroit JSON Generator | [Dadroit](#dadroit) | [🏪](https://marketplace.visualstudio.com/items?itemName=Dadroit.dadroit-json-generator) |
+| 108 | `dafny-lang.ide-vscode` | Dafny | [dafny-lang](#dafny-lang) | [🏪](https://marketplace.visualstudio.com/items?itemName=dafny-lang.ide-vscode) |
+| 109 | `DaltonMenezes.aura-theme` | Aura Theme | [DaltonMenezes](#daltonmenezes) | [🏪](https://marketplace.visualstudio.com/items?itemName=DaltonMenezes.aura-theme) |
+| 110 | `DanielSanMedium.dscodegpt` | CodeGPT: Chat & AI Agents | [DanielSanMedium](#danielsanmedium) | [🏪](https://marketplace.visualstudio.com/items?itemName=DanielSanMedium.dscodegpt) |
+| 111 | `dannysteenman.cloudformation-yaml-snippets` | AWS CloudFormation Snippets | [dannysteenman](#dannysteenman) | [🏪](https://marketplace.visualstudio.com/items?itemName=dannysteenman.cloudformation-yaml-snippets) |
+| 112 | `Dart-Code.dart-code` | Dart | [Dart-Code](#dart-code) | [🏪](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code) |
+| 113 | `Dart-Code.flutter` | Flutter | [Dart-Code](#dart-code) | [🏪](https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter) |
+| 114 | `databricks.databricks` | Databricks | [databricks](#databricks) | [🏪](https://marketplace.visualstudio.com/items?itemName=databricks.databricks) |
+| 115 | `databricks.sqltools-databricks-driver` | Databricks Driver for SQLTools | [databricks](#databricks) | [🏪](https://marketplace.visualstudio.com/items?itemName=databricks.sqltools-databricks-driver) |
+| 116 | `Datadog.datadog-vscode` | Datadog | [Datadog](#datadog) | [🏪](https://marketplace.visualstudio.com/items?itemName=Datadog.datadog-vscode) |
+| 117 | `DavidAnson.vscode-markdownlint` | markdownlint | [DavidAnson](#davidanson) | [🏪](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) |
+| 118 | `dbaeumer.jshint` | jshint | [dbaeumer](#dbaeumer) | [🏪](https://marketplace.visualstudio.com/items?itemName=dbaeumer.jshint) |
+| 119 | `dbaeumer.vscode-eslint` | ESLint | [dbaeumer](#dbaeumer) | [🏪](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) |
+| 120 | `DBCode.dbcode` | DBCode - Database Management | [DBCode](#dbcode) | [🏪](https://marketplace.visualstudio.com/items?itemName=DBCode.dbcode) |
+| 121 | `DeepScan.vscode-deepscan` | DeepScan | [DeepScan](#deepscan) | [🏪](https://marketplace.visualstudio.com/items?itemName=DeepScan.vscode-deepscan) |
+| 122 | `denoland.vscode-deno` | Deno | [denoland](#denoland) | [🏪](https://marketplace.visualstudio.com/items?itemName=denoland.vscode-deno) |
+| 123 | `designliquido.designliquido-vscode` | Design Líquido - Linguagens em Português | [designliquido](#designliquido) | [🏪](https://marketplace.visualstudio.com/items?itemName=designliquido.designliquido-vscode) |
+| 124 | `DEVSENSE.composer-php-vscode` | Composer | [DEVSENSE](#devsense) | [🏪](https://marketplace.visualstudio.com/items?itemName=DEVSENSE.composer-php-vscode) |
+| 125 | `DEVSENSE.intelli-php-vscode` | IntelliPHP - AI Autocomplete for PHP | [DEVSENSE](#devsense) | [🏪](https://marketplace.visualstudio.com/items?itemName=DEVSENSE.intelli-php-vscode) |
+| 126 | `DEVSENSE.phptools-vscode` | PHP | [DEVSENSE](#devsense) | [🏪](https://marketplace.visualstudio.com/items?itemName=DEVSENSE.phptools-vscode) |
+| 127 | `DEVSENSE.profiler-php-vscode` | PHP Profiler | [DEVSENSE](#devsense) | [🏪](https://marketplace.visualstudio.com/items?itemName=DEVSENSE.profiler-php-vscode) |
+| 128 | `dhiwisepvtltd.dhiwisecodesync` | WiseGPT (Coding Assistant by DhiWise) | [dhiwisepvtltd](#dhiwisepvtltd) | [🏪](https://marketplace.visualstudio.com/items?itemName=dhiwisepvtltd.dhiwisecodesync) |
+| 129 | `DiemasMichiels.emulate` | Android iOS Emulator | [DiemasMichiels](#diemasmichiels) | [🏪](https://marketplace.visualstudio.com/items?itemName=DiemasMichiels.emulate) |
+| 130 | `dineug.vuerd-vscode` | ERD Editor | [dineug](#dineug) | [🏪](https://marketplace.visualstudio.com/items?itemName=dineug.vuerd-vscode) |
+| 131 | `discloud.discloud` | Discloud | [discloud](#discloud) | [🏪](https://marketplace.visualstudio.com/items?itemName=discloud.discloud) |
+| 132 | `DivyanshuAgrawal.competitive-programming-helper` | Competitive Programming Helper (cph) | [DivyanshuAgrawal](#divyanshuagrawal) | [🏪](https://marketplace.visualstudio.com/items?itemName=DivyanshuAgrawal.competitive-programming-helper) |
+| 133 | `docker.docker` | Docker DX | [docker](#docker) | [🏪](https://marketplace.visualstudio.com/items?itemName=docker.docker) |
+| 134 | `docsmsft.docs-article-templates` | learn-article-templates | [docsmsft](#docsmsft) | [🏪](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-article-templates) |
+| 135 | `docsmsft.docs-authoring-pack` | Learn Authoring Pack | [docsmsft](#docsmsft) | [🏪](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-authoring-pack) |
+| 136 | `docsmsft.docs-images` | learn-images | [docsmsft](#docsmsft) | [🏪](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-images) |
+| 137 | `docsmsft.docs-markdown` | learn-markdown | [docsmsft](#docsmsft) | [🏪](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-markdown) |
+| 138 | `docsmsft.docs-preview` | learn-preview | [docsmsft](#docsmsft) | [🏪](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-preview) |
+| 139 | `docsmsft.docs-scaffolding` | learn-scaffolding | [docsmsft](#docsmsft) | [🏪](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-scaffolding) |
+| 140 | `docsmsft.docs-yaml` | learn-yaml | [docsmsft](#docsmsft) | [🏪](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-yaml) |
+| 141 | `doggy8088.angular-extension-pack` | Angular Extension Pack | [doggy8088](#doggy8088) | [🏪](https://marketplace.visualstudio.com/items?itemName=doggy8088.angular-extension-pack) |
+| 142 | `doggy8088.go-extension-pack` | Go Extension Pack | [doggy8088](#doggy8088) | [🏪](https://marketplace.visualstudio.com/items?itemName=doggy8088.go-extension-pack) |
+| 143 | `doggy8088.netcore-editorconfiggenerator` | .NET Core EditorConfig Generator | [doggy8088](#doggy8088) | [🏪](https://marketplace.visualstudio.com/items?itemName=doggy8088.netcore-editorconfiggenerator) |
+| 144 | `doggy8088.netcore-extension-pack` | .NET Core Extension Pack | [doggy8088](#doggy8088) | [🏪](https://marketplace.visualstudio.com/items?itemName=doggy8088.netcore-extension-pack) |
+| 145 | `doggy8088.netcore-snippets` | Essential ASP.NET Core Snippets | [doggy8088](#doggy8088) | [🏪](https://marketplace.visualstudio.com/items?itemName=doggy8088.netcore-snippets) |
+| 146 | `doggy8088.quicktype-refresh` | Paste JSON as Code (Refresh) | [doggy8088](#doggy8088) | [🏪](https://marketplace.visualstudio.com/items?itemName=doggy8088.quicktype-refresh) |
+| 147 | `dracula-theme.theme-dracula` | Dracula Theme Official | [dracula-theme](#dracula-theme) | [🏪](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula) |
+| 148 | `eamodio.gitlens` | GitLens — Git supercharged | [eamodio](#eamodio) | [🏪](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) |
+| 149 | `EchoAPI.echoapi-for-vscode` | EchoAPI for VS Code | [EchoAPI](#echoapi) | [🏪](https://marketplace.visualstudio.com/items?itemName=EchoAPI.echoapi-for-vscode) |
+| 150 | `eliostruyf.spfx-debug` | SPFx Debug Configuration | [eliostruyf](#eliostruyf) | [🏪](https://marketplace.visualstudio.com/items?itemName=eliostruyf.spfx-debug) |
+| 151 | `eliostruyf.spfx-snippets` | SPFx Snippets | [eliostruyf](#eliostruyf) | [🏪](https://marketplace.visualstudio.com/items?itemName=eliostruyf.spfx-snippets) |
+| 152 | `eliostruyf.vscode-front-matter` | Front Matter CMS | [eliostruyf](#eliostruyf) | [🏪](https://marketplace.visualstudio.com/items?itemName=eliostruyf.vscode-front-matter) |
+| 153 | `eliostruyf.vscode-hide-comments` | Hide Comments | [eliostruyf](#eliostruyf) | [🏪](https://marketplace.visualstudio.com/items?itemName=eliostruyf.vscode-hide-comments) |
+| 154 | `eliostruyf.vscode-typescript-exportallmodules` | TypeScript Barrel Generator | [eliostruyf](#eliostruyf) | [🏪](https://marketplace.visualstudio.com/items?itemName=eliostruyf.vscode-typescript-exportallmodules) |
+| 155 | `EmberTooling.prettier-for-handlebars-vscode` | Prettier for Handlebars | [EmberTooling](#embertooling) | [🏪](https://marketplace.visualstudio.com/items?itemName=EmberTooling.prettier-for-handlebars-vscode) |
+| 156 | `EmberTooling.vsc-ember-cli` | Ember Cli in Visual Studio Code | [EmberTooling](#embertooling) | [🏪](https://marketplace.visualstudio.com/items?itemName=EmberTooling.vsc-ember-cli) |
+| 157 | `EmberTooling.vscode-ember` | Ember Language Server | [EmberTooling](#embertooling) | [🏪](https://marketplace.visualstudio.com/items?itemName=EmberTooling.vscode-ember) |
+| 158 | `emeraldwalk.RunOnSave` | Run on Save | [emeraldwalk](#emeraldwalk) | [🏪](https://marketplace.visualstudio.com/items?itemName=emeraldwalk.RunOnSave) |
+| 159 | `espressif.esp-idf-extension` | ESP-IDF | [espressif](#espressif) | [🏪](https://marketplace.visualstudio.com/items?itemName=espressif.esp-idf-extension) |
+| 160 | `espressif.esp-idf-web` | ESP-IDF WEB | [espressif](#espressif) | [🏪](https://marketplace.visualstudio.com/items?itemName=espressif.esp-idf-web) |
+| 161 | `expo.vscode-expo-theme` | Expo Theme | [expo](#expo) | [🏪](https://marketplace.visualstudio.com/items?itemName=expo.vscode-expo-theme) |
+| 162 | `expo.vscode-expo-tools` | Expo Tools | [expo](#expo) | [🏪](https://marketplace.visualstudio.com/items?itemName=expo.vscode-expo-tools) |
+| 163 | `fabric.vscode-fabric` | Microsoft Fabric | [fabric](#fabric) | [🏪](https://marketplace.visualstudio.com/items?itemName=fabric.vscode-fabric) |
+| 164 | `figma.figma-vscode-extension` | Figma for VS Code | [figma](#figma) | [🏪](https://marketplace.visualstudio.com/items?itemName=figma.figma-vscode-extension) |
+| 165 | `fill-labs.dependi` | Dependi | [fill-labs](#fill-labs) | [🏪](https://marketplace.visualstudio.com/items?itemName=fill-labs.dependi) |
+| 166 | `financialforce.lana` | Apex Log Analyzer | [financialforce](#financialforce) | [🏪](https://marketplace.visualstudio.com/items?itemName=financialforce.lana) |
+| 167 | `FittenTech.Fitten-Code` | Fitten Code : Faster and Better AI Assistant | [FittenTech](#fittentech) | [🏪](https://marketplace.visualstudio.com/items?itemName=FittenTech.Fitten-Code) |
+| 168 | `foam.foam-vscode` | Foam | [foam](#foam) | [🏪](https://marketplace.visualstudio.com/items?itemName=foam.foam-vscode) |
+| 169 | `Fooxly.workspace` | Workspace | [Fooxly](#fooxly) | [🏪](https://marketplace.visualstudio.com/items?itemName=Fooxly.workspace) |
+| 170 | `fortran-lang.linter-gfortran` | Modern Fortran | [fortran-lang](#fortran-lang) | [🏪](https://marketplace.visualstudio.com/items?itemName=fortran-lang.linter-gfortran) |
+| 171 | `Fr43nk.seito-openfile` | Open file | [Fr43nk](#fr43nk) | [🏪](https://marketplace.visualstudio.com/items?itemName=Fr43nk.seito-openfile) |
+| 172 | `gamunu.vscode-yarn` | yarn | [gamunu](#gamunu) | [🏪](https://marketplace.visualstudio.com/items?itemName=gamunu.vscode-yarn) |
+| 173 | `GerhardBrueckl.powerbi-vscode` | Power BI Studio | [GerhardBrueckl](#gerhardbrueckl) | [🏪](https://marketplace.visualstudio.com/items?itemName=GerhardBrueckl.powerbi-vscode) |
+| 174 | `GitHub.classroom` | GitHub Classroom | [GitHub](#github) | [🏪](https://marketplace.visualstudio.com/items?itemName=GitHub.classroom) |
+| 175 | `GitHub.codespaces` | GitHub Codespaces | [GitHub](#github) | [🏪](https://marketplace.visualstudio.com/items?itemName=GitHub.codespaces) |
+| 176 | `GitHub.copilot` | GitHub Copilot | [GitHub](#github) | [🏪](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) |
+| 177 | `GitHub.copilot-chat` | GitHub Copilot Chat | [GitHub](#github) | [🏪](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat) |
+| 178 | `GitHub.copilot-workspace` | GitHub Copilot Workspace | [GitHub](#github) | [🏪](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-workspace) |
+| 179 | `GitHub.github-vscode-theme` | GitHub Theme | [GitHub](#github) | [🏪](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme) |
+| 180 | `GitHub.remotehub` | GitHub Repositories | [GitHub](#github) | [🏪](https://marketplace.visualstudio.com/items?itemName=GitHub.remotehub) |
+| 181 | `GitHub.vscode-codeql` | CodeQL | [GitHub](#github) | [🏪](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-codeql) |
+| 182 | `GitHub.vscode-github-actions` | GitHub Actions | [GitHub](#github) | [🏪](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-github-actions) |
+| 183 | `GitHub.vscode-pull-request-github` | GitHub Pull Requests | [GitHub](#github) | [🏪](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github) |
+| 184 | `GitLab.gitlab-workflow` | GitLab Workflow | [GitLab](#gitlab) | [🏪](https://marketplace.visualstudio.com/items?itemName=GitLab.gitlab-workflow) |
+| 185 | `gitpod.gitpod-desktop` | Gitpod Classic | [gitpod](#gitpod) | [🏪](https://marketplace.visualstudio.com/items?itemName=gitpod.gitpod-desktop) |
+| 186 | `gitpod.gitpod-remote-ssh` | Gitpod Classic Remote | [gitpod](#gitpod) | [🏪](https://marketplace.visualstudio.com/items?itemName=gitpod.gitpod-remote-ssh) |
+| 187 | `gitpod.gitpod-theme` | Gitpod Theme | [gitpod](#gitpod) | [🏪](https://marketplace.visualstudio.com/items?itemName=gitpod.gitpod-theme) |
+| 188 | `GoCodeo.gocodeo` | GoCodeo: Best of Cursor and Lovable, Combined | [GoCodeo](#gocodeo) | [🏪](https://marketplace.visualstudio.com/items?itemName=GoCodeo.gocodeo) |
+| 189 | `golang.Go` | Go | [golang](#golang) | [🏪](https://marketplace.visualstudio.com/items?itemName=golang.Go) |
+| 190 | `golang.go-nightly` | Go Nightly | [golang](#golang) | [🏪](https://marketplace.visualstudio.com/items?itemName=golang.go-nightly) |
+| 191 | `Google.arb-editor` | ARB Editor | [Google](#google) | [🏪](https://marketplace.visualstudio.com/items?itemName=Google.arb-editor) |
+| 192 | `Google.colab` | Colab | [Google](#google) | [🏪](https://marketplace.visualstudio.com/items?itemName=Google.colab) |
+| 193 | `Google.gemini-cli-vscode-ide-companion` | Gemini CLI Companion | [Google](#google) | [🏪](https://marketplace.visualstudio.com/items?itemName=Google.gemini-cli-vscode-ide-companion) |
+| 194 | `Google.geminicodeassist` | Gemini Code Assist | [Google](#google) | [🏪](https://marketplace.visualstudio.com/items?itemName=Google.geminicodeassist) |
+| 195 | `GoogleCloudTools.cloudcode` | Google Cloud Code | [GoogleCloudTools](#googlecloudtools) | [🏪](https://marketplace.visualstudio.com/items?itemName=GoogleCloudTools.cloudcode) |
+| 196 | `GoogleCloudTools.firebase-dataconnect-vscode` | Firebase Data Connect | [GoogleCloudTools](#googlecloudtools) | [🏪](https://marketplace.visualstudio.com/items?itemName=GoogleCloudTools.firebase-dataconnect-vscode) |
+| 197 | `Grafana.vscode-jsonnet` | Jsonnet Language Server | [Grafana](#grafana) | [🏪](https://marketplace.visualstudio.com/items?itemName=Grafana.vscode-jsonnet) |
+| 198 | `GraphQL.vscode-graphql` | GraphQL: Language Feature Support | [GraphQL](#graphql) | [🏪](https://marketplace.visualstudio.com/items?itemName=GraphQL.vscode-graphql) |
+| 199 | `GraphQL.vscode-graphql-execution` | GraphQL: Inline Operation Execution | [GraphQL](#graphql) | [🏪](https://marketplace.visualstudio.com/items?itemName=GraphQL.vscode-graphql-execution) |
+| 200 | `GraphQL.vscode-graphql-syntax` | GraphQL: Syntax Highlighting | [GraphQL](#graphql) | [🏪](https://marketplace.visualstudio.com/items?itemName=GraphQL.vscode-graphql-syntax) |
+| 201 | `HashiCorp.HCL` | HashiCorp HCL | [HashiCorp](#hashicorp) | [🏪](https://marketplace.visualstudio.com/items?itemName=HashiCorp.HCL) |
+| 202 | `HashiCorp.sentinel` | HashiCorp Sentinel | [HashiCorp](#hashicorp) | [🏪](https://marketplace.visualstudio.com/items?itemName=HashiCorp.sentinel) |
+| 203 | `HashiCorp.terraform` | HashiCorp Terraform | [HashiCorp](#hashicorp) | [🏪](https://marketplace.visualstudio.com/items?itemName=HashiCorp.terraform) |
+| 204 | `hediet.debug-visualizer` | Debug Visualizer | [hediet](#hediet) | [🏪](https://marketplace.visualstudio.com/items?itemName=hediet.debug-visualizer) |
+| 205 | `hediet.vscode-drawio` | Draw.io Integration | [hediet](#hediet) | [🏪](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio) |
+| 206 | `hediet.vscode-drawio-insiders-build` | Draw.io Integration - Insiders Build | [hediet](#hediet) | [🏪](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio-insiders-build) |
+| 207 | `HTMLHint.vscode-htmlhint` | HTMLHint | [HTMLHint](#htmlhint) | [🏪](https://marketplace.visualstudio.com/items?itemName=HTMLHint.vscode-htmlhint) |
+| 208 | `HuggingFace.huggingface-vscode` | llm-vscode | [HuggingFace](#huggingface) | [🏪](https://marketplace.visualstudio.com/items?itemName=HuggingFace.huggingface-vscode) |
+| 209 | `iarsystems.iar-build` | IAR Build | [iarsystems](#iarsystems) | [🏪](https://marketplace.visualstudio.com/items?itemName=iarsystems.iar-build) |
+| 210 | `iarsystems.iar-debug` | IAR C-SPY Debug | [iarsystems](#iarsystems) | [🏪](https://marketplace.visualstudio.com/items?itemName=iarsystems.iar-debug) |
+| 211 | `IBM.Db2Connect` | Db2 Connect | [IBM](#ibm) | [🏪](https://marketplace.visualstudio.com/items?itemName=IBM.Db2Connect) |
+| 212 | `IBM.db2forzosdeveloperextension` | IBM Db2 for z/OS Developer Extension | [IBM](#ibm) | [🏪](https://marketplace.visualstudio.com/items?itemName=IBM.db2forzosdeveloperextension) |
+| 213 | `IBM.ibm-developer` | IBM Cloud CLI | [IBM](#ibm) | [🏪](https://marketplace.visualstudio.com/items?itemName=IBM.ibm-developer) |
+| 214 | `IBM.ibmcloud-account` | IBM Cloud Account | [IBM](#ibm) | [🏪](https://marketplace.visualstudio.com/items?itemName=IBM.ibmcloud-account) |
+| 215 | `IBM.ibmidebug` | IBM i Debug | [IBM](#ibm) | [🏪](https://marketplace.visualstudio.com/items?itemName=IBM.ibmidebug) |
+| 216 | `IBM.output-colorizer` | Output Colorizer | [IBM](#ibm) | [🏪](https://marketplace.visualstudio.com/items?itemName=IBM.output-colorizer) |
+| 217 | `IBM.vscode-clle` | CL | [IBM](#ibm) | [🏪](https://marketplace.visualstudio.com/items?itemName=IBM.vscode-clle) |
+| 218 | `IBM.wca-core` | watsonx Code Assistant | [IBM](#ibm) | [🏪](https://marketplace.visualstudio.com/items?itemName=IBM.wca-core) |
+| 219 | `IBM.XMLLanguageSupport` | [Deprecated] XML Language Support | [IBM](#ibm) | [🏪](https://marketplace.visualstudio.com/items?itemName=IBM.XMLLanguageSupport) |
+| 220 | `IBM.zopeneditor` | IBM Z Open Editor | [IBM](#ibm) | [🏪](https://marketplace.visualstudio.com/items?itemName=IBM.zopeneditor) |
+| 221 | `IDL.idl-for-vscode` | IDL for VSCode | [IDL](#idl) | [🏪](https://marketplace.visualstudio.com/items?itemName=IDL.idl-for-vscode) |
+| 222 | `imgildev.vscode-auto-barrel` | Auto Barrel for VSCode | [imgildev](#imgildev) | [🏪](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-auto-barrel) |
+| 223 | `imgildev.vscode-json-flow` | JSON Flow | [imgildev](#imgildev) | [🏪](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-json-flow) |
+| 224 | `imgildev.vscode-mustache-snippets` | Mustache Templates - Syntax Highlighting, Snippets & Autocomplete | [imgildev](#imgildev) | [🏪](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-mustache-snippets) |
+| 225 | `imgildev.vscode-nestjs-snippets-extension` | NestJS Snippets - NestJS Tools Collection | [imgildev](#imgildev) | [🏪](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-nestjs-snippets-extension) |
+| 226 | `imgildev.vscode-nextjs-generator` | T3 Stack / Next.js / React File Generator | [imgildev](#imgildev) | [🏪](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-nextjs-generator) |
+| 227 | `Infracost.infracost` | Infracost | [Infracost](#infracost) | [🏪](https://marketplace.visualstudio.com/items?itemName=Infracost.infracost) |
+| 228 | `innoverio.vscode-dbt-power-user` | Power User for dbt | [innoverio](#innoverio) | [🏪](https://marketplace.visualstudio.com/items?itemName=innoverio.vscode-dbt-power-user) |
+| 229 | `intersystems.language-server` | InterSystems Language Server | [intersystems](#intersystems) | [🏪](https://marketplace.visualstudio.com/items?itemName=intersystems.language-server) |
+| 230 | `ionic.ionic` | Ionic | [ionic](#ionic) | [🏪](https://marketplace.visualstudio.com/items?itemName=ionic.ionic) |
+| 231 | `Iterative.dvc` | DVC | [Iterative](#iterative) | [🏪](https://marketplace.visualstudio.com/items?itemName=Iterative.dvc) |
+| 232 | `iulian-radu-at.find-unused-exports` | Find unused exports | [iulian-radu-at](#iulian-radu-at) | [🏪](https://marketplace.visualstudio.com/items?itemName=iulian-radu-at.find-unused-exports) |
+| 233 | `julialang.language-julia` | Julia | [julialang](#julialang) | [🏪](https://marketplace.visualstudio.com/items?itemName=julialang.language-julia) |
+| 234 | `KendoUI.kendotemplatewizard` | Kendo UI Productivity Tools | [KendoUI](#kendoui) | [🏪](https://marketplace.visualstudio.com/items?itemName=KendoUI.kendotemplatewizard) |
+| 235 | `Keploy.keployio` | Keploy: AI Testing Assistant for Developers – Supercharge Unit, Integration, and API Testing in Python, JavaScript, TypeScript, Java, PHP, Go, and More | [Keploy](#keploy) | [🏪](https://marketplace.visualstudio.com/items?itemName=Keploy.keployio) |
+| 236 | `kilocode.Kilo-Code` | Kilo Code AI Agent | [kilocode](#kilocode) | [🏪](https://marketplace.visualstudio.com/items?itemName=kilocode.Kilo-Code) |
+| 237 | `Kimseungtae.aicodehelper` | AICodeHelper | [Kimseungtae](#kimseungtae) | [🏪](https://marketplace.visualstudio.com/items?itemName=Kimseungtae.aicodehelper) |
+| 238 | `kodezi.kodezi` | Kodezi AI, (Autocorrect & More) - for Python, JavaScript, TypeScript, C++, PHP, Java, C#, Ruby & more | [kodezi](#kodezi) | [🏪](https://marketplace.visualstudio.com/items?itemName=kodezi.kodezi) |
+| 239 | `laravel.vscode-laravel` | Laravel | [laravel](#laravel) | [🏪](https://marketplace.visualstudio.com/items?itemName=laravel.vscode-laravel) |
+| 240 | `lextudio.iis` | IIS and IIS Express extension for Visual Studio Code | [lextudio](#lextudio) | [🏪](https://marketplace.visualstudio.com/items?itemName=lextudio.iis) |
+| 241 | `lextudio.restructuredtext` | reStructuredText | [lextudio](#lextudio) | [🏪](https://marketplace.visualstudio.com/items?itemName=lextudio.restructuredtext) |
+| 242 | `lextudio.restructuredtext-pack` | Extension Pack for reStructuredText | [lextudio](#lextudio) | [🏪](https://marketplace.visualstudio.com/items?itemName=lextudio.restructuredtext-pack) |
+| 243 | `Lightrun.lightrunplugin-saas` | Lightrun | [Lightrun](#lightrun) | [🏪](https://marketplace.visualstudio.com/items?itemName=Lightrun.lightrunplugin-saas) |
+| 244 | `llvm-vs-code-extensions.lldb-dap` | LLDB DAP | [llvm-vs-code-extensions](#llvm-vs-code-extensions) | [🏪](https://marketplace.visualstudio.com/items?itemName=llvm-vs-code-extensions.lldb-dap) |
+| 245 | `llvm-vs-code-extensions.vscode-clangd` | clangd | [llvm-vs-code-extensions](#llvm-vs-code-extensions) | [🏪](https://marketplace.visualstudio.com/items?itemName=llvm-vs-code-extensions.vscode-clangd) |
+| 246 | `llvm-vs-code-extensions.vscode-mlir` | MLIR | [llvm-vs-code-extensions](#llvm-vs-code-extensions) | [🏪](https://marketplace.visualstudio.com/items?itemName=llvm-vs-code-extensions.vscode-mlir) |
+| 247 | `loiane.angular-extension-pack` | Angular Extension Pack | [loiane](#loiane) | [🏪](https://marketplace.visualstudio.com/items?itemName=loiane.angular-extension-pack) |
+| 248 | `loiane.frontend-extension-pack` | Front-End Extension Pack | [loiane](#loiane) | [🏪](https://marketplace.visualstudio.com/items?itemName=loiane.frontend-extension-pack) |
+| 249 | `loiane.java-spring-extension-pack` | Extension Pack for Java + Spring | [loiane](#loiane) | [🏪](https://marketplace.visualstudio.com/items?itemName=loiane.java-spring-extension-pack) |
+| 250 | `loiane.ts-extension-pack` | TypeScript Extension Pack | [loiane](#loiane) | [🏪](https://marketplace.visualstudio.com/items?itemName=loiane.ts-extension-pack) |
+| 251 | `marabesi.php-import-checker` | PHP import checker | [marabesi](#marabesi) | [🏪](https://marketplace.visualstudio.com/items?itemName=marabesi.php-import-checker) |
+| 252 | `marimo-team.vscode-marimo` | marimo | [marimo-team](#marimo-team) | [🏪](https://marketplace.visualstudio.com/items?itemName=marimo-team.vscode-marimo) |
+| 253 | `marp-team.marp-vscode` | Marp for VS Code | [marp-team](#marp-team) | [🏪](https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode) |
+| 254 | `MarsCode.marscode-extension` | TRAE AI (formerly MarsCode): Coding Assistant | [MarsCode](#marscode) | [🏪](https://marketplace.visualstudio.com/items?itemName=MarsCode.marscode-extension) |
+| 255 | `MathWorks.language-matlab` | MATLAB | [MathWorks](#mathworks) | [🏪](https://marketplace.visualstudio.com/items?itemName=MathWorks.language-matlab) |
+| 256 | `MermaidChart.vscode-mermaid-chart` | Mermaid Chart | [MermaidChart](#mermaidchart) | [🏪](https://marketplace.visualstudio.com/items?itemName=MermaidChart.vscode-mermaid-chart) |
+| 257 | `MeshIntelligentTechnologiesInc.pieces-vscode` | Pieces for VS Code | [MeshIntelligentTechnologiesInc](#meshintelligenttechnologiesinc) | [🏪](https://marketplace.visualstudio.com/items?itemName=MeshIntelligentTechnologiesInc.pieces-vscode) |
+| 258 | `meta.relay` | Relay GraphQL | [meta](#meta) | [🏪](https://marketplace.visualstudio.com/items?itemName=meta.relay) |
+| 259 | `Metabob.metabob` | Metabob: Debug and Refactor with AI | [Metabob](#metabob) | [🏪](https://marketplace.visualstudio.com/items?itemName=Metabob.metabob) |
+| 260 | `microsoft-IsvExpTools.powerplatform-vscode` | Power Platform Tools | [microsoft-IsvExpTools](#microsoft-isvexptools) | [🏪](https://marketplace.visualstudio.com/items?itemName=microsoft-IsvExpTools.powerplatform-vscode) |
+| 261 | `million.million-lint` | Million Lint | [million](#million) | [🏪](https://marketplace.visualstudio.com/items?itemName=million.million-lint) |
+| 262 | `mindaro-dev.file-downloader` | File Downloader | [mindaro-dev](#mindaro-dev) | [🏪](https://marketplace.visualstudio.com/items?itemName=mindaro-dev.file-downloader) |
+| 263 | `mindaro.mindaro` | Bridge to Kubernetes | [mindaro](#mindaro) | [🏪](https://marketplace.visualstudio.com/items?itemName=mindaro.mindaro) |
+| 264 | `modular-mojotools.vscode-mojo` | Mojo 🔥 | [modular-mojotools](#modular-mojotools) | [🏪](https://marketplace.visualstudio.com/items?itemName=modular-mojotools.vscode-mojo) |
+| 265 | `mojang-studios.minecraft-debugger` | Minecraft Bedrock Debugger | [mojang-studios](#mojang-studios) | [🏪](https://marketplace.visualstudio.com/items?itemName=mojang-studios.minecraft-debugger) |
+| 266 | `mongodb.mongodb-vscode` | MongoDB for VS Code | [mongodb](#mongodb) | [🏪](https://marketplace.visualstudio.com/items?itemName=mongodb.mongodb-vscode) |
+| 267 | `monokai.theme-monokai-pro-vscode` | Monokai Pro | [monokai](#monokai) | [🏪](https://marketplace.visualstudio.com/items?itemName=monokai.theme-monokai-pro-vscode) |
+| 268 | `ms-azure-devops.azure-pipelines` | Azure Pipelines | [ms-azure-devops](#ms-azure-devops) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-azure-devops.azure-pipelines) |
+| 269 | `ms-azure-load-testing.microsoft-testing` | Azure Load Testing | [ms-azure-load-testing](#ms-azure-load-testing) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-azure-load-testing.microsoft-testing) |
+| 270 | `ms-azurecache.vscode-azurecache` | Azure Cache | [ms-azurecache](#ms-azurecache) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-azurecache.vscode-azurecache) |
+| 271 | `ms-azuretools.azure-dev` | Azure Developer CLI | [ms-azuretools](#ms-azuretools) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.azure-dev) |
+| 272 | `ms-azuretools.vscode-apimanagement` | Azure API Management | [ms-azuretools](#ms-azuretools) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-apimanagement) |
+| 273 | `ms-azuretools.vscode-azure-github-copilot` | GitHub Copilot for Azure | [ms-azuretools](#ms-azuretools) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azure-github-copilot) |
+| 274 | `ms-azuretools.vscode-azure-mcp-server` | Azure MCP Server | [ms-azuretools](#ms-azuretools) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azure-mcp-server) |
+| 275 | `ms-azuretools.vscode-azureappservice` | Azure App Service | [ms-azuretools](#ms-azuretools) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureappservice) |
+| 276 | `ms-azuretools.vscode-azurecontainerapps` | Azure Container Apps | [ms-azuretools](#ms-azuretools) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurecontainerapps) |
+| 277 | `ms-azuretools.vscode-azureeventgrid` | Azure Event Grid | [ms-azuretools](#ms-azuretools) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureeventgrid) |
+| 278 | `ms-azuretools.vscode-azurefunctions` | Azure Functions | [ms-azuretools](#ms-azuretools) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions) |
+| 279 | `ms-azuretools.vscode-azurelogicapps` | Azure Logic Apps (Standard) | [ms-azuretools](#ms-azuretools) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurelogicapps) |
+| 280 | `ms-azuretools.vscode-azureresourcegroups` | Azure Resources | [ms-azuretools](#ms-azuretools) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureresourcegroups) |
+| 281 | `ms-azuretools.vscode-azurestaticwebapps` | Azure Static Web Apps | [ms-azuretools](#ms-azuretools) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurestaticwebapps) |
+| 282 | `ms-azuretools.vscode-azurestorage` | Azure Storage | [ms-azuretools](#ms-azuretools) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurestorage) |
+| 283 | `ms-azuretools.vscode-azureterraform` | Microsoft Terraform | [ms-azuretools](#ms-azuretools) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureterraform) |
+| 284 | `ms-azuretools.vscode-azurevirtualmachines` | Azure Virtual Machines | [ms-azuretools](#ms-azuretools) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurevirtualmachines) |
+| 285 | `ms-azuretools.vscode-bicep` | Bicep | [ms-azuretools](#ms-azuretools) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-bicep) |
+| 286 | `ms-azuretools.vscode-containers` | Container Tools | [ms-azuretools](#ms-azuretools) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-containers) |
+| 287 | `ms-azuretools.vscode-cosmosdb` | Azure Cosmos DB | [ms-azuretools](#ms-azuretools) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-cosmosdb) |
+| 288 | `ms-azuretools.vscode-dapr` | Dapr | [ms-azuretools](#ms-azuretools) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-dapr) |
+| 289 | `ms-azuretools.vscode-dev-azurecloudshell-helper` | vscode-dev-azurecloudshell-helper | [ms-azuretools](#ms-azuretools) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-dev-azurecloudshell-helper) |
+| 290 | `ms-azuretools.vscode-docker` | Docker | [ms-azuretools](#ms-azuretools) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) |
+| 291 | `ms-azuretools.vscode-logicapps` | Azure Logic Apps (Consumption) | [ms-azuretools](#ms-azuretools) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-logicapps) |
+| 292 | `ms-bigdatatools.vscode-asa` | Azure Stream Analytics Tools | [ms-bigdatatools](#ms-bigdatatools) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-bigdatatools.vscode-asa) |
+| 293 | `MS-CEINTL.vscode-language-pack-bg` | Bulgarian Language Pack for Visual Studio Code | [MS-CEINTL](#ms-ceintl) | [🏪](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-bg) |
+| 294 | `MS-CEINTL.vscode-language-pack-cs` | Czech Language Pack for Visual Studio Code | [MS-CEINTL](#ms-ceintl) | [🏪](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-cs) |
+| 295 | `MS-CEINTL.vscode-language-pack-de` | German Language Pack for Visual Studio Code | [MS-CEINTL](#ms-ceintl) | [🏪](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-de) |
+| 296 | `MS-CEINTL.vscode-language-pack-es` | Spanish Language Pack for Visual Studio Code | [MS-CEINTL](#ms-ceintl) | [🏪](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-es) |
+| 297 | `MS-CEINTL.vscode-language-pack-fr` | French Language Pack for Visual Studio Code | [MS-CEINTL](#ms-ceintl) | [🏪](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-fr) |
+| 298 | `MS-CEINTL.vscode-language-pack-hu` | Hungarian Language Pack for Visual Studio Code | [MS-CEINTL](#ms-ceintl) | [🏪](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-hu) |
+| 299 | `MS-CEINTL.vscode-language-pack-it` | Italian Language Pack for Visual Studio Code | [MS-CEINTL](#ms-ceintl) | [🏪](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-it) |
+| 300 | `MS-CEINTL.vscode-language-pack-ja` | Japanese Language Pack for Visual Studio Code | [MS-CEINTL](#ms-ceintl) | [🏪](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-ja) |
+| 301 | `MS-CEINTL.vscode-language-pack-ko` | Korean Language Pack for Visual Studio Code | [MS-CEINTL](#ms-ceintl) | [🏪](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-ko) |
+| 302 | `MS-CEINTL.vscode-language-pack-pl` | Polish Language Pack for Visual Studio Code | [MS-CEINTL](#ms-ceintl) | [🏪](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-pl) |
+| 303 | `MS-CEINTL.vscode-language-pack-pt-BR` | Portuguese (Brazil) Language Pack for Visual Studio Code | [MS-CEINTL](#ms-ceintl) | [🏪](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-pt-BR) |
+| 304 | `MS-CEINTL.vscode-language-pack-qps-ploc` | Pseudo Language Language Pack | [MS-CEINTL](#ms-ceintl) | [🏪](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-qps-ploc) |
+| 305 | `MS-CEINTL.vscode-language-pack-ru` | Russian Language Pack for Visual Studio Code | [MS-CEINTL](#ms-ceintl) | [🏪](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-ru) |
+| 306 | `MS-CEINTL.vscode-language-pack-tr` | Turkish Language Pack for Visual Studio Code | [MS-CEINTL](#ms-ceintl) | [🏪](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-tr) |
+| 307 | `MS-CEINTL.vscode-language-pack-zh-hans` | Chinese (Simplified) (简体中文) Language Pack for Visual Studio Code | [MS-CEINTL](#ms-ceintl) | [🏪](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-zh-hans) |
+| 308 | `MS-CEINTL.vscode-language-pack-zh-hant` | Chinese (Traditional) Language Pack for Visual Studio Code | [MS-CEINTL](#ms-ceintl) | [🏪](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-zh-hant) |
+| 309 | `ms-codespaces-tools.ado-codespaces-auth` | Azure Devops Codespaces Authentication | [ms-codespaces-tools](#ms-codespaces-tools) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-codespaces-tools.ado-codespaces-auth) |
+| 310 | `MS-CST-E.vscode-devskim` | DevSkim | [MS-CST-E](#ms-cst-e) | [🏪](https://marketplace.visualstudio.com/items?itemName=MS-CST-E.vscode-devskim) |
+| 311 | `ms-dotnettools.blazorwasm-companion` | Microsoft.AspNetCore.Razor.VSCode.BlazorWasmDebuggingExtension | [ms-dotnettools](#ms-dotnettools) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.blazorwasm-companion) |
+| 312 | `ms-dotnettools.csdevkit` | C# Dev Kit | [ms-dotnettools](#ms-dotnettools) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit) |
+| 313 | `ms-dotnettools.csharp` | C# | [ms-dotnettools](#ms-dotnettools) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp) |
+| 314 | `ms-dotnettools.dotnet-interactive-vscode` | Polyglot Notebooks | [ms-dotnettools](#ms-dotnettools) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.dotnet-interactive-vscode) |
+| 315 | `ms-dotnettools.dotnet-maui` | .NET MAUI | [ms-dotnettools](#ms-dotnettools) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.dotnet-maui) |
+| 316 | `ms-dotnettools.vscode-dotnet-pack` | .NET Extension Pack | [ms-dotnettools](#ms-dotnettools) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscode-dotnet-pack) |
+| 317 | `ms-dotnettools.vscode-dotnet-runtime` | .NET Install Tool | [ms-dotnettools](#ms-dotnettools) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscode-dotnet-runtime) |
+| 318 | `ms-dotnettools.vscodeintellicode-csharp` | IntelliCode for C# Dev Kit | [ms-dotnettools](#ms-dotnettools) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscodeintellicode-csharp) |
+| 319 | `ms-dynamics-smb.al` | AL Language extension for Microsoft Dynamics 365 Business Central | [ms-dynamics-smb](#ms-dynamics-smb) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-dynamics-smb.al) |
+| 320 | `ms-edgedevtools.vscode-edge-devtools` | Microsoft Edge Tools for VS Code | [ms-edgedevtools](#ms-edgedevtools) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-edgedevtools.vscode-edge-devtools) |
+| 321 | `ms-inkling.ms-inkling` | Inkling | [ms-inkling](#ms-inkling) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-inkling.ms-inkling) |
+| 322 | `ms-iot.vscode-ros` | ROS | [ms-iot](#ms-iot) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-iot.vscode-ros) |
+| 323 | `ms-kubernetes-tools.kind-vscode` | Kubernetes Kind | [ms-kubernetes-tools](#ms-kubernetes-tools) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.kind-vscode) |
+| 324 | `ms-kubernetes-tools.vscode-aks-tools` | Azure Kubernetes Service | [ms-kubernetes-tools](#ms-kubernetes-tools) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.vscode-aks-tools) |
+| 325 | `ms-kubernetes-tools.vscode-kubernetes-tools` | Kubernetes | [ms-kubernetes-tools](#ms-kubernetes-tools) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.vscode-kubernetes-tools) |
+| 326 | `ms-mssql.data-workspace-vscode` | Data Workspace | [ms-mssql](#ms-mssql) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-mssql.data-workspace-vscode) |
+| 327 | `ms-mssql.mssql` | SQL Server (mssql) | [ms-mssql](#ms-mssql) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql) |
+| 328 | `ms-mssql.sql-bindings-vscode` | SQL Bindings | [ms-mssql](#ms-mssql) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-mssql.sql-bindings-vscode) |
+| 329 | `ms-mssql.sql-database-projects-vscode` | SQL Database Projects | [ms-mssql](#ms-mssql) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-mssql.sql-database-projects-vscode) |
+| 330 | `ms-mssql.sqlops-debug` | Azure Data Studio Debug | [ms-mssql](#ms-mssql) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-mssql.sqlops-debug) |
+| 331 | `ms-ossdata.vscode-pgsql` | PostgreSQL | [ms-ossdata](#ms-ossdata) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-ossdata.vscode-pgsql) |
+| 332 | `ms-playwright.playwright` | Playwright Test for VSCode | [ms-playwright](#ms-playwright) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-playwright.playwright) |
+| 333 | `ms-pyright.pyright` | Pyright | [ms-pyright](#ms-pyright) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-pyright.pyright) |
+| 334 | `ms-python.autopep8` | autopep8 | [ms-python](#ms-python) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-python.autopep8) |
+| 335 | `ms-python.black-formatter` | Black Formatter | [ms-python](#ms-python) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-python.black-formatter) |
+| 336 | `ms-python.debugpy` | Python Debugger | [ms-python](#ms-python) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy) |
+| 337 | `ms-python.flake8` | Flake8 | [ms-python](#ms-python) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-python.flake8) |
+| 338 | `ms-python.gather` | Gather | [ms-python](#ms-python) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-python.gather) |
+| 339 | `ms-python.isort` | isort | [ms-python](#ms-python) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-python.isort) |
+| 340 | `ms-python.mypy-type-checker` | Mypy Type Checker | [ms-python](#ms-python) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-python.mypy-type-checker) |
+| 341 | `ms-python.pylint` | Pylint | [ms-python](#ms-python) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-python.pylint) |
+| 342 | `ms-python.python` | Python | [ms-python](#ms-python) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-python.python) |
+| 343 | `ms-python.vscode-pylance` | Pylance | [ms-python](#ms-python) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance) |
+| 344 | `ms-python.vscode-python-envs` | Python Environments | [ms-python](#ms-python) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-python-envs) |
+| 345 | `MS-SarifVSCode.sarif-viewer` | SARIF Viewer | [MS-SarifVSCode](#ms-sarifvscode) | [🏪](https://marketplace.visualstudio.com/items?itemName=MS-SarifVSCode.sarif-viewer) |
+| 346 | `ms-semantic-kernel.semantic-kernel` | Semantic Kernel Tools | [ms-semantic-kernel](#ms-semantic-kernel) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-semantic-kernel.semantic-kernel) |
+| 347 | `ms-ssdevteam.scope-vscode-ext` | SCOPE Studio for VS Code | [ms-ssdevteam](#ms-ssdevteam) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-ssdevteam.scope-vscode-ext) |
+| 348 | `ms-toolsai.datawrangler` | Data Wrangler | [ms-toolsai](#ms-toolsai) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.datawrangler) |
+| 349 | `ms-toolsai.jupyter` | Jupyter | [ms-toolsai](#ms-toolsai) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter) |
+| 350 | `ms-toolsai.jupyter-hub` | JupyterHub | [ms-toolsai](#ms-toolsai) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter-hub) |
+| 351 | `ms-toolsai.jupyter-keymap` | Jupyter Keymap | [ms-toolsai](#ms-toolsai) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter-keymap) |
+| 352 | `ms-toolsai.jupyter-renderers` | Jupyter Notebook Renderers | [ms-toolsai](#ms-toolsai) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter-renderers) |
+| 353 | `ms-toolsai.prompty` | Prompty | [ms-toolsai](#ms-toolsai) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.prompty) |
+| 354 | `ms-toolsai.python-ds-extension-pack` | Python Data Science | [ms-toolsai](#ms-toolsai) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.python-ds-extension-pack) |
+| 355 | `ms-toolsai.tensorboard` | Tensorboard | [ms-toolsai](#ms-toolsai) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.tensorboard) |
+| 356 | `ms-toolsai.vscode-ai` | Azure Machine Learning | [ms-toolsai](#ms-toolsai) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.vscode-ai) |
+| 357 | `ms-toolsai.vscode-ai-remote` | Azure Machine Learning - Remote | [ms-toolsai](#ms-toolsai) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.vscode-ai-remote) |
+| 358 | `ms-toolsai.vscode-jupyter-cell-tags` | Jupyter Cell Tags | [ms-toolsai](#ms-toolsai) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.vscode-jupyter-cell-tags) |
+| 359 | `ms-toolsai.vscode-jupyter-powertoys` | Jupyter PowerToys | [ms-toolsai](#ms-toolsai) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.vscode-jupyter-powertoys) |
+| 360 | `ms-toolsai.vscode-jupyter-slideshow` | Jupyter Slide Show | [ms-toolsai](#ms-toolsai) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.vscode-jupyter-slideshow) |
+| 361 | `ms-vscode-remote.remote-containers` | Dev Containers | [ms-vscode-remote](#ms-vscode-remote) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) |
+| 362 | `ms-vscode-remote.remote-ssh` | Remote - SSH | [ms-vscode-remote](#ms-vscode-remote) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh) |
+| 363 | `ms-vscode-remote.remote-ssh-edit` | Remote - SSH: Editing Configuration Files | [ms-vscode-remote](#ms-vscode-remote) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh-edit) |
+| 364 | `ms-vscode-remote.remote-wsl` | WSL | [ms-vscode-remote](#ms-vscode-remote) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl) |
+| 365 | `ms-vscode-remote.remote-wsl-recommender` | WSL: Recommender | [ms-vscode-remote](#ms-vscode-remote) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl-recommender) |
+| 366 | `ms-vscode-remote.vscode-remote-extensionpack` | Remote Development | [ms-vscode-remote](#ms-vscode-remote) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack) |
+| 367 | `ms-vscode.anycode` | anycode | [ms-vscode](#ms-vscode) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-vscode.anycode) |
+| 368 | `ms-vscode.anycode-c-sharp` | anycode-c-sharp | [ms-vscode](#ms-vscode) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-vscode.anycode-c-sharp) |
+| 369 | `ms-vscode.anycode-cpp` | anycode-cpp | [ms-vscode](#ms-vscode) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-vscode.anycode-cpp) |
+| 370 | `ms-vscode.anycode-go` | anycode-go | [ms-vscode](#ms-vscode) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-vscode.anycode-go) |
+| 371 | `ms-vscode.anycode-java` | anycode-java | [ms-vscode](#ms-vscode) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-vscode.anycode-java) |
+| 372 | `ms-vscode.anycode-kotlin` | anycode-kotlin | [ms-vscode](#ms-vscode) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-vscode.anycode-kotlin) |
+| 373 | `ms-vscode.anycode-php` | anycode-php | [ms-vscode](#ms-vscode) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-vscode.anycode-php) |
+| 374 | `ms-vscode.anycode-python` | anycode-python | [ms-vscode](#ms-vscode) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-vscode.anycode-python) |
+| 375 | `ms-vscode.anycode-rust` | anycode-rust | [ms-vscode](#ms-vscode) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-vscode.anycode-rust) |
+| 376 | `ms-vscode.anycode-typescript` | anycode-typescript | [ms-vscode](#ms-vscode) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-vscode.anycode-typescript) |
+| 377 | `ms-vscode.atom-keybindings` | Atom Keymap | [ms-vscode](#ms-vscode) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-vscode.atom-keybindings) |
+| 378 | `ms-vscode.azure-account` | Azure Account | [ms-vscode](#ms-vscode) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-vscode.azure-account) |
+| 379 | `ms-vscode.azure-repos` | Azure Repos | [ms-vscode](#ms-vscode) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-vscode.azure-repos) |
+| 380 | `ms-vscode.azurecli` | Azure CLI Tools | [ms-vscode](#ms-vscode) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-vscode.azurecli) |
+| 381 | `ms-vscode.brackets-keybindings` | Brackets Keymap | [ms-vscode](#ms-vscode) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-vscode.brackets-keybindings) |
+| 382 | `ms-vscode.brackets-pack` | Brackets Extension Pack | [ms-vscode](#ms-vscode) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-vscode.brackets-pack) |
+| 383 | `ms-vscode.cmake-tools` | CMake Tools | [ms-vscode](#ms-vscode) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cmake-tools) |
+| 384 | `ms-vscode.copilot-mermaid-diagram` | vscode-mermAId | [ms-vscode](#ms-vscode) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-vscode.copilot-mermaid-diagram) |
+| 385 | `ms-vscode.cpptools` | C/C++ | [ms-vscode](#ms-vscode) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools) |
+| 386 | `ms-vscode.cpptools-extension-pack` | C/C++ Extension Pack | [ms-vscode](#ms-vscode) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools-extension-pack) |
+| 387 | `ms-vscode.cpptools-themes` | C/C++ Themes | [ms-vscode](#ms-vscode) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools-themes) |
+| 388 | `ms-vscode.debug-value-editor` | JS Debug Value Editor (Experimental) | [ms-vscode](#ms-vscode) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-vscode.debug-value-editor) |
+| 389 | `ms-vscode.extension-activator` | extension-activator | [ms-vscode](#ms-vscode) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-vscode.extension-activator) |
+| 390 | `ms-vscode.extension-test-runner` | Extension Test Runner | [ms-vscode](#ms-vscode) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-vscode.extension-test-runner) |
+| 391 | `ms-vscode.hexeditor` | Hex Editor | [ms-vscode](#ms-vscode) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-vscode.hexeditor) |
+| 392 | `ms-vscode.js-atom-grammar` | JavaScript Atom Grammar | [ms-vscode](#ms-vscode) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-vscode.js-atom-grammar) |
+| 393 | `ms-vscode.js-debug` | JavaScript Debugger | [ms-vscode](#ms-vscode) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-vscode.js-debug) |
+| 394 | `ms-vscode.js-debug-companion` | JavaScript Debugger Companion Extension | [ms-vscode](#ms-vscode) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-vscode.js-debug-companion) |
+| 395 | `ms-vscode.js-debug-nightly` | JavaScript Debugger (Nightly) | [ms-vscode](#ms-vscode) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-vscode.js-debug-nightly) |
+| 396 | `ms-vscode.latex` | [DEPRECATED] LaTeX Language Support | [ms-vscode](#ms-vscode) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-vscode.latex) |
+| 397 | `ms-vscode.live-server` | Live Preview | [ms-vscode](#ms-vscode) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server) |
+| 398 | `ms-vscode.makefile-tools` | Makefile Tools | [ms-vscode](#ms-vscode) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-vscode.makefile-tools) |
+| 399 | `ms-vscode.mono-debug` | Mono Debug | [ms-vscode](#ms-vscode) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-vscode.mono-debug) |
+| 400 | `ms-vscode.node-debug` | [Deprecated] Node Debug (legacy) | [ms-vscode](#ms-vscode) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-vscode.node-debug) |
+| 401 | `ms-vscode.node-debug2` | [Deprecated] Node Debug | [ms-vscode](#ms-vscode) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-vscode.node-debug2) |
+| 402 | `ms-vscode.notepadplusplus-keybindings` | Notepad++ keymap | [ms-vscode](#ms-vscode) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-vscode.notepadplusplus-keybindings) |
+| 403 | `ms-vscode.PowerShell` | PowerShell | [ms-vscode](#ms-vscode) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell) |
+| 404 | `ms-vscode.remote-explorer` | Remote Explorer | [ms-vscode](#ms-vscode) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-vscode.remote-explorer) |
+| 405 | `ms-vscode.remote-repositories` | Remote Repositories | [ms-vscode](#ms-vscode) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-vscode.remote-repositories) |
+| 406 | `ms-vscode.remote-server` | Remote - Tunnels | [ms-vscode](#ms-vscode) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-vscode.remote-server) |
+| 407 | `ms-vscode.resharper9-keybindings` | Resharper 9 Keybindings | [ms-vscode](#ms-vscode) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-vscode.resharper9-keybindings) |
+| 408 | `ms-vscode.sublime-keybindings` | Sublime Text Keymap and Settings Importer | [ms-vscode](#ms-vscode) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-vscode.sublime-keybindings) |
+| 409 | `ms-vscode.test-adapter-converter` | Test Adapter Converter | [ms-vscode](#ms-vscode) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-vscode.test-adapter-converter) |
+| 410 | `ms-vscode.Theme-1337` | 1337 Theme | [ms-vscode](#ms-vscode) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-vscode.Theme-1337) |
+| 411 | `ms-vscode.Theme-MarkdownKit` | Markdown Theme Kit | [ms-vscode](#ms-vscode) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-vscode.Theme-MarkdownKit) |
+| 412 | `ms-vscode.Theme-MaterialKit` | Material Theme Kit | [ms-vscode](#ms-vscode) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-vscode.Theme-MaterialKit) |
+| 413 | `ms-vscode.Theme-PredawnKit` | Predawn Theme Kit | [ms-vscode](#ms-vscode) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-vscode.Theme-PredawnKit) |
+| 414 | `ms-vscode.Theme-TomorrowKit` | Tomorrow and Tomorrow Night Theme Kit | [ms-vscode](#ms-vscode) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-vscode.Theme-TomorrowKit) |
+| 415 | `ms-vscode.vs-keybindings` | Visual Studio Keymap | [ms-vscode](#ms-vscode) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vs-keybindings) |
+| 416 | `ms-vscode.vscode-copilot-data-analysis` | Data Analysis for Copilot | [ms-vscode](#ms-vscode) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-copilot-data-analysis) |
+| 417 | `ms-vscode.vscode-copilot-vision` | Vision for Copilot Preview | [ms-vscode](#ms-vscode) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-copilot-vision) |
+| 418 | `ms-vscode.vscode-embedded-tools` | Embedded Tools | [ms-vscode](#ms-vscode) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-embedded-tools) |
+| 419 | `ms-vscode.vscode-github-issue-notebooks` | GitHub Issue Notebooks | [ms-vscode](#ms-vscode) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-github-issue-notebooks) |
+| 420 | `ms-vscode.vscode-js-profile-flame` | Flame Chart Visualizer for JavaScript Profiles | [ms-vscode](#ms-vscode) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-js-profile-flame) |
+| 421 | `ms-vscode.vscode-markdown-notebook` | Markdown Notebook | [ms-vscode](#ms-vscode) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-markdown-notebook) |
+| 422 | `ms-vscode.vscode-node-azure-pack` | Azure Tools | [ms-vscode](#ms-vscode) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-node-azure-pack) |
+| 423 | `ms-vscode.vscode-serial-monitor` | Serial Monitor | [ms-vscode](#ms-vscode) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-serial-monitor) |
+| 424 | `ms-vscode.vscode-smoketest-check` | vscode-smoketest-check | [ms-vscode](#ms-vscode) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-smoketest-check) |
+| 425 | `ms-vscode.vscode-speech` | VS Code Speech | [ms-vscode](#ms-vscode) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-speech) |
+| 426 | `ms-vscode.vscode-speech-language-pack-zh-cn` | Chinese (Simplified, China) language support for VS Code Speech | [ms-vscode](#ms-vscode) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-speech-language-pack-zh-cn) |
+| 427 | `ms-vscode.vscode-typescript-next` | JavaScript and TypeScript Nightly | [ms-vscode](#ms-vscode) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next) |
+| 428 | `ms-vscode.vscode-typescript-tslint-plugin` | TSLint | [ms-vscode](#ms-vscode) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin) |
+| 429 | `ms-vscode.vscode-websearchforcopilot` | Web Search for Copilot | [ms-vscode](#ms-vscode) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-websearchforcopilot) |
+| 430 | `ms-vscode.wordcount` | Word Count | [ms-vscode](#ms-vscode) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-vscode.wordcount) |
+| 431 | `MS-vsliveshare.vsliveshare` | Live Share | [MS-vsliveshare](#ms-vsliveshare) | [🏪](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) |
+| 432 | `MS-vsliveshare.vsliveshare-audio` | [Deprecated] Live Share Audio | [MS-vsliveshare](#ms-vsliveshare) | [🏪](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-audio) |
+| 433 | `ms-windows-ai-studio.windows-ai-studio` | AI Toolkit for Visual Studio Code | [ms-windows-ai-studio](#ms-windows-ai-studio) | [🏪](https://marketplace.visualstudio.com/items?itemName=ms-windows-ai-studio.windows-ai-studio) |
+| 434 | `msazurermtools.azurerm-vscode-tools` | Azure Resource Manager (ARM) Tools | [msazurermtools](#msazurermtools) | [🏪](https://marketplace.visualstudio.com/items?itemName=msazurermtools.azurerm-vscode-tools) |
+| 435 | `msedge-dev.gnls` | GN Language Server | [msedge-dev](#msedge-dev) | [🏪](https://marketplace.visualstudio.com/items?itemName=msedge-dev.gnls) |
+| 436 | `mshdinsight.azure-hdinsight` | Spark & Hive Tools | [mshdinsight](#mshdinsight) | [🏪](https://marketplace.visualstudio.com/items?itemName=mshdinsight.azure-hdinsight) |
+| 437 | `msjsdiag.cordova-tools` | Cordova Tools | [msjsdiag](#msjsdiag) | [🏪](https://marketplace.visualstudio.com/items?itemName=msjsdiag.cordova-tools) |
+| 438 | `msjsdiag.debugger-for-chrome` | [Deprecated] Debugger for Chrome | [msjsdiag](#msjsdiag) | [🏪](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome) |
+| 439 | `msjsdiag.debugger-for-chrome-nightly` | Debugger for Chrome (Nightly) | [msjsdiag](#msjsdiag) | [🏪](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome-nightly) |
+| 440 | `msjsdiag.vscode-react-native` | React Native Tools | [msjsdiag](#msjsdiag) | [🏪](https://marketplace.visualstudio.com/items?itemName=msjsdiag.vscode-react-native) |
+| 441 | `msjsdiag.vscode-react-native-preview` | React Native Tools (Preview) | [msjsdiag](#msjsdiag) | [🏪](https://marketplace.visualstudio.com/items?itemName=msjsdiag.vscode-react-native-preview) |
+| 442 | `msoffice.microsoft-office-add-in-debugger` | Microsoft Office Add-ins Development Kit | [msoffice](#msoffice) | [🏪](https://marketplace.visualstudio.com/items?itemName=msoffice.microsoft-office-add-in-debugger) |
+| 443 | `msrvida.vscode-sanddance` | SandDance for VSCode | [msrvida](#msrvida) | [🏪](https://marketplace.visualstudio.com/items?itemName=msrvida.vscode-sanddance) |
+| 444 | `mvllow.rose-pine` | Rosé Pine | [mvllow](#mvllow) | [🏪](https://marketplace.visualstudio.com/items?itemName=mvllow.rose-pine) |
+| 445 | `NativeScript.nativescript` | NativeScript | [NativeScript](#nativescript) | [🏪](https://marketplace.visualstudio.com/items?itemName=NativeScript.nativescript) |
+| 446 | `nextflow.nextflow` | Nextflow | [nextflow](#nextflow) | [🏪](https://marketplace.visualstudio.com/items?itemName=nextflow.nextflow) |
+| 447 | `NomicFoundation.hardhat-solidity` | Solidity | [NomicFoundation](#nomicfoundation) | [🏪](https://marketplace.visualstudio.com/items?itemName=NomicFoundation.hardhat-solidity) |
+| 448 | `nordic-semiconductor.nrf-connect` | nRF Connect for VS Code | [nordic-semiconductor](#nordic-semiconductor) | [🏪](https://marketplace.visualstudio.com/items?itemName=nordic-semiconductor.nrf-connect) |
+| 449 | `nordic-semiconductor.nrf-connect-extension-pack` | nRF Connect for VS Code Extension Pack | [nordic-semiconductor](#nordic-semiconductor) | [🏪](https://marketplace.visualstudio.com/items?itemName=nordic-semiconductor.nrf-connect-extension-pack) |
+| 450 | `nordic-semiconductor.nrf-devicetree` | nRF DeviceTree | [nordic-semiconductor](#nordic-semiconductor) | [🏪](https://marketplace.visualstudio.com/items?itemName=nordic-semiconductor.nrf-devicetree) |
+| 451 | `nordic-semiconductor.nrf-kconfig` | nRF Kconfig | [nordic-semiconductor](#nordic-semiconductor) | [🏪](https://marketplace.visualstudio.com/items?itemName=nordic-semiconductor.nrf-kconfig) |
+| 452 | `nordic-semiconductor.nrf-terminal` | nRF Terminal | [nordic-semiconductor](#nordic-semiconductor) | [🏪](https://marketplace.visualstudio.com/items?itemName=nordic-semiconductor.nrf-terminal) |
+| 453 | `nrwl.angular-console` | Nx Console | [nrwl](#nrwl) | [🏪](https://marketplace.visualstudio.com/items?itemName=nrwl.angular-console) |
+| 454 | `NVIDIA.bluebazel` | Blue Bazel | [NVIDIA](#nvidia) | [🏪](https://marketplace.visualstudio.com/items?itemName=NVIDIA.bluebazel) |
+| 455 | `NVIDIA.nsight-vscode-edition` | Nsight Visual Studio Code Edition | [NVIDIA](#nvidia) | [🏪](https://marketplace.visualstudio.com/items?itemName=NVIDIA.nsight-vscode-edition) |
+| 456 | `NXPSemiconductors.mcuxpresso` | MCUXpresso for VS Code | [NXPSemiconductors](#nxpsemiconductors) | [🏪](https://marketplace.visualstudio.com/items?itemName=NXPSemiconductors.mcuxpresso) |
+| 457 | `Odoo.odoo` | Odoo | [Odoo](#odoo) | [🏪](https://marketplace.visualstudio.com/items?itemName=Odoo.odoo) |
+| 458 | `okteto.remote-kubernetes` | Remote - Kubernetes | [okteto](#okteto) | [🏪](https://marketplace.visualstudio.com/items?itemName=okteto.remote-kubernetes) |
+| 459 | `Open-Liberty.liberty-dev-vscode-ext` | Liberty Tools | [Open-Liberty](#open-liberty) | [🏪](https://marketplace.visualstudio.com/items?itemName=Open-Liberty.liberty-dev-vscode-ext) |
+| 460 | `openai.chatgpt` | Codex – OpenAI’s coding agent | [openai](#openai) | [🏪](https://marketplace.visualstudio.com/items?itemName=openai.chatgpt) |
+| 461 | `Oracle.mysql-shell-for-vs-code` | MySQL Shell for VS Code | [Oracle](#oracle) | [🏪](https://marketplace.visualstudio.com/items?itemName=Oracle.mysql-shell-for-vs-code) |
+| 462 | `Oracle.oracle-java` | Java | [Oracle](#oracle) | [🏪](https://marketplace.visualstudio.com/items?itemName=Oracle.oracle-java) |
+| 463 | `Oracle.sql-developer` | Oracle SQL Developer Extension for VSCode | [Oracle](#oracle) | [🏪](https://marketplace.visualstudio.com/items?itemName=Oracle.sql-developer) |
+| 464 | `Oracle.suitecloud-vscode-extension` | SuiteCloud Extension for Visual Studio Code | [Oracle](#oracle) | [🏪](https://marketplace.visualstudio.com/items?itemName=Oracle.suitecloud-vscode-extension) |
+| 465 | `oven.bun-vscode` | Bun for Visual Studio Code | [oven](#oven) | [🏪](https://marketplace.visualstudio.com/items?itemName=oven.bun-vscode) |
+| 466 | `oxc.oxc-vscode` | Oxc | [oxc](#oxc) | [🏪](https://marketplace.visualstudio.com/items?itemName=oxc.oxc-vscode) |
+| 467 | `paiqo.databricks-vscode` | Databricks Power Tools | [paiqo](#paiqo) | [🏪](https://marketplace.visualstudio.com/items?itemName=paiqo.databricks-vscode) |
+| 468 | `ParallelsDesktop.parallels-desktop` | Parallels Desktop | [ParallelsDesktop](#parallelsdesktop) | [🏪](https://marketplace.visualstudio.com/items?itemName=ParallelsDesktop.parallels-desktop) |
+| 469 | `particle.particle-vscode-core` | Workbench Core | [particle](#particle) | [🏪](https://marketplace.visualstudio.com/items?itemName=particle.particle-vscode-core) |
+| 470 | `particle.particle-vscode-pack` | Workbench | [particle](#particle) | [🏪](https://marketplace.visualstudio.com/items?itemName=particle.particle-vscode-pack) |
+| 471 | `particle.particle-vscode-snippets` | Workbench Snippets | [particle](#particle) | [🏪](https://marketplace.visualstudio.com/items?itemName=particle.particle-vscode-snippets) |
+| 472 | `particle.particle-vscode-theme` | Workbench Themes | [particle](#particle) | [🏪](https://marketplace.visualstudio.com/items?itemName=particle.particle-vscode-theme) |
+| 473 | `pbkit.vscode-pbkit` | Protobuf (Protocol Buffers) | [pbkit](#pbkit) | [🏪](https://marketplace.visualstudio.com/items?itemName=pbkit.vscode-pbkit) |
+| 474 | `pdconsec.vscode-print` | Print | [pdconsec](#pdconsec) | [🏪](https://marketplace.visualstudio.com/items?itemName=pdconsec.vscode-print) |
+| 475 | `pflannery.vscode-versionlens` | Version Lens | [pflannery](#pflannery) | [🏪](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens) |
+| 476 | `platformio.platformio-ide` | PlatformIO IDE | [platformio](#platformio) | [🏪](https://marketplace.visualstudio.com/items?itemName=platformio.platformio-ide) |
+| 477 | `Posit.shiny` | Shiny | [Posit](#posit) | [🏪](https://marketplace.visualstudio.com/items?itemName=Posit.shiny) |
+| 478 | `Postman.postman-for-vscode` | Postman | [Postman](#postman) | [🏪](https://marketplace.visualstudio.com/items?itemName=Postman.postman-for-vscode) |
+| 479 | `PowerQuery.vscode-powerquery` | Power Query / M Language | [PowerQuery](#powerquery) | [🏪](https://marketplace.visualstudio.com/items?itemName=PowerQuery.vscode-powerquery) |
+| 480 | `PowerQuery.vscode-powerquery-sdk` | Power Query SDK | [PowerQuery](#powerquery) | [🏪](https://marketplace.visualstudio.com/items?itemName=PowerQuery.vscode-powerquery-sdk) |
+| 481 | `Prisma.prisma` | Prisma | [Prisma](#prisma) | [🏪](https://marketplace.visualstudio.com/items?itemName=Prisma.prisma) |
+| 482 | `Prisma.prisma-insider` | Prisma - Insider | [Prisma](#prisma) | [🏪](https://marketplace.visualstudio.com/items?itemName=Prisma.prisma-insider) |
+| 483 | `prompt-flow.prompt-flow` | Prompt flow for VS Code | [prompt-flow](#prompt-flow) | [🏪](https://marketplace.visualstudio.com/items?itemName=prompt-flow.prompt-flow) |
+| 484 | `pulumi.pulumi-lsp-client` | Pulumi YAML | [pulumi](#pulumi) | [🏪](https://marketplace.visualstudio.com/items?itemName=pulumi.pulumi-lsp-client) |
+| 485 | `puppet.puppet-vscode` | Puppet | [puppet](#puppet) | [🏪](https://marketplace.visualstudio.com/items?itemName=puppet.puppet-vscode) |
+| 486 | `PurecodeAI.purecode-ai` | Purecode AI - AI Coding Agent for Legacy Codebases | [PurecodeAI](#purecodeai) | [🏪](https://marketplace.visualstudio.com/items?itemName=PurecodeAI.purecode-ai) |
+| 487 | `quarto.quarto` | Quarto | [quarto](#quarto) | [🏪](https://marketplace.visualstudio.com/items?itemName=quarto.quarto) |
+| 488 | `quick-lint.quick-lint-js` | quick-lint-js | [quick-lint](#quick-lint) | [🏪](https://marketplace.visualstudio.com/items?itemName=quick-lint.quick-lint-js) |
+| 489 | `raspberry-pi.raspberry-pi-pico` | Raspberry Pi Pico | [raspberry-pi](#raspberry-pi) | [🏪](https://marketplace.visualstudio.com/items?itemName=raspberry-pi.raspberry-pi-pico) |
+| 490 | `redhat.ansible` | Ansible | [redhat](#redhat) | [🏪](https://marketplace.visualstudio.com/items?itemName=redhat.ansible) |
+| 491 | `redhat.fabric8-analytics` | Red Hat Dependency Analytics | [redhat](#redhat) | [🏪](https://marketplace.visualstudio.com/items?itemName=redhat.fabric8-analytics) |
+| 492 | `redhat.java` | Language Support for Java(TM) by Red Hat | [redhat](#redhat) | [🏪](https://marketplace.visualstudio.com/items?itemName=redhat.java) |
+| 493 | `redhat.project-initializer` | Deprecated - Project Initializer by Red Hat | [redhat](#redhat) | [🏪](https://marketplace.visualstudio.com/items?itemName=redhat.project-initializer) |
+| 494 | `redhat.vscode-apache-camel` | Language Support for Apache Camel by Red Hat | [redhat](#redhat) | [🏪](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-apache-camel) |
+| 495 | `redhat.vscode-commons` | Red Hat Commons | [redhat](#redhat) | [🏪](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-commons) |
+| 496 | `redhat.vscode-community-server-connector` | Community Server Connectors | [redhat](#redhat) | [🏪](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-community-server-connector) |
+| 497 | `redhat.vscode-debug-adapter-apache-camel` | Debug Adapter for Apache Camel by Red Hat | [redhat](#redhat) | [🏪](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-debug-adapter-apache-camel) |
+| 498 | `redhat.vscode-extension-bpmn-editor` | BPMN Editor | [redhat](#redhat) | [🏪](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-extension-bpmn-editor) |
+| 499 | `redhat.vscode-extension-dmn-editor` | DMN Editor | [redhat](#redhat) | [🏪](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-extension-dmn-editor) |
+| 500 | `redhat.vscode-microprofile` | Tools for MicroProfile | [redhat](#redhat) | [🏪](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-microprofile) |
+| 501 | `redhat.vscode-openshift-connector` | OpenShift Toolkit | [redhat](#redhat) | [🏪](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-openshift-connector) |
+| 502 | `redhat.vscode-openshift-extension-pack` | OpenShift Extension Pack | [redhat](#redhat) | [🏪](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-openshift-extension-pack) |
+| 503 | `redhat.vscode-quarkus` | Quarkus | [redhat](#redhat) | [🏪](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-quarkus) |
+| 504 | `redhat.vscode-redhat-account` | Red Hat Authentication | [redhat](#redhat) | [🏪](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-redhat-account) |
+| 505 | `redhat.vscode-rsp-ui` | Runtime Server Protocol UI | [redhat](#redhat) | [🏪](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-rsp-ui) |
+| 506 | `redhat.vscode-server-connector` | JBoss Toolkit | [redhat](#redhat) | [🏪](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-server-connector) |
+| 507 | `redhat.vscode-tekton-pipelines` | Tekton Pipelines | [redhat](#redhat) | [🏪](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-tekton-pipelines) |
+| 508 | `redhat.vscode-xml` | XML | [redhat](#redhat) | [🏪](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-xml) |
+| 509 | `redhat.vscode-yaml` | YAML | [redhat](#redhat) | [🏪](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml) |
+| 510 | `Redis.redis-for-vscode` | Redis for VS Code | [Redis](#redis) | [🏪](https://marketplace.visualstudio.com/items?itemName=Redis.redis-for-vscode) |
+| 511 | `Redocly.openapi-vs-code` | Redocly OpenAPI | [Redocly](#redocly) | [🏪](https://marketplace.visualstudio.com/items?itemName=Redocly.openapi-vs-code) |
+| 512 | `robocorp.robocorp-code` | Robocorp Code | [robocorp](#robocorp) | [🏪](https://marketplace.visualstudio.com/items?itemName=robocorp.robocorp-code) |
+| 513 | `RocketSoftware.rocket-cobol` | Rocket COBOL | [RocketSoftware](#rocketsoftware) | [🏪](https://marketplace.visualstudio.com/items?itemName=RocketSoftware.rocket-cobol) |
+| 514 | `RocketSoftware.rocket-mvbasic` | Rocket MV BASIC | [RocketSoftware](#rocketsoftware) | [🏪](https://marketplace.visualstudio.com/items?itemName=RocketSoftware.rocket-mvbasic) |
+| 515 | `RooVeterinaryInc.roo-cline` | Roo Code | [RooVeterinaryInc](#rooveterinaryinc) | [🏪](https://marketplace.visualstudio.com/items?itemName=RooVeterinaryInc.roo-cline) |
+| 516 | `rust-lang.rust` | Rust (deprecated) | [rust-lang](#rust-lang) | [🏪](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust) |
+| 517 | `rust-lang.rust-analyzer` | rust-analyzer | [rust-lang](#rust-lang) | [🏪](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer) |
+| 518 | `ryzngard.vscode-header-source` | Header source switch | [ryzngard](#ryzngard) | [🏪](https://marketplace.visualstudio.com/items?itemName=ryzngard.vscode-header-source) |
+| 519 | `salesforce.analyticsdx-vscode-core` | Salesforce Analytics CLI Integration | [salesforce](#salesforce) | [🏪](https://marketplace.visualstudio.com/items?itemName=salesforce.analyticsdx-vscode-core) |
+| 520 | `salesforce.apex-language-server-extension` | Salesforce Apex Language Server (Typescript) | [salesforce](#salesforce) | [🏪](https://marketplace.visualstudio.com/items?itemName=salesforce.apex-language-server-extension) |
+| 521 | `salesforce.mule-dx-api-component` | Anypoint Code Builder - API Extension | [salesforce](#salesforce) | [🏪](https://marketplace.visualstudio.com/items?itemName=salesforce.mule-dx-api-component) |
+| 522 | `salesforce.mule-dx-apikit-component` | Anypoint Code Builder - APIkit Extension | [salesforce](#salesforce) | [🏪](https://marketplace.visualstudio.com/items?itemName=salesforce.mule-dx-apikit-component) |
+| 523 | `salesforce.mule-dx-data-weave-client` | Anypoint Code Builder - DataWeave Extension | [salesforce](#salesforce) | [🏪](https://marketplace.visualstudio.com/items?itemName=salesforce.mule-dx-data-weave-client) |
+| 524 | `salesforce.mule-dx-dependencies` | Anypoint Code Builder - Dependencies Extension | [salesforce](#salesforce) | [🏪](https://marketplace.visualstudio.com/items?itemName=salesforce.mule-dx-dependencies) |
+| 525 | `salesforce.mule-dx-extension-pack` | Anypoint Extension Pack | [salesforce](#salesforce) | [🏪](https://marketplace.visualstudio.com/items?itemName=salesforce.mule-dx-extension-pack) |
+| 526 | `salesforce.mule-dx-mule-dev-component` | Anypoint Code Builder - Integration Extension | [salesforce](#salesforce) | [🏪](https://marketplace.visualstudio.com/items?itemName=salesforce.mule-dx-mule-dev-component) |
+| 527 | `salesforce.mule-dx-munit-component` | Anypoint Code Builder - MUnit Extension | [salesforce](#salesforce) | [🏪](https://marketplace.visualstudio.com/items?itemName=salesforce.mule-dx-munit-component) |
+| 528 | `salesforce.mule-dx-vscode` | Anypoint Code Builder - Platform Extension | [salesforce](#salesforce) | [🏪](https://marketplace.visualstudio.com/items?itemName=salesforce.mule-dx-vscode) |
+| 529 | `salesforce.salesforce-vscode-slds` | SLDS Validator | [salesforce](#salesforce) | [🏪](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforce-vscode-slds) |
+| 530 | `salesforce.salesforcedx-einstein-gpt` | Agentforce Vibes | [salesforce](#salesforce) | [🏪](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-einstein-gpt) |
+| 531 | `salesforce.salesforcedx-vscode` | Salesforce Extension Pack | [salesforce](#salesforce) | [🏪](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode) |
+| 532 | `salesforce.salesforcedx-vscode-apex` | Apex | [salesforce](#salesforce) | [🏪](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-apex) |
+| 533 | `salesforce.salesforcedx-vscode-apex-debugger` | Apex Interactive Debugger | [salesforce](#salesforce) | [🏪](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-apex-debugger) |
+| 534 | `salesforce.salesforcedx-vscode-apex-oas` | Apex OpenAPI Specification | [salesforce](#salesforce) | [🏪](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-apex-oas) |
+| 535 | `salesforce.salesforcedx-vscode-apex-replay-debugger` | Apex Replay Debugger | [salesforce](#salesforce) | [🏪](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-apex-replay-debugger) |
+| 536 | `salesforce.salesforcedx-vscode-core` | Salesforce CLI Integration | [salesforce](#salesforce) | [🏪](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-core) |
+| 537 | `salesforce.salesforcedx-vscode-expanded` | Salesforce Extension Pack (Expanded) | [salesforce](#salesforce) | [🏪](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-expanded) |
+| 538 | `salesforce.salesforcedx-vscode-lightning` | Aura Components | [salesforce](#salesforce) | [🏪](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-lightning) |
+| 539 | `salesforce.salesforcedx-vscode-lwc` | Lightning Web Components | [salesforce](#salesforce) | [🏪](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-lwc) |
+| 540 | `salesforce.salesforcedx-vscode-org` | Salesforce Org Management | [salesforce](#salesforce) | [🏪](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-org) |
+| 541 | `salesforce.salesforcedx-vscode-soql` | SOQL | [salesforce](#salesforce) | [🏪](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-soql) |
+| 542 | `salesforce.salesforcedx-vscode-visualforce` | Visualforce | [salesforce](#salesforce) | [🏪](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-visualforce) |
+| 543 | `salesforce.sfdx-code-analyzer-vscode` | Salesforce Code Analyzer | [salesforce](#salesforce) | [🏪](https://marketplace.visualstudio.com/items?itemName=salesforce.sfdx-code-analyzer-vscode) |
+| 544 | `saoudrizwan.claude-dev` | Cline | [saoudrizwan](#saoudrizwan) | [🏪](https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev) |
+| 545 | `SAPOS.yeoman-ui` | Application Wizard | [SAPOS](#sapos) | [🏪](https://marketplace.visualstudio.com/items?itemName=SAPOS.yeoman-ui) |
+| 546 | `SAPOSS.app-studio-remote-access` | Remote Access for SAP Business Application Studio | [SAPOSS](#saposs) | [🏪](https://marketplace.visualstudio.com/items?itemName=SAPOSS.app-studio-remote-access) |
+| 547 | `SAPOSS.app-studio-toolkit` | SAP Business Application Studio toolkit | [SAPOSS](#saposs) | [🏪](https://marketplace.visualstudio.com/items?itemName=SAPOSS.app-studio-toolkit) |
+| 548 | `SAPOSS.sap-guided-answers-extension` | Guided Answers extension by SAP | [SAPOSS](#saposs) | [🏪](https://marketplace.visualstudio.com/items?itemName=SAPOSS.sap-guided-answers-extension) |
+| 549 | `SAPOSS.sap-hana-driver-for-sqltools` | SAP HANA Driver for SQLTools | [SAPOSS](#saposs) | [🏪](https://marketplace.visualstudio.com/items?itemName=SAPOSS.sap-hana-driver-for-sqltools) |
+| 550 | `SAPOSS.vscode-ui5-language-assistant` | UI5 Language Assistant | [SAPOSS](#saposs) | [🏪](https://marketplace.visualstudio.com/items?itemName=SAPOSS.vscode-ui5-language-assistant) |
+| 551 | `SAPOSS.xml-toolkit` | XML Toolkit | [SAPOSS](#saposs) | [🏪](https://marketplace.visualstudio.com/items?itemName=SAPOSS.xml-toolkit) |
+| 552 | `SAPSE.hana-database-explorer` | SAP HANA Database Explorer | [SAPSE](#sapse) | [🏪](https://marketplace.visualstudio.com/items?itemName=SAPSE.hana-database-explorer) |
+| 553 | `SAPSE.sap-ux-annotation-modeler-extension` | SAP Fiori Tools - XML Annotation Language Server | [SAPSE](#sapse) | [🏪](https://marketplace.visualstudio.com/items?itemName=SAPSE.sap-ux-annotation-modeler-extension) |
+| 554 | `SAPSE.sap-ux-application-modeler-extension` | SAP Fiori Tools - Application Modeler | [SAPSE](#sapse) | [🏪](https://marketplace.visualstudio.com/items?itemName=SAPSE.sap-ux-application-modeler-extension) |
+| 555 | `SAPSE.sap-ux-fiori-tools-extension-pack` | SAP Fiori Tools - Extension Pack | [SAPSE](#sapse) | [🏪](https://marketplace.visualstudio.com/items?itemName=SAPSE.sap-ux-fiori-tools-extension-pack) |
+| 556 | `SAPSE.sap-ux-help-extension` | SAP Fiori Tools - Guided Development | [SAPSE](#sapse) | [🏪](https://marketplace.visualstudio.com/items?itemName=SAPSE.sap-ux-help-extension) |
+| 557 | `SAPSE.sap-ux-service-modeler-extension` | SAP Fiori Tools - Service Modeler | [SAPSE](#sapse) | [🏪](https://marketplace.visualstudio.com/items?itemName=SAPSE.sap-ux-service-modeler-extension) |
+| 558 | `SAPSE.vscode-cds` | SAP CDS Language Support | [SAPSE](#sapse) | [🏪](https://marketplace.visualstudio.com/items?itemName=SAPSE.vscode-cds) |
+| 559 | `SAS.sas-lsp` | SAS | [SAS](#sas) | [🏪](https://marketplace.visualstudio.com/items?itemName=SAS.sas-lsp) |
+| 560 | `SecretLab.yarn-spinner` | Yarn Spinner | [SecretLab](#secretlab) | [🏪](https://marketplace.visualstudio.com/items?itemName=SecretLab.yarn-spinner) |
+| 561 | `semanticdiff.semanticdiff` | SemanticDiff | [semanticdiff](#semanticdiff) | [🏪](https://marketplace.visualstudio.com/items?itemName=semanticdiff.semanticdiff) |
+| 562 | `Shopify.polaris-for-vscode` | Polaris for VS Code | [Shopify](#shopify) | [🏪](https://marketplace.visualstudio.com/items?itemName=Shopify.polaris-for-vscode) |
+| 563 | `Shopify.rubocop-lsp` | RuboCop LSP | [Shopify](#shopify) | [🏪](https://marketplace.visualstudio.com/items?itemName=Shopify.rubocop-lsp) |
+| 564 | `Shopify.ruby-extensions-pack` | Ruby | [Shopify](#shopify) | [🏪](https://marketplace.visualstudio.com/items?itemName=Shopify.ruby-extensions-pack) |
+| 565 | `Shopify.ruby-lsp` | Ruby LSP | [Shopify](#shopify) | [🏪](https://marketplace.visualstudio.com/items?itemName=Shopify.ruby-lsp) |
+| 566 | `Shopify.theme-check-vscode` | Shopify Liquid | [Shopify](#shopify) | [🏪](https://marketplace.visualstudio.com/items?itemName=Shopify.theme-check-vscode) |
+| 567 | `Shopify.vscode-shadowenv` | shadowenv | [Shopify](#shopify) | [🏪](https://marketplace.visualstudio.com/items?itemName=Shopify.vscode-shadowenv) |
+| 568 | `Sixth.sixth-ai` | Claude 4, GPT-5, DeepSeek R1, ChatGPT, Copilot, Cursor AI, Codex and Cline,  AI Copilot, and Debugger, AI Agents, Code Chat, Code Assistants, Code Generator, Code Completion, Autocomplete, Generative  | [Sixth](#sixth) | [🏪](https://marketplace.visualstudio.com/items?itemName=Sixth.sixth-ai) |
+| 569 | `Slint.slint` | Slint | [Slint](#slint) | [🏪](https://marketplace.visualstudio.com/items?itemName=Slint.slint) |
+| 570 | `smallcloud.codify` | Refact – Open-Source AI Agent, Code Generator & Chat for JavaScript, Python, TypeScript, Java, PHP, Go, and more. | [smallcloud](#smallcloud) | [🏪](https://marketplace.visualstudio.com/items?itemName=smallcloud.codify) |
+| 571 | `snowflake.snowflake-vsc` | Snowflake | [snowflake](#snowflake) | [🏪](https://marketplace.visualstudio.com/items?itemName=snowflake.snowflake-vsc) |
+| 572 | `snyk-security.snyk-vulnerability-scanner` | Snyk Security | [snyk-security](#snyk-security) | [🏪](https://marketplace.visualstudio.com/items?itemName=snyk-security.snyk-vulnerability-scanner) |
+| 573 | `softwaredotcom.music-time` | Music Time for Spotify | [softwaredotcom](#softwaredotcom) | [🏪](https://marketplace.visualstudio.com/items?itemName=softwaredotcom.music-time) |
+| 574 | `softwaredotcom.swdc-vscode` | Code Time | [softwaredotcom](#softwaredotcom) | [🏪](https://marketplace.visualstudio.com/items?itemName=softwaredotcom.swdc-vscode) |
+| 575 | `solomonkinard.git-blame` | Git Blame | [solomonkinard](#solomonkinard) | [🏪](https://marketplace.visualstudio.com/items?itemName=solomonkinard.git-blame) |
+| 576 | `SonarSource.sonarlint-vscode` | SonarQube for IDE | [SonarSource](#sonarsource) | [🏪](https://marketplace.visualstudio.com/items?itemName=SonarSource.sonarlint-vscode) |
+| 577 | `sourcegraph.amp` | Amp (Research Preview) | [sourcegraph](#sourcegraph) | [🏪](https://marketplace.visualstudio.com/items?itemName=sourcegraph.amp) |
+| 578 | `sourcegraph.cody-ai` | Cody: AI Code Assistant | [sourcegraph](#sourcegraph) | [🏪](https://marketplace.visualstudio.com/items?itemName=sourcegraph.cody-ai) |
+| 579 | `sourcegraph.sourcegraph` | Search by Sourcegraph | [sourcegraph](#sourcegraph) | [🏪](https://marketplace.visualstudio.com/items?itemName=sourcegraph.sourcegraph) |
+| 580 | `Splunk.splunk` | Splunk Extension | [Splunk](#splunk) | [🏪](https://marketplace.visualstudio.com/items?itemName=Splunk.splunk) |
+| 581 | `Spydra.hyperledger-fabric-debugger` | Hyperledger Fabric Debugger | [Spydra](#spydra) | [🏪](https://marketplace.visualstudio.com/items?itemName=Spydra.hyperledger-fabric-debugger) |
+| 582 | `StackspotAI.StackSpotAI` | StackSpot AI | [StackspotAI](#stackspotai) | [🏪](https://marketplace.visualstudio.com/items?itemName=StackspotAI.StackSpotAI) |
+| 583 | `statelyai.stately-vscode` | XState VSCode | [statelyai](#statelyai) | [🏪](https://marketplace.visualstudio.com/items?itemName=statelyai.stately-vscode) |
+| 584 | `stmicroelectronics.stm32-vscode-extension` | STM32CubeIDE for Visual Studio Code | [stmicroelectronics](#stmicroelectronics) | [🏪](https://marketplace.visualstudio.com/items?itemName=stmicroelectronics.stm32-vscode-extension) |
+| 585 | `stmicroelectronics.stm32cube-ide-build-analyzer` | STM32Cube Build Analyzer | [stmicroelectronics](#stmicroelectronics) | [🏪](https://marketplace.visualstudio.com/items?itemName=stmicroelectronics.stm32cube-ide-build-analyzer) |
+| 586 | `stmicroelectronics.stm32cube-ide-build-cmake` | STM32Cube CMake Support | [stmicroelectronics](#stmicroelectronics) | [🏪](https://marketplace.visualstudio.com/items?itemName=stmicroelectronics.stm32cube-ide-build-cmake) |
+| 587 | `stmicroelectronics.stm32cube-ide-bundles-manager` | STM32Cube Bundles Manager | [stmicroelectronics](#stmicroelectronics) | [🏪](https://marketplace.visualstudio.com/items?itemName=stmicroelectronics.stm32cube-ide-bundles-manager) |
+| 588 | `stmicroelectronics.stm32cube-ide-clangd` | STM32Cube clangd | [stmicroelectronics](#stmicroelectronics) | [🏪](https://marketplace.visualstudio.com/items?itemName=stmicroelectronics.stm32cube-ide-clangd) |
+| 589 | `stmicroelectronics.stm32cube-ide-core` | STM32Cube Core | [stmicroelectronics](#stmicroelectronics) | [🏪](https://marketplace.visualstudio.com/items?itemName=stmicroelectronics.stm32cube-ide-core) |
+| 590 | `stmicroelectronics.stm32cube-ide-debug-core` | STM32Cube Debug Core | [stmicroelectronics](#stmicroelectronics) | [🏪](https://marketplace.visualstudio.com/items?itemName=stmicroelectronics.stm32cube-ide-debug-core) |
+| 591 | `stmicroelectronics.stm32cube-ide-debug-generic-gdbserver` | STM32Cube Debug Generic GDB Server | [stmicroelectronics](#stmicroelectronics) | [🏪](https://marketplace.visualstudio.com/items?itemName=stmicroelectronics.stm32cube-ide-debug-generic-gdbserver) |
+| 592 | `stmicroelectronics.stm32cube-ide-debug-jlink-gdbserver` | STM32Cube Debug Jlink GDB Server | [stmicroelectronics](#stmicroelectronics) | [🏪](https://marketplace.visualstudio.com/items?itemName=stmicroelectronics.stm32cube-ide-debug-jlink-gdbserver) |
+| 593 | `stmicroelectronics.stm32cube-ide-debug-stlink-gdbserver` | STM32Cube Debug STLink GDB Server | [stmicroelectronics](#stmicroelectronics) | [🏪](https://marketplace.visualstudio.com/items?itemName=stmicroelectronics.stm32cube-ide-debug-stlink-gdbserver) |
+| 594 | `stmicroelectronics.stm32cube-ide-project-manager` | STM32Cube Project Manager | [stmicroelectronics](#stmicroelectronics) | [🏪](https://marketplace.visualstudio.com/items?itemName=stmicroelectronics.stm32cube-ide-project-manager) |
+| 595 | `stmicroelectronics.stm32cube-ide-registers` | STM32Cube Registers View | [stmicroelectronics](#stmicroelectronics) | [🏪](https://marketplace.visualstudio.com/items?itemName=stmicroelectronics.stm32cube-ide-registers) |
+| 596 | `stmicroelectronics.stm32cube-ide-rtos` | STM32Cube RTOS Views | [stmicroelectronics](#stmicroelectronics) | [🏪](https://marketplace.visualstudio.com/items?itemName=stmicroelectronics.stm32cube-ide-rtos) |
+| 597 | `streetsidesoftware.avro` | avro-idl | [streetsidesoftware](#streetsidesoftware) | [🏪](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.avro) |
+| 598 | `streetsidesoftware.code-spell-checker` | Code Spell Checker | [streetsidesoftware](#streetsidesoftware) | [🏪](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) |
+| 599 | `streetsidesoftware.code-spell-checker-british-english` | British English - Code Spell Checker | [streetsidesoftware](#streetsidesoftware) | [🏪](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-british-english) |
+| 600 | `streetsidesoftware.code-spell-checker-catalan` | Catalan - Code Spell Checker | [streetsidesoftware](#streetsidesoftware) | [🏪](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-catalan) |
+| 601 | `streetsidesoftware.code-spell-checker-croatian` | Croatian - Code Spell Checker | [streetsidesoftware](#streetsidesoftware) | [🏪](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-croatian) |
+| 602 | `streetsidesoftware.code-spell-checker-czech` | Czech - Code Spell Checker | [streetsidesoftware](#streetsidesoftware) | [🏪](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-czech) |
+| 603 | `streetsidesoftware.code-spell-checker-danish` | Danish - Code Spell Checker | [streetsidesoftware](#streetsidesoftware) | [🏪](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-danish) |
+| 604 | `streetsidesoftware.code-spell-checker-dutch` | Dutch - Code Spell Checker | [streetsidesoftware](#streetsidesoftware) | [🏪](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-dutch) |
+| 605 | `streetsidesoftware.code-spell-checker-french` | French - Code Spell Checker | [streetsidesoftware](#streetsidesoftware) | [🏪](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-french) |
+| 606 | `streetsidesoftware.code-spell-checker-german` | German - Code Spell Checker | [streetsidesoftware](#streetsidesoftware) | [🏪](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-german) |
+| 607 | `streetsidesoftware.code-spell-checker-greek` | Greek - Code Spell Checker | [streetsidesoftware](#streetsidesoftware) | [🏪](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-greek) |
+| 608 | `streetsidesoftware.code-spell-checker-hebrew` | Hebrew - Code Spell Checker | [streetsidesoftware](#streetsidesoftware) | [🏪](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-hebrew) |
+| 609 | `streetsidesoftware.code-spell-checker-italian` | Italian - Code Spell Checker | [streetsidesoftware](#streetsidesoftware) | [🏪](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-italian) |
+| 610 | `streetsidesoftware.code-spell-checker-medical-terms` | Medical Terms - Code Spell Checker | [streetsidesoftware](#streetsidesoftware) | [🏪](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-medical-terms) |
+| 611 | `streetsidesoftware.code-spell-checker-persian` | Persian - Code Spell Checker | [streetsidesoftware](#streetsidesoftware) | [🏪](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-persian) |
+| 612 | `streetsidesoftware.code-spell-checker-polish` | Polish - Code Spell Checker | [streetsidesoftware](#streetsidesoftware) | [🏪](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-polish) |
+| 613 | `streetsidesoftware.code-spell-checker-portuguese` | Portuguese - Code Spell Checker | [streetsidesoftware](#streetsidesoftware) | [🏪](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-portuguese) |
+| 614 | `streetsidesoftware.code-spell-checker-portuguese-brazilian` | Brazilian Portuguese - Code Spell Checker | [streetsidesoftware](#streetsidesoftware) | [🏪](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-portuguese-brazilian) |
+| 615 | `streetsidesoftware.code-spell-checker-russian` | Russian - Code Spell Checker | [streetsidesoftware](#streetsidesoftware) | [🏪](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-russian) |
+| 616 | `streetsidesoftware.code-spell-checker-spanish` | Spanish - Code Spell Checker | [streetsidesoftware](#streetsidesoftware) | [🏪](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-spanish) |
+| 617 | `streetsidesoftware.code-spell-checker-swedish` | Swedish - Code Spell Checker | [streetsidesoftware](#streetsidesoftware) | [🏪](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-swedish) |
+| 618 | `streetsidesoftware.code-spell-checker-turkish` | Turkish - Code Spell Checker | [streetsidesoftware](#streetsidesoftware) | [🏪](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-turkish) |
+| 619 | `streetsidesoftware.code-spell-checker-ukrainian` | Ukrainian - Code Spell Checker | [streetsidesoftware](#streetsidesoftware) | [🏪](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-ukrainian) |
+| 620 | `streetsidesoftware.code-spell-checker-vietnamese` | Vietnamese - Code Spell Checker | [streetsidesoftware](#streetsidesoftware) | [🏪](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-vietnamese) |
+| 621 | `Stripe.endsmart` | Endsmart | [Stripe](#stripe) | [🏪](https://marketplace.visualstudio.com/items?itemName=Stripe.endsmart) |
+| 622 | `Stripe.markdoc-language-support` | Markdoc language support | [Stripe](#stripe) | [🏪](https://marketplace.visualstudio.com/items?itemName=Stripe.markdoc-language-support) |
+| 623 | `Stripe.vscode-stripe` | Stripe | [Stripe](#stripe) | [🏪](https://marketplace.visualstudio.com/items?itemName=Stripe.vscode-stripe) |
+| 624 | `stylelint.vscode-stylelint` | Stylelint | [stylelint](#stylelint) | [🏪](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint) |
+| 625 | `Supabase.vscode-supabase-extension` | Supabase | [Supabase](#supabase) | [🏪](https://marketplace.visualstudio.com/items?itemName=Supabase.vscode-supabase-extension) |
+| 626 | `svelte.svelte-vscode` | Svelte for VS Code | [svelte](#svelte) | [🏪](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode) |
+| 627 | `swiftlang.swift-vscode` | Swift | [swiftlang](#swiftlang) | [🏪](https://marketplace.visualstudio.com/items?itemName=swiftlang.swift-vscode) |
+| 628 | `swmansion.react-native-ide` | Radon IDE | [swmansion](#swmansion) | [🏪](https://marketplace.visualstudio.com/items?itemName=swmansion.react-native-ide) |
+| 629 | `SynapseVSCode.synapse` | Fabric Data Engineering VS Code | [SynapseVSCode](#synapsevscode) | [🏪](https://marketplace.visualstudio.com/items?itemName=SynapseVSCode.synapse) |
+| 630 | `TabbyML.vscode-tabby` | Tabby | [TabbyML](#tabbyml) | [🏪](https://marketplace.visualstudio.com/items?itemName=TabbyML.vscode-tabby) |
+| 631 | `TabNine.tabnine-vscode` | Tabnine: AI Chat & Autocomplete for JavaScript, Python, Typescript, Java, PHP, Go, and more | [TabNine](#tabnine) | [🏪](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode) |
+| 632 | `TabNine.tabnine-vscode-self-hosted-updater` | Tabnine for Enterprise | [TabNine](#tabnine) | [🏪](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode-self-hosted-updater) |
+| 633 | `TalDennis-UnfoldAI-ChatGPT-Copilot.unfoldai` | ChatGPT - Unfold AI | [TalDennis-UnfoldAI-ChatGPT-Copilot](#taldennis-unfoldai-chatgpt-copilot) | [🏪](https://marketplace.visualstudio.com/items?itemName=TalDennis-UnfoldAI-ChatGPT-Copilot.unfoldai) |
+| 634 | `task.vscode-task` | Task | [task](#task) | [🏪](https://marketplace.visualstudio.com/items?itemName=task.vscode-task) |
+| 635 | `TeamsDevApp.ms-teams-vscode-extension` | Microsoft 365 Agents Toolkit | [TeamsDevApp](#teamsdevapp) | [🏪](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.ms-teams-vscode-extension) |
+| 636 | `TeamsDevApp.vscode-adaptive-cards` | Adaptive Card Previewer | [TeamsDevApp](#teamsdevapp) | [🏪](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.vscode-adaptive-cards) |
+| 637 | `TeamsDevApp.vscode-ai-foundry` | Microsoft Foundry | [TeamsDevApp](#teamsdevapp) | [🏪](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.vscode-ai-foundry) |
+| 638 | `TelerikInc.aspnetcoretemplatewizard` | Telerik UI for ASP.NET Core Productivity Tools | [TelerikInc](#telerikinc) | [🏪](https://marketplace.visualstudio.com/items?itemName=TelerikInc.aspnetcoretemplatewizard) |
+| 639 | `TelerikInc.blazortemplatewizard` | Telerik UI for Blazor Productivity Tools | [TelerikInc](#telerikinc) | [🏪](https://marketplace.visualstudio.com/items?itemName=TelerikInc.blazortemplatewizard) |
+| 640 | `testdouble.vscode-standard-ruby` | Standard Ruby | [testdouble](#testdouble) | [🏪](https://marketplace.visualstudio.com/items?itemName=testdouble.vscode-standard-ruby) |
+| 641 | `TheQtCompany.qt` | Qt Extension Pack | [TheQtCompany](#theqtcompany) | [🏪](https://marketplace.visualstudio.com/items?itemName=TheQtCompany.qt) |
+| 642 | `TheQtCompany.qt-core` | Qt Core | [TheQtCompany](#theqtcompany) | [🏪](https://marketplace.visualstudio.com/items?itemName=TheQtCompany.qt-core) |
+| 643 | `TheQtCompany.qt-cpp` | Qt C++ | [TheQtCompany](#theqtcompany) | [🏪](https://marketplace.visualstudio.com/items?itemName=TheQtCompany.qt-cpp) |
+| 644 | `TheQtCompany.qt-cpp-pack` | Qt C++ Extension Pack | [TheQtCompany](#theqtcompany) | [🏪](https://marketplace.visualstudio.com/items?itemName=TheQtCompany.qt-cpp-pack) |
+| 645 | `TheQtCompany.qt-qml` | Qt Qml | [TheQtCompany](#theqtcompany) | [🏪](https://marketplace.visualstudio.com/items?itemName=TheQtCompany.qt-qml) |
+| 646 | `TheQtCompany.qt-ui` | Qt UI | [TheQtCompany](#theqtcompany) | [🏪](https://marketplace.visualstudio.com/items?itemName=TheQtCompany.qt-ui) |
+| 647 | `tilt-dev.Tiltfile` | Tiltfile | [tilt-dev](#tilt-dev) | [🏪](https://marketplace.visualstudio.com/items?itemName=tilt-dev.Tiltfile) |
+| 648 | `TimHeuer.jsondbg` | JSON Debug Visualizer | [TimHeuer](#timheuer) | [🏪](https://marketplace.visualstudio.com/items?itemName=TimHeuer.jsondbg) |
+| 649 | `TylerLeonhardt.vscode-inline-values-powershell` | Inline Values support for PowerShell | [TylerLeonhardt](#tylerleonhardt) | [🏪](https://marketplace.visualstudio.com/items?itemName=TylerLeonhardt.vscode-inline-values-powershell) |
+| 650 | `TypeScriptTeam.native-preview` | TypeScript (Native Preview) | [TypeScriptTeam](#typescriptteam) | [🏪](https://marketplace.visualstudio.com/items?itemName=TypeScriptTeam.native-preview) |
+| 651 | `Tyriar.lorem-ipsum` | Lorem ipsum | [Tyriar](#tyriar) | [🏪](https://marketplace.visualstudio.com/items?itemName=Tyriar.lorem-ipsum) |
+| 652 | `Tyriar.luna-paint` | Luna Paint — Image Editor | [Tyriar](#tyriar) | [🏪](https://marketplace.visualstudio.com/items?itemName=Tyriar.luna-paint) |
+| 653 | `Tyriar.shell-launcher` | Shell launcher | [Tyriar](#tyriar) | [🏪](https://marketplace.visualstudio.com/items?itemName=Tyriar.shell-launcher) |
+| 654 | `Tyriar.sort-lines` | Sort lines | [Tyriar](#tyriar) | [🏪](https://marketplace.visualstudio.com/items?itemName=Tyriar.sort-lines) |
+| 655 | `Tyriar.terminal-tabs` | Terminal Tabs (deprecated) | [Tyriar](#tyriar) | [🏪](https://marketplace.visualstudio.com/items?itemName=Tyriar.terminal-tabs) |
+| 656 | `Tyriar.theme-sapphire` | Sapphire Theme | [Tyriar](#tyriar) | [🏪](https://marketplace.visualstudio.com/items?itemName=Tyriar.theme-sapphire) |
+| 657 | `Tyriar.vscode-terminal-here` | Terminal Here | [Tyriar](#tyriar) | [🏪](https://marketplace.visualstudio.com/items?itemName=Tyriar.vscode-terminal-here) |
+| 658 | `Tyriar.windows-terminal` | Windows Terminal Integration | [Tyriar](#tyriar) | [🏪](https://marketplace.visualstudio.com/items?itemName=Tyriar.windows-terminal) |
+| 659 | `Undo.udb` | Time Travel Debug for C/C++ | [Undo](#undo) | [🏪](https://marketplace.visualstudio.com/items?itemName=Undo.udb) |
+| 660 | `unifiedjs.vscode-mdx` | MDX | [unifiedjs](#unifiedjs) | [🏪](https://marketplace.visualstudio.com/items?itemName=unifiedjs.vscode-mdx) |
+| 661 | `unoplatform.vscode` | Uno Platform | [unoplatform](#unoplatform) | [🏪](https://marketplace.visualstudio.com/items?itemName=unoplatform.vscode) |
+| 662 | `Upstash.context7-mcp` | Context7 MCP Server | [Upstash](#upstash) | [🏪](https://marketplace.visualstudio.com/items?itemName=Upstash.context7-mcp) |
+| 663 | `usqlextpublisher.usql-vscode-ext` | Azure Data Lake Tools | [usqlextpublisher](#usqlextpublisher) | [🏪](https://marketplace.visualstudio.com/items?itemName=usqlextpublisher.usql-vscode-ext) |
+| 664 | `Veracode.veracode-vscode-plugin` | Veracode Scan for VS Code | [Veracode](#veracode) | [🏪](https://marketplace.visualstudio.com/items?itemName=Veracode.veracode-vscode-plugin) |
+| 665 | `VEXRobotics.vexcode` | VEX Robotics | [VEXRobotics](#vexrobotics) | [🏪](https://marketplace.visualstudio.com/items?itemName=VEXRobotics.vexcode) |
+| 666 | `VEXRobotics.vexfeedback` | VEX Robotics Feedback | [VEXRobotics](#vexrobotics) | [🏪](https://marketplace.visualstudio.com/items?itemName=VEXRobotics.vexfeedback) |
+| 667 | `vira.vsc-vira-theme` | Vira Theme | [vira](#vira) | [🏪](https://marketplace.visualstudio.com/items?itemName=vira.vsc-vira-theme) |
+| 668 | `VisualStudioExptTeam.intellicode-api-usage-examples` | IntelliCode API Usage Examples | [VisualStudioExptTeam](#visualstudioexptteam) | [🏪](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.intellicode-api-usage-examples) |
+| 669 | `VisualStudioExptTeam.vscodeintellicode` | IntelliCode | [VisualStudioExptTeam](#visualstudioexptteam) | [🏪](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode) |
+| 670 | `VisualStudioExptTeam.vscodeintellicode-completions` | IntelliCode Completions | [VisualStudioExptTeam](#visualstudioexptteam) | [🏪](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode-completions) |
+| 671 | `VisualStudioExptTeam.vscodeintellicode-insiders` | IntelliCode Insiders | [VisualStudioExptTeam](#visualstudioexptteam) | [🏪](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode-insiders) |
+| 672 | `VisualStudioOnlineApplicationInsights.application-insights` | Azure Application Insights | [VisualStudioOnlineApplicationInsights](#visualstudioonlineapplicationinsights) | [🏪](https://marketplace.visualstudio.com/items?itemName=VisualStudioOnlineApplicationInsights.application-insights) |
+| 673 | `VisualStudioToolsForUnity.vstuc` | Unity | [VisualStudioToolsForUnity](#visualstudiotoolsforunity) | [🏪](https://marketplace.visualstudio.com/items?itemName=VisualStudioToolsForUnity.vstuc) |
+| 674 | `vitest.explorer` | Vitest | [vitest](#vitest) | [🏪](https://marketplace.visualstudio.com/items?itemName=vitest.explorer) |
+| 675 | `vmware.vscode-boot-dev-pack` | Spring Boot Extension Pack | [vmware](#vmware) | [🏪](https://marketplace.visualstudio.com/items?itemName=vmware.vscode-boot-dev-pack) |
+| 676 | `vmware.vscode-concourse` | Concourse CI Pipeline Editor | [vmware](#vmware) | [🏪](https://marketplace.visualstudio.com/items?itemName=vmware.vscode-concourse) |
+| 677 | `vmware.vscode-manifest-yaml` | Cloudfoundry Manifest YML Support | [vmware](#vmware) | [🏪](https://marketplace.visualstudio.com/items?itemName=vmware.vscode-manifest-yaml) |
+| 678 | `vmware.vscode-spring-boot` | Spring Boot Tools | [vmware](#vmware) | [🏪](https://marketplace.visualstudio.com/items?itemName=vmware.vscode-spring-boot) |
+| 679 | `vsciot-vscode.azure-iot-edge` | Azure IoT Edge | [vsciot-vscode](#vsciot-vscode) | [🏪](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.azure-iot-edge) |
+| 680 | `vsciot-vscode.azure-iot-toolkit` | Azure IoT Hub | [vsciot-vscode](#vsciot-vscode) | [🏪](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.azure-iot-toolkit) |
+| 681 | `vsciot-vscode.vscode-iot-device-cube` | IoT Device Cube | [vsciot-vscode](#vsciot-vscode) | [🏪](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.vscode-iot-device-cube) |
+| 682 | `vscjava.migrate-java-to-azure` | GitHub Copilot app modernization | [vscjava](#vscjava) | [🏪](https://marketplace.visualstudio.com/items?itemName=vscjava.migrate-java-to-azure) |
+| 683 | `vscjava.vscode-gradle` | Gradle for Java | [vscjava](#vscjava) | [🏪](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-gradle) |
+| 684 | `vscjava.vscode-java-debug` | Debugger for Java | [vscjava](#vscjava) | [🏪](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-debug) |
+| 685 | `vscjava.vscode-java-dependency` | Project Manager for Java | [vscjava](#vscjava) | [🏪](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-dependency) |
+| 686 | `vscjava.vscode-java-pack` | Extension Pack for Java | [vscjava](#vscjava) | [🏪](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack) |
+| 687 | `vscjava.vscode-java-test` | Test Runner for Java | [vscjava](#vscjava) | [🏪](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-test) |
+| 688 | `vscjava.vscode-java-upgrade` | GitHub Copilot app modernization - upgrade for Java | [vscjava](#vscjava) | [🏪](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-upgrade) |
+| 689 | `vscjava.vscode-lombok` | Lombok Annotations Support for VS Code | [vscjava](#vscjava) | [🏪](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-lombok) |
+| 690 | `vscjava.vscode-maven` | Maven for Java | [vscjava](#vscjava) | [🏪](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-maven) |
+| 691 | `vscjava.vscode-spring-boot-dashboard` | Spring Boot Dashboard | [vscjava](#vscjava) | [🏪](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-spring-boot-dashboard) |
+| 692 | `vscjava.vscode-spring-initializr` | Spring Initializr Java Support | [vscjava](#vscjava) | [🏪](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-spring-initializr) |
+| 693 | `vscode-icons-team.vscode-icons` | vscode-icons | [vscode-icons-team](#vscode-icons-team) | [🏪](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons) |
+| 694 | `Vue.volar` | Vue (Official) | [Vue](#vue) | [🏪](https://marketplace.visualstudio.com/items?itemName=Vue.volar) |
+| 695 | `WakaTime.vscode-wakatime` | WakaTime | [WakaTime](#wakatime) | [🏪](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime) |
+| 696 | `WallabyJs.console-ninja` | Console Ninja | [WallabyJs](#wallabyjs) | [🏪](https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja) |
+| 697 | `WallabyJs.quokka-vscode` | Quokka.js | [WallabyJs](#wallabyjs) | [🏪](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode) |
+| 698 | `WallabyJs.wallaby-vscode` | Wallaby.js | [WallabyJs](#wallabyjs) | [🏪](https://marketplace.visualstudio.com/items?itemName=WallabyJs.wallaby-vscode) |
+| 699 | `WASTeamAccount.WebTemplateStudio-dev-nightly` | Web Template Studio (Preview) | [WASTeamAccount](#wasteamaccount) | [🏪](https://marketplace.visualstudio.com/items?itemName=WASTeamAccount.WebTemplateStudio-dev-nightly) |
+| 700 | `WebNative.webnative` | WebNative | [WebNative](#webnative) | [🏪](https://marketplace.visualstudio.com/items?itemName=WebNative.webnative) |
+| 701 | `wix.glean` | glean | [wix](#wix) | [🏪](https://marketplace.visualstudio.com/items?itemName=wix.glean) |
+| 702 | `wix.vscode-import-cost` | Import Cost | [wix](#wix) | [🏪](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) |
+| 703 | `Wokwi.wokwi-vscode` | Wokwi Simulator | [Wokwi](#wokwi) | [🏪](https://marketplace.visualstudio.com/items?itemName=Wokwi.wokwi-vscode) |
+| 704 | `xdebug.php-debug` | PHP Debug | [xdebug](#xdebug) | [🏪](https://marketplace.visualstudio.com/items?itemName=xdebug.php-debug) |
+| 705 | `xdebug.php-pack` | PHP Extension Pack | [xdebug](#xdebug) | [🏪](https://marketplace.visualstudio.com/items?itemName=xdebug.php-pack) |
+| 706 | `yocto-project.yocto-bitbake` | Yocto Project BitBake | [yocto-project](#yocto-project) | [🏪](https://marketplace.visualstudio.com/items?itemName=yocto-project.yocto-bitbake) |
+| 707 | `Yummygum.city-lights-icon-vsc` | City Lights Icon package | [Yummygum](#yummygum) | [🏪](https://marketplace.visualstudio.com/items?itemName=Yummygum.city-lights-icon-vsc) |
+| 708 | `Yummygum.city-lights-theme` | City Lights theme | [Yummygum](#yummygum) | [🏪](https://marketplace.visualstudio.com/items?itemName=Yummygum.city-lights-theme) |
+| 709 | `ZencoderAI.zencoder` | Zencoder: AI Coding Agent and Chat for Python, Javascript, Typescript, Java, Go, and more | [ZencoderAI](#zencoderai) | [🏪](https://marketplace.visualstudio.com/items?itemName=ZencoderAI.zencoder) |
+| 710 | `ziglang.vscode-zig` | Zig Language | [ziglang](#ziglang) | [🏪](https://marketplace.visualstudio.com/items?itemName=ziglang.vscode-zig) |
+| 711 | `Zowe.vscode-extension-for-zowe` | Zowe Explorer | [Zowe](#zowe) | [🏪](https://marketplace.visualstudio.com/items?itemName=Zowe.vscode-extension-for-zowe) |
+
+</details>
+
+<p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
+
+---
+
+## 🏅 Domain Leaderboards
+
+> **Verified domains ranked by total install count** — aggregate of all extensions per domain
+
+| Rank | Domain | Publishers | Extensions | Total Installs | Top Extension |
+|:----:|--------|:----------:|:----------:|:--------------:|---------------|
+| 🥇 | [`microsoft.com`](#domain-microsoft-com) | 56 | 224 | **2196.3M** | Python (194.9M) |
+| 🥈 | [`github.com`](#domain-github-com) | 1 | 10 | **182M** | GitHub Copilot (62.5M) |
+| 🥉 | [`redhat.com`](#domain-redhat-com) | 1 | 20 | **92.5M** | Language Support for Java(TM) by Red Hat (49.8M) |
+| 4. | [`gitkraken.com`](#domain-gitkraken-com) | 1 | 1 | **45.8M** | GitLens — Git supercharged (45.8M) |
+| 5. | [`dartcode.org`](#domain-dartcode-org) | 1 | 2 | **25.9M** | Dart (13.4M) |
+| 6. | [`wakatime.com`](#domain-wakatime-com) | 1 | 1 | **22.9M** | WakaTime (22.9M) |
+| 7. | [`vscodeicons.team`](#domain-vscodeicons-team) | 1 | 1 | **22.8M** | vscode-icons (22.8M) |
+| 8. | [`devsense.com`](#domain-devsense-com) | 1 | 4 | **22.3M** | PHP (6.1M) |
+| 9. | [`xdebug.org`](#domain-xdebug-org) | 1 | 2 | **20.7M** | PHP Debug (14.6M) |
+| 10. | [`salesforce.com`](#domain-salesforce-com) | 1 | 25 | **20.2M** | Salesforce CLI Integration (2.2M) |
+| 11. | [`streetsidesoftware.com`](#domain-streetsidesoftware-com) | 1 | 24 | **18.6M** | Code Spell Checker (15.9M) |
+| 12. | [`go.dev`](#domain-go-dev) | 1 | 2 | **18M** | Go (17.4M) |
+| 13. | [`intelephense.com`](#domain-intelephense-com) | 1 | 1 | **16.3M** | PHP Intelephense (16.3M) |
+| 14. | [`tailwindcss.com`](#domain-tailwindcss-com) | 1 | 1 | **12.2M** | Tailwind CSS IntelliSense (12.2M) |
+| 15. | [`vmware.com`](#domain-vmware-com) | 1 | 4 | **10.6M** | Spring Boot Tools (4.9M) |
+| 16. | [`dlaa.me`](#domain-dlaa-me) | 1 | 1 | **10M** | markdownlint (10M) |
+| 17. | [`draculatheme.com`](#domain-draculatheme-com) | 1 | 1 | **9.8M** | Dracula Theme Official (9.8M) |
+| 18. | [`tabnine.com`](#domain-tabnine-com) | 1 | 2 | **9.5M** | Tabnine: AI Chat & Autocomplete for JavaScript, Python, Typescript, Java, PHP, Go, and more (9.4M) |
+| 19. | [`database-client.com`](#domain-database-client-com) | 1 | 15 | **9.1M** | Database Client JDBC (3M) |
+| 20. | [`angular.dev`](#domain-angular-dev) | 1 | 1 | **9M** | Angular Language Service (9M) |
+| 21. | [`rust-lang.org`](#domain-rust-lang-org) | 1 | 2 | **7.3M** | rust-analyzer (5.5M) |
+| 22. | [`vuejs.org`](#domain-vuejs-org) | 1 | 1 | **7.2M** | Vue (Official) (7.2M) |
+| 23. | [`blackbox.ai`](#domain-blackbox-ai) | 1 | 2 | **6.7M** | BLACKBOXAI #1 AI Coding Agent and Coding Copilot (4.6M) |
+| 24. | [`hashicorp.com`](#domain-hashicorp-com) | 1 | 3 | **6.4M** | HashiCorp Terraform (5.8M) |
+| 25. | [`platformio.org`](#domain-platformio-org) | 1 | 1 | **6.1M** | PlatformIO IDE (6.1M) |
+| 26. | [`wallabyjs.com`](#domain-wallabyjs-com) | 1 | 3 | **5.8M** | Quokka.js (4.1M) |
+| 27. | [`oracle.com`](#domain-oracle-com) | 1 | 4 | **5.6M** | Java (4.6M) |
+| 28. | [`wix.com`](#domain-wix-com) | 1 | 2 | **5.4M** | Import Cost (5.1M) |
+| 29. | [`graphql.org`](#domain-graphql-org) | 1 | 3 | **5.1M** | GraphQL: Language Feature Support (2.6M) |
+| 30. | [`amazon.com`](#domain-amazon-com) | 1 | 2 | **5M** | AWS Toolkit (3.6M) |
+
+<p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
 
 ---
 
@@ -7416,7 +11080,7 @@ For more details, see the [VS Code Publishing Documentation](https://code.visual
 | **API** | VS Code Marketplace Extension Query API |
 | **Filter** | `isDomainVerified = true` |
 | **Sort** | By install count (most popular first) |
-| **Generated** | 2025-12-06 01:29:43 |
+| **Generated** | 2025-12-06 03:08:55 |
 | **Build** | `abc1234` / Run `98765432` |
 
 ### Generation Scripts
