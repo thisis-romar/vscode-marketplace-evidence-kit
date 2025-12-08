@@ -86,6 +86,73 @@ function Format-Description {
     return $clean
 }
 
+# Build a global list of all verified extensions (flattened from publishers)
+function Build-GlobalExtensionsList {
+    param($publishers)
+    $allExts = @()
+    foreach ($pub in $publishers) {
+        foreach ($ext in $pub.extensions) {
+            $allExts += [PSCustomObject]@{
+                name = $ext.displayName
+                id = "$($pub.publisherName).$($ext.extensionName)"
+                publisher = $pub.publisherName
+                publisherDisplay = $pub.displayName
+                domain = $pub.domain
+                installs = $ext.installCount
+                rating = $ext.rating  # Source JSON field is 'rating' not 'averageRating'
+                reviews = $null       # ratingCount not available in source data
+                lastUpdated = $ext.lastUpdated
+                categories = $ext.categories
+                version = $ext.version
+                links = $ext.links
+            }
+        }
+    }
+    return $allExts
+}
+
+# Group extensions by category
+function Group-ExtensionsByCategory {
+    param($globalExts)
+    $byCat = @{}
+    foreach ($ext in $globalExts) {
+        if ($ext.categories) {
+            foreach ($cat in $ext.categories) {
+                if (-not $byCat.ContainsKey($cat)) { $byCat[$cat] = @() }
+                $byCat[$cat] += $ext
+            }
+        }
+    }
+    return $byCat
+}
+
+# Get sorted list of unique categories
+function Get-UniqueCategories {
+    param($globalExts)
+    $allCats = @()
+    foreach ($ext in $globalExts) {
+        if ($ext.categories) { $allCats += $ext.categories }
+    }
+    return ($allCats | Sort-Object -Unique)
+}
+
+# Format extension table row for Popular/TopRated/RecentlyUpdated sections
+function Format-ExtensionTableRow {
+    param($ext, [switch]$IncludeRank, [int]$rank = 0)
+    $anchor = ConvertTo-Anchor -text $ext.publisher
+    $extUrl = "https://marketplace.visualstudio.com/items?itemName=$($ext.id)"
+    $pubLink = "[$($ext.publisher)](#$anchor)"
+    $domain = Get-DomainDisplay -domain $ext.domain
+    $installs = Format-InstallCount -value $ext.installs
+    $rating = if ($ext.rating) { "⭐ " + [math]::Round($ext.rating, 1) } else { "—" }
+    $updated = if ($ext.lastUpdated) { ([DateTime]$ext.lastUpdated).ToString("yyyy-MM-dd") } else { "—" }
+    if ($IncludeRank) {
+        $badge = Get-RankBadge -rank $rank
+        return "| $badge | [**$($ext.name)**]($extUrl) | $pubLink | ``$domain`` | **$installs** | $rating | $updated |"
+    }
+    return "| [**$($ext.name)**]($extUrl) | $pubLink | ``$domain`` | **$installs** | $rating | $updated |"
+}
+
 #endregion
 
 Write-Host "Generating markdown content..." -ForegroundColor Cyan
@@ -102,6 +169,13 @@ $repoOwner = if ($env:GITHUB_REPOSITORY) { $env:GITHUB_REPOSITORY } else { "this
 # Calculate total installs
 $totalInstalls = ($publishers | Measure-Object -Property totalInstalls -Sum).Sum
 $totalInstallsFormatted = Format-InstallCount -value $totalInstalls
+
+# Pre-calculate ratings statistics (globalExts built later, use publishers directly)
+$allExtensions = foreach ($pub in $publishers) { $pub.extensions }
+$ratedExtensions = $allExtensions | Where-Object { $_.rating -and $_.rating -gt 0 }
+$ratedCount = @($ratedExtensions).Count
+$avgRating = if ($ratedCount -gt 0) { [math]::Round(($ratedExtensions | Measure-Object -Property rating -Average).Average, 2) } else { 0 }
+$ratingCoverage = [math]::Round(($ratedCount / $metadata.totalExtensions) * 100, 1)
 
 #region Build Markdown
 
@@ -131,6 +205,9 @@ data_source: $($metadata.fetchDate)
 publishers: $($publishers.Count)
 extensions: $($metadata.totalExtensions)
 domains: $($domainStats.Count)
+rated_extensions: $ratedCount
+avg_rating: $avgRating
+rating_coverage: $ratingCoverage%
 -->
 
 ---
@@ -138,6 +215,12 @@ domains: $($domainStats.Count)
 ## 📑 Table of Contents
 
 - [📊 Quick Stats](#-quick-stats)
+- [🔥 Popular Extensions](#-popular-extensions)
+- [⭐ Top Rated Extensions](#-top-rated-extensions)
+- [🆕 Recently Updated](#-recently-updated)
+- [🏷️ Extensions by Category](#-extensions-by-category)
+- [🔎 Identifier Index](#-identifier-index)
+- [🏅 Domain Leaderboards](#-domain-leaderboards)
 - [🏆 Top 20 Publishers](#-top-20-publishers-by-total-installs)
 - [🌐 Top 20 Domains](#-top-20-domains-by-extension-count)
 - [📚 All Domains Directory](#-all-domains-directory)
@@ -150,38 +233,342 @@ domains: $($domainStats.Count)
 
 <table>
 <tr>
-<td width="25%" align="center">
+<td width="20%" align="center">
 
 ### 👥 Publishers
 **$($publishers.Count)**
 *verified*
 
 </td>
-<td width="25%" align="center">
+<td width="20%" align="center">
 
 ### 📦 Extensions
 **$($metadata.totalExtensions)**
 *total*
 
 </td>
-<td width="25%" align="center">
+<td width="20%" align="center">
 
 ### 🌐 Domains
 **$($domainStats.Count)**
 *unique*
 
 </td>
-<td width="25%" align="center">
+<td width="20%" align="center">
 
 ### ⬇️ Installs
 **$totalInstallsFormatted**
 *combined*
 
 </td>
+<td width="20%" align="center">
+
+### ⭐ Avg Rating
+**$avgRating**
+*$ratedCount rated ($ratingCoverage%)*
+
+</td>
 </tr>
 </table>
 
 > 💡 **What is verification?** Verified publishers have proven domain ownership by adding a TXT record to their DNS configuration. This provides an extra layer of trust for extension users.
+
+"@
+
+# Build global extensions list for new sections
+$globalExts = Build-GlobalExtensionsList -publishers $publishers
+
+#region Popular Extensions Section
+$markdown += @"
+
+---
+
+## 🔥 Popular Extensions
+
+> **Top 50 verified extensions by total installs** — mirrors Marketplace ``@sort:installs``
+
+| Rank | Extension | Publisher | Domain | Installs | Rating | Last Updated |
+|:----:|-----------|-----------|--------|:--------:|:------:|:------------:|
+"@
+$markdown += "`n"
+$popularExts = $globalExts | Sort-Object -Property installs -Descending
+$rank = 0
+$popularExts | Select-Object -First 50 | ForEach-Object {
+    $rank++
+    $row = Format-ExtensionTableRow -ext $_ -IncludeRank -rank $rank
+    $markdown += "$row`n"
+}
+
+$markdown += @"
+
+<details>
+<summary><strong>📂 View all $($globalExts.Count) extensions by installs</strong></summary>
+
+| Rank | Extension | Publisher | Domain | Installs | Rating | Last Updated |
+|:----:|-----------|-----------|--------|:--------:|:------:|:------------:|
+"@
+$markdown += "`n"
+$rank = 0
+$popularExts | ForEach-Object {
+    $rank++
+    $row = Format-ExtensionTableRow -ext $_ -IncludeRank -rank $rank
+    $markdown += "$row`n"
+}
+
+$markdown += @"
+
+</details>
+
+<p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
+"@
+#endregion
+
+#region Top Rated Extensions Section
+$markdown += @"
+
+---
+
+## ⭐ Top Rated Extensions
+
+> **Top 50 verified extensions by average rating** — mirrors Marketplace ``@sort:rating`` (tie-break: installs)
+
+| Rank | Extension | Publisher | Domain | Rating | Installs | Reviews |
+|:----:|-----------|-----------|--------|:------:|:--------:|:-------:|
+"@
+$markdown += "`n"
+$topRatedExts = $globalExts | Where-Object { $_.rating -gt 0 } | Sort-Object -Property @{Expression={$_.rating};Descending=$true}, @{Expression={$_.installs};Descending=$true}
+$rank = 0
+$topRatedExts | Select-Object -First 50 | ForEach-Object {
+    $rank++
+    $badge = Get-RankBadge -rank $rank
+    $anchor = ConvertTo-Anchor -text $_.publisher
+    $extUrl = "https://marketplace.visualstudio.com/items?itemName=$($_.id)"
+    $pubLink = "[$($_.publisher)](#$anchor)"
+    $domain = Get-DomainDisplay -domain $_.domain
+    $rating = "⭐ " + [math]::Round($_.rating, 1)
+    $installs = Format-InstallCount -value $_.installs
+    $reviews = if ($_.reviews) { Format-InstallCount -value $_.reviews } else { "—" }
+    $markdown += "| $badge | [**$($_.name)**]($extUrl) | $pubLink | ``$domain`` | **$rating** | $installs | $reviews |`n"
+}
+
+$markdown += @"
+
+<p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
+"@
+#endregion
+
+#region Recently Updated Section
+$markdown += @"
+
+---
+
+## 🆕 Recently Updated
+
+> **Extensions updated in the last 30 days** — mirrors Marketplace ``@sort:updateDate``
+
+| Extension | Publisher | Domain | Last Updated | Version | Installs |
+|-----------|-----------|--------|:------------:|:-------:|:--------:|
+"@
+$markdown += "`n"
+$thirtyDaysAgo = (Get-Date).AddDays(-30).ToString("yyyy-MM-dd")
+$recentExts = $globalExts | Where-Object { $_.lastUpdated -and $_.lastUpdated -ge $thirtyDaysAgo } | Sort-Object -Property lastUpdated -Descending
+$recentExts | Select-Object -First 100 | ForEach-Object {
+    $anchor = ConvertTo-Anchor -text $_.publisher
+    $extUrl = "https://marketplace.visualstudio.com/items?itemName=$($_.id)"
+    $pubLink = "[$($_.publisher)](#$anchor)"
+    $domain = Get-DomainDisplay -domain $_.domain
+    $updated = if ($_.lastUpdated) { ([DateTime]$_.lastUpdated).ToString("yyyy-MM-dd") } else { "—" }
+    $version = if ($_.version) { "``$($_.version)``" } else { "—" }
+    $installs = Format-InstallCount -value $_.installs
+    $markdown += "| [**$($_.name)**]($extUrl) | $pubLink | ``$domain`` | $updated | $version | $installs |`n"
+}
+
+if ($recentExts.Count -gt 100) {
+    $markdown += @"
+
+<details>
+<summary><strong>📂 View all $($recentExts.Count) recently updated extensions</strong></summary>
+
+| Extension | Publisher | Domain | Last Updated | Version | Installs |
+|-----------|-----------|--------|:------------:|:-------:|:--------:|
+"@
+    $markdown += "`n"
+    $recentExts | ForEach-Object {
+        $anchor = ConvertTo-Anchor -text $_.publisher
+        $extUrl = "https://marketplace.visualstudio.com/items?itemName=$($_.id)"
+        $pubLink = "[$($_.publisher)](#$anchor)"
+        $domain = Get-DomainDisplay -domain $_.domain
+        $updated = if ($_.lastUpdated) { ([DateTime]$_.lastUpdated).ToString("yyyy-MM-dd") } else { "—" }
+        $version = if ($_.version) { "``$($_.version)``" } else { "—" }
+        $installs = Format-InstallCount -value $_.installs
+        $markdown += "| [**$($_.name)**]($extUrl) | $pubLink | ``$domain`` | $updated | $version | $installs |`n"
+    }
+    $markdown += "`n</details>`n"
+}
+
+$markdown += @"
+
+<p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
+
+"@
+#endregion
+
+#region Extensions by Category Section
+$markdown += @"
+
+---
+
+## 🏷️ Extensions by Category
+
+> **Browse verified extensions grouped by Marketplace category** — mirrors ``@category:"..."``
+
+### Category Index
+
+| Category | Extensions | Top Extension |
+|----------|:----------:|---------------|
+"@
+$markdown += "`n"
+$categoryGroups = Group-ExtensionsByCategory -globalExts $globalExts
+$categories = Get-UniqueCategories -globalExts $globalExts
+
+foreach ($cat in $categories) {
+    $catExts = $categoryGroups[$cat] | Sort-Object -Property installs -Descending
+    $topExt = $catExts | Select-Object -First 1
+    $topExtInfo = if ($topExt) { "$($topExt.name) ($(Format-InstallCount -value $topExt.installs))" } else { "—" }
+    $anchor = ConvertTo-Anchor -text $cat
+    $markdown += "| [$cat](#category-$anchor) | $($catExts.Count) | $topExtInfo |`n"
+}
+
+$markdown += @"
+
+<p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
+
+"@
+
+# Render each category subsection
+foreach ($cat in $categories) {
+    $anchor = ConvertTo-Anchor -text $cat
+    $catExts = $categoryGroups[$cat] | Sort-Object -Property installs -Descending
+    
+    $markdown += @"
+
+---
+
+### <a id="category-$anchor"></a>📂 $cat
+
+"@
+    
+    if ($catExts.Count -gt 20) {
+        $markdown += @"
+<details>
+<summary><strong>$($catExts.Count) extensions in this category</strong></summary>
+
+| Extension | Publisher | Installs | Rating |
+|-----------|-----------|:--------:|:------:|
+"@
+    $markdown += "`n"
+    } else {
+        $markdown += @"
+| Extension | Publisher | Installs | Rating |
+|-----------|-----------|:--------:|:------:|
+"@
+    $markdown += "`n"
+    }
+    
+    foreach ($ext in $catExts) {
+        $pubAnchor = ConvertTo-Anchor -text $ext.publisher
+        $extUrl = "https://marketplace.visualstudio.com/items?itemName=$($ext.id)"
+        $pubLink = "[$($ext.publisher)](#$pubAnchor)"
+        $installs = Format-InstallCount -value $ext.installs
+        $rating = if ($ext.rating) { "⭐ " + [math]::Round($ext.rating, 1) } else { "—" }
+        $markdown += "| [**$($ext.name)**]($extUrl) | $pubLink | $installs | $rating |`n"
+    }
+    
+    if ($catExts.Count -gt 20) {
+        $markdown += "`n</details>`n"
+    }
+    
+    $markdown += "`n<p align=`"right`"><a href=`"#-extensions-by-category`">⬆️ Back to Categories</a> · <a href=`"#-table-of-contents`">⬆️ Back to Top</a></p>`n"
+}
+#endregion
+
+#region Identifier Index Section
+$markdown += @"
+
+---
+
+## 🔎 Identifier Index
+
+> **Alphabetical listing by extension identifier** — use with Marketplace ``@id:publisher.extension``
+
+<details>
+<summary><strong>📂 Click to expand all $($globalExts.Count) identifiers (A–Z)</strong></summary>
+
+| # | Identifier | Name | Publisher | Links |
+|--:|------------|------|-----------|:-----:|
+"@
+$markdown += "`n"
+$sortedById = $globalExts | Sort-Object -Property id
+$idx = 0
+foreach ($ext in $sortedById) {
+    $idx++
+    $pubAnchor = ConvertTo-Anchor -text $ext.publisher
+    $extUrl = "https://marketplace.visualstudio.com/items?itemName=$($ext.id)"
+    $pubLink = "[$($ext.publisher)](#$pubAnchor)"
+    $markdown += "| $idx | ``$($ext.id)`` | $($ext.name) | $pubLink | [🏪]($extUrl) |`n"
+}
+
+$markdown += @"
+
+</details>
+
+<p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
+
+---
+
+## 🏅 Domain Leaderboards
+
+> **Verified domains ranked by total install count** — aggregate of all extensions per domain
+
+| Rank | Domain | Publishers | Extensions | Total Installs | Top Extension |
+|:----:|--------|:----------:|:----------:|:--------------:|---------------|
+"@
+$markdown += "`n"
+# Aggregate installs by domain
+$domainInstalls = @{}
+$domainTopExt = @{}
+foreach ($ext in $globalExts) {
+    $domain = Get-DomainDisplay -domain $ext.domain
+    if (-not $domainInstalls.ContainsKey($domain)) {
+        $domainInstalls[$domain] = 0
+        $domainTopExt[$domain] = $ext
+    }
+    $domainInstalls[$domain] += $ext.installs
+    if ($ext.installs -gt $domainTopExt[$domain].installs) {
+        $domainTopExt[$domain] = $ext
+    }
+}
+
+# Sort domains by total installs and render
+$sortedDomains = $domainInstalls.GetEnumerator() | Sort-Object -Property Value -Descending
+$rank = 0
+$sortedDomains | Select-Object -First 30 | ForEach-Object {
+    $rank++
+    $domain = $_.Key
+    $totalInstalls = Format-InstallCount -value $_.Value
+    $domainStat = $domainStats | Where-Object { (Get-DomainDisplay -domain $_.domain) -eq $domain } | Select-Object -First 1
+    $pubCount = if ($domainStat) { $domainStat.publisherCount } else { 1 }
+    $extCount = if ($domainStat) { $domainStat.extensionCount } else { 1 }
+    $topExt = $domainTopExt[$domain]
+    $topExtInfo = "$($topExt.name) ($(Format-InstallCount -value $topExt.installs))"
+    $badge = Get-RankBadge -rank $rank
+    $anchor = ConvertTo-Anchor -text $domain
+    $markdown += "| $badge | [``$domain``](#domain-$anchor) | $pubCount | $extCount | **$totalInstalls** | $topExtInfo |`n"
+}
+
+$markdown += @"
+
+<p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
 
 ---
 
@@ -190,6 +577,7 @@ domains: $($domainStats.Count)
 | Rank | Publisher | Display Name | Domain | Ext. | Installs |
 |:----:|-----------|--------------|--------|:----:|:--------:|
 "@
+#endregion
 
 $markdown += "`n"
 $rank = 0
@@ -240,7 +628,6 @@ $markdown += @"
 | # | Domain | Publishers | Extensions | Share |
 |--:|--------|:----------:|:----------:|------:|
 "@
-
 $markdown += "`n"
 $rank = 0
 $domainStats | ForEach-Object {
