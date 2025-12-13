@@ -9,15 +9,15 @@
 ![Domains](https://img.shields.io/badge/Domains-245-purple?style=for-the-badge)
 ![Installs](https://img.shields.io/badge/Installs-2967.6M-orange?style=for-the-badge)
 
-*Last Updated: December 13, 2025 at 12:43:52 UTC*
+*Last Updated: December 13, 2025 at 13:15:17 UTC*
 
-[`29db169`](https://github.com/thisis-romar/vscode-marketplace-evidence-kit/commit/29db169718733fe5f4ab30ebc4c29521134bab38)
+[`36b6b67`](https://github.com/thisis-romar/vscode-marketplace-evidence-kit/commit/36b6b67aef86c8fd5028ad0c810aa2a26de04a7d)
 
 </div>
 
 <!-- BUILD_METADATA
-timestamp: 2025-12-13T12:43:52Z
-commit: 29db169
+timestamp: 2025-12-13T13:15:17Z
+commit: 36b6b67
 run_id: 
 data_source: 2025-12-05 22:29:53
 publishers: 304
@@ -11061,8 +11061,8 @@ For more details, see the [VS Code Publishing Documentation](https://code.visual
 | **API** | VS Code Marketplace Extension Query API |
 | **Filter** | `isDomainVerified = true` |
 | **Sort** | By install count (most popular first) |
-| **Generated** | 2025-12-13 12:43:52 |
-| **Build** | `29db169` / Run `` |
+| **Generated** | 2025-12-13 13:15:17 |
+| **Build** | `36b6b67` / Run `` |
 
 ### Generation Scripts
 

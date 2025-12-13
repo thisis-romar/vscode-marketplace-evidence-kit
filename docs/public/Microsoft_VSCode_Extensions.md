@@ -2,15 +2,15 @@
 
 **Comprehensive listing of all Microsoft Visual Studio Code extensions**
 
-*Last Updated: December 13, 2025 at 12:45:21 UTC*
+*Last Updated: December 13, 2025 at 13:14:55 UTC*
 
-[`29db169`](https://github.com/thisis-romar/vscode-marketplace-evidence-kit/commit/29db169718733fe5f4ab30ebc4c29521134bab38)
+[`36b6b67`](https://github.com/thisis-romar/vscode-marketplace-evidence-kit/commit/36b6b67aef86c8fd5028ad0c810aa2a26de04a7d)
 
 <!-- BUILD_METADATA
-timestamp: 2025-12-13T12:45:21Z
-commit: 29db169
+timestamp: 2025-12-13T13:14:55Z
+commit: 36b6b67
 run_id: 
-extensions: 329
+extensions: 331
 categories: 25
 -->
 
@@ -18,24 +18,24 @@ categories: 25
 
 ## 📊 Quick Stats
 
-- **Total Extensions:** 329
+- **Total Extensions:** 331
 - **Categories:** 25
-- **Generated:** 2025-12-13 12:45:21
+- **Generated:** 2025-12-13 13:14:55
 - **Source:** [Microsoft Publisher Page](https://marketplace.visualstudio.com/publishers/Microsoft)
 
 ---
 
 ## 🏆 Top 10 Most Installed Extensions
-1. **[Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)** - 194.96M installs
-2. **[Pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance)** - 162.84M installs
-3. **[Python Debugger](https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy)** - 100.29M installs
-4. **[Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)** - 98.83M installs
-5. **[C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools)** - 91.67M installs
-6. **[Jupyter Keymap](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter-keymap)** - 78.64M installs
-7. **[Jupyter Notebook Renderers](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter-renderers)** - 77.74M installs
-8. **[IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)** - 60.28M installs
-9. **[Jupyter Cell Tags](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.vscode-jupyter-cell-tags)** - 59.03M installs
-10. **[Jupyter Slide Show](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.vscode-jupyter-slideshow)** - 58.96M installs
+1. **[Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)** - 195.98M installs
+2. **[Pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance)** - 163.89M installs
+3. **[Python Debugger](https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy)** - 101.34M installs
+4. **[Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)** - 99.12M installs
+5. **[C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools)** - 92.03M installs
+6. **[Jupyter Keymap](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter-keymap)** - 78.93M installs
+7. **[Jupyter Notebook Renderers](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter-renderers)** - 78.04M installs
+8. **[IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)** - 60.36M installs
+9. **[Jupyter Cell Tags](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.vscode-jupyter-cell-tags)** - 59.32M installs
+10. **[Jupyter Slide Show](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.vscode-jupyter-slideshow)** - 59.26M installs
 
 ---
 
@@ -43,48 +43,48 @@ categories: 25
 
 ### 🔥 Popular Categories (Top 3)
 
-- 🔮 **[Other Extensions](#other-extensions)** → 76 extensions (23.1%)
-- ☁️ **[Azure & Cloud Services](#azure-cloud-services)** → 65 extensions (19.8%)
-- 📦 **[Extension Packs](#extension-packs)** → 46 extensions (14%)
+- 🔮 **[Other Extensions](#other-extensions)** → 75 extensions (22.7%)
+- ☁️ **[Azure & Cloud Services](#azure-cloud-services)** → 69 extensions (20.8%)
+- 📦 **[Extension Packs](#extension-packs)** → 47 extensions (14.2%)
 
 ### 📚 All Categories (by Count)
 
 | # | Icon | Category | Count | % | Jump |
 |---|:---:|----------|------:|---:|------|
-| 1 | 🔮 | **Other Extensions** 🔥 | 76 | 23.1% | [View →](#other-extensions) |
-| 2 | ☁️ | **Azure & Cloud Services** 🔥 | 65 | 19.8% | [View →](#azure-cloud-services) |
-| 3 | 📦 | **Extension Packs** 🔥 | 46 | 14% | [View →](#extension-packs) |
+| 1 | 🔮 | **Other Extensions** 🔥 | 75 | 22.7% | [View →](#other-extensions) |
+| 2 | ☁️ | **Azure & Cloud Services** 🔥 | 69 | 20.8% | [View →](#azure-cloud-services) |
+| 3 | 📦 | **Extension Packs** 🔥 | 47 | 14.2% | [View →](#extension-packs) |
 | 4 | 🤖 | **AI & Machine Learning** | 31 | 9.4% | [View →](#ai-machine-learning) |
-| 5 | 📜 | **JavaScript & TypeScript** | 14 | 4.3% | [View →](#javascript-typescript) |
-| 6 | 🐍 | **Python Development** | 13 | 4% | [View →](#python-development) |
+| 5 | 📜 | **JavaScript & TypeScript** | 14 | 4.2% | [View →](#javascript-typescript) |
+| 6 | 🐍 | **Python Development** | 12 | 3.6% | [View →](#python-development) |
 | 7 | 🌐 | **Remote Development** | 10 | 3% | [View →](#remote-development) |
-| 8 | ⚡ | **.NET Development** | 9 | 2.7% | [View →](#net-development) |
-| 9 | 🐳 | **Containers & Kubernetes** | 9 | 2.7% | [View →](#containers-kubernetes) |
-| 10 | 🎓 | **Education & Learning** | 8 | 2.4% | [View →](#education-learning) |
-| 11 | 🎨 | **Themes & Appearance** | 8 | 2.4% | [View →](#themes-appearance) |
+| 8 | 🐳 | **Containers & Kubernetes** | 9 | 2.7% | [View →](#containers-kubernetes) |
+| 9 | ⚡ | **.NET Development** | 9 | 2.7% | [View →](#net-development) |
+| 10 | 🎨 | **Themes & Appearance** | 8 | 2.4% | [View →](#themes-appearance) |
+| 11 | 🎓 | **Education & Learning** | 8 | 2.4% | [View →](#education-learning) |
 | 12 | 🧪 | **Testing Tools** | 7 | 2.1% | [View →](#testing-tools) |
 | 13 | ☕ | **Java Development** | 6 | 1.8% | [View →](#java-development) |
 | 14 | 🌍 | **Web Development** | 5 | 1.5% | [View →](#web-development) |
 | 15 | 🔌 | **IoT & Hardware** | 4 | 1.2% | [View →](#iot-hardware) |
 | 16 | 🐛 | **Debugging Tools** | 3 | 0.9% | [View →](#debugging-tools) |
-| 17 | 🔧 | **C/C++ Development** | 3 | 0.9% | [View →](#c-c-development) |
+| 17 | 📊 | **Business Central (AL)** | 2 | 0.6% | [View →](#business-central-al) |
 | 18 | 👥 | **Collaboration Tools** | 2 | 0.6% | [View →](#collaboration-tools) |
-| 19 | 📊 | **Business Central (AL)** | 2 | 0.6% | [View →](#business-central-al) |
-| 20 | ✨ | **Linters & Formatters** | 2 | 0.6% | [View →](#linters-formatters) |
-| 21 | ⚛️ | **Quantum Computing** | 2 | 0.6% | [View →](#quantum-computing) |
-| 22 | 🔀 | **Version Control** | 1 | 0.3% | [View →](#version-control) |
+| 19 | ✨ | **Linters & Formatters** | 2 | 0.6% | [View →](#linters-formatters) |
+| 20 | ⚛️ | **Quantum Computing** | 2 | 0.6% | [View →](#quantum-computing) |
+| 21 | 🔧 | **C/C++ Development** | 2 | 0.6% | [View →](#c-c-development) |
+| 22 | 📈 | **Data Science & Notebooks** | 1 | 0.3% | [View →](#data-science-notebooks) |
 | 23 | ⚠️ | **Deprecated Extensions** | 1 | 0.3% | [View →](#deprecated-extensions) |
-| 24 | 📈 | **Data Science & Notebooks** | 1 | 0.3% | [View →](#data-science-notebooks) |
+| 24 | 🔀 | **Version Control** | 1 | 0.3% | [View →](#version-control) |
 | 25 | 💻 | **PowerShell Development** | 1 | 0.3% | [View →](#powershell-development) |
 
-**Total: 329 extensions across 25 categories**
+**Total: 331 extensions across 25 categories**
 
 ### 🚀 Quick Navigation
 
-- 🐍 [Python Development](#python-development) (13)
+- 🐍 [Python Development](#python-development) (12)
 - ⚡ [.NET Development](#net-development) (9)
 - 📜 [JavaScript & TypeScript](#javascript-typescript) (14)
-- ☁️ [Azure & Cloud Services](#azure-cloud-services) (65)
+- ☁️ [Azure & Cloud Services](#azure-cloud-services) (69)
 - 🌐 [Remote Development](#remote-development) (10)
 - 🤖 [AI & Machine Learning](#ai-machine-learning) (31)
 
@@ -98,186 +98,189 @@ categories: 25
 
 #### 🔮 Other Extensions
 
-**76 extensions** (23.1%) | [View Full Category →](#other-extensions)
+**75 extensions** (22.7%) | [View Full Category →](#other-extensions)
 
-1. **[CMake Tools](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cmake-tools)** - 53.24M installs
-2. **[Live Preview](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server)** - 11.05M installs
-3. **[Makefile Tools](https://marketplace.visualstudio.com/items?itemName=ms-vscode.makefile-tools)** - 8.65M installs
-4. **[Hex Editor](https://marketplace.visualstudio.com/items?itemName=ms-vscode.hexeditor)** - 6.43M installs
-5. **[Data Workspace](https://marketplace.visualstudio.com/items?itemName=ms-mssql.data-workspace-vscode)** - 4.77M installs
-6. **[SQL Database Projects](https://marketplace.visualstudio.com/items?itemName=ms-mssql.sql-database-projects-vscode)** - 4.65M installs
-7. **[Spring Boot Dashboard](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-spring-boot-dashboard)** - 4.32M installs
+1. **[CMake Tools](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cmake-tools)** - 53.52M installs
+2. **[Live Preview](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server)** - 11.12M installs
+3. **[Makefile Tools](https://marketplace.visualstudio.com/items?itemName=ms-vscode.makefile-tools)** - 8.71M installs
+4. **[Hex Editor](https://marketplace.visualstudio.com/items?itemName=ms-vscode.hexeditor)** - 6.46M installs
+5. **[Data Workspace](https://marketplace.visualstudio.com/items?itemName=ms-mssql.data-workspace-vscode)** - 4.8M installs
+6. **[SQL Database Projects](https://marketplace.visualstudio.com/items?itemName=ms-mssql.sql-database-projects-vscode)** - 4.68M installs
+7. **[Spring Boot Dashboard](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-spring-boot-dashboard)** - 4.34M installs
 8. **[jshint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.jshint)** - 2.42M installs
-9. **[Notepad++ keymap](https://marketplace.visualstudio.com/items?itemName=ms-vscode.notepadplusplus-keybindings)** - 2.34M installs
+9. **[Notepad++ keymap](https://marketplace.visualstudio.com/items?itemName=ms-vscode.notepadplusplus-keybindings)** - 2.35M installs
 10. **[Sublime Text Keymap and Settings Importer](https://marketplace.visualstudio.com/items?itemName=ms-vscode.sublime-keybindings)** - 2.34M installs
-11. **[Unity](https://marketplace.visualstudio.com/items?itemName=VisualStudioToolsForUnity.vstuc)** - 1.94M installs
-12. **[Serial Monitor](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-serial-monitor)** - 1.72M installs
+11. **[Unity](https://marketplace.visualstudio.com/items?itemName=VisualStudioToolsForUnity.vstuc)** - 1.96M installs
+12. **[Serial Monitor](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-serial-monitor)** - 1.73M installs
 13. **[Atom Keymap](https://marketplace.visualstudio.com/items?itemName=ms-vscode.atom-keybindings)** - 1.15M installs
 14. **[Lombok Annotations Support for VS Code](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-lombok)** - 1.14M installs
-15. **[VS Code Speech](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-speech)** - 1.1M installs
-16. **[Mono Debug](https://marketplace.visualstudio.com/items?itemName=ms-vscode.mono-debug)** - 917K installs
-17. **[File Downloader](https://marketplace.visualstudio.com/items?itemName=mindaro-dev.file-downloader)** - 837K installs
-18. **[Visual Studio Keymap](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vs-keybindings)** - 675K installs
-19. **[Inkling](https://marketplace.visualstudio.com/items?itemName=ms-inkling.ms-inkling)** - 463K installs
-20. **[Pyright](https://marketplace.visualstudio.com/items?itemName=ms-pyright.pyright)** - 459K installs
-21. **[Microsoft 365 Agents Toolkit](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.ms-teams-vscode-extension)** - 393K installs
-22. **[SARIF Viewer](https://marketplace.visualstudio.com/items?itemName=MS-SarifVSCode.sarif-viewer)** - 326K installs
+15. **[VS Code Speech](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-speech)** - 1.11M installs
+16. **[Mono Debug](https://marketplace.visualstudio.com/items?itemName=ms-vscode.mono-debug)** - 919K installs
+17. **[File Downloader](https://marketplace.visualstudio.com/items?itemName=mindaro-dev.file-downloader)** - 840K installs
+18. **[Visual Studio Keymap](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vs-keybindings)** - 676K installs
+19. **[Pyright](https://marketplace.visualstudio.com/items?itemName=ms-pyright.pyright)** - 463K installs
+20. **[Inkling](https://marketplace.visualstudio.com/items?itemName=ms-inkling.ms-inkling)** - 463K installs
+21. **[Microsoft 365 Agents Toolkit](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.ms-teams-vscode-extension)** - 396K installs
+22. **[SARIF Viewer](https://marketplace.visualstudio.com/items?itemName=MS-SarifVSCode.sarif-viewer)** - 331K installs
 23. **[anycode](https://marketplace.visualstudio.com/items?itemName=ms-vscode.anycode)** - 319K installs
-24. **[PostgreSQL](https://marketplace.visualstudio.com/items?itemName=ms-ossdata.vscode-pgsql)** - 299K installs
-25. **[Word Count](https://marketplace.visualstudio.com/items?itemName=ms-vscode.wordcount)** - 273K installs
-26. **[Power Platform Tools](https://marketplace.visualstudio.com/items?itemName=microsoft-IsvExpTools.powerplatform-vscode)** - 263K installs
+24. **[PostgreSQL](https://marketplace.visualstudio.com/items?itemName=ms-ossdata.vscode-pgsql)** - 309K installs
+25. **[Word Count](https://marketplace.visualstudio.com/items?itemName=ms-vscode.wordcount)** - 275K installs
+26. **[Power Platform Tools](https://marketplace.visualstudio.com/items?itemName=microsoft-IsvExpTools.powerplatform-vscode)** - 265K installs
 27. **[Brackets Keymap](https://marketplace.visualstudio.com/items?itemName=ms-vscode.brackets-keybindings)** - 207K installs
-28. **[Embedded Tools](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-embedded-tools)** - 155K installs
-29. **[extension-activator](https://marketplace.visualstudio.com/items?itemName=ms-vscode.extension-activator)** - 142K installs
-30. **[SandDance for VSCode](https://marketplace.visualstudio.com/items?itemName=msrvida.vscode-sanddance)** - 138K installs
-31. **[Power Query / M Language](https://marketplace.visualstudio.com/items?itemName=PowerQuery.vscode-powerquery)** - 132K installs
+28. **[Embedded Tools](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-embedded-tools)** - 156K installs
+29. **[extension-activator](https://marketplace.visualstudio.com/items?itemName=ms-vscode.extension-activator)** - 143K installs
+30. **[SandDance for VSCode](https://marketplace.visualstudio.com/items?itemName=msrvida.vscode-sanddance)** - 139K installs
+31. **[Power Query / M Language](https://marketplace.visualstudio.com/items?itemName=PowerQuery.vscode-powerquery)** - 133K installs
 32. **[anycode-kotlin](https://marketplace.visualstudio.com/items?itemName=ms-vscode.anycode-kotlin)** - 112K installs
 33. **[anycode-rust](https://marketplace.visualstudio.com/items?itemName=ms-vscode.anycode-rust)** - 107K installs
-34. **[Prompt flow for VS Code](https://marketplace.visualstudio.com/items?itemName=prompt-flow.prompt-flow)** - 87K installs
-35. **[JS Debug Value Editor (Experimental)](https://marketplace.visualstudio.com/items?itemName=ms-vscode.debug-value-editor)** - 74K installs
-36. **[Fabric Data Engineering VS Code](https://marketplace.visualstudio.com/items?itemName=SynapseVSCode.synapse)** - 70K installs
+34. **[Prompt flow for VS Code](https://marketplace.visualstudio.com/items?itemName=prompt-flow.prompt-flow)** - 88K installs
+35. **[JS Debug Value Editor (Experimental)](https://marketplace.visualstudio.com/items?itemName=ms-vscode.debug-value-editor)** - 75K installs
+36. **[Fabric Data Engineering VS Code](https://marketplace.visualstudio.com/items?itemName=SynapseVSCode.synapse)** - 71K installs
 37. **[Resharper 9 Keybindings](https://marketplace.visualstudio.com/items?itemName=ms-vscode.resharper9-keybindings)** - 64K installs
-38. **[DevSkim](https://marketplace.visualstudio.com/items?itemName=MS-CST-E.vscode-devskim)** - 63K installs
-39. **[anycode-c-sharp](https://marketplace.visualstudio.com/items?itemName=ms-vscode.anycode-c-sharp)** - 54K installs
-40. **[Semantic Kernel Tools](https://marketplace.visualstudio.com/items?itemName=ms-semantic-kernel.semantic-kernel)** - 53K installs
-41. **[anycode-php](https://marketplace.visualstudio.com/items?itemName=ms-vscode.anycode-php)** - 51K installs
-42. **[anycode-go](https://marketplace.visualstudio.com/items?itemName=ms-vscode.anycode-go)** - 48K installs
-43. **[Terraform AzApi Provider](https://marketplace.visualstudio.com/items?itemName=azapi-vscode.azapi)** - 45K installs
-44. **[Adaptive Card Previewer](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.vscode-adaptive-cards)** - 44K installs
-45. **[Power Query SDK](https://marketplace.visualstudio.com/items?itemName=PowerQuery.vscode-powerquery-sdk)** - 42K installs
-46. **[SCOPE Studio for VS Code](https://marketplace.visualstudio.com/items?itemName=ms-ssdevteam.scope-vscode-ext)** - 42K installs
-47. **[GN Language Server](https://marketplace.visualstudio.com/items?itemName=msedge-dev.gnls)** - 38K installs
-48. **[Microsoft Fabric](https://marketplace.visualstudio.com/items?itemName=fabric.vscode-fabric)** - 37K installs
-49. **[TMDL](https://marketplace.visualstudio.com/items?itemName=analysis-services.TMDL)** - 33K installs
-50. **[Security IntelliSense](https://marketplace.visualstudio.com/items?itemName=azsdktm.SecurityIntelliSense)** - 28K installs
-51. **[Mock Debug](https://marketplace.visualstudio.com/items?itemName=ms-vscode.mock-debug)** - 27K installs
-52. **[DTDL](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.vscode-dtdl)** - 25K installs
-53. **[VS Code Commander](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-commander)** - 22K installs
-54. **[Microsoft MakeCode Arcade](https://marketplace.visualstudio.com/items?itemName=ms-edu.pxt-vscode-web)** - 16K installs
-55. **[Extension Manifest Editor](https://marketplace.visualstudio.com/items?itemName=ms-devlabs.extension-manifest-editor)** - 15K installs
-56. **[Dev Box](https://marketplace.visualstudio.com/items?itemName=DevCenter.ms-devbox)** - 11K installs
+38. **[anycode-c-sharp](https://marketplace.visualstudio.com/items?itemName=ms-vscode.anycode-c-sharp)** - 54K installs
+39. **[Semantic Kernel Tools](https://marketplace.visualstudio.com/items?itemName=ms-semantic-kernel.semantic-kernel)** - 53K installs
+40. **[anycode-php](https://marketplace.visualstudio.com/items?itemName=ms-vscode.anycode-php)** - 51K installs
+41. **[anycode-go](https://marketplace.visualstudio.com/items?itemName=ms-vscode.anycode-go)** - 49K installs
+42. **[Terraform AzApi Provider](https://marketplace.visualstudio.com/items?itemName=azapi-vscode.azapi)** - 45K installs
+43. **[Adaptive Card Previewer](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.vscode-adaptive-cards)** - 45K installs
+44. **[Power Query SDK](https://marketplace.visualstudio.com/items?itemName=PowerQuery.vscode-powerquery-sdk)** - 42K installs
+45. **[SCOPE Studio for VS Code](https://marketplace.visualstudio.com/items?itemName=ms-ssdevteam.scope-vscode-ext)** - 42K installs
+46. **[GN Language Server](https://marketplace.visualstudio.com/items?itemName=msedge-dev.gnls)** - 38K installs
+47. **[Microsoft Fabric](https://marketplace.visualstudio.com/items?itemName=fabric.vscode-fabric)** - 38K installs
+48. **[TMDL](https://marketplace.visualstudio.com/items?itemName=analysis-services.TMDL)** - 34K installs
+49. **[Security IntelliSense](https://marketplace.visualstudio.com/items?itemName=azsdktm.SecurityIntelliSense)** - 28K installs
+50. **[Mock Debug](https://marketplace.visualstudio.com/items?itemName=ms-vscode.mock-debug)** - 27K installs
+51. **[DTDL](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.vscode-dtdl)** - 25K installs
+52. **[VS Code Commander](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-commander)** - 23K installs
+53. **[Microsoft MakeCode Arcade](https://marketplace.visualstudio.com/items?itemName=ms-edu.pxt-vscode-web)** - 16K installs
+54. **[Extension Manifest Editor](https://marketplace.visualstudio.com/items?itemName=ms-devlabs.extension-manifest-editor)** - 15K installs
+55. **[Power BI Modeling MCP Server](https://marketplace.visualstudio.com/items?itemName=analysis-services.powerbi-modeling-mcp)** - 13K installs
+56. **[Dev Box](https://marketplace.visualstudio.com/items?itemName=DevCenter.ms-devbox)** - 12K installs
 57. **[SharePoint Embedded](https://marketplace.visualstudio.com/items?itemName=SharepointEmbedded.ms-sharepoint-embedded-vscode-extension)** - 11K installs
-58. **[Power BI Modeling MCP Server](https://marketplace.visualstudio.com/items?itemName=analysis-services.powerbi-modeling-mcp)** - 8K installs
-59. **[POML](https://marketplace.visualstudio.com/items?itemName=poml-team.poml)** - 6K installs
-60. **[Power Platform Tools [PREVIEW]](https://marketplace.visualstudio.com/items?itemName=microsoft-IsvExpTools.powerplatform-vscode-preview)** - 6K installs
-61. **[Fabric User data functions](https://marketplace.visualstudio.com/items?itemName=fabric.vscode-fabric-functions)** - 5K installs
+58. **[POML](https://marketplace.visualstudio.com/items?itemName=poml-team.poml)** - 6K installs
+59. **[Power Platform Tools [PREVIEW]](https://marketplace.visualstudio.com/items?itemName=microsoft-IsvExpTools.powerplatform-vscode-preview)** - 6K installs
+60. **[Fabric User data functions](https://marketplace.visualstudio.com/items?itemName=fabric.vscode-fabric-functions)** - 5K installs
+61. **[Aspire](https://marketplace.visualstudio.com/items?itemName=microsoft-aspire.aspire-vscode)** - 4K installs
 62. **[TS/JS Relative File Path Support](https://marketplace.visualstudio.com/items?itemName=ms-vscode.ts-file-path-support)** - 4K installs
-63. **[Aspire](https://marketplace.visualstudio.com/items?itemName=microsoft-aspire.aspire-vscode)** - 3K installs
-64. **[Browse Published Extensions](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-marketplace-extension-browser)** - 3K installs
-65. **[Mezzurite](https://marketplace.visualstudio.com/items?itemName=mezzurite-devs.mezzurite)** - 3K installs
+63. **[Browse Published Extensions](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-marketplace-extension-browser)** - 3K installs
+64. **[Mezzurite](https://marketplace.visualstudio.com/items?itemName=mezzurite-devs.mezzurite)** - 3K installs
+65. **[Microsoft Sentinel](https://marketplace.visualstudio.com/items?itemName=ms-security.ms-sentinel)** - 3K installs
 66. **[VS Code Diagnostic Tools](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-diagnostic-tools)** - 3K installs
-67. **[Microsoft Sentinel](https://marketplace.visualstudio.com/items?itemName=ms-security.ms-sentinel)** - 3K installs
-68. **[Application Insights Code Optimizations](https://marketplace.visualstudio.com/items?itemName=ms-codeoptimizations.code-optimizations-preview)** - 2K installs
-69. **[Atlas Design System Tools](https://marketplace.visualstudio.com/items?itemName=docsmsft.atlas-design-system-tools)** - 1K installs
-70. **[PSRule](https://marketplace.visualstudio.com/items?itemName=ps-rule.vscode-ps-rule)** - 781 installs
-71. **[Touch Adaptation Kit Editor](https://marketplace.visualstudio.com/items?itemName=xbox-tools.vscode-xbox-input-editor-extension)** - 713 installs
-72. **[Microsoft Fabric MCP Server](https://marketplace.visualstudio.com/items?itemName=fabric.vscode-fabric-mcp-server)** - 379 installs
-73. **[DebugMCP](https://marketplace.visualstudio.com/items?itemName=ozzafar.debugmcpextension)** - 246 installs
-74. **[TS/JS VS Code Customized Language Service](https://marketplace.visualstudio.com/items?itemName=ms-vscode.ts-customized-language-service)** - 157 installs
-75. **[Chartifact](https://marketplace.visualstudio.com/items?itemName=msrvida.chartifact)** - 114 installs
-76. **[Kanagawa Language Support](https://marketplace.visualstudio.com/items?itemName=microsoft-kanagawa.kanagawalang)** - 27 installs
+67. **[Application Insights Code Optimizations](https://marketplace.visualstudio.com/items?itemName=ms-codeoptimizations.code-optimizations-preview)** - 2K installs
+68. **[Atlas Design System Tools](https://marketplace.visualstudio.com/items?itemName=docsmsft.atlas-design-system-tools)** - 1K installs
+69. **[PSRule](https://marketplace.visualstudio.com/items?itemName=ps-rule.vscode-ps-rule)** - 802 installs
+70. **[Touch Adaptation Kit Editor](https://marketplace.visualstudio.com/items?itemName=xbox-tools.vscode-xbox-input-editor-extension)** - 715 installs
+71. **[Microsoft Fabric MCP Server](https://marketplace.visualstudio.com/items?itemName=fabric.vscode-fabric-mcp-server)** - 638 installs
+72. **[DebugMCP](https://marketplace.visualstudio.com/items?itemName=ozzafar.debugmcpextension)** - 285 installs
+73. **[TS/JS VS Code Customized Language Service](https://marketplace.visualstudio.com/items?itemName=ms-vscode.ts-customized-language-service)** - 208 installs
+74. **[Chartifact](https://marketplace.visualstudio.com/items?itemName=msrvida.chartifact)** - 124 installs
+75. **[Kanagawa Language Support](https://marketplace.visualstudio.com/items?itemName=microsoft-kanagawa.kanagawalang)** - 29 installs
 
 #### ☁️ Azure & Cloud Services
 
-**65 extensions** (19.8%) | [View Full Category →](#azure-cloud-services)
+**69 extensions** (20.8%) | [View Full Category →](#azure-cloud-services)
 
-1. **[Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)** - 48.67M installs
-2. **[Azure Account](https://marketplace.visualstudio.com/items?itemName=ms-vscode.azure-account)** - 9.08M installs
-3. **[SQL Server (mssql)](https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql)** - 8.56M installs
-4. **[Container Tools](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-containers)** - 6.94M installs
-5. **[Azure Resources](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureresourcegroups)** - 5.82M installs
-6. **[Azure Functions](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions)** - 5.57M installs
-7. **[Azure Repos](https://marketplace.visualstudio.com/items?itemName=ms-vscode.azure-repos)** - 4.7M installs
-8. **[SQL Bindings](https://marketplace.visualstudio.com/items?itemName=ms-mssql.sql-bindings-vscode)** - 4.21M installs
-9. **[Azure Cosmos DB](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-cosmosdb)** - 3.15M installs
-10. **[Azure App Service](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureappservice)** - 2.87M installs
-11. **[Azure Storage](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurestorage)** - 2.42M installs
-12. **[Azure CLI Tools](https://marketplace.visualstudio.com/items?itemName=ms-vscode.azurecli)** - 2.28M installs
-13. **[Azure Virtual Machines](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurevirtualmachines)** - 2.01M installs
-14. **[Azure Tools](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-node-azure-pack)** - 2.01M installs
-15. **[Azure Static Web Apps](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurestaticwebapps)** - 1.86M installs
-16. **[Azure Developer CLI](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.azure-dev)** - 1.7M installs
-17. **[Azure Container Apps](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurecontainerapps)** - 1.48M installs
-18. **[Azure Resource Manager (ARM) Tools](https://marketplace.visualstudio.com/items?itemName=msazurermtools.azurerm-vscode-tools)** - 1.47M installs
-19. **[Bicep](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-bicep)** - 1.38M installs
-20. **[Azure Pipelines](https://marketplace.visualstudio.com/items?itemName=ms-azure-devops.azure-pipelines)** - 1.36M installs
-21. **[Microsoft Terraform](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureterraform)** - 1.12M installs
-22. **[GitHub Copilot for Azure](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azure-github-copilot)** - 868K installs
-23. **[GitHub Copilot app modernization](https://marketplace.visualstudio.com/items?itemName=vscjava.migrate-java-to-azure)** - 477K installs
-24. **[Azurite](https://marketplace.visualstudio.com/items?itemName=Azurite.azurite)** - 456K installs
-25. **[Azure IoT Hub](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.azure-iot-toolkit)** - 435K installs
-26. **[Azure MCP Server](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azure-mcp-server)** - 325K installs
-27. **[Azure Data Lake Tools](https://marketplace.visualstudio.com/items?itemName=usqlextpublisher.usql-vscode-ext)** - 310K installs
-28. **[Azure IoT Edge](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.azure-iot-edge)** - 257K installs
-29. **[Azure API Management](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-apimanagement)** - 246K installs
-30. **[Azure Devops Codespaces Authentication](https://marketplace.visualstudio.com/items?itemName=ms-codespaces-tools.ado-codespaces-auth)** - 184K installs
-31. **[Azure Logic Apps (Consumption)](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-logicapps)** - 176K installs
-32. **[Azure Application Insights](https://marketplace.visualstudio.com/items?itemName=VisualStudioOnlineApplicationInsights.application-insights)** - 139K installs
-33. **[Azure PowerShell Tools](https://marketplace.visualstudio.com/items?itemName=azps-tools.azps-tools)** - 124K installs
-34. **[Azure Logic Apps (Standard)](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurelogicapps)** - 115K installs
-35. **[Azure Automation](https://marketplace.visualstudio.com/items?itemName=azure-automation.vscode-azureautomation)** - 88K installs
-36. **[Azure Policy](https://marketplace.visualstudio.com/items?itemName=AzurePolicy.azurepolicyextension)** - 75K installs
-37. **[Spark & Hive Tools](https://marketplace.visualstudio.com/items?itemName=mshdinsight.azure-hdinsight)** - 72K installs
-38. **[Azure Cache](https://marketplace.visualstudio.com/items?itemName=ms-azurecache.vscode-azurecache)** - 49K installs
-39. **[Azure Stream Analytics Tools](https://marketplace.visualstudio.com/items?itemName=ms-bigdatatools.vscode-asa)** - 45K installs
-40. **[Azure Data Studio Debug](https://marketplace.visualstudio.com/items?itemName=ms-mssql.sqlops-debug)** - 43K installs
-41. **[vscode-dev-azurecloudshell-helper](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-dev-azurecloudshell-helper)** - 40K installs
-42. **[Azure Event Grid](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureeventgrid)** - 38K installs
-43. **[Azure Sphere](https://marketplace.visualstudio.com/items?itemName=ms-vscode.azure-sphere-tools)** - 21K installs
-44. **[Azure Serverless](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureserverlesspack)** - 21K installs
-45. **[Service Fabric Reliable Services](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-service-fabric-reliable-services)** - 20K installs
-46. **[Azure Sphere UI](https://marketplace.visualstudio.com/items?itemName=ms-vscode.azure-sphere-tools-ui)** - 18K installs
-47. **[Azure Spring Apps](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-azurespringcloud)** - 17K installs
-48. **[Microsoft Entra External ID](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.ms-entra)** - 15K installs
-49. **[Azure API Center](https://marketplace.visualstudio.com/items?itemName=apidev.azure-api-center)** - 13K installs
-50. **[Azure Video Analyzer](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.azure-video-analyzer)** - 12K installs
-51. **[Tye](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-tye)** - 10K installs
-52. **[VS Code Azure Functions Web](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azure-functions-web)** - 9K installs
-53. **[Azure AI Speech Toolkit](https://marketplace.visualstudio.com/items?itemName=ms-azureaispeech.azure-ai-speech-toolkit)** - 9K installs
-54. **[FHIR Converter](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-health-fhir-converter)** - 9K installs
-55. **[vscode-azure-functions-remote-web](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azure-functions-remote-web)** - 8K installs
-56. **[DocumentDB for VS Code](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-documentdb)** - 7K installs
-57. **[Radius Bicep](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.rad-vscode-bicep)** - 7K installs
-58. **[Azure Arc](https://marketplace.visualstudio.com/items?itemName=azurearc-dev.azurearc)** - 4K installs
-59. **[Azure Arc-enabled machines](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurearcenabledmachines)** - 3K installs
-60. **[Learn Cloud](https://marketplace.visualstudio.com/items?itemName=azurepaas-tools.vscode-learncloud)** - 3K installs
-61. **[Azure Web PubSub](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurewebpubsub)** - 2K installs
-62. **[Azure OSConfig](https://marketplace.visualstudio.com/items?itemName=edge-security.osconfig)** - 1K installs
-63. **[VS Code for the Web - Azure](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-dev-azurecloudshell)** - 675 installs
-64. **[Template MCP Server](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-template-mcp-server)** - 674 installs
-65. **[Azure Terraform Helper](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.azureterraform-vscode-web-opener)** - 600 installs
+1. **[Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)** - 48.78M installs
+2. **[Azure Account](https://marketplace.visualstudio.com/items?itemName=ms-vscode.azure-account)** - 9.09M installs
+3. **[Azure Account](https://marketplace.visualstudio.com/items?itemName=ms-vscode.azure-account)** - 9.09M installs
+4. **[SQL Server (mssql)](https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql)** - 8.59M installs
+5. **[Container Tools](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-containers)** - 7.22M installs
+6. **[Azure Resources](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureresourcegroups)** - 5.86M installs
+7. **[Azure Functions](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions)** - 5.59M installs
+8. **[Azure Repos](https://marketplace.visualstudio.com/items?itemName=ms-vscode.azure-repos)** - 4.74M installs
+9. **[SQL Bindings](https://marketplace.visualstudio.com/items?itemName=ms-mssql.sql-bindings-vscode)** - 4.24M installs
+10. **[Azure Cosmos DB](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-cosmosdb)** - 3.16M installs
+11. **[Azure App Service](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureappservice)** - 2.89M installs
+12. **[Azure Storage](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurestorage)** - 2.44M installs
+13. **[Azure CLI Tools](https://marketplace.visualstudio.com/items?itemName=ms-vscode.azurecli)** - 2.29M installs
+14. **[Azure Virtual Machines](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurevirtualmachines)** - 2.02M installs
+15. **[Azure Tools](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-node-azure-pack)** - 2.02M installs
+16. **[Azure Static Web Apps](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurestaticwebapps)** - 1.87M installs
+17. **[Azure Developer CLI](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.azure-dev)** - 1.72M installs
+18. **[Azure Container Apps](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurecontainerapps)** - 1.49M installs
+19. **[Azure Resource Manager (ARM) Tools](https://marketplace.visualstudio.com/items?itemName=msazurermtools.azurerm-vscode-tools)** - 1.47M installs
+20. **[Bicep](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-bicep)** - 1.39M installs
+21. **[Azure Pipelines](https://marketplace.visualstudio.com/items?itemName=ms-azure-devops.azure-pipelines)** - 1.37M installs
+22. **[Microsoft Terraform](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureterraform)** - 1.13M installs
+23. **[GitHub Copilot for Azure](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azure-github-copilot)** - 890K installs
+24. **[GitHub Copilot app modernization](https://marketplace.visualstudio.com/items?itemName=vscjava.migrate-java-to-azure)** - 514K installs
+25. **[Azurite](https://marketplace.visualstudio.com/items?itemName=Azurite.azurite)** - 459K installs
+26. **[Azure IoT Hub](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.azure-iot-toolkit)** - 436K installs
+27. **[Azure MCP Server](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azure-mcp-server)** - 347K installs
+28. **[Azure Data Lake Tools](https://marketplace.visualstudio.com/items?itemName=usqlextpublisher.usql-vscode-ext)** - 311K installs
+29. **[Azure IoT Edge](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.azure-iot-edge)** - 257K installs
+30. **[Azure API Management](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-apimanagement)** - 247K installs
+31. **[Azure Devops Codespaces Authentication](https://marketplace.visualstudio.com/items?itemName=ms-codespaces-tools.ado-codespaces-auth)** - 187K installs
+32. **[Azure Logic Apps (Consumption)](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-logicapps)** - 176K installs
+33. **[Azure Application Insights](https://marketplace.visualstudio.com/items?itemName=VisualStudioOnlineApplicationInsights.application-insights)** - 139K installs
+34. **[Azure PowerShell Tools](https://marketplace.visualstudio.com/items?itemName=azps-tools.azps-tools)** - 125K installs
+35. **[Azure Logic Apps (Standard)](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurelogicapps)** - 115K installs
+36. **[Azure Automation](https://marketplace.visualstudio.com/items?itemName=azure-automation.vscode-azureautomation)** - 88K installs
+37. **[Dapr](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-dapr)** - 78K installs
+38. **[Azure Policy](https://marketplace.visualstudio.com/items?itemName=AzurePolicy.azurepolicyextension)** - 76K installs
+39. **[Spark & Hive Tools](https://marketplace.visualstudio.com/items?itemName=mshdinsight.azure-hdinsight)** - 72K installs
+40. **[Azure Cache](https://marketplace.visualstudio.com/items?itemName=ms-azurecache.vscode-azurecache)** - 49K installs
+41. **[Azure Stream Analytics Tools](https://marketplace.visualstudio.com/items?itemName=ms-bigdatatools.vscode-asa)** - 45K installs
+42. **[Azure Data Studio Debug](https://marketplace.visualstudio.com/items?itemName=ms-mssql.sqlops-debug)** - 43K installs
+43. **[vscode-dev-azurecloudshell-helper](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-dev-azurecloudshell-helper)** - 42K installs
+44. **[Azure Event Grid](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureeventgrid)** - 38K installs
+45. **[Azure Event Grid](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureeventgrid)** - 38K installs
+46. **[Azure Sphere](https://marketplace.visualstudio.com/items?itemName=ms-vscode.azure-sphere-tools)** - 21K installs
+47. **[Azure Serverless](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureserverlesspack)** - 21K installs
+48. **[Service Fabric Reliable Services](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-service-fabric-reliable-services)** - 20K installs
+49. **[Azure Sphere UI](https://marketplace.visualstudio.com/items?itemName=ms-vscode.azure-sphere-tools-ui)** - 18K installs
+50. **[Azure Spring Apps](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-azurespringcloud)** - 17K installs
+51. **[Microsoft Entra External ID](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.ms-entra)** - 15K installs
+52. **[Azure API Center](https://marketplace.visualstudio.com/items?itemName=apidev.azure-api-center)** - 13K installs
+53. **[Azure Video Analyzer](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.azure-video-analyzer)** - 12K installs
+54. **[VS Code Azure Functions Web](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azure-functions-web)** - 10K installs
+55. **[Tye](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-tye)** - 10K installs
+56. **[Azure AI Speech Toolkit](https://marketplace.visualstudio.com/items?itemName=ms-azureaispeech.azure-ai-speech-toolkit)** - 10K installs
+57. **[FHIR Converter](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-health-fhir-converter)** - 9K installs
+58. **[vscode-azure-functions-remote-web](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azure-functions-remote-web)** - 8K installs
+59. **[DocumentDB for VS Code](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-documentdb)** - 8K installs
+60. **[Radius Bicep](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.rad-vscode-bicep)** - 7K installs
+61. **[Azure Arc](https://marketplace.visualstudio.com/items?itemName=azurearc-dev.azurearc)** - 4K installs
+62. **[Azure Arc-enabled machines](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurearcenabledmachines)** - 3K installs
+63. **[Learn Cloud](https://marketplace.visualstudio.com/items?itemName=azurepaas-tools.vscode-learncloud)** - 3K installs
+64. **[Azure Web PubSub](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurewebpubsub)** - 2K installs
+65. **[Azure OSConfig](https://marketplace.visualstudio.com/items?itemName=edge-security.osconfig)** - 1K installs
+66. **[Azure OSConfig](https://marketplace.visualstudio.com/items?itemName=edge-security.osconfig)** - 1K installs
+67. **[Template MCP Server](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-template-mcp-server)** - 775 installs
+68. **[VS Code for the Web - Azure](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-dev-azurecloudshell)** - 684 installs
+69. **[Azure Terraform Helper](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.azureterraform-vscode-web-opener)** - 645 installs
 
 #### 📦 Extension Packs
 
-**46 extensions** (14%) | [View Full Category →](#extension-packs)
+**47 extensions** (14.2%) | [View Full Category →](#extension-packs)
 
-1. **[C/C++ Extension Pack](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools-extension-pack)** - 48.97M installs
-2. **[Chinese (Simplified) (简体中文) Language Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-zh-hans)** - 46.55M installs
-3. **[Extension Pack for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack)** - 40.12M installs
-4. **[Japanese Language Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-ja)** - 12.97M installs
-5. **[Spanish Language Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-es)** - 10.55M installs
-6. **[Portuguese (Brazil) Language Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-pt-BR)** - 8.36M installs
-7. **[Russian Language Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-ru)** - 8.06M installs
-8. **[Korean Language Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-ko)** - 6.11M installs
-9. **[French Language Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-fr)** - 5.81M installs
-10. **[German Language Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-de)** - 5.06M installs
-11. **[Chinese (Traditional) Language Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-zh-hant)** - 4.36M installs
-12. **[Italian Language Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-it)** - 3.17M installs
-13. **[Polish Language Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-pl)** - 2.72M installs
-14. **[Czech Language Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-cs)** - 2.17M installs
+1. **[C/C++ Extension Pack](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools-extension-pack)** - 49.23M installs
+2. **[Chinese (Simplified) (简体中文) Language Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-zh-hans)** - 46.77M installs
+3. **[Extension Pack for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack)** - 40.29M installs
+4. **[Japanese Language Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-ja)** - 13.03M installs
+5. **[Spanish Language Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-es)** - 10.58M installs
+6. **[Portuguese (Brazil) Language Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-pt-BR)** - 8.39M installs
+7. **[Russian Language Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-ru)** - 8.09M installs
+8. **[Korean Language Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-ko)** - 6.13M installs
+9. **[French Language Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-fr)** - 5.84M installs
+10. **[German Language Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-de)** - 5.08M installs
+11. **[Chinese (Traditional) Language Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-zh-hant)** - 4.38M installs
+12. **[Italian Language Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-it)** - 3.18M installs
+13. **[Polish Language Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-pl)** - 2.73M installs
+14. **[Czech Language Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-cs)** - 2.18M installs
 15. **[Hungarian Language Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-hu)** - 2M installs
 16. **[Bulgarian Language Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-bg)** - 1.74M installs
-17. **[Turkish Language Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-tr)** - 1.01M installs
-18. **[Learn Authoring Pack](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-authoring-pack)** - 118K installs
-19. **[Chinese (Simplified, China) language support for VS Code Speech](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-speech-language-pack-zh-cn)** - 108K installs
+17. **[Turkish Language Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-tr)** - 1.02M installs
+18. **[Learn Authoring Pack](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-authoring-pack)** - 119K installs
+19. **[Chinese (Simplified, China) language support for VS Code Speech](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-speech-language-pack-zh-cn)** - 109K installs
 20. **[Brackets Extension Pack](https://marketplace.visualstudio.com/items?itemName=ms-vscode.brackets-pack)** - 101K installs
 21. **[Pseudo Language Language Pack](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-qps-ploc)** - 45K installs
-22. **[Spanish (Spain) language support for VS Code Speech](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-speech-language-pack-es-es)** - 23K installs
+22. **[Spanish (Spain) language support for VS Code Speech](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-speech-language-pack-es-es)** - 24K installs
 23. **[Portuguese (Brazil) language support for VS Code Speech](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-speech-language-pack-pt-br)** - 19K installs
 24. **[French (France) language support for VS Code Speech](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-speech-language-pack-fr-fr)** - 15K installs
 25. **[Russian (Russia) language support for VS Code Speech](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-speech-language-pack-ru-ru)** - 14K installs
 26. **[Japanese (Japan) language support for VS Code Speech](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-speech-language-pack-ja-jp)** - 11K installs
-27. **[Microsoft AI Tools Extension Pack](https://marketplace.visualstudio.com/items?itemName=ms-windows-ai-studio.microsoft-ai-tools-pack)** - 10K installs
+27. **[Microsoft AI Tools Extension Pack](https://marketplace.visualstudio.com/items?itemName=ms-windows-ai-studio.microsoft-ai-tools-pack)** - 11K installs
 28. **[German language support for VS Code Speech](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-speech-language-pack-de-de)** - 10K installs
 29. **[Chinese (Traditional, Taiwan) language support for VS Code Speech](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-speech-language-pack-zh-tw)** - 8K installs
 30. **[Spanish (Mexico) language support for VS Code Speech](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-speech-language-pack-es-mx)** - 6K installs
@@ -285,128 +288,114 @@ categories: 25
 32. **[Korean (South Korea) language support for VS Code Speech](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-speech-language-pack-ko-kr)** - 4K installs
 33. **[Italian (Italy) language support for VS Code Speech](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-speech-language-pack-it-it)** - 3K installs
 34. **[Turkish (Turkey) language support for VS Code Speech](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-speech-language-pack-tr-tr)** - 3K installs
-35. **[Portuguese (Portugal) language support for VS Code Speech](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-speech-language-pack-pt-pt)** - 2K installs
-36. **[English (India) language support for VS Code Speech](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-speech-language-pack-en-in)** - 2K installs
-37. **[Hindi (India) language support for VS Code Speech](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-speech-language-pack-hi-in)** - 2K installs
-38. **[English (Canada) language support for VS Code Speech](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-speech-language-pack-en-ca)** - 900 installs
-39. **[French (Canada) language support for VS Code Speech](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-speech-language-pack-fr-ca)** - 791 installs
-40. **[English (Australia) language support for VS Code Speech](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-speech-language-pack-en-au)** - 738 installs
-41. **[Dutch (Netherlands) language support for VS Code Speech](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-speech-language-pack-nl-nl)** - 727 installs
-42. **[Swedish (Sweden) language support for VS Code Speech](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-speech-language-pack-sv-se)** - 571 installs
-43. **[Chinese (Traditional, Hong Kong) language support for VS Code Speech](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-speech-language-pack-zh-hk)** - 545 installs
-44. **[English (Ireland) language support for VS Code Speech](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-speech-language-pack-en-ie)** - 384 installs
-45. **[English (New Zealand) language support for VS Code Speech](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-speech-language-pack-en-nz)** - 332 installs
-46. **[Danish (Denmark) language support for VS Code Speech](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-speech-language-pack-da-dk)** - 286 installs
+35. **[Turkish (Turkey) language support for VS Code Speech](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-speech-language-pack-tr-tr)** - 3K installs
+36. **[Portuguese (Portugal) language support for VS Code Speech](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-speech-language-pack-pt-pt)** - 2K installs
+37. **[English (India) language support for VS Code Speech](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-speech-language-pack-en-in)** - 2K installs
+38. **[Hindi (India) language support for VS Code Speech](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-speech-language-pack-hi-in)** - 2K installs
+39. **[English (Canada) language support for VS Code Speech](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-speech-language-pack-en-ca)** - 910 installs
+40. **[French (Canada) language support for VS Code Speech](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-speech-language-pack-fr-ca)** - 806 installs
+41. **[English (Australia) language support for VS Code Speech](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-speech-language-pack-en-au)** - 751 installs
+42. **[Dutch (Netherlands) language support for VS Code Speech](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-speech-language-pack-nl-nl)** - 732 installs
+43. **[Swedish (Sweden) language support for VS Code Speech](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-speech-language-pack-sv-se)** - 575 installs
+44. **[Chinese (Traditional, Hong Kong) language support for VS Code Speech](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-speech-language-pack-zh-hk)** - 548 installs
+45. **[English (Ireland) language support for VS Code Speech](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-speech-language-pack-en-ie)** - 386 installs
+46. **[English (New Zealand) language support for VS Code Speech](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-speech-language-pack-en-nz)** - 335 installs
+47. **[Danish (Denmark) language support for VS Code Speech](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-speech-language-pack-da-dk)** - 291 installs
 
 #### 🤖 AI & Machine Learning
 
 **31 extensions** (9.4%) | [View Full Category →](#ai-machine-learning)
 
-1. **[Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)** - 98.83M installs
-2. **[Jupyter Keymap](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter-keymap)** - 78.64M installs
-3. **[Jupyter Notebook Renderers](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter-renderers)** - 77.74M installs
-4. **[IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)** - 60.28M installs
-5. **[Jupyter Cell Tags](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.vscode-jupyter-cell-tags)** - 59.03M installs
-6. **[Jupyter Slide Show](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.vscode-jupyter-slideshow)** - 58.96M installs
-7. **[IntelliCode API Usage Examples](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.intellicode-api-usage-examples)** - 44.6M installs
+1. **[Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)** - 99.12M installs
+2. **[Jupyter Keymap](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter-keymap)** - 78.93M installs
+3. **[Jupyter Notebook Renderers](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter-renderers)** - 78.04M installs
+4. **[IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)** - 60.36M installs
+5. **[Jupyter Cell Tags](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.vscode-jupyter-cell-tags)** - 59.32M installs
+6. **[Jupyter Slide Show](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.vscode-jupyter-slideshow)** - 59.26M installs
+7. **[IntelliCode API Usage Examples](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.intellicode-api-usage-examples)** - 44.69M installs
 8. **[Azure Machine Learning](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.vscode-ai)** - 2.68M installs
 9. **[Azure Machine Learning - Remote](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.vscode-ai-remote)** - 2.51M installs
-10. **[Data Wrangler](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.datawrangler)** - 1.61M installs
-11. **[Jupyter PowerToys](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.vscode-jupyter-powertoys)** - 792K installs
-12. **[AI Toolkit for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-windows-ai-studio.windows-ai-studio)** - 621K installs
-13. **[Tensorboard](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.tensorboard)** - 550K installs
-14. **[IntelliCode Completions](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode-completions)** - 528K installs
-15. **[Microsoft Foundry](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.vscode-ai-foundry)** - 467K installs
-16. **[GitHub Copilot app modernization - upgrade for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-upgrade)** - 463K installs
-17. **[JupyterHub](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter-hub)** - 253K installs
-18. **[IntelliCode Insiders](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode-insiders)** - 177K installs
-19. **[Web Search for Copilot](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-websearchforcopilot)** - 128K installs
-20. **[vscode-mermAId](https://marketplace.visualstudio.com/items?itemName=ms-vscode.copilot-mermaid-diagram)** - 89K installs
-21. **[Vision for Copilot Preview](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-copilot-vision)** - 75K installs
-22. **[Prompty](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.prompty)** - 46K installs
-23. **[Data Analysis for Copilot](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-copilot-data-analysis)** - 31K installs
+10. **[Data Wrangler](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.datawrangler)** - 1.63M installs
+11. **[Jupyter PowerToys](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.vscode-jupyter-powertoys)** - 798K installs
+12. **[AI Toolkit for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-windows-ai-studio.windows-ai-studio)** - 646K installs
+13. **[Tensorboard](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.tensorboard)** - 552K installs
+14. **[IntelliCode Completions](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode-completions)** - 530K installs
+15. **[GitHub Copilot app modernization - upgrade for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-upgrade)** - 497K installs
+16. **[Microsoft Foundry](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.vscode-ai-foundry)** - 493K installs
+17. **[JupyterHub](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter-hub)** - 256K installs
+18. **[IntelliCode Insiders](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode-insiders)** - 178K installs
+19. **[Web Search for Copilot](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-websearchforcopilot)** - 131K installs
+20. **[vscode-mermAId](https://marketplace.visualstudio.com/items?itemName=ms-vscode.copilot-mermaid-diagram)** - 91K installs
+21. **[Vision for Copilot Preview](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-copilot-vision)** - 76K installs
+22. **[Prompty](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.prompty)** - 47K installs
+23. **[Data Analysis for Copilot](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-copilot-data-analysis)** - 32K installs
 24. **[Azure Machine Learning - Inference](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.vscode-ai-inference)** - 15K installs
 25. **[Azure Machine Learning - Remote (Web)](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.vscode-ai-remote-web)** - 13K installs
 26. **[GenAIScript](https://marketplace.visualstudio.com/items?itemName=genaiscript.genaiscript-vscode)** - 13K installs
 27. **[Copilot Studio (Preview)](https://marketplace.visualstudio.com/items?itemName=ms-CopilotStudio.vscode-copilotstudio)** - 11K installs
 28. **[Vision AI DevKit](https://marketplace.visualstudio.com/items?itemName=VisionAIDevKit.vision-ai-devkit)** - 10K installs
 29. **[Git DevOps Assistant (MCP Powered)](https://marketplace.visualstudio.com/items?itemName=MS-DAW-TCA.ado-productivity-copilot)** - 3K installs
-30. **[AI-Powered Content Creator](https://marketplace.visualstudio.com/items?itemName=PDETs-prod.new-module-creation)** - 808 installs
-31. **[AI Gallery](https://marketplace.visualstudio.com/items?itemName=ai-gallery.ai-gallery)** - 340 installs
+30. **[AI-Powered Content Creator](https://marketplace.visualstudio.com/items?itemName=PDETs-prod.new-module-creation)** - 835 installs
+31. **[AI Gallery](https://marketplace.visualstudio.com/items?itemName=ai-gallery.ai-gallery)** - 351 installs
 
 #### 📜 JavaScript & TypeScript
 
-**14 extensions** (4.3%) | [View Full Category →](#javascript-typescript)
+**14 extensions** (4.2%) | [View Full Category →](#javascript-typescript)
 
-1. **[[Deprecated] Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)** - 10.84M installs
-2. **[JavaScript and TypeScript Nightly](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next)** - 6.13M installs
-3. **[React Native Tools](https://marketplace.visualstudio.com/items?itemName=msjsdiag.vscode-react-native)** - 5.79M installs
-4. **[JavaScript Debugger (Nightly)](https://marketplace.visualstudio.com/items?itemName=ms-vscode.js-debug-nightly)** - 3.2M installs
+1. **[[Deprecated] Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)** - 10.85M installs
+2. **[JavaScript and TypeScript Nightly](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next)** - 6.17M installs
+3. **[React Native Tools](https://marketplace.visualstudio.com/items?itemName=msjsdiag.vscode-react-native)** - 5.8M installs
+4. **[JavaScript Debugger (Nightly)](https://marketplace.visualstudio.com/items?itemName=ms-vscode.js-debug-nightly)** - 3.21M installs
 5. **[Cordova Tools](https://marketplace.visualstudio.com/items?itemName=msjsdiag.cordova-tools)** - 515K installs
-6. **[JavaScript Atom Grammar](https://marketplace.visualstudio.com/items?itemName=ms-vscode.js-atom-grammar)** - 261K installs
+6. **[JavaScript Atom Grammar](https://marketplace.visualstudio.com/items?itemName=ms-vscode.js-atom-grammar)** - 262K installs
 7. **[JavaScript Debugger Companion Extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode.js-debug-companion)** - 161K installs
 8. **[JavaScript Debugger](https://marketplace.visualstudio.com/items?itemName=ms-vscode.js-debug)** - 114K installs
-9. **[Flame Chart Visualizer for JavaScript Profiles](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-js-profile-flame)** - 113K installs
+9. **[Flame Chart Visualizer for JavaScript Profiles](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-js-profile-flame)** - 114K installs
 10. **[Debugger for Chrome (Nightly)](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome-nightly)** - 90K installs
 11. **[React Native Tools (Preview)](https://marketplace.visualstudio.com/items?itemName=msjsdiag.vscode-react-native-preview)** - 69K installs
-12. **[anycode-typescript](https://marketplace.visualstudio.com/items?itemName=ms-vscode.anycode-typescript)** - 45K installs
-13. **[TypeScript (Native Preview)](https://marketplace.visualstudio.com/items?itemName=TypeScriptTeam.native-preview)** - 42K installs
+12. **[TypeScript (Native Preview)](https://marketplace.visualstudio.com/items?itemName=TypeScriptTeam.native-preview)** - 48K installs
+13. **[anycode-typescript](https://marketplace.visualstudio.com/items?itemName=ms-vscode.anycode-typescript)** - 45K installs
 14. **[Table Visualizer for JavaScript Profiles](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-js-profile-table)** - 19K installs
 
 #### 🐍 Python Development
 
-**13 extensions** (4%) | [View Full Category →](#python-development)
+**12 extensions** (3.6%) | [View Full Category →](#python-development)
 
-1. **[Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)** - 194.96M installs
-2. **[Pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance)** - 162.84M installs
-3. **[Python Debugger](https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy)** - 100.29M installs
-4. **[isort](https://marketplace.visualstudio.com/items?itemName=ms-python.isort)** - 24.92M installs
-5. **[Python Environments](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-python-envs)** - 16.5M installs
-6. **[Black Formatter](https://marketplace.visualstudio.com/items?itemName=ms-python.black-formatter)** - 5.97M installs
-7. **[autopep8](https://marketplace.visualstudio.com/items?itemName=ms-python.autopep8)** - 5.03M installs
-8. **[Pylint](https://marketplace.visualstudio.com/items?itemName=ms-python.pylint)** - 2.91M installs
-9. **[Flake8](https://marketplace.visualstudio.com/items?itemName=ms-python.flake8)** - 1.64M installs
-10. **[Mypy Type Checker](https://marketplace.visualstudio.com/items?itemName=ms-python.mypy-type-checker)** - 690K installs
-11. **[Gather](https://marketplace.visualstudio.com/items?itemName=ms-python.gather)** - 119K installs
-12. **[anycode-python](https://marketplace.visualstudio.com/items?itemName=ms-vscode.anycode-python)** - 65K installs
-13. **[Experimental - Python for the Web](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-python-web-wasm)** - 8K installs
+1. **[Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)** - 195.98M installs
+2. **[Pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance)** - 163.89M installs
+3. **[Python Debugger](https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy)** - 101.34M installs
+4. **[isort](https://marketplace.visualstudio.com/items?itemName=ms-python.isort)** - 24.96M installs
+5. **[Python Environments](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-python-envs)** - 17.48M installs
+6. **[autopep8](https://marketplace.visualstudio.com/items?itemName=ms-python.autopep8)** - 5.07M installs
+7. **[Pylint](https://marketplace.visualstudio.com/items?itemName=ms-python.pylint)** - 2.93M installs
+8. **[Flake8](https://marketplace.visualstudio.com/items?itemName=ms-python.flake8)** - 1.65M installs
+9. **[Mypy Type Checker](https://marketplace.visualstudio.com/items?itemName=ms-python.mypy-type-checker)** - 697K installs
+10. **[Gather](https://marketplace.visualstudio.com/items?itemName=ms-python.gather)** - 120K installs
+11. **[anycode-python](https://marketplace.visualstudio.com/items?itemName=ms-vscode.anycode-python)** - 65K installs
+12. **[Experimental - Python for the Web](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-python-web-wasm)** - 8K installs
 
 #### 🌐 Remote Development
 
 **10 extensions** (3%) | [View Full Category →](#remote-development)
 
-1. **[WSL](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl)** - 37.25M installs
-2. **[Dev Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)** - 35.18M installs
-3. **[Remote - SSH](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh)** - 30.74M installs
-4. **[Remote - SSH: Editing Configuration Files](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh-edit)** - 28.62M installs
-5. **[Remote Explorer](https://marketplace.visualstudio.com/items?itemName=ms-vscode.remote-explorer)** - 22.76M installs
-6. **[Remote Development](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack)** - 8.06M installs
-7. **[Remote - Tunnels](https://marketplace.visualstudio.com/items?itemName=ms-vscode.remote-server)** - 7.45M installs
-8. **[Remote Repositories](https://marketplace.visualstudio.com/items?itemName=ms-vscode.remote-repositories)** - 5.18M installs
+1. **[WSL](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl)** - 37.34M installs
+2. **[Dev Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)** - 35.34M installs
+3. **[Remote - SSH](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh)** - 30.9M installs
+4. **[Remote - SSH: Editing Configuration Files](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh-edit)** - 28.79M installs
+5. **[Remote Explorer](https://marketplace.visualstudio.com/items?itemName=ms-vscode.remote-explorer)** - 22.94M installs
+6. **[Remote Development](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack)** - 8.1M installs
+7. **[Remote - Tunnels](https://marketplace.visualstudio.com/items?itemName=ms-vscode.remote-server)** - 7.5M installs
+8. **[Remote Repositories](https://marketplace.visualstudio.com/items?itemName=ms-vscode.remote-repositories)** - 5.22M installs
 9. **[WSL: Recommender](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl-recommender)** - 69K installs
 10. **[Fabric Data Engineering VS Code - Remote](https://marketplace.visualstudio.com/items?itemName=SynapseVSCode.vscode-synapse-remote)** - 10K installs
-
-#### ⚡ .NET Development
-
-**9 extensions** (2.7%) | [View Full Category →](#net-development)
-
-1. **[C#](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp)** - 37.45M installs
-2. **[.NET Install Tool](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscode-dotnet-runtime)** - 23.23M installs
-3. **[C# Dev Kit](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit)** - 12.56M installs
-4. **[IntelliCode for C# Dev Kit](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscodeintellicode-csharp)** - 4.21M installs
-5. **[Polyglot Notebooks](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.dotnet-interactive-vscode)** - 1.75M installs
-6. **[.NET Extension Pack](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscode-dotnet-pack)** - 1.35M installs
-7. **[.NET MAUI](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.dotnet-maui)** - 347K installs
-8. **[Microsoft.AspNetCore.Razor.VSCode.BlazorWasmDebuggingExtension](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.blazorwasm-companion)** - 176K installs
-9. **[GitHub Copilot app modernization for .NET](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscode-dotnet-modernize)** - 6K installs
 
 #### 🐳 Containers & Kubernetes
 
 **9 extensions** (2.7%) | [View Full Category →](#containers-kubernetes)
 
-1. **[Kubernetes](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.vscode-kubernetes-tools)** - 6.34M installs
+1. **[Kubernetes](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.vscode-kubernetes-tools)** - 6.37M installs
 2. **[Bridge to Kubernetes](https://marketplace.visualstudio.com/items?itemName=mindaro.mindaro)** - 488K installs
-3. **[Azure Kubernetes Service](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.vscode-aks-tools)** - 402K installs
+3. **[Azure Kubernetes Service](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.vscode-aks-tools)** - 403K installs
 4. **[Kubernetes Kind](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.kind-vscode)** - 102K installs
 5. **[Developer Tools for Azure Kubernetes Service (AKS)](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.aks-devx-tools)** - 22K installs
 6. **[Open Policy Agent for Kubernetes](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.kubernetes-opa-vscode)** - 5K installs
@@ -414,60 +403,74 @@ categories: 25
 8. **[Porter](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.porter-vscode)** - 3K installs
 9. **[Duffle Coat](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.duffle-coat)** - 2K installs
 
-#### 🎓 Education & Learning
+#### ⚡ .NET Development
 
-**8 extensions** (2.4%) | [View Full Category →](#education-learning)
+**9 extensions** (2.7%) | [View Full Category →](#net-development)
 
-1. **[learn-markdown](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-markdown)** - 471K installs
-2. **[learn-yaml](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-yaml)** - 466K installs
-3. **[learn-images](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-images)** - 295K installs
-4. **[learn-preview](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-preview)** - 247K installs
-5. **[learn-article-templates](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-article-templates)** - 125K installs
-6. **[learn-scaffolding](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-scaffolding)** - 89K installs
-7. **[Learn Linter](https://marketplace.visualstudio.com/items?itemName=docsmsft.learnlinter)** - 3K installs
-8. **[Microsoft Learn Authoring Assistant](https://marketplace.visualstudio.com/items?itemName=docsmsft.learn-authoring-assistant)** - 580 installs
+1. **[C#](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp)** - 37.59M installs
+2. **[.NET Install Tool](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscode-dotnet-runtime)** - 23.4M installs
+3. **[C# Dev Kit](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit)** - 12.69M installs
+4. **[IntelliCode for C# Dev Kit](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscodeintellicode-csharp)** - 4.22M installs
+5. **[Polyglot Notebooks](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.dotnet-interactive-vscode)** - 1.76M installs
+6. **[.NET Extension Pack](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscode-dotnet-pack)** - 1.36M installs
+7. **[.NET MAUI](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.dotnet-maui)** - 350K installs
+8. **[Microsoft.AspNetCore.Razor.VSCode.BlazorWasmDebuggingExtension](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.blazorwasm-companion)** - 176K installs
+9. **[GitHub Copilot app modernization for .NET](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscode-dotnet-modernize)** - 38K installs
 
 #### 🎨 Themes & Appearance
 
 **8 extensions** (2.4%) | [View Full Category →](#themes-appearance)
 
-1. **[C/C++ Themes](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools-themes)** - 50.46M installs
-2. **[Markdown Theme Kit](https://marketplace.visualstudio.com/items?itemName=ms-vscode.Theme-MarkdownKit)** - 565K installs
-3. **[Material Theme Kit](https://marketplace.visualstudio.com/items?itemName=ms-vscode.Theme-MaterialKit)** - 415K installs
+1. **[C/C++ Themes](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools-themes)** - 50.73M installs
+2. **[Markdown Theme Kit](https://marketplace.visualstudio.com/items?itemName=ms-vscode.Theme-MarkdownKit)** - 566K installs
+3. **[Material Theme Kit](https://marketplace.visualstudio.com/items?itemName=ms-vscode.Theme-MaterialKit)** - 417K installs
 4. **[Tomorrow and Tomorrow Night Theme Kit](https://marketplace.visualstudio.com/items?itemName=ms-vscode.Theme-TomorrowKit)** - 207K installs
 5. **[1337 Theme](https://marketplace.visualstudio.com/items?itemName=ms-vscode.Theme-1337)** - 124K installs
 6. **[Predawn Theme Kit](https://marketplace.visualstudio.com/items?itemName=ms-vscode.Theme-PredawnKit)** - 107K installs
 7. **[3024 Theme Kit](https://marketplace.visualstudio.com/items?itemName=ms-vscode.Theme-3024Kit)** - 26K installs
 8. **[Theme Tester](https://marketplace.visualstudio.com/items?itemName=ms-vscode.theme-tester)** - 3K installs
 
+#### 🎓 Education & Learning
+
+**8 extensions** (2.4%) | [View Full Category →](#education-learning)
+
+1. **[learn-markdown](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-markdown)** - 472K installs
+2. **[learn-yaml](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-yaml)** - 467K installs
+3. **[learn-images](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-images)** - 295K installs
+4. **[learn-preview](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-preview)** - 248K installs
+5. **[learn-article-templates](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-article-templates)** - 125K installs
+6. **[learn-scaffolding](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-scaffolding)** - 90K installs
+7. **[Learn Linter](https://marketplace.visualstudio.com/items?itemName=docsmsft.learnlinter)** - 3K installs
+8. **[Microsoft Learn Authoring Assistant](https://marketplace.visualstudio.com/items?itemName=docsmsft.learn-authoring-assistant)** - 732 installs
+
 #### 🧪 Testing Tools
 
 **7 extensions** (2.1%) | [View Full Category →](#testing-tools)
 
-1. **[Test Runner for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-test)** - 40.58M installs
-2. **[Test Adapter Converter](https://marketplace.visualstudio.com/items?itemName=ms-vscode.test-adapter-converter)** - 4.65M installs
-3. **[Playwright Test for VSCode](https://marketplace.visualstudio.com/items?itemName=ms-playwright.playwright)** - 1.98M installs
-4. **[Azure Load Testing](https://marketplace.visualstudio.com/items?itemName=ms-azure-load-testing.microsoft-testing)** - 337K installs
-5. **[Extension Test Runner](https://marketplace.visualstudio.com/items?itemName=ms-vscode.extension-test-runner)** - 198K installs
-6. **[vscode-smoketest-check](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-smoketest-check)** - 174K installs
+1. **[Test Runner for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-test)** - 40.75M installs
+2. **[Test Adapter Converter](https://marketplace.visualstudio.com/items?itemName=ms-vscode.test-adapter-converter)** - 4.67M installs
+3. **[Playwright Test for VSCode](https://marketplace.visualstudio.com/items?itemName=ms-playwright.playwright)** - 2M installs
+4. **[Azure Load Testing](https://marketplace.visualstudio.com/items?itemName=ms-azure-load-testing.microsoft-testing)** - 350K installs
+5. **[Extension Test Runner](https://marketplace.visualstudio.com/items?itemName=ms-vscode.extension-test-runner)** - 201K installs
+6. **[vscode-smoketest-check](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-smoketest-check)** - 175K installs
 7. **[Web Template Studio (Preview)](https://marketplace.visualstudio.com/items?itemName=WASTeamAccount.WebTemplateStudio-dev-nightly)** - 134K installs
 
 #### ☕ Java Development
 
 **6 extensions** (1.8%) | [View Full Category →](#java-development)
 
-1. **[Debugger for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-debug)** - 45.46M installs
-2. **[Maven for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-maven)** - 41.9M installs
-3. **[Project Manager for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-dependency)** - 40.33M installs
-4. **[Gradle for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-gradle)** - 21.23M installs
-5. **[Spring Initializr Java Support](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-spring-initializr)** - 5.68M installs
+1. **[Debugger for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-debug)** - 45.65M installs
+2. **[Maven for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-maven)** - 42.07M installs
+3. **[Project Manager for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-dependency)** - 40.5M installs
+4. **[Gradle for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-gradle)** - 21.41M installs
+5. **[Spring Initializr Java Support](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-spring-initializr)** - 5.71M installs
 6. **[anycode-java](https://marketplace.visualstudio.com/items?itemName=ms-vscode.anycode-java)** - 54K installs
 
 #### 🌍 Web Development
 
 **5 extensions** (1.5%) | [View Full Category →](#web-development)
 
-1. **[Microsoft Edge Tools for VS Code](https://marketplace.visualstudio.com/items?itemName=ms-edgedevtools.vscode-edge-devtools)** - 5.51M installs
+1. **[Microsoft Edge Tools for VS Code](https://marketplace.visualstudio.com/items?itemName=ms-edgedevtools.vscode-edge-devtools)** - 5.54M installs
 2. **[WebAssembly DWARF Debugging](https://marketplace.visualstudio.com/items?itemName=ms-vscode.wasm-dwarf-debugging)** - 19K installs
 3. **[WASI based WebAssembly Execution Engine](https://marketplace.visualstudio.com/items?itemName=ms-vscode.wasm-wasi-core)** - 13K installs
 4. **[Experimental - A shell for VS Code Web](https://marketplace.visualstudio.com/items?itemName=ms-vscode.webshell)** - 4K installs
@@ -486,37 +489,29 @@ categories: 25
 
 **3 extensions** (0.9%) | [View Full Category →](#debugging-tools)
 
-1. **[[Deprecated] Node Debug](https://marketplace.visualstudio.com/items?itemName=ms-vscode.node-debug2)** - 374K installs
+1. **[[Deprecated] Node Debug](https://marketplace.visualstudio.com/items?itemName=ms-vscode.node-debug2)** - 375K installs
 2. **[[Deprecated] Node Debug (legacy)](https://marketplace.visualstudio.com/items?itemName=ms-vscode.node-debug)** - 231K installs
-3. **[Microsoft Office Add-ins Development Kit](https://marketplace.visualstudio.com/items?itemName=msoffice.microsoft-office-add-in-debugger)** - 166K installs
-
-#### 🔧 C/C++ Development
-
-**3 extensions** (0.9%) | [View Full Category →](#c-c-development)
-
-1. **[C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools)** - 91.67M installs
-2. **[anycode-cpp](https://marketplace.visualstudio.com/items?itemName=ms-vscode.anycode-cpp)** - 71K installs
-3. **[anycode-cpp](https://marketplace.visualstudio.com/items?itemName=ms-vscode.anycode-cpp)** - 71K installs
-
-#### 👥 Collaboration Tools
-
-**2 extensions** (0.6%) | [View Full Category →](#collaboration-tools)
-
-1. **[Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)** - 22.23M installs
-2. **[[Deprecated] Live Share Audio](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-audio)** - 5.45M installs
+3. **[Microsoft Office Add-ins Development Kit](https://marketplace.visualstudio.com/items?itemName=msoffice.microsoft-office-add-in-debugger)** - 168K installs
 
 #### 📊 Business Central (AL)
 
 **2 extensions** (0.6%) | [View Full Category →](#business-central-al)
 
-1. **[AL Language extension for Microsoft Dynamics 365 Business Central](https://marketplace.visualstudio.com/items?itemName=ms-dynamics-smb.al)** - 470K installs
+1. **[AL Language extension for Microsoft Dynamics 365 Business Central](https://marketplace.visualstudio.com/items?itemName=ms-dynamics-smb.al)** - 471K installs
 2. **[Performance Toolkit](https://marketplace.visualstudio.com/items?itemName=ms-dynamics-smb.bcpt)** - 7K installs
+
+#### 👥 Collaboration Tools
+
+**2 extensions** (0.6%) | [View Full Category →](#collaboration-tools)
+
+1. **[Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)** - 22.29M installs
+2. **[[Deprecated] Live Share Audio](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-audio)** - 5.45M installs
 
 #### ✨ Linters & Formatters
 
 **2 extensions** (0.6%) | [View Full Category →](#linters-formatters)
 
-1. **[ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)** - 46.85M installs
+1. **[ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)** - 47.02M installs
 2. **[TSLint](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin)** - 4.47M installs
 
 #### ⚛️ Quantum Computing
@@ -526,11 +521,18 @@ categories: 25
 1. **[Azure Quantum Development Kit (QDK)](https://marketplace.visualstudio.com/items?itemName=quantum.qsharp-lang-vscode)** - 25K installs
 2. **[[DEV BUILD] Azure Quantum Development Kit (QDK)](https://marketplace.visualstudio.com/items?itemName=quantum.qsharp-lang-vscode-dev)** - 4K installs
 
-#### 🔀 Version Control
+#### 🔧 C/C++ Development
 
-**1 extensions** (0.3%) | [View Full Category →](#version-control)
+**2 extensions** (0.6%) | [View Full Category →](#c-c-development)
 
-1. **[GitHub Issue Notebooks](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-github-issue-notebooks)** - 255K installs
+1. **[C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools)** - 92.03M installs
+2. **[anycode-cpp](https://marketplace.visualstudio.com/items?itemName=ms-vscode.anycode-cpp)** - 72K installs
+
+#### 📈 Data Science & Notebooks
+
+**1 extensions** (0.3%) | [View Full Category →](#data-science-notebooks)
+
+1. **[Markdown Notebook](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-markdown-notebook)** - 47K installs
 
 #### ⚠️ Deprecated Extensions
 
@@ -538,17 +540,17 @@ categories: 25
 
 1. **[[DEPRECATED] LaTeX Language Support](https://marketplace.visualstudio.com/items?itemName=ms-vscode.latex)** - 42K installs
 
-#### 📈 Data Science & Notebooks
+#### 🔀 Version Control
 
-**1 extensions** (0.3%) | [View Full Category →](#data-science-notebooks)
+**1 extensions** (0.3%) | [View Full Category →](#version-control)
 
-1. **[Markdown Notebook](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-markdown-notebook)** - 46K installs
+1. **[GitHub Issue Notebooks](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-github-issue-notebooks)** - 258K installs
 
 #### 💻 PowerShell Development
 
 **1 extensions** (0.3%) | [View Full Category →](#powershell-development)
 
-1. **[PowerShell](https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell)** - 17.05M installs
+1. **[PowerShell](https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell)** - 17.15M installs
 
 ---
 
@@ -558,14 +560,14 @@ categories: 25
 
 ## Other Extensions
 
-**Category Stats:** 76 extensions | Total Installs: 114.53M | Avg Rating: 4.4⭐
+**Category Stats:** 75 extensions | Total Installs: 115.09M | Avg Rating: 4.4⭐
 
 [⬆ Back to Table of Contents](#-table-of-contents)
 
 ---
 
 ### 1. [CMake Tools](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cmake-tools)
-*Extension #1 of 329*
+*Extension #1 of 331*
 
 Extended CMake support in Visual Studio Code
 
@@ -573,7 +575,7 @@ Extended CMake support in Visual Studio Code
 
 - **Extension ID:** `ms-vscode.cmake-tools`
 - **Version:** 1.22.20
-- **Installs:** 53.24M
+- **Installs:** 53.52M
 - **Rating:** ⭐ 4.5/5 (75 ratings)
 - **Published:** 2016-04-16
 - **Last Updated:** 2025-12-05
@@ -601,7 +603,7 @@ All Platforms
 ---
 
 ### 2. [Live Preview](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server)
-*Extension #2 of 329*
+*Extension #2 of 331*
 
 Hosts a local server in your workspace for you to preview your webpages on.
 
@@ -609,7 +611,7 @@ Hosts a local server in your workspace for you to preview your webpages on.
 
 - **Extension ID:** `ms-vscode.live-server`
 - **Version:** 0.5.2025091501
-- **Installs:** 11.05M
+- **Installs:** 11.12M
 - **Rating:** ⭐ 4.4/5 (76 ratings)
 - **Published:** 2021-06-21
 - **Last Updated:** 2025-09-15
@@ -637,7 +639,7 @@ All Platforms
 ---
 
 ### 3. [Makefile Tools](https://marketplace.visualstudio.com/items?itemName=ms-vscode.makefile-tools)
-*Extension #3 of 329*
+*Extension #3 of 331*
 
 Provide makefile support in VS Code: C/C++ IntelliSense, build, debug/run.
 
@@ -645,8 +647,8 @@ Provide makefile support in VS Code: C/C++ IntelliSense, build, debug/run.
 
 - **Extension ID:** `ms-vscode.makefile-tools`
 - **Version:** 0.13.12
-- **Installs:** 8.65M
-- **Rating:** ⭐ 2.6/5 (39 ratings)
+- **Installs:** 8.71M
+- **Rating:** ⭐ 2.5/5 (40 ratings)
 - **Published:** 2021-02-17
 - **Last Updated:** 2025-09-01
 - **VS Code Engine:** ^1.74.0
@@ -673,7 +675,7 @@ All Platforms
 ---
 
 ### 4. [Hex Editor](https://marketplace.visualstudio.com/items?itemName=ms-vscode.hexeditor)
-*Extension #4 of 329*
+*Extension #4 of 331*
 
 Allows viewing and editing files in a hex editor
 
@@ -681,7 +683,7 @@ Allows viewing and editing files in a hex editor
 
 - **Extension ID:** `ms-vscode.hexeditor`
 - **Version:** 1.11.1
-- **Installs:** 6.43M
+- **Installs:** 6.46M
 - **Rating:** ⭐ 3.5/5 (60 ratings)
 - **Published:** 2020-06-08
 - **Last Updated:** 2024-11-03
@@ -709,7 +711,7 @@ All Platforms
 ---
 
 ### 5. [Data Workspace](https://marketplace.visualstudio.com/items?itemName=ms-mssql.data-workspace-vscode)
-*Extension #5 of 329*
+*Extension #5 of 331*
 
 Additional common functionality for database projects
 
@@ -717,7 +719,7 @@ Additional common functionality for database projects
 
 - **Extension ID:** `ms-mssql.data-workspace-vscode`
 - **Version:** 0.6.3
-- **Installs:** 4.77M
+- **Installs:** 4.8M
 - **Rating:** ⭐ 4/5 (4 ratings)
 - **Published:** 2021-10-27
 - **Last Updated:** 2025-06-18
@@ -741,7 +743,7 @@ All Platforms
 ---
 
 ### 6. [SQL Database Projects](https://marketplace.visualstudio.com/items?itemName=ms-mssql.sql-database-projects-vscode)
-*Extension #6 of 329*
+*Extension #6 of 331*
 
 Enables users to develop and publish database schemas for MSSQL Databases
 
@@ -749,7 +751,7 @@ Enables users to develop and publish database schemas for MSSQL Databases
 
 - **Extension ID:** `ms-mssql.sql-database-projects-vscode`
 - **Version:** 1.5.5
-- **Installs:** 4.65M
+- **Installs:** 4.68M
 - **Rating:** ⭐ 4.2/5 (5 ratings)
 - **Published:** 2021-10-27
 - **Last Updated:** 2025-11-18
@@ -773,7 +775,7 @@ All Platforms
 ---
 
 ### 7. [Spring Boot Dashboard](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-spring-boot-dashboard)
-*Extension #7 of 329*
+*Extension #7 of 331*
 
 Spring Boot Dashboard for VS Code
 
@@ -781,7 +783,7 @@ Spring Boot Dashboard for VS Code
 
 - **Extension ID:** `vscjava.vscode-spring-boot-dashboard`
 - **Version:** 0.14.2025041702
-- **Installs:** 4.32M
+- **Installs:** 4.34M
 - **Rating:** ⭐ 4.2/5 (9 ratings)
 - **Published:** 2018-09-14
 - **Last Updated:** 2025-04-17
@@ -805,7 +807,7 @@ All Platforms
 ---
 
 ### 8. [jshint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.jshint)
-*Extension #8 of 329*
+*Extension #8 of 331*
 
 Integrates JSHint into VS Code. JSHint is a linter for JavaScript
 
@@ -840,7 +842,7 @@ All Platforms
 ---
 
 ### 9. [Notepad++ keymap](https://marketplace.visualstudio.com/items?itemName=ms-vscode.notepadplusplus-keybindings)
-*Extension #9 of 329*
+*Extension #9 of 331*
 
 Popular Notepad++ keybindings for Visual Studio Code
 
@@ -848,7 +850,7 @@ Popular Notepad++ keybindings for Visual Studio Code
 
 - **Extension ID:** `ms-vscode.notepadplusplus-keybindings`
 - **Version:** 1.0.7
-- **Installs:** 2.34M
+- **Installs:** 2.35M
 - **Rating:** ⭐ 4.7/5 (12 ratings)
 - **Published:** 2017-12-04
 - **Last Updated:** 2021-03-26
@@ -875,7 +877,7 @@ All Platforms
 ---
 
 ### 10. [Sublime Text Keymap and Settings Importer](https://marketplace.visualstudio.com/items?itemName=ms-vscode.sublime-keybindings)
-*Extension #10 of 329*
+*Extension #10 of 331*
 
 Import Sublime Text settings and keybindings into VS Code.
 
@@ -911,7 +913,7 @@ All Platforms
 ---
 
 ### 11. [Unity](https://marketplace.visualstudio.com/items?itemName=VisualStudioToolsForUnity.vstuc)
-*Extension #11 of 329*
+*Extension #11 of 331*
 
 Integrates Visual Studio Code with Unity
 
@@ -919,7 +921,7 @@ Integrates Visual Studio Code with Unity
 
 - **Extension ID:** `VisualStudioToolsForUnity.vstuc`
 - **Version:** 1.2.0
-- **Installs:** 1.94M
+- **Installs:** 1.96M
 - **Rating:** ⭐ 3.8/5 (76 ratings)
 - **Published:** 2023-08-03
 - **Last Updated:** 2025-11-21
@@ -945,7 +947,7 @@ All Platforms
 ---
 
 ### 12. [Serial Monitor](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-serial-monitor)
-*Extension #12 of 329*
+*Extension #12 of 331*
 
 Send and receive text from serial ports.
 
@@ -953,7 +955,7 @@ Send and receive text from serial ports.
 
 - **Extension ID:** `ms-vscode.vscode-serial-monitor`
 - **Version:** 0.13.251128001
-- **Installs:** 1.72M
+- **Installs:** 1.73M
 - **Rating:** ⭐ 3.6/5 (37 ratings)
 - **Published:** 2022-06-06
 - **Last Updated:** 2025-11-28
@@ -982,7 +984,7 @@ All Platforms
 ---
 
 ### 13. [Atom Keymap](https://marketplace.visualstudio.com/items?itemName=ms-vscode.atom-keybindings)
-*Extension #13 of 329*
+*Extension #13 of 331*
 
 Popular Atom keybindings for Visual Studio Code
 
@@ -1018,7 +1020,7 @@ All Platforms
 ---
 
 ### 14. [Lombok Annotations Support for VS Code](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-lombok)
-*Extension #14 of 329*
+*Extension #14 of 331*
 
 Refactor code with Lombok annotations, or remove Lombok annotations with actual methods.
 
@@ -1054,7 +1056,7 @@ All Platforms
 ---
 
 ### 15. [VS Code Speech](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-speech)
-*Extension #15 of 329*
+*Extension #15 of 331*
 
 A VS Code extension to bring speech-to-text and other voice capabilities to VS Code.
 
@@ -1062,7 +1064,7 @@ A VS Code extension to bring speech-to-text and other voice capabilities to VS C
 
 - **Extension ID:** `ms-vscode.vscode-speech`
 - **Version:** 0.16.0
-- **Installs:** 1.1M
+- **Installs:** 1.11M
 - **Rating:** ⭐ 3.4/5 (23 ratings)
 - **Published:** 2023-10-31
 - **Last Updated:** 2025-06-13
@@ -1090,7 +1092,7 @@ macOS Apple Silicon, Linux ARM64, Windows x64, Windows ARM64, macOS Intel, Linux
 ---
 
 ### 16. [Mono Debug](https://marketplace.visualstudio.com/items?itemName=ms-vscode.mono-debug)
-*Extension #16 of 329*
+*Extension #16 of 331*
 
 Visual Studio Code debugger extension for Mono
 
@@ -1098,7 +1100,7 @@ Visual Studio Code debugger extension for Mono
 
 - **Extension ID:** `ms-vscode.mono-debug`
 - **Version:** 0.16.3
-- **Installs:** 917K
+- **Installs:** 919K
 - **Rating:** ⭐ 3.5/5 (11 ratings)
 - **Published:** 2016-02-19
 - **Last Updated:** 2022-08-09
@@ -1126,7 +1128,7 @@ All Platforms
 ---
 
 ### 17. [File Downloader](https://marketplace.visualstudio.com/items?itemName=mindaro-dev.file-downloader)
-*Extension #17 of 329*
+*Extension #17 of 331*
 
 Exposes an API that allows other extensions to download files.
 
@@ -1134,7 +1136,7 @@ Exposes an API that allows other extensions to download files.
 
 - **Extension ID:** `mindaro-dev.file-downloader`
 - **Version:** 1.0.13
-- **Installs:** 837K
+- **Installs:** 840K
 - **Rating:** ⭐ 5/5 (1 ratings)
 - **Published:** 2020-07-13
 - **Last Updated:** 2023-10-16
@@ -1158,7 +1160,7 @@ All Platforms
 ---
 
 ### 18. [Visual Studio Keymap](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vs-keybindings)
-*Extension #18 of 329*
+*Extension #18 of 331*
 
 Popular Visual Studio keybindings for VS Code.
 
@@ -1166,7 +1168,7 @@ Popular Visual Studio keybindings for VS Code.
 
 - **Extension ID:** `ms-vscode.vs-keybindings`
 - **Version:** 0.2.1
-- **Installs:** 675K
+- **Installs:** 676K
 - **Rating:** ⭐ 4.3/5 (35 ratings)
 - **Published:** 2016-11-15
 - **Last Updated:** 2021-04-06
@@ -1192,8 +1194,44 @@ All Platforms
 
 ---
 
-### 19. [Inkling](https://marketplace.visualstudio.com/items?itemName=ms-inkling.ms-inkling)
-*Extension #19 of 329*
+### 19. [Pyright](https://marketplace.visualstudio.com/items?itemName=ms-pyright.pyright)
+*Extension #19 of 331*
+
+VS Code static type checking for Python
+
+**Details:**
+
+- **Extension ID:** `ms-pyright.pyright`
+- **Version:** 1.1.407
+- **Installs:** 463K
+- **Rating:** ⭐ 4.6/5 (20 ratings)
+- **Published:** 2019-03-21
+- **Last Updated:** 2025-10-22
+- **VS Code Engine:** ^1.101.0
+- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=ms-pyright.pyright
+
+**Resources:**
+
+- 📦 [Repository](https://github.com/Microsoft/pyright.git)
+- 🐛 [Issues](https://github.com/Microsoft/pyright/issues)
+- 🏠 [Homepage](https://github.com/Microsoft/pyright#readme)
+
+**Marketplace Categories:**
+
+Programming Languages
+
+**Tags:**
+
+__ext_py, __ext_pyi, json, python
+
+**Works With:**
+
+All Platforms
+
+---
+
+### 20. [Inkling](https://marketplace.visualstudio.com/items?itemName=ms-inkling.ms-inkling)
+*Extension #20 of 331*
 
 VS Code language support for the inkling language
 
@@ -1226,44 +1264,8 @@ All Platforms
 
 ---
 
-### 20. [Pyright](https://marketplace.visualstudio.com/items?itemName=ms-pyright.pyright)
-*Extension #20 of 329*
-
-VS Code static type checking for Python
-
-**Details:**
-
-- **Extension ID:** `ms-pyright.pyright`
-- **Version:** 1.1.407
-- **Installs:** 459K
-- **Rating:** ⭐ 4.6/5 (20 ratings)
-- **Published:** 2019-03-21
-- **Last Updated:** 2025-10-22
-- **VS Code Engine:** ^1.101.0
-- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=ms-pyright.pyright
-
-**Resources:**
-
-- 📦 [Repository](https://github.com/Microsoft/pyright.git)
-- 🐛 [Issues](https://github.com/Microsoft/pyright/issues)
-- 🏠 [Homepage](https://github.com/Microsoft/pyright#readme)
-
-**Marketplace Categories:**
-
-Programming Languages
-
-**Tags:**
-
-__ext_py, __ext_pyi, json, python
-
-**Works With:**
-
-All Platforms
-
----
-
 ### 21. [Microsoft 365 Agents Toolkit](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.ms-teams-vscode-extension)
-*Extension #21 of 329*
+*Extension #21 of 331*
 
 Create, debug, and deploy agents with Microsoft 365 Agents Toolkit
 
@@ -1271,7 +1273,7 @@ Create, debug, and deploy agents with Microsoft 365 Agents Toolkit
 
 - **Extension ID:** `TeamsDevApp.ms-teams-vscode-extension`
 - **Version:** 6.5.2025120408
-- **Installs:** 393K
+- **Installs:** 396K
 - **Rating:** ⭐ 3.5/5 (39 ratings)
 - **Published:** 2020-05-13
 - **Last Updated:** 2025-12-05
@@ -1299,7 +1301,7 @@ All Platforms
 ---
 
 ### 22. [SARIF Viewer](https://marketplace.visualstudio.com/items?itemName=MS-SarifVSCode.sarif-viewer)
-*Extension #22 of 329*
+*Extension #22 of 331*
 
 Adds support for viewing SARIF logs
 
@@ -1307,7 +1309,7 @@ Adds support for viewing SARIF logs
 
 - **Extension ID:** `MS-SarifVSCode.sarif-viewer`
 - **Version:** 3.4.5
-- **Installs:** 326K
+- **Installs:** 331K
 - **Rating:** ⭐ 3.8/5 (6 ratings)
 - **Published:** 2018-04-25
 - **Last Updated:** 2025-05-06
@@ -1335,7 +1337,7 @@ All Platforms
 ---
 
 ### 23. [anycode](https://marketplace.visualstudio.com/items?itemName=ms-vscode.anycode)
-*Extension #23 of 329*
+*Extension #23 of 331*
 
 **Details:**
 
@@ -1369,7 +1371,7 @@ All Platforms
 ---
 
 ### 24. [PostgreSQL](https://marketplace.visualstudio.com/items?itemName=ms-ossdata.vscode-pgsql)
-*Extension #24 of 329*
+*Extension #24 of 331*
 
 Develop PostgreSQL applications everywhere.
 
@@ -1377,7 +1379,7 @@ Develop PostgreSQL applications everywhere.
 
 - **Extension ID:** `ms-ossdata.vscode-pgsql`
 - **Version:** 1.12.1
-- **Installs:** 299K
+- **Installs:** 309K
 - **Rating:** ⭐ 4.5/5 (32 ratings)
 - **Published:** 2025-05-14
 - **Last Updated:** 2025-12-02
@@ -1405,7 +1407,7 @@ Linux ARM64, Linux x64, macOS Intel, macOS Apple Silicon, Windows x64
 ---
 
 ### 25. [Word Count](https://marketplace.visualstudio.com/items?itemName=ms-vscode.wordcount)
-*Extension #25 of 329*
+*Extension #25 of 331*
 
 Markdown Word Count Example - a status bar contribution that reports out the number of works in a Markdown document as you interact with it.
 
@@ -1413,7 +1415,7 @@ Markdown Word Count Example - a status bar contribution that reports out the num
 
 - **Extension ID:** `ms-vscode.wordcount`
 - **Version:** 0.1.0
-- **Installs:** 273K
+- **Installs:** 275K
 - **Rating:** ⭐ 2.8/5 (6 ratings)
 - **Published:** 2015-11-17
 - **Last Updated:** 2015-11-18
@@ -1440,18 +1442,18 @@ All Platforms
 ---
 
 ### 26. [Power Platform Tools](https://marketplace.visualstudio.com/items?itemName=microsoft-IsvExpTools.powerplatform-vscode)
-*Extension #26 of 329*
+*Extension #26 of 331*
 
 Tooling to create Power Platform solutions & packages, manage Power Platform environments and edit Power Apps Portals
 
 **Details:**
 
 - **Extension ID:** `microsoft-IsvExpTools.powerplatform-vscode`
-- **Version:** 2.0.110
-- **Installs:** 263K
+- **Version:** 2.0.111
+- **Installs:** 265K
 - **Rating:** ⭐ 3.8/5 (4 ratings)
 - **Published:** 2021-05-25
-- **Last Updated:** 2025-12-04
+- **Last Updated:** 2025-12-10
 - **VS Code Engine:** ^1.91.0
 - **Marketplace:** https://marketplace.visualstudio.com/items?itemName=microsoft-IsvExpTools.powerplatform-vscode
 
@@ -1476,7 +1478,7 @@ All Platforms
 ---
 
 ### 27. [Brackets Keymap](https://marketplace.visualstudio.com/items?itemName=ms-vscode.brackets-keybindings)
-*Extension #27 of 329*
+*Extension #27 of 331*
 
 Popular Brackets keybindings for VS Code.
 
@@ -1511,7 +1513,7 @@ All Platforms
 ---
 
 ### 28. [Embedded Tools](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-embedded-tools)
-*Extension #28 of 329*
+*Extension #28 of 331*
 
 View registers and RTOS data when debugging embedded devices.
 
@@ -1519,7 +1521,7 @@ View registers and RTOS data when debugging embedded devices.
 
 - **Extension ID:** `ms-vscode.vscode-embedded-tools`
 - **Version:** 0.8.251128001
-- **Installs:** 155K
+- **Installs:** 156K
 - **Rating:** ⭐ 5/5 (1 ratings)
 - **Published:** 2022-03-09
 - **Last Updated:** 2025-11-28
@@ -1548,7 +1550,7 @@ Linux x64, Linux ARM64, Windows ARM64, Linux ARM, Alpine Linux ARM64, Windows x6
 ---
 
 ### 29. [extension-activator](https://marketplace.visualstudio.com/items?itemName=ms-vscode.extension-activator)
-*Extension #29 of 329*
+*Extension #29 of 331*
 
 Eagerly activates all other installed extensions.
 
@@ -1556,7 +1558,7 @@ Eagerly activates all other installed extensions.
 
 - **Extension ID:** `ms-vscode.extension-activator`
 - **Version:** 0.0.2
-- **Installs:** 142K
+- **Installs:** 143K
 - **Rating:** ⭐ 1/5 (1 ratings)
 - **Published:** 2022-03-10
 - **Last Updated:** 2023-02-17
@@ -1580,7 +1582,7 @@ All Platforms
 ---
 
 ### 30. [SandDance for VSCode](https://marketplace.visualstudio.com/items?itemName=msrvida.vscode-sanddance)
-*Extension #30 of 329*
+*Extension #30 of 331*
 
 Visually explore, understand, and present your data.
 
@@ -1588,7 +1590,7 @@ Visually explore, understand, and present your data.
 
 - **Extension ID:** `msrvida.vscode-sanddance`
 - **Version:** 4.2.0
-- **Installs:** 138K
+- **Installs:** 139K
 - **Rating:** ⭐ 4.7/5 (13 ratings)
 - **Published:** 2019-04-18
 - **Last Updated:** 2025-06-28
@@ -1616,7 +1618,7 @@ All Platforms
 ---
 
 ### 31. [Power Query / M Language](https://marketplace.visualstudio.com/items?itemName=PowerQuery.vscode-powerquery)
-*Extension #31 of 329*
+*Extension #31 of 331*
 
 Language service for the Power Query / M formula language
 
@@ -1624,7 +1626,7 @@ Language service for the Power Query / M formula language
 
 - **Extension ID:** `PowerQuery.vscode-powerquery`
 - **Version:** 0.1.62
-- **Installs:** 132K
+- **Installs:** 133K
 - **Rating:** ⭐ 4.8/5 (8 ratings)
 - **Published:** 2020-06-23
 - **Last Updated:** 2025-08-11
@@ -1652,7 +1654,7 @@ All Platforms
 ---
 
 ### 32. [anycode-kotlin](https://marketplace.visualstudio.com/items?itemName=ms-vscode.anycode-kotlin)
-*Extension #32 of 329*
+*Extension #32 of 331*
 
 Kotlin for Anycode
 
@@ -1687,7 +1689,7 @@ All Platforms
 ---
 
 ### 33. [anycode-rust](https://marketplace.visualstudio.com/items?itemName=ms-vscode.anycode-rust)
-*Extension #33 of 329*
+*Extension #33 of 331*
 
 Rust for Anycode
 
@@ -1722,13 +1724,13 @@ All Platforms
 ---
 
 ### 34. [Prompt flow for VS Code](https://marketplace.visualstudio.com/items?itemName=prompt-flow.prompt-flow)
-*Extension #34 of 329*
+*Extension #34 of 331*
 
 **Details:**
 
 - **Extension ID:** `prompt-flow.prompt-flow`
 - **Version:** 1.21.138799792
-- **Installs:** 87K
+- **Installs:** 88K
 - **Rating:** ⭐ 4.5/5 (4 ratings)
 - **Published:** 2023-08-31
 - **Last Updated:** 2024-08-26
@@ -1754,7 +1756,7 @@ All Platforms
 ---
 
 ### 35. [JS Debug Value Editor (Experimental)](https://marketplace.visualstudio.com/items?itemName=ms-vscode.debug-value-editor)
-*Extension #35 of 329*
+*Extension #35 of 331*
 
 This extension allows to edit and view values of a debugee with a full text editor. Currently only supports javascript debug adaptors.
 
@@ -1762,7 +1764,7 @@ This extension allows to edit and view values of a debugee with a full text edit
 
 - **Extension ID:** `ms-vscode.debug-value-editor`
 - **Version:** 0.2.2
-- **Installs:** 74K
+- **Installs:** 75K
 - **Published:** 2024-05-03
 - **Last Updated:** 2025-07-11
 - **VS Code Engine:** ^1.101.0
@@ -1789,7 +1791,7 @@ All Platforms
 ---
 
 ### 36. [Fabric Data Engineering VS Code](https://marketplace.visualstudio.com/items?itemName=SynapseVSCode.synapse)
-*Extension #36 of 329*
+*Extension #36 of 331*
 
 Microsoft Fabric VS Code experience for Data engineering and Data science of Microsoft Fabric (Previously Synapse VS Code)
 
@@ -1797,8 +1799,8 @@ Microsoft Fabric VS Code experience for Data engineering and Data science of Mic
 
 - **Extension ID:** `SynapseVSCode.synapse`
 - **Version:** 1.17.0
-- **Installs:** 70K
-- **Rating:** ⭐ 1.8/5 (17 ratings)
+- **Installs:** 71K
+- **Rating:** ⭐ 1.8/5 (19 ratings)
 - **Published:** 2024-03-21
 - **Last Updated:** 2025-12-02
 - **VS Code Engine:** ^1.85.0
@@ -1823,7 +1825,7 @@ All Platforms
 ---
 
 ### 37. [Resharper 9 Keybindings](https://marketplace.visualstudio.com/items?itemName=ms-vscode.resharper9-keybindings)
-*Extension #37 of 329*
+*Extension #37 of 331*
 
 Port of Resharper 9 Keybindings
 
@@ -1857,44 +1859,8 @@ All Platforms
 
 ---
 
-### 38. [DevSkim](https://marketplace.visualstudio.com/items?itemName=MS-CST-E.vscode-devskim)
-*Extension #38 of 329*
-
-DevSkim Security Analyzer Plugin for IDEs. Find security mistakes as code is authored, and fix them with a mouse click.
-
-**Details:**
-
-- **Extension ID:** `MS-CST-E.vscode-devskim`
-- **Version:** 1.0.68
-- **Installs:** 63K
-- **Rating:** ⭐ 5/5 (3 ratings)
-- **Published:** 2017-03-13
-- **Last Updated:** 2025-11-19
-- **VS Code Engine:** ^1.63.0
-- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=MS-CST-E.vscode-devskim
-
-**Resources:**
-
-- 📦 [Repository](https://github.com/Microsoft/devskim.git)
-- 🐛 [Issues](https://github.com/Microsoft/DevSkim/issues)
-- 🏠 [Homepage](https://github.com/Microsoft/DevSkim#readme)
-
-**Marketplace Categories:**
-
-Linters
-
-**Tags:**
-
-bat, c, clojure, coffeescript, cpp, csharp, fsharp, go, groovy, jade, java, javascript, javascriptreact, json, lua, objective-c, perl, perl6, php, plaintext, powershell, python, r, ruby, rust, Security, shellscript, sql, swift, typescript, typescriptreact, vb, xml, yaml
-
-**Works With:**
-
-All Platforms
-
----
-
-### 39. [anycode-c-sharp](https://marketplace.visualstudio.com/items?itemName=ms-vscode.anycode-c-sharp)
-*Extension #39 of 329*
+### 38. [anycode-c-sharp](https://marketplace.visualstudio.com/items?itemName=ms-vscode.anycode-c-sharp)
+*Extension #38 of 331*
 
 C# for Anycode
 
@@ -1928,8 +1894,8 @@ All Platforms
 
 ---
 
-### 40. [Semantic Kernel Tools](https://marketplace.visualstudio.com/items?itemName=ms-semantic-kernel.semantic-kernel)
-*Extension #40 of 329*
+### 39. [Semantic Kernel Tools](https://marketplace.visualstudio.com/items?itemName=ms-semantic-kernel.semantic-kernel)
+*Extension #39 of 331*
 
 AI Tools for Semantic Kernel
 
@@ -1964,8 +1930,8 @@ All Platforms
 
 ---
 
-### 41. [anycode-php](https://marketplace.visualstudio.com/items?itemName=ms-vscode.anycode-php)
-*Extension #41 of 329*
+### 40. [anycode-php](https://marketplace.visualstudio.com/items?itemName=ms-vscode.anycode-php)
+*Extension #40 of 331*
 
 PHP for Anycode
 
@@ -1999,8 +1965,8 @@ All Platforms
 
 ---
 
-### 42. [anycode-go](https://marketplace.visualstudio.com/items?itemName=ms-vscode.anycode-go)
-*Extension #42 of 329*
+### 41. [anycode-go](https://marketplace.visualstudio.com/items?itemName=ms-vscode.anycode-go)
+*Extension #41 of 331*
 
 Go for Anycode
 
@@ -2008,7 +1974,7 @@ Go for Anycode
 
 - **Extension ID:** `ms-vscode.anycode-go`
 - **Version:** 0.0.8
-- **Installs:** 48K
+- **Installs:** 49K
 - **Published:** 2022-03-15
 - **Last Updated:** 2025-03-28
 - **VS Code Engine:** ^1.67.0
@@ -2034,8 +2000,8 @@ All Platforms
 
 ---
 
-### 43. [Terraform AzApi Provider](https://marketplace.visualstudio.com/items?itemName=azapi-vscode.azapi)
-*Extension #43 of 329*
+### 42. [Terraform AzApi Provider](https://marketplace.visualstudio.com/items?itemName=azapi-vscode.azapi)
+*Extension #42 of 331*
 
 Terraform AzApi Provider language support for Visual Studio Code
 
@@ -2070,8 +2036,8 @@ Linux ARM64, Linux x64, Linux ARM, Windows x64, Windows ARM64, macOS Intel, macO
 
 ---
 
-### 44. [Adaptive Card Previewer](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.vscode-adaptive-cards)
-*Extension #44 of 329*
+### 43. [Adaptive Card Previewer](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.vscode-adaptive-cards)
+*Extension #43 of 331*
 
 A VS Code extension to preview adaptive cards for Microsoft 365 app
 
@@ -2079,7 +2045,7 @@ A VS Code extension to preview adaptive cards for Microsoft 365 app
 
 - **Extension ID:** `TeamsDevApp.vscode-adaptive-cards`
 - **Version:** 0.1.3
-- **Installs:** 44K
+- **Installs:** 45K
 - **Published:** 2023-11-01
 - **Last Updated:** 2024-07-17
 - **VS Code Engine:** ^1.80.0
@@ -2105,8 +2071,8 @@ All Platforms
 
 ---
 
-### 45. [Power Query SDK](https://marketplace.visualstudio.com/items?itemName=PowerQuery.vscode-powerquery-sdk)
-*Extension #45 of 329*
+### 44. [Power Query SDK](https://marketplace.visualstudio.com/items?itemName=PowerQuery.vscode-powerquery-sdk)
+*Extension #44 of 331*
 
 Power Query Connector SDK
 
@@ -2141,8 +2107,8 @@ Windows x64, Windows ARM64
 
 ---
 
-### 46. [SCOPE Studio for VS Code](https://marketplace.visualstudio.com/items?itemName=ms-ssdevteam.scope-vscode-ext)
-*Extension #46 of 329*
+### 45. [SCOPE Studio for VS Code](https://marketplace.visualstudio.com/items?itemName=ms-ssdevteam.scope-vscode-ext)
+*Extension #45 of 331*
 
 Author, monitor and run your Cosmos jobs both locally and on cluster
 
@@ -2177,8 +2143,8 @@ All Platforms
 
 ---
 
-### 47. [GN Language Server](https://marketplace.visualstudio.com/items?itemName=msedge-dev.gnls)
-*Extension #47 of 329*
+### 46. [GN Language Server](https://marketplace.visualstudio.com/items?itemName=msedge-dev.gnls)
+*Extension #46 of 331*
 
 Code IntelliSense for GN build system.
 
@@ -2213,8 +2179,8 @@ All Platforms
 
 ---
 
-### 48. [Microsoft Fabric](https://marketplace.visualstudio.com/items?itemName=fabric.vscode-fabric)
-*Extension #48 of 329*
+### 47. [Microsoft Fabric](https://marketplace.visualstudio.com/items?itemName=fabric.vscode-fabric)
+*Extension #47 of 331*
 
 View, manage, and develop your Microsoft Fabric items directly in VS Code.
 
@@ -2222,7 +2188,7 @@ View, manage, and develop your Microsoft Fabric items directly in VS Code.
 
 - **Extension ID:** `fabric.vscode-fabric`
 - **Version:** 0.35.6
-- **Installs:** 37K
+- **Installs:** 38K
 - **Rating:** ⭐ 5/5 (1 ratings)
 - **Published:** 2024-10-02
 - **Last Updated:** 2025-11-25
@@ -2249,8 +2215,8 @@ All Platforms
 
 ---
 
-### 49. [TMDL](https://marketplace.visualstudio.com/items?itemName=analysis-services.TMDL)
-*Extension #49 of 329*
+### 48. [TMDL](https://marketplace.visualstudio.com/items?itemName=analysis-services.TMDL)
+*Extension #48 of 331*
 
 Language support for the Tabular Model Definition Language (TMDL).
 
@@ -2258,7 +2224,7 @@ Language support for the Tabular Model Definition Language (TMDL).
 
 - **Extension ID:** `analysis-services.TMDL`
 - **Version:** 1.6.1
-- **Installs:** 33K
+- **Installs:** 34K
 - **Rating:** ⭐ 5/5 (3 ratings)
 - **Published:** 2023-10-10
 - **Last Updated:** 2025-11-21
@@ -2285,8 +2251,8 @@ All Platforms
 
 ---
 
-### 50. [Security IntelliSense](https://marketplace.visualstudio.com/items?itemName=azsdktm.SecurityIntelliSense)
-*Extension #50 of 329*
+### 49. [Security IntelliSense](https://marketplace.visualstudio.com/items?itemName=azsdktm.SecurityIntelliSense)
+*Extension #49 of 331*
 
 Provides quick and inline security suggestion and fixes for C# and XML source code
 
@@ -2314,8 +2280,8 @@ All Platforms
 
 ---
 
-### 51. [Mock Debug](https://marketplace.visualstudio.com/items?itemName=ms-vscode.mock-debug)
-*Extension #51 of 329*
+### 50. [Mock Debug](https://marketplace.visualstudio.com/items?itemName=ms-vscode.mock-debug)
+*Extension #50 of 331*
 
 Starter extension for developing debug adapters for VS Code.
 
@@ -2349,8 +2315,8 @@ All Platforms
 
 ---
 
-### 52. [DTDL](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.vscode-dtdl)
-*Extension #52 of 329*
+### 51. [DTDL](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.vscode-dtdl)
+*Extension #51 of 331*
 
 This extension provides syntax highlighting to read and edit JSON documents using the Digital Twins Definition Language
 
@@ -2385,8 +2351,8 @@ All Platforms
 
 ---
 
-### 53. [VS Code Commander](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-commander)
-*Extension #53 of 329*
+### 52. [VS Code Commander](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-commander)
+*Extension #52 of 331*
 
 Enables users to configure VS Code using chat. The extension allows to search for settings and commands and reason about them. The settings values can easily be updated and commands can be run.
 
@@ -2394,7 +2360,7 @@ Enables users to configure VS Code using chat. The extension allows to search fo
 
 - **Extension ID:** `ms-vscode.vscode-commander`
 - **Version:** 0.2.0
-- **Installs:** 22K
+- **Installs:** 23K
 - **Rating:** ⭐ 5/5 (1 ratings)
 - **Published:** 2024-10-15
 - **Last Updated:** 2024-10-30
@@ -2421,8 +2387,8 @@ All Platforms
 
 ---
 
-### 54. [Microsoft MakeCode Arcade](https://marketplace.visualstudio.com/items?itemName=ms-edu.pxt-vscode-web)
-*Extension #54 of 329*
+### 53. [Microsoft MakeCode Arcade](https://marketplace.visualstudio.com/items?itemName=ms-edu.pxt-vscode-web)
+*Extension #53 of 331*
 
 Make games and learn code. Create retro arcade style video games, art, and music inside VS Code.
 
@@ -2457,8 +2423,8 @@ All Platforms
 
 ---
 
-### 55. [Extension Manifest Editor](https://marketplace.visualstudio.com/items?itemName=ms-devlabs.extension-manifest-editor)
-*Extension #55 of 329*
+### 54. [Extension Manifest Editor](https://marketplace.visualstudio.com/items?itemName=ms-devlabs.extension-manifest-editor)
+*Extension #54 of 331*
 
 Preview how your extension appears on the Marketplace.
 
@@ -2492,70 +2458,8 @@ All Platforms
 
 ---
 
-### 56. [Dev Box](https://marketplace.visualstudio.com/items?itemName=DevCenter.ms-devbox)
-*Extension #56 of 329*
-
-An extension for connecting to your Dev Box and creating customization files.
-
-**Details:**
-
-- **Extension ID:** `DevCenter.ms-devbox`
-- **Version:** 2.2.0
-- **Installs:** 11K
-- **Rating:** ⭐ 4.2/5 (5 ratings)
-- **Published:** 2024-02-20
-- **Last Updated:** 2025-11-26
-- **VS Code Engine:** ^1.101.0
-- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=DevCenter.ms-devbox
-
-**Marketplace Categories:**
-
-Linters, AI, Chat
-
-**Tags:**
-
-chat-participant, dev box, dev box mcp, devbox, devbox mcp, keybindings, language-model-tools, mcp, microsoft, microsoft dev box, tools, yaml
-
-**Works With:**
-
-All Platforms
-
----
-
-### 57. [SharePoint Embedded](https://marketplace.visualstudio.com/items?itemName=SharepointEmbedded.ms-sharepoint-embedded-vscode-extension)
-*Extension #57 of 329*
-
-Build SharePoint Embedded apps
-
-**Details:**
-
-- **Extension ID:** `SharepointEmbedded.ms-sharepoint-embedded-vscode-extension`
-- **Version:** 1.0.1
-- **Installs:** 11K
-- **Rating:** ⭐ 5/5 (2 ratings)
-- **Published:** 2024-01-12
-- **Last Updated:** 2025-10-28
-- **VS Code Engine:** ^1.81.0
-- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=SharepointEmbedded.ms-sharepoint-embedded-vscode-extension
-
-**Resources:**
-
-- 📦 [Repository](https://github.com/microsoft/SharePoint-Embedded-VS-Code-Extension.git)
-- 🐛 [Issues](https://github.com/microsoft/SharePoint-Embedded-VS-Code-Extension/issues)
-- 🏠 [Homepage](https://github.com/microsoft/SharePoint-Embedded-VS-Code-Extension#readme)
-
-**Marketplace Categories:**
-
-Snippets, Extension Packs, Azure
-
-**Works With:**
-
-All Platforms
-
----
-
-### 58. [Power BI Modeling MCP Server](https://marketplace.visualstudio.com/items?itemName=analysis-services.powerbi-modeling-mcp)
-*Extension #58 of 329*
+### 55. [Power BI Modeling MCP Server](https://marketplace.visualstudio.com/items?itemName=analysis-services.powerbi-modeling-mcp)
+*Extension #55 of 331*
 
 The Power BI Modeling MCP Server, brings Power BI semantic modeling capabilities to your agents.
 
@@ -2563,8 +2467,8 @@ The Power BI Modeling MCP Server, brings Power BI semantic modeling capabilities
 
 - **Extension ID:** `analysis-services.powerbi-modeling-mcp`
 - **Version:** 0.1.9
-- **Installs:** 8K
-- **Rating:** ⭐ 5/5 (2 ratings)
+- **Installs:** 13K
+- **Rating:** ⭐ 5/5 (3 ratings)
 - **Published:** 2025-11-18
 - **Last Updated:** 2025-11-21
 - **VS Code Engine:** ^1.80.0
@@ -2586,8 +2490,70 @@ Windows x64, Windows ARM64
 
 ---
 
-### 59. [POML](https://marketplace.visualstudio.com/items?itemName=poml-team.poml)
-*Extension #59 of 329*
+### 56. [Dev Box](https://marketplace.visualstudio.com/items?itemName=DevCenter.ms-devbox)
+*Extension #56 of 331*
+
+An extension for connecting to your Dev Box and creating customization files.
+
+**Details:**
+
+- **Extension ID:** `DevCenter.ms-devbox`
+- **Version:** 2.2.0
+- **Installs:** 12K
+- **Rating:** ⭐ 4.2/5 (5 ratings)
+- **Published:** 2024-02-20
+- **Last Updated:** 2025-11-26
+- **VS Code Engine:** ^1.101.0
+- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=DevCenter.ms-devbox
+
+**Marketplace Categories:**
+
+Linters, AI, Chat
+
+**Tags:**
+
+chat-participant, dev box, dev box mcp, devbox, devbox mcp, keybindings, language-model-tools, mcp, microsoft, microsoft dev box, tools, yaml
+
+**Works With:**
+
+All Platforms
+
+---
+
+### 57. [SharePoint Embedded](https://marketplace.visualstudio.com/items?itemName=SharepointEmbedded.ms-sharepoint-embedded-vscode-extension)
+*Extension #57 of 331*
+
+Build SharePoint Embedded apps
+
+**Details:**
+
+- **Extension ID:** `SharepointEmbedded.ms-sharepoint-embedded-vscode-extension`
+- **Version:** 1.0.2
+- **Installs:** 11K
+- **Rating:** ⭐ 5/5 (2 ratings)
+- **Published:** 2024-01-12
+- **Last Updated:** 2025-12-08
+- **VS Code Engine:** ^1.81.0
+- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=SharepointEmbedded.ms-sharepoint-embedded-vscode-extension
+
+**Resources:**
+
+- 📦 [Repository](https://github.com/microsoft/SharePoint-Embedded-VS-Code-Extension.git)
+- 🐛 [Issues](https://github.com/microsoft/SharePoint-Embedded-VS-Code-Extension/issues)
+- 🏠 [Homepage](https://github.com/microsoft/SharePoint-Embedded-VS-Code-Extension#readme)
+
+**Marketplace Categories:**
+
+Snippets, Extension Packs, Azure
+
+**Works With:**
+
+All Platforms
+
+---
+
+### 58. [POML](https://marketplace.visualstudio.com/items?itemName=poml-team.poml)
+*Extension #58 of 331*
 
 Prompt Orchestration Markup Language
 
@@ -2622,8 +2588,8 @@ Windows x64, Linux x64, macOS Apple Silicon, macOS Intel, Linux ARM64
 
 ---
 
-### 60. [Power Platform Tools [PREVIEW]](https://marketplace.visualstudio.com/items?itemName=microsoft-IsvExpTools.powerplatform-vscode-preview)
-*Extension #60 of 329*
+### 59. [Power Platform Tools [PREVIEW]](https://marketplace.visualstudio.com/items?itemName=microsoft-IsvExpTools.powerplatform-vscode-preview)
+*Extension #59 of 331*
 
 Tooling to create Power Platform solutions & packages, manage Power Platform environments and edit Power Apps Portals
 
@@ -2657,8 +2623,8 @@ All Platforms
 
 ---
 
-### 61. [Fabric User data functions](https://marketplace.visualstudio.com/items?itemName=fabric.vscode-fabric-functions)
-*Extension #61 of 329*
+### 60. [Fabric User data functions](https://marketplace.visualstudio.com/items?itemName=fabric.vscode-fabric-functions)
+*Extension #60 of 331*
 
 View, manage, and develop your Microsoft Fabric items directly in VS Code.
 
@@ -2693,8 +2659,43 @@ All Platforms
 
 ---
 
+### 61. [Aspire](https://marketplace.visualstudio.com/items?itemName=microsoft-aspire.aspire-vscode)
+*Extension #61 of 331*
+
+Official Aspire extension for Visual Studio Code
+
+**Details:**
+
+- **Extension ID:** `microsoft-aspire.aspire-vscode`
+- **Version:** 1.0.2
+- **Installs:** 4K
+- **Published:** 2025-09-25
+- **Last Updated:** 2025-11-12
+- **VS Code Engine:** ^1.98.0
+- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=microsoft-aspire.aspire-vscode
+
+**Resources:**
+
+- 📦 [Repository](https://github.com/dotnet/aspire.git)
+- 🐛 [Issues](https://github.com/dotnet/aspire/issues)
+- 🏠 [Homepage](https://github.com/dotnet/aspire#readme)
+
+**Marketplace Categories:**
+
+Programming Languages, Debuggers
+
+**Tags:**
+
+apphost, debuggers, dotnet, orchestrator
+
+**Works With:**
+
+All Platforms
+
+---
+
 ### 62. [TS/JS Relative File Path Support](https://marketplace.visualstudio.com/items?itemName=ms-vscode.ts-file-path-support)
-*Extension #62 of 329*
+*Extension #62 of 331*
 
 Provides support for relative file paths in TypeScript and JavaScript. This includes auto-complete, go to definition, rename and inlining/extraction.
 
@@ -2728,43 +2729,8 @@ All Platforms
 
 ---
 
-### 63. [Aspire](https://marketplace.visualstudio.com/items?itemName=microsoft-aspire.aspire-vscode)
-*Extension #63 of 329*
-
-Official Aspire extension for Visual Studio Code
-
-**Details:**
-
-- **Extension ID:** `microsoft-aspire.aspire-vscode`
-- **Version:** 1.0.2
-- **Installs:** 3K
-- **Published:** 2025-09-25
-- **Last Updated:** 2025-11-12
-- **VS Code Engine:** ^1.98.0
-- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=microsoft-aspire.aspire-vscode
-
-**Resources:**
-
-- 📦 [Repository](https://github.com/dotnet/aspire.git)
-- 🐛 [Issues](https://github.com/dotnet/aspire/issues)
-- 🏠 [Homepage](https://github.com/dotnet/aspire#readme)
-
-**Marketplace Categories:**
-
-Programming Languages, Debuggers
-
-**Tags:**
-
-apphost, debuggers, dotnet, orchestrator
-
-**Works With:**
-
-All Platforms
-
----
-
-### 64. [Browse Published Extensions](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-marketplace-extension-browser)
-*Extension #64 of 329*
+### 63. [Browse Published Extensions](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-marketplace-extension-browser)
+*Extension #63 of 331*
 
 Browse the content of extensions published in the VS Code Marketplace
 
@@ -2798,8 +2764,8 @@ All Platforms
 
 ---
 
-### 65. [Mezzurite](https://marketplace.visualstudio.com/items?itemName=mezzurite-devs.mezzurite)
-*Extension #65 of 329*
+### 64. [Mezzurite](https://marketplace.visualstudio.com/items?itemName=mezzurite-devs.mezzurite)
+*Extension #64 of 331*
 
 Instrument your application with Mezzurite SDK quickly and easily with this extension.
 
@@ -2833,8 +2799,41 @@ All Platforms
 
 ---
 
+### 65. [Microsoft Sentinel](https://marketplace.visualstudio.com/items?itemName=ms-security.ms-sentinel)
+*Extension #65 of 331*
+
+Build solutions for Microsoft Security products
+
+**Details:**
+
+- **Extension ID:** `ms-security.ms-sentinel`
+- **Version:** 1.1.4
+- **Installs:** 3K
+- **Published:** 2025-07-18
+- **Last Updated:** 2025-12-11
+- **VS Code Engine:** ^1.96.0
+- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=ms-security.ms-sentinel
+
+**Resources:**
+
+- 📦 [Repository](msdata@vs-ssh.visualstudio.com:v3/msdata/Babylon/vscode-security)
+
+**Marketplace Categories:**
+
+Data Science, Notebooks
+
+**Tags:**
+
+job, jupyter, lake, microsoft, notebook, pyspark, python, security, sentinel, spark, table
+
+**Works With:**
+
+All Platforms
+
+---
+
 ### 66. [VS Code Diagnostic Tools](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-diagnostic-tools)
-*Extension #66 of 329*
+*Extension #66 of 331*
 
 A collection of tools designed to aid debugging and developing VS Code
 
@@ -2869,41 +2868,8 @@ All Platforms
 
 ---
 
-### 67. [Microsoft Sentinel](https://marketplace.visualstudio.com/items?itemName=ms-security.ms-sentinel)
-*Extension #67 of 329*
-
-Build solutions for Microsoft Security products
-
-**Details:**
-
-- **Extension ID:** `ms-security.ms-sentinel`
-- **Version:** 1.1.1
-- **Installs:** 3K
-- **Published:** 2025-07-18
-- **Last Updated:** 2025-12-01
-- **VS Code Engine:** ^1.96.0
-- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=ms-security.ms-sentinel
-
-**Resources:**
-
-- 📦 [Repository](msdata@vs-ssh.visualstudio.com:v3/msdata/Babylon/vscode-security)
-
-**Marketplace Categories:**
-
-Data Science, Notebooks
-
-**Tags:**
-
-job, jupyter, lake, microsoft, notebook, pyspark, python, security, sentinel, spark, table
-
-**Works With:**
-
-All Platforms
-
----
-
-### 68. [Application Insights Code Optimizations](https://marketplace.visualstudio.com/items?itemName=ms-codeoptimizations.code-optimizations-preview)
-*Extension #68 of 329*
+### 67. [Application Insights Code Optimizations](https://marketplace.visualstudio.com/items?itemName=ms-codeoptimizations.code-optimizations-preview)
+*Extension #67 of 331*
 
 Code Optimizations helps improve code level performance for .NET apps. GitHub Copilot required.
 
@@ -2935,8 +2901,8 @@ All Platforms
 
 ---
 
-### 69. [Atlas Design System Tools](https://marketplace.visualstudio.com/items?itemName=docsmsft.atlas-design-system-tools)
-*Extension #69 of 329*
+### 68. [Atlas Design System Tools](https://marketplace.visualstudio.com/items?itemName=docsmsft.atlas-design-system-tools)
+*Extension #68 of 331*
 
 VSCode tooling for using the Atlas Design System.
 
@@ -2966,8 +2932,8 @@ All Platforms
 
 ---
 
-### 70. [PSRule](https://marketplace.visualstudio.com/items?itemName=ps-rule.vscode-ps-rule)
-*Extension #70 of 329*
+### 69. [PSRule](https://marketplace.visualstudio.com/items?itemName=ps-rule.vscode-ps-rule)
+*Extension #69 of 331*
 
 Validate infrastructure as code (IaC) and DevOps repositories using PSRule.
 
@@ -2975,7 +2941,7 @@ Validate infrastructure as code (IaC) and DevOps repositories using PSRule.
 
 - **Extension ID:** `ps-rule.vscode-ps-rule`
 - **Version:** 2025.3.32
-- **Installs:** 781
+- **Installs:** 802
 - **Published:** 2024-11-27
 - **Last Updated:** 2025-03-18
 - **VS Code Engine:** ^1.98.0
@@ -3001,8 +2967,8 @@ All Platforms
 
 ---
 
-### 71. [Touch Adaptation Kit Editor](https://marketplace.visualstudio.com/items?itemName=xbox-tools.vscode-xbox-input-editor-extension)
-*Extension #71 of 329*
+### 70. [Touch Adaptation Kit Editor](https://marketplace.visualstudio.com/items?itemName=xbox-tools.vscode-xbox-input-editor-extension)
+*Extension #70 of 331*
 
 Create and edit Touch Adaptation Kit bundles and layouts.
 
@@ -3010,7 +2976,7 @@ Create and edit Touch Adaptation Kit bundles and layouts.
 
 - **Extension ID:** `xbox-tools.vscode-xbox-input-editor-extension`
 - **Version:** 0.200.0
-- **Installs:** 713
+- **Installs:** 715
 - **Published:** 2024-03-26
 - **Last Updated:** 2025-03-07
 - **VS Code Engine:** ^1.79.1
@@ -3034,8 +3000,8 @@ All Platforms
 
 ---
 
-### 72. [Microsoft Fabric MCP Server](https://marketplace.visualstudio.com/items?itemName=fabric.vscode-fabric-mcp-server)
-*Extension #72 of 329*
+### 71. [Microsoft Fabric MCP Server](https://marketplace.visualstudio.com/items?itemName=fabric.vscode-fabric-mcp-server)
+*Extension #71 of 331*
 
 Provides Model Context Protocol (MCP) integration and tooling for Fabric in Visual Studio Code.
 
@@ -3043,7 +3009,7 @@ Provides Model Context Protocol (MCP) integration and tooling for Fabric in Visu
 
 - **Extension ID:** `fabric.vscode-fabric-mcp-server`
 - **Version:** 0.0.3
-- **Installs:** 379
+- **Installs:** 638
 - **Rating:** ⭐ 5/5 (1 ratings)
 - **Published:** 2025-11-21
 - **Last Updated:** 2025-12-04
@@ -3070,8 +3036,8 @@ Linux ARM64, Windows x64, Windows ARM64, macOS Intel, macOS Apple Silicon, Linux
 
 ---
 
-### 73. [DebugMCP](https://marketplace.visualstudio.com/items?itemName=ozzafar.debugmcpextension)
-*Extension #73 of 329*
+### 72. [DebugMCP](https://marketplace.visualstudio.com/items?itemName=ozzafar.debugmcpextension)
+*Extension #72 of 331*
 
 A VSCode extension that provides comprehensive multi-language debugging capabilities and automatically exposes itself as an MCP (Model Context Protocol) server for seamless integration with AI assistants.
 
@@ -3079,7 +3045,7 @@ A VSCode extension that provides comprehensive multi-language debugging capabili
 
 - **Extension ID:** `ozzafar.debugmcpextension`
 - **Version:** 1.0.2
-- **Installs:** 246
+- **Installs:** 285
 - **Rating:** ⭐ 5/5 (2 ratings)
 - **Published:** 2025-11-05
 - **Last Updated:** 2025-11-23
@@ -3106,8 +3072,8 @@ All Platforms
 
 ---
 
-### 74. [TS/JS VS Code Customized Language Service](https://marketplace.visualstudio.com/items?itemName=ms-vscode.ts-customized-language-service)
-*Extension #74 of 329*
+### 73. [TS/JS VS Code Customized Language Service](https://marketplace.visualstudio.com/items?itemName=ms-vscode.ts-customized-language-service)
+*Extension #73 of 331*
 
 Customized features/improvements/fixes.
 
@@ -3115,7 +3081,7 @@ Customized features/improvements/fixes.
 
 - **Extension ID:** `ms-vscode.ts-customized-language-service`
 - **Version:** 1.1.2025110301
-- **Installs:** 157
+- **Installs:** 208
 - **Rating:** ⭐ 5/5 (1 ratings)
 - **Published:** 2025-09-09
 - **Last Updated:** 2025-11-03
@@ -3142,8 +3108,8 @@ All Platforms
 
 ---
 
-### 75. [Chartifact](https://marketplace.visualstudio.com/items?itemName=msrvida.chartifact)
-*Extension #75 of 329*
+### 74. [Chartifact](https://marketplace.visualstudio.com/items?itemName=msrvida.chartifact)
+*Extension #74 of 331*
 
 Declarative, interactive data documents
 
@@ -3151,7 +3117,7 @@ Declarative, interactive data documents
 
 - **Extension ID:** `msrvida.chartifact`
 - **Version:** 1.0.9
-- **Installs:** 114
+- **Installs:** 124
 - **Published:** 2025-08-31
 - **Last Updated:** 2025-11-21
 - **VS Code Engine:** ^1.101.0
@@ -3177,8 +3143,8 @@ All Platforms
 
 ---
 
-### 76. [Kanagawa Language Support](https://marketplace.visualstudio.com/items?itemName=microsoft-kanagawa.kanagawalang)
-*Extension #76 of 329*
+### 75. [Kanagawa Language Support](https://marketplace.visualstudio.com/items?itemName=microsoft-kanagawa.kanagawalang)
+*Extension #75 of 331*
 
 Syntax highlighting for the Kanagawa hardware description language
 
@@ -3186,7 +3152,7 @@ Syntax highlighting for the Kanagawa hardware description language
 
 - **Extension ID:** `microsoft-kanagawa.kanagawalang`
 - **Version:** 0.1.8
-- **Installs:** 27
+- **Installs:** 29
 - **Rating:** ⭐ 5/5 (1 ratings)
 - **Published:** 2025-10-27
 - **Last Updated:** 2025-11-18
@@ -3219,14 +3185,14 @@ All Platforms
 
 ## Azure & Cloud Services
 
-**Category Stats:** 65 extensions | Total Installs: 123.45M | Avg Rating: 3.9⭐
+**Category Stats:** 69 extensions | Total Installs: 133.44M | Avg Rating: 3.8⭐
 
 [⬆ Back to Table of Contents](#-table-of-contents)
 
 ---
 
 ### 1. [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
-*Extension #77 of 329*
+*Extension #76 of 331*
 
 Makes it easy to create, manage, and debug containerized applications.
 
@@ -3234,7 +3200,7 @@ Makes it easy to create, manage, and debug containerized applications.
 
 - **Extension ID:** `ms-azuretools.vscode-docker`
 - **Version:** 2.0.0
-- **Installs:** 48.67M
+- **Installs:** 48.78M
 - **Rating:** ⭐ 4.5/5 (106 ratings)
 - **Published:** 2015-11-13
 - **Last Updated:** 2025-05-28
@@ -3262,7 +3228,7 @@ All Platforms
 ---
 
 ### 2. [Azure Account](https://marketplace.visualstudio.com/items?itemName=ms-vscode.azure-account)
-*Extension #78 of 329*
+*Extension #77 of 331*
 
 A common Sign In and Subscription management extension for VS Code.
 
@@ -3270,7 +3236,7 @@ A common Sign In and Subscription management extension for VS Code.
 
 - **Extension ID:** `ms-vscode.azure-account`
 - **Version:** 0.13.0
-- **Installs:** 9.08M
+- **Installs:** 9.09M
 - **Rating:** ⭐ 2.1/5 (56 ratings)
 - **Published:** 2017-09-06
 - **Last Updated:** 2025-01-22
@@ -3297,8 +3263,44 @@ All Platforms
 
 ---
 
-### 3. [SQL Server (mssql)](https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql)
-*Extension #79 of 329*
+### 3. [Azure Account](https://marketplace.visualstudio.com/items?itemName=ms-vscode.azure-account)
+*Extension #78 of 331*
+
+A common Sign In and Subscription management extension for VS Code.
+
+**Details:**
+
+- **Extension ID:** `ms-vscode.azure-account`
+- **Version:** 0.13.0
+- **Installs:** 9.09M
+- **Rating:** ⭐ 2.1/5 (56 ratings)
+- **Published:** 2017-09-06
+- **Last Updated:** 2025-01-22
+- **VS Code Engine:** ^1.75.0
+- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=ms-vscode.azure-account
+
+**Resources:**
+
+- 📦 [Repository](https://github.com/microsoft/vscode-azure-account.git)
+- 🐛 [Issues](https://github.com/microsoft/vscode-azure-account/issues)
+- 🏠 [Homepage](https://github.com/Microsoft/vscode-azure-account/blob/main/README.md)
+
+**Marketplace Categories:**
+
+Azure
+
+**Tags:**
+
+azure
+
+**Works With:**
+
+All Platforms
+
+---
+
+### 4. [SQL Server (mssql)](https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql)
+*Extension #79 of 331*
 
 Design and optimize schemas for SQL Server, Azure SQL, and SQL Database in Fabric using a modern, lightweight extension built for developers
 
@@ -3306,7 +3308,7 @@ Design and optimize schemas for SQL Server, Azure SQL, and SQL Database in Fabri
 
 - **Extension ID:** `ms-mssql.mssql`
 - **Version:** 1.37.1
-- **Installs:** 8.56M
+- **Installs:** 8.59M
 - **Rating:** ⭐ 3.1/5 (171 ratings)
 - **Published:** 2016-11-16
 - **Last Updated:** 2025-12-02
@@ -3333,8 +3335,8 @@ All Platforms
 
 ---
 
-### 4. [Container Tools](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-containers)
-*Extension #80 of 329*
+### 5. [Container Tools](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-containers)
+*Extension #80 of 331*
 
 Makes it easy to create, manage, and debug containerized applications.
 
@@ -3342,7 +3344,7 @@ Makes it easy to create, manage, and debug containerized applications.
 
 - **Extension ID:** `ms-azuretools.vscode-containers`
 - **Version:** 2.3.0
-- **Installs:** 6.94M
+- **Installs:** 7.22M
 - **Rating:** ⭐ 3.6/5 (17 ratings)
 - **Published:** 2025-04-21
 - **Last Updated:** 2025-11-10
@@ -3369,8 +3371,8 @@ All Platforms
 
 ---
 
-### 5. [Azure Resources](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureresourcegroups)
-*Extension #81 of 329*
+### 6. [Azure Resources](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureresourcegroups)
+*Extension #81 of 331*
 
 An extension for viewing and managing Azure resources.
 
@@ -3378,7 +3380,7 @@ An extension for viewing and managing Azure resources.
 
 - **Extension ID:** `ms-azuretools.vscode-azureresourcegroups`
 - **Version:** 0.11.7
-- **Installs:** 5.82M
+- **Installs:** 5.86M
 - **Rating:** ⭐ 2.5/5 (6 ratings)
 - **Published:** 2020-03-17
 - **Last Updated:** 2025-11-18
@@ -3405,8 +3407,8 @@ Web
 
 ---
 
-### 6. [Azure Functions](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions)
-*Extension #82 of 329*
+### 7. [Azure Functions](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions)
+*Extension #82 of 331*
 
 An Azure Functions extension for Visual Studio Code.
 
@@ -3414,7 +3416,7 @@ An Azure Functions extension for Visual Studio Code.
 
 - **Extension ID:** `ms-azuretools.vscode-azurefunctions`
 - **Version:** 1.20.2
-- **Installs:** 5.57M
+- **Installs:** 5.59M
 - **Rating:** ⭐ 3.2/5 (34 ratings)
 - **Published:** 2017-10-19
 - **Last Updated:** 2025-11-25
@@ -3441,8 +3443,8 @@ All Platforms
 
 ---
 
-### 7. [Azure Repos](https://marketplace.visualstudio.com/items?itemName=ms-vscode.azure-repos)
-*Extension #83 of 329*
+### 8. [Azure Repos](https://marketplace.visualstudio.com/items?itemName=ms-vscode.azure-repos)
+*Extension #83 of 331*
 
 Remotely browse and edit any Azure Repos
 
@@ -3450,7 +3452,7 @@ Remotely browse and edit any Azure Repos
 
 - **Extension ID:** `ms-vscode.azure-repos`
 - **Version:** 0.41.2025081801
-- **Installs:** 4.7M
+- **Installs:** 4.74M
 - **Rating:** ⭐ 3.2/5 (4 ratings)
 - **Published:** 2022-01-31
 - **Last Updated:** 2025-08-18
@@ -3477,8 +3479,8 @@ All Platforms
 
 ---
 
-### 8. [SQL Bindings](https://marketplace.visualstudio.com/items?itemName=ms-mssql.sql-bindings-vscode)
-*Extension #84 of 329*
+### 9. [SQL Bindings](https://marketplace.visualstudio.com/items?itemName=ms-mssql.sql-bindings-vscode)
+*Extension #84 of 331*
 
 Enables users to develop and publish Azure Functions with Azure SQL bindings
 
@@ -3486,7 +3488,7 @@ Enables users to develop and publish Azure Functions with Azure SQL bindings
 
 - **Extension ID:** `ms-mssql.sql-bindings-vscode`
 - **Version:** 0.4.1
-- **Installs:** 4.21M
+- **Installs:** 4.24M
 - **Rating:** ⭐ 5/5 (1 ratings)
 - **Published:** 2022-04-20
 - **Last Updated:** 2025-04-30
@@ -3513,20 +3515,20 @@ All Platforms
 
 ---
 
-### 9. [Azure Cosmos DB](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-cosmosdb)
-*Extension #85 of 329*
+### 10. [Azure Cosmos DB](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-cosmosdb)
+*Extension #85 of 331*
 
 Connect Azure CosmosDB databases in Azure, inspect and edit your data and run powerful queries with the visual query editor.
 
 **Details:**
 
 - **Extension ID:** `ms-azuretools.vscode-cosmosdb`
-- **Version:** 0.31.0
-- **Installs:** 3.15M
+- **Version:** 0.31.1
+- **Installs:** 3.16M
 - **Rating:** ⭐ 3.2/5 (41 ratings)
 - **Published:** 2017-09-19
-- **Last Updated:** 2025-11-17
-- **VS Code Engine:** ^1.94.2
+- **Last Updated:** 2025-12-08
+- **VS Code Engine:** ^1.96.4
 - **Marketplace:** https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-cosmosdb
 
 **Resources:**
@@ -3549,8 +3551,8 @@ All Platforms
 
 ---
 
-### 10. [Azure App Service](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureappservice)
-*Extension #86 of 329*
+### 11. [Azure App Service](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureappservice)
+*Extension #86 of 331*
 
 An Azure App Service management extension for Visual Studio Code.
 
@@ -3558,7 +3560,7 @@ An Azure App Service management extension for Visual Studio Code.
 
 - **Extension ID:** `ms-azuretools.vscode-azureappservice`
 - **Version:** 0.26.4
-- **Installs:** 2.87M
+- **Installs:** 2.89M
 - **Rating:** ⭐ 3.4/5 (31 ratings)
 - **Published:** 2017-09-19
 - **Last Updated:** 2025-09-25
@@ -3585,8 +3587,8 @@ All Platforms
 
 ---
 
-### 11. [Azure Storage](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurestorage)
-*Extension #87 of 329*
+### 12. [Azure Storage](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurestorage)
+*Extension #87 of 331*
 
 Manage your Azure Storage accounts including Blob Containers, File Shares, Tables and Queues
 
@@ -3594,7 +3596,7 @@ Manage your Azure Storage accounts including Blob Containers, File Shares, Table
 
 - **Extension ID:** `ms-azuretools.vscode-azurestorage`
 - **Version:** 0.17.1
-- **Installs:** 2.42M
+- **Installs:** 2.44M
 - **Rating:** ⭐ 3/5 (18 ratings)
 - **Published:** 2017-12-12
 - **Last Updated:** 2025-09-26
@@ -3621,8 +3623,8 @@ All Platforms
 
 ---
 
-### 12. [Azure CLI Tools](https://marketplace.visualstudio.com/items?itemName=ms-vscode.azurecli)
-*Extension #88 of 329*
+### 13. [Azure CLI Tools](https://marketplace.visualstudio.com/items?itemName=ms-vscode.azurecli)
+*Extension #88 of 331*
 
 Tools for developing and running commands of the Azure CLI.
 
@@ -3630,7 +3632,7 @@ Tools for developing and running commands of the Azure CLI.
 
 - **Extension ID:** `ms-vscode.azurecli`
 - **Version:** 0.6.0
-- **Installs:** 2.28M
+- **Installs:** 2.29M
 - **Rating:** ⭐ 3.2/5 (19 ratings)
 - **Published:** 2017-05-09
 - **Last Updated:** 2024-01-19
@@ -3657,8 +3659,8 @@ All Platforms
 
 ---
 
-### 13. [Azure Virtual Machines](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurevirtualmachines)
-*Extension #89 of 329*
+### 14. [Azure Virtual Machines](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurevirtualmachines)
+*Extension #89 of 331*
 
 An Azure Virtual Machines extension for Visual Studio Code.
 
@@ -3666,7 +3668,7 @@ An Azure Virtual Machines extension for Visual Studio Code.
 
 - **Extension ID:** `ms-azuretools.vscode-azurevirtualmachines`
 - **Version:** 0.6.10
-- **Installs:** 2.01M
+- **Installs:** 2.02M
 - **Rating:** ⭐ 5/5 (3 ratings)
 - **Published:** 2020-03-05
 - **Last Updated:** 2025-09-25
@@ -3693,8 +3695,8 @@ All Platforms
 
 ---
 
-### 14. [Azure Tools](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-node-azure-pack)
-*Extension #90 of 329*
+### 15. [Azure Tools](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-node-azure-pack)
+*Extension #90 of 331*
 
 Build, deploy, and manage Azure applications with support from Copilot all without leaving VS Code.
 
@@ -3702,7 +3704,7 @@ Build, deploy, and manage Azure applications with support from Copilot all witho
 
 - **Extension ID:** `ms-vscode.vscode-node-azure-pack`
 - **Version:** 1.8.0
-- **Installs:** 2.01M
+- **Installs:** 2.02M
 - **Rating:** ⭐ 2.9/5 (19 ratings)
 - **Published:** 2017-11-02
 - **Last Updated:** 2025-11-04
@@ -3729,8 +3731,8 @@ All Platforms
 
 ---
 
-### 15. [Azure Static Web Apps](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurestaticwebapps)
-*Extension #91 of 329*
+### 16. [Azure Static Web Apps](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurestaticwebapps)
+*Extension #91 of 331*
 
 An Azure Static Web Apps extension for Visual Studio Code.
 
@@ -3738,7 +3740,7 @@ An Azure Static Web Apps extension for Visual Studio Code.
 
 - **Extension ID:** `ms-azuretools.vscode-azurestaticwebapps`
 - **Version:** 0.13.2
-- **Installs:** 1.86M
+- **Installs:** 1.87M
 - **Rating:** ⭐ 3/5 (10 ratings)
 - **Published:** 2020-05-18
 - **Last Updated:** 2025-09-25
@@ -3765,8 +3767,8 @@ All Platforms
 
 ---
 
-### 16. [Azure Developer CLI](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.azure-dev)
-*Extension #92 of 329*
+### 17. [Azure Developer CLI](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.azure-dev)
+*Extension #92 of 331*
 
 Makes it easy to run, provision, and deploy Azure applications using the Azure Developer CLI
 
@@ -3774,7 +3776,7 @@ Makes it easy to run, provision, and deploy Azure applications using the Azure D
 
 - **Extension ID:** `ms-azuretools.azure-dev`
 - **Version:** 0.10.0
-- **Installs:** 1.7M
+- **Installs:** 1.72M
 - **Rating:** ⭐ 5/5 (3 ratings)
 - **Published:** 2022-07-11
 - **Last Updated:** 2025-09-22
@@ -3801,8 +3803,8 @@ All Platforms
 
 ---
 
-### 17. [Azure Container Apps](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurecontainerapps)
-*Extension #93 of 329*
+### 18. [Azure Container Apps](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurecontainerapps)
+*Extension #93 of 331*
 
 An Azure Container Apps extension for Visual Studio Code.
 
@@ -3810,7 +3812,7 @@ An Azure Container Apps extension for Visual Studio Code.
 
 - **Extension ID:** `ms-azuretools.vscode-azurecontainerapps`
 - **Version:** 0.10.0
-- **Installs:** 1.48M
+- **Installs:** 1.49M
 - **Published:** 2022-04-12
 - **Last Updated:** 2025-11-18
 - **VS Code Engine:** ^1.104.0
@@ -3836,8 +3838,8 @@ All Platforms
 
 ---
 
-### 18. [Azure Resource Manager (ARM) Tools](https://marketplace.visualstudio.com/items?itemName=msazurermtools.azurerm-vscode-tools)
-*Extension #94 of 329*
+### 19. [Azure Resource Manager (ARM) Tools](https://marketplace.visualstudio.com/items?itemName=msazurermtools.azurerm-vscode-tools)
+*Extension #94 of 331*
 
 Language server, editing tools and snippets for Azure Resource Manager (ARM) template files.
 
@@ -3872,8 +3874,8 @@ All Platforms
 
 ---
 
-### 19. [Bicep](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-bicep)
-*Extension #95 of 329*
+### 20. [Bicep](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-bicep)
+*Extension #95 of 331*
 
 Bicep language support for Visual Studio Code
 
@@ -3881,7 +3883,7 @@ Bicep language support for Visual Studio Code
 
 - **Extension ID:** `ms-azuretools.vscode-bicep`
 - **Version:** 0.39.26
-- **Installs:** 1.38M
+- **Installs:** 1.39M
 - **Rating:** ⭐ 5/5 (27 ratings)
 - **Published:** 2020-11-11
 - **Last Updated:** 2025-11-17
@@ -3908,8 +3910,8 @@ All Platforms
 
 ---
 
-### 20. [Azure Pipelines](https://marketplace.visualstudio.com/items?itemName=ms-azure-devops.azure-pipelines)
-*Extension #96 of 329*
+### 21. [Azure Pipelines](https://marketplace.visualstudio.com/items?itemName=ms-azure-devops.azure-pipelines)
+*Extension #96 of 331*
 
 Syntax highlighting, IntelliSense, and more for Azure Pipelines YAML
 
@@ -3917,7 +3919,7 @@ Syntax highlighting, IntelliSense, and more for Azure Pipelines YAML
 
 - **Extension ID:** `ms-azure-devops.azure-pipelines`
 - **Version:** 1.261.1
-- **Installs:** 1.36M
+- **Installs:** 1.37M
 - **Rating:** ⭐ 2.4/5 (43 ratings)
 - **Published:** 2018-11-07
 - **Last Updated:** 2025-10-09
@@ -3944,8 +3946,8 @@ All Platforms
 
 ---
 
-### 21. [Microsoft Terraform](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureterraform)
-*Extension #97 of 329*
+### 22. [Microsoft Terraform](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureterraform)
+*Extension #97 of 331*
 
 VS Code extension for developing with Terraform on Azure
 
@@ -3953,7 +3955,7 @@ VS Code extension for developing with Terraform on Azure
 
 - **Extension ID:** `ms-azuretools.vscode-azureterraform`
 - **Version:** 0.8.0
-- **Installs:** 1.12M
+- **Installs:** 1.13M
 - **Rating:** ⭐ 3.9/5 (11 ratings)
 - **Published:** 2018-03-15
 - **Last Updated:** 2025-12-05
@@ -3980,20 +3982,20 @@ Linux x64, Linux ARM, Windows x64, macOS Apple Silicon, Linux ARM64, Windows ARM
 
 ---
 
-### 22. [GitHub Copilot for Azure](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azure-github-copilot)
-*Extension #98 of 329*
+### 23. [GitHub Copilot for Azure](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azure-github-copilot)
+*Extension #98 of 331*
 
 GitHub Copilot for Azure is the @azure extension. It's designed to help streamline the process of developing for Azure. You can ask @azure questions about Azure services or get help with tasks related to Azure and developing for Azure, all from within Visual Studio Code.
 
 **Details:**
 
 - **Extension ID:** `ms-azuretools.vscode-azure-github-copilot`
-- **Version:** 1.0.137
-- **Installs:** 868K
+- **Version:** 1.0.153
+- **Installs:** 890K
 - **Rating:** ⭐ 3.7/5 (12 ratings)
 - **Published:** 2024-10-28
-- **Last Updated:** 2025-10-23
-- **VS Code Engine:** ^1.104.0
+- **Last Updated:** 2025-12-08
+- **VS Code Engine:** ^1.105.0
 - **Marketplace:** https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azure-github-copilot
 
 **Resources:**
@@ -4012,29 +4014,29 @@ agent, Azure, chat, chat-participant, copilot, github-copilot, language-model-to
 
 **Works With:**
 
-Linux ARM64, Linux x64, macOS Intel, macOS Apple Silicon, Windows ARM64, Windows x64
+Linux ARM64, macOS Intel, Linux x64, macOS Apple Silicon, Windows x64, Windows ARM64
 
 ---
 
-### 23. [GitHub Copilot app modernization](https://marketplace.visualstudio.com/items?itemName=vscjava.migrate-java-to-azure)
-*Extension #99 of 329*
+### 24. [GitHub Copilot app modernization](https://marketplace.visualstudio.com/items?itemName=vscjava.migrate-java-to-azure)
+*Extension #99 of 331*
 
 Upgrade and migrate your applications to Azure
 
 **Details:**
 
 - **Extension ID:** `vscjava.migrate-java-to-azure`
-- **Version:** 1.8.2025120402
-- **Installs:** 477K
+- **Version:** 1.9.2025121301
+- **Installs:** 514K
 - **Rating:** ⭐ 1.9/5 (24 ratings)
 - **Published:** 2025-05-09
-- **Last Updated:** 2025-12-04
+- **Last Updated:** 2025-12-13
 - **VS Code Engine:** ^1.106.0
 - **Marketplace:** https://marketplace.visualstudio.com/items?itemName=vscjava.migrate-java-to-azure
 
 **Resources:**
 
-- 📦 [Repository](https://aka.ms/ghcp-appmod/feedback)
+- 💬 [Support](https://aka.ms/ghcp-appmod/feedback)
 
 **Marketplace Categories:**
 
@@ -4046,12 +4048,12 @@ csharp, java, typescript
 
 **Works With:**
 
-Linux ARM64, macOS Apple Silicon, macOS Intel, Windows x64, Windows ARM64, Linux x64
+macOS Apple Silicon, macOS Intel, Windows x64, Linux ARM64, Windows ARM64, Linux x64
 
 ---
 
-### 24. [Azurite](https://marketplace.visualstudio.com/items?itemName=Azurite.azurite)
-*Extension #100 of 329*
+### 25. [Azurite](https://marketplace.visualstudio.com/items?itemName=Azurite.azurite)
+*Extension #100 of 331*
 
 An open source Azure Storage API compatible server
 
@@ -4059,7 +4061,7 @@ An open source Azure Storage API compatible server
 
 - **Extension ID:** `Azurite.azurite`
 - **Version:** 3.35.0
-- **Installs:** 456K
+- **Installs:** 459K
 - **Rating:** ⭐ 5/5 (6 ratings)
 - **Published:** 2019-06-26
 - **Last Updated:** 2025-07-31
@@ -4086,8 +4088,8 @@ All Platforms
 
 ---
 
-### 25. [Azure IoT Hub](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.azure-iot-toolkit)
-*Extension #101 of 329*
+### 26. [Azure IoT Hub](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.azure-iot-toolkit)
+*Extension #101 of 331*
 
 This extension is now a part of Azure IoT Tools extension pack. We highly recommend installing Azure IoT Tools to get full capabilities for Azure IoT development. Interact with Azure IoT Hub, IoT Device Management, IoT Edge Management, IoT Hub Device Simulation, IoT Hub Code Generation and IoT Hub D
 
@@ -4095,7 +4097,7 @@ This extension is now a part of Azure IoT Tools extension pack. We highly recomm
 
 - **Extension ID:** `vsciot-vscode.azure-iot-toolkit`
 - **Version:** 2.17.1
-- **Installs:** 435K
+- **Installs:** 436K
 - **Rating:** ⭐ 4.6/5 (8 ratings)
 - **Published:** 2016-10-28
 - **Last Updated:** 2022-09-20
@@ -4122,19 +4124,19 @@ All Platforms
 
 ---
 
-### 26. [Azure MCP Server](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azure-mcp-server)
-*Extension #102 of 329*
+### 27. [Azure MCP Server](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azure-mcp-server)
+*Extension #102 of 331*
 
 Provides Model Context Protocol (MCP) integration and tooling for Azure in Visual Studio Code.
 
 **Details:**
 
 - **Extension ID:** `ms-azuretools.vscode-azure-mcp-server`
-- **Version:** 2.0.7
-- **Installs:** 325K
+- **Version:** 2.0.8
+- **Installs:** 347K
 - **Rating:** ⭐ 5/5 (6 ratings)
 - **Published:** 2025-07-24
-- **Last Updated:** 2025-11-26
+- **Last Updated:** 2025-12-12
 - **VS Code Engine:** ^1.101.0
 - **Marketplace:** https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azure-mcp-server
 
@@ -4154,12 +4156,12 @@ agent, ai, azure, chat, copilot, language-model-tools, mcp, model context protoc
 
 **Works With:**
 
-Windows ARM64, Windows x64, macOS Intel, macOS Apple Silicon, Linux x64, Linux ARM64
+Windows x64, Linux x64, macOS Intel, Linux ARM64, macOS Apple Silicon, Windows ARM64
 
 ---
 
-### 27. [Azure Data Lake Tools](https://marketplace.visualstudio.com/items?itemName=usqlextpublisher.usql-vscode-ext)
-*Extension #103 of 329*
+### 28. [Azure Data Lake Tools](https://marketplace.visualstudio.com/items?itemName=usqlextpublisher.usql-vscode-ext)
+*Extension #103 of 331*
 
 ADL - USQL Language Support
 
@@ -4167,7 +4169,7 @@ ADL - USQL Language Support
 
 - **Extension ID:** `usqlextpublisher.usql-vscode-ext`
 - **Version:** 0.2.16
-- **Installs:** 310K
+- **Installs:** 311K
 - **Rating:** ⭐ 2.3/5 (3 ratings)
 - **Published:** 2017-03-01
 - **Last Updated:** 2023-10-12
@@ -4195,8 +4197,8 @@ All Platforms
 
 ---
 
-### 28. [Azure IoT Edge](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.azure-iot-edge)
-*Extension #104 of 329*
+### 29. [Azure IoT Edge](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.azure-iot-edge)
+*Extension #104 of 331*
 
 This extension is now in maintenance mode. See announcement https://github.com/microsoft/vscode-azure-iot-edge/issues/639#issue-1359146049 and latest documentation here: https://learn.microsoft.com/en-us/azure/iot-edge/how-to-vs-code-develop-module.
 
@@ -4231,8 +4233,8 @@ All Platforms
 
 ---
 
-### 29. [Azure API Management](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-apimanagement)
-*Extension #105 of 329*
+### 30. [Azure API Management](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-apimanagement)
+*Extension #105 of 331*
 
 An Azure API Management extension for Visual Studio Code.
 
@@ -4240,7 +4242,7 @@ An Azure API Management extension for Visual Studio Code.
 
 - **Extension ID:** `ms-azuretools.vscode-apimanagement`
 - **Version:** 1.3.0
-- **Installs:** 246K
+- **Installs:** 247K
 - **Rating:** ⭐ 4.2/5 (13 ratings)
 - **Published:** 2019-06-27
 - **Last Updated:** 2025-07-31
@@ -4267,8 +4269,8 @@ All Platforms
 
 ---
 
-### 30. [Azure Devops Codespaces Authentication](https://marketplace.visualstudio.com/items?itemName=ms-codespaces-tools.ado-codespaces-auth)
-*Extension #106 of 329*
+### 31. [Azure Devops Codespaces Authentication](https://marketplace.visualstudio.com/items?itemName=ms-codespaces-tools.ado-codespaces-auth)
+*Extension #106 of 331*
 
 Seamless authentication to Azure Devops in GitHub Codespaces
 
@@ -4276,7 +4278,7 @@ Seamless authentication to Azure Devops in GitHub Codespaces
 
 - **Extension ID:** `ms-codespaces-tools.ado-codespaces-auth`
 - **Version:** 1.2.1
-- **Installs:** 184K
+- **Installs:** 187K
 - **Published:** 2023-02-19
 - **Last Updated:** 2024-02-13
 - **VS Code Engine:** ^1.74.0
@@ -4298,8 +4300,8 @@ All Platforms
 
 ---
 
-### 31. [Azure Logic Apps (Consumption)](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-logicapps)
-*Extension #107 of 329*
+### 32. [Azure Logic Apps (Consumption)](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-logicapps)
+*Extension #107 of 331*
 
 Visual Studio Code extension for Azure Logic Apps (Consumption)
 
@@ -4334,8 +4336,8 @@ All Platforms
 
 ---
 
-### 32. [Azure Application Insights](https://marketplace.visualstudio.com/items?itemName=VisualStudioOnlineApplicationInsights.application-insights)
-*Extension #108 of 329*
+### 33. [Azure Application Insights](https://marketplace.visualstudio.com/items?itemName=VisualStudioOnlineApplicationInsights.application-insights)
+*Extension #108 of 331*
 
 Brings information from your production services right into your code editor to help you find and fix issues faster.
 
@@ -4364,8 +4366,8 @@ All Platforms
 
 ---
 
-### 33. [Azure PowerShell Tools](https://marketplace.visualstudio.com/items?itemName=azps-tools.azps-tools)
-*Extension #109 of 329*
+### 34. [Azure PowerShell Tools](https://marketplace.visualstudio.com/items?itemName=azps-tools.azps-tools)
+*Extension #109 of 331*
 
 (preview) Automate the migration of Azure PowerShell scripts and modules from AzureRM to the Az PowerShell module.
 
@@ -4373,7 +4375,7 @@ All Platforms
 
 - **Extension ID:** `azps-tools.azps-tools`
 - **Version:** 0.3.0
-- **Installs:** 124K
+- **Installs:** 125K
 - **Rating:** ⭐ 2/5 (3 ratings)
 - **Published:** 2021-08-31
 - **Last Updated:** 2023-09-28
@@ -4400,19 +4402,19 @@ All Platforms
 
 ---
 
-### 34. [Azure Logic Apps (Standard)](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurelogicapps)
-*Extension #110 of 329*
+### 35. [Azure Logic Apps (Standard)](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurelogicapps)
+*Extension #110 of 331*
 
 Visual Studio Code extension for Azure Logic Apps (Standard)
 
 **Details:**
 
 - **Extension ID:** `ms-azuretools.vscode-azurelogicapps`
-- **Version:** 5.185.10
+- **Version:** 5.230.15
 - **Installs:** 115K
 - **Rating:** ⭐ 3.6/5 (5 ratings)
 - **Published:** 2020-09-21
-- **Last Updated:** 2025-10-20
+- **Last Updated:** 2025-12-05
 - **VS Code Engine:** ^1.104.0
 - **Marketplace:** https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurelogicapps
 
@@ -4436,8 +4438,8 @@ All Platforms
 
 ---
 
-### 35. [Azure Automation](https://marketplace.visualstudio.com/items?itemName=azure-automation.vscode-azureautomation)
-*Extension #111 of 329*
+### 36. [Azure Automation](https://marketplace.visualstudio.com/items?itemName=azure-automation.vscode-azureautomation)
+*Extension #111 of 331*
 
 An Azure Automation extension for Visual Studio Code
 
@@ -4472,8 +4474,44 @@ All Platforms
 
 ---
 
-### 36. [Azure Policy](https://marketplace.visualstudio.com/items?itemName=AzurePolicy.azurepolicyextension)
-*Extension #112 of 329*
+### 37. [Dapr](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-dapr)
+*Extension #112 of 331*
+
+Makes it easy to run, debug, and interact with Dapr-enabled applications.
+
+**Details:**
+
+- **Extension ID:** `ms-azuretools.vscode-dapr`
+- **Version:** 0.8.0
+- **Installs:** 78K
+- **Rating:** ⭐ 5/5 (3 ratings)
+- **Published:** 2020-03-03
+- **Last Updated:** 2023-10-19
+- **VS Code Engine:** ^1.82.0
+- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-dapr
+
+**Resources:**
+
+- 📦 [Repository](https://github.com/microsoft/vscode-dapr.git)
+- 🐛 [Issues](https://github.com/microsoft/vscode-dapr/issues)
+- 🏠 [Homepage](https://github.com/Microsoft/vscode-dapr/blob/main/README.md)
+
+**Marketplace Categories:**
+
+Programming Languages, Debuggers
+
+**Tags:**
+
+container, dapr, debuggers, docker, kubernetes
+
+**Works With:**
+
+All Platforms
+
+---
+
+### 38. [Azure Policy](https://marketplace.visualstudio.com/items?itemName=AzurePolicy.azurepolicyextension)
+*Extension #113 of 331*
 
 Azure resource, policy, and alias viewer
 
@@ -4481,7 +4519,7 @@ Azure resource, policy, and alias viewer
 
 - **Extension ID:** `AzurePolicy.azurepolicyextension`
 - **Version:** 0.2.5
-- **Installs:** 75K
+- **Installs:** 76K
 - **Rating:** ⭐ 2.6/5 (18 ratings)
 - **Published:** 2019-10-29
 - **Last Updated:** 2025-10-13
@@ -4506,8 +4544,8 @@ All Platforms
 
 ---
 
-### 37. [Spark & Hive Tools](https://marketplace.visualstudio.com/items?itemName=mshdinsight.azure-hdinsight)
-*Extension #113 of 329*
+### 39. [Spark & Hive Tools](https://marketplace.visualstudio.com/items?itemName=mshdinsight.azure-hdinsight)
+*Extension #114 of 331*
 
 Spark & Hive Tools - PySpark Interactive Query, PySpark Batch, Hive Interactive Query, Hive Batch
 
@@ -4542,8 +4580,8 @@ All Platforms
 
 ---
 
-### 38. [Azure Cache](https://marketplace.visualstudio.com/items?itemName=ms-azurecache.vscode-azurecache)
-*Extension #114 of 329*
+### 40. [Azure Cache](https://marketplace.visualstudio.com/items?itemName=ms-azurecache.vscode-azurecache)
+*Extension #115 of 331*
 
 Manage and browse through data in your Azure Caches.
 
@@ -4578,8 +4616,8 @@ All Platforms
 
 ---
 
-### 39. [Azure Stream Analytics Tools](https://marketplace.visualstudio.com/items?itemName=ms-bigdatatools.vscode-asa)
-*Extension #115 of 329*
+### 41. [Azure Stream Analytics Tools](https://marketplace.visualstudio.com/items?itemName=ms-bigdatatools.vscode-asa)
+*Extension #116 of 331*
 
 Author, local test and submit Azure Stream Analytics jobs.
 
@@ -4613,8 +4651,8 @@ All Platforms
 
 ---
 
-### 40. [Azure Data Studio Debug](https://marketplace.visualstudio.com/items?itemName=ms-mssql.sqlops-debug)
-*Extension #116 of 329*
+### 42. [Azure Data Studio Debug](https://marketplace.visualstudio.com/items?itemName=ms-mssql.sqlops-debug)
+*Extension #117 of 331*
 
 Azure Data Studio extension debugging support
 
@@ -4648,14 +4686,14 @@ All Platforms
 
 ---
 
-### 41. [vscode-dev-azurecloudshell-helper](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-dev-azurecloudshell-helper)
-*Extension #117 of 329*
+### 43. [vscode-dev-azurecloudshell-helper](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-dev-azurecloudshell-helper)
+*Extension #118 of 331*
 
 **Details:**
 
 - **Extension ID:** `ms-azuretools.vscode-dev-azurecloudshell-helper`
 - **Version:** 0.0.4
-- **Installs:** 40K
+- **Installs:** 42K
 - **Published:** 2025-03-21
 - **Last Updated:** 2025-04-22
 - **VS Code Engine:** ^1.98.0
@@ -4677,8 +4715,8 @@ All Platforms
 
 ---
 
-### 42. [Azure Event Grid](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureeventgrid)
-*Extension #118 of 329*
+### 44. [Azure Event Grid](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureeventgrid)
+*Extension #119 of 331*
 
 An Azure Event Grid extension for Visual Studio Code.
 
@@ -4712,8 +4750,43 @@ All Platforms
 
 ---
 
-### 43. [Azure Sphere](https://marketplace.visualstudio.com/items?itemName=ms-vscode.azure-sphere-tools)
-*Extension #119 of 329*
+### 45. [Azure Event Grid](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureeventgrid)
+*Extension #120 of 331*
+
+An Azure Event Grid extension for Visual Studio Code.
+
+**Details:**
+
+- **Extension ID:** `ms-azuretools.vscode-azureeventgrid`
+- **Version:** 0.1.1
+- **Installs:** 38K
+- **Published:** 2018-06-01
+- **Last Updated:** 2018-12-17
+- **VS Code Engine:** ^1.23.0
+- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureeventgrid
+
+**Resources:**
+
+- 📦 [Repository](https://github.com/Microsoft/vscode-azureeventgrid)
+- 🐛 [Issues](https://github.com/Microsoft/vscode-azureeventgrid/issues)
+- 🏠 [Homepage](https://github.com/Microsoft/vscode-azureeventgrid/blob/master/README.md)
+
+**Marketplace Categories:**
+
+Azure
+
+**Tags:**
+
+Azure, EventGrid, json, multi-root ready
+
+**Works With:**
+
+All Platforms
+
+---
+
+### 46. [Azure Sphere](https://marketplace.visualstudio.com/items?itemName=ms-vscode.azure-sphere-tools)
+*Extension #121 of 331*
 
 VS Code Extension for Azure Sphere
 
@@ -4747,8 +4820,8 @@ All Platforms
 
 ---
 
-### 44. [Azure Serverless](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureserverlesspack)
-*Extension #120 of 329*
+### 47. [Azure Serverless](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureserverlesspack)
+*Extension #122 of 331*
 
 Extension pack for serverless development on Azure.
 
@@ -4782,8 +4855,8 @@ All Platforms
 
 ---
 
-### 45. [Service Fabric Reliable Services](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-service-fabric-reliable-services)
-*Extension #121 of 329*
+### 48. [Service Fabric Reliable Services](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-service-fabric-reliable-services)
+*Extension #123 of 331*
 
 Service Fabric Reliable Services extension for VSCode
 
@@ -4817,8 +4890,8 @@ All Platforms
 
 ---
 
-### 46. [Azure Sphere UI](https://marketplace.visualstudio.com/items?itemName=ms-vscode.azure-sphere-tools-ui)
-*Extension #122 of 329*
+### 49. [Azure Sphere UI](https://marketplace.visualstudio.com/items?itemName=ms-vscode.azure-sphere-tools-ui)
+*Extension #124 of 331*
 
 VS Code Extension for Azure Sphere (UI component)
 
@@ -4848,8 +4921,8 @@ All Platforms
 
 ---
 
-### 47. [Azure Spring Apps](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-azurespringcloud)
-*Extension #123 of 329*
+### 50. [Azure Spring Apps](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-azurespringcloud)
+*Extension #125 of 331*
 
 An Azure Spring Apps extension for Visual Studio Code.
 
@@ -4884,8 +4957,8 @@ All Platforms
 
 ---
 
-### 48. [Microsoft Entra External ID](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.ms-entra)
-*Extension #124 of 329*
+### 51. [Microsoft Entra External ID](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.ms-entra)
+*Extension #126 of 331*
 
 Kickstart identity integration for customer-facing apps, without leaving your development environment.
 
@@ -4920,8 +4993,8 @@ All Platforms
 
 ---
 
-### 49. [Azure API Center](https://marketplace.visualstudio.com/items?itemName=apidev.azure-api-center)
-*Extension #125 of 329*
+### 52. [Azure API Center](https://marketplace.visualstudio.com/items?itemName=apidev.azure-api-center)
+*Extension #127 of 331*
 
 Build, discover, and consume APIs.
 
@@ -4955,8 +5028,8 @@ All Platforms
 
 ---
 
-### 50. [Azure Video Analyzer](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.azure-video-analyzer)
-*Extension #126 of 329*
+### 53. [Azure Video Analyzer](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.azure-video-analyzer)
+*Extension #128 of 331*
 
 Azure Video Analyzer extension for Visual Studio Code provides support by making it easy to edit and manage media topologies and live pipelines.
 
@@ -4991,8 +5064,38 @@ All Platforms
 
 ---
 
-### 51. [Tye](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-tye)
-*Extension #127 of 329*
+### 54. [VS Code Azure Functions Web](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azure-functions-web)
+*Extension #129 of 331*
+
+A wrapper extension for the Azure Functions extension that provides a webview-based experience for creating, running, and deploying Azure Functions.
+
+**Details:**
+
+- **Extension ID:** `ms-azuretools.vscode-azure-functions-web`
+- **Version:** 0.0.39
+- **Installs:** 10K
+- **Published:** 2024-05-21
+- **Last Updated:** 2024-10-31
+- **VS Code Engine:** ^1.87.0
+- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azure-functions-web
+
+**Resources:**
+
+- 📦 [Repository](https://github.com/Azure/azure-functions-vscode-web/issues)
+- 🐛 [Issues](https://github.com/Azure/azure-functions-vscode-web/issues)
+
+**Marketplace Categories:**
+
+Other
+
+**Works With:**
+
+All Platforms
+
+---
+
+### 55. [Tye](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-tye)
+*Extension #130 of 331*
 
 Makes it easy to debug and interact with applications using Tye.
 
@@ -5027,38 +5130,8 @@ All Platforms
 
 ---
 
-### 52. [VS Code Azure Functions Web](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azure-functions-web)
-*Extension #128 of 329*
-
-A wrapper extension for the Azure Functions extension that provides a webview-based experience for creating, running, and deploying Azure Functions.
-
-**Details:**
-
-- **Extension ID:** `ms-azuretools.vscode-azure-functions-web`
-- **Version:** 0.0.39
-- **Installs:** 9K
-- **Published:** 2024-05-21
-- **Last Updated:** 2024-10-31
-- **VS Code Engine:** ^1.87.0
-- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azure-functions-web
-
-**Resources:**
-
-- 📦 [Repository](https://github.com/Azure/azure-functions-vscode-web/issues)
-- 🐛 [Issues](https://github.com/Azure/azure-functions-vscode-web/issues)
-
-**Marketplace Categories:**
-
-Other
-
-**Works With:**
-
-All Platforms
-
----
-
-### 53. [Azure AI Speech Toolkit](https://marketplace.visualstudio.com/items?itemName=ms-azureaispeech.azure-ai-speech-toolkit)
-*Extension #129 of 329*
+### 56. [Azure AI Speech Toolkit](https://marketplace.visualstudio.com/items?itemName=ms-azureaispeech.azure-ai-speech-toolkit)
+*Extension #131 of 331*
 
 Build Azure Speech empowered apps with just a few clicks
 
@@ -5066,7 +5139,7 @@ Build Azure Speech empowered apps with just a few clicks
 
 - **Extension ID:** `ms-azureaispeech.azure-ai-speech-toolkit`
 - **Version:** 0.0.21
-- **Installs:** 9K
+- **Installs:** 10K
 - **Rating:** ⭐ 5/5 (2 ratings)
 - **Published:** 2024-10-17
 - **Last Updated:** 2025-08-28
@@ -5089,8 +5162,8 @@ All Platforms
 
 ---
 
-### 54. [FHIR Converter](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-health-fhir-converter)
-*Extension #130 of 329*
+### 57. [FHIR Converter](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-health-fhir-converter)
+*Extension #132 of 331*
 
 Enables the conversion of legacy formatted health data to FHIR, expanding the use cases for health data and enabling interoperability.
 
@@ -5125,8 +5198,8 @@ All Platforms
 
 ---
 
-### 55. [vscode-azure-functions-remote-web](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azure-functions-remote-web)
-*Extension #131 of 329*
+### 58. [vscode-azure-functions-remote-web](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azure-functions-remote-web)
+*Extension #133 of 331*
 
 **Details:**
 
@@ -5152,20 +5225,20 @@ All Platforms
 
 ---
 
-### 56. [DocumentDB for VS Code](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-documentdb)
-*Extension #132 of 329*
+### 59. [DocumentDB for VS Code](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-documentdb)
+*Extension #134 of 331*
 
 DocumentDB and MongoDB GUI: Connect to databases, run queries, and manage your data. Supports working with databases across both cloud-based and local environments.
 
 **Details:**
 
 - **Extension ID:** `ms-azuretools.vscode-documentdb`
-- **Version:** 0.6.1
-- **Installs:** 7K
+- **Version:** 0.6.2
+- **Installs:** 8K
 - **Rating:** ⭐ 5/5 (8 ratings)
 - **Published:** 2025-05-09
-- **Last Updated:** 2025-11-20
-- **VS Code Engine:** ^1.90.0
+- **Last Updated:** 2025-12-12
+- **VS Code Engine:** ^1.96.0
 - **Marketplace:** https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-documentdb
 
 **Resources:**
@@ -5188,8 +5261,8 @@ All Platforms
 
 ---
 
-### 57. [Radius Bicep](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.rad-vscode-bicep)
-*Extension #133 of 329*
+### 60. [Radius Bicep](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.rad-vscode-bicep)
+*Extension #135 of 331*
 
 Radius custom Bicep language support for Visual Studio Code
 
@@ -5223,8 +5296,8 @@ All Platforms
 
 ---
 
-### 58. [Azure Arc](https://marketplace.visualstudio.com/items?itemName=azurearc-dev.azurearc)
-*Extension #134 of 329*
+### 61. [Azure Arc](https://marketplace.visualstudio.com/items?itemName=azurearc-dev.azurearc)
+*Extension #136 of 331*
 
 Azure Arc
 
@@ -5254,8 +5327,8 @@ All Platforms
 
 ---
 
-### 59. [Azure Arc-enabled machines](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurearcenabledmachines)
-*Extension #135 of 329*
+### 62. [Azure Arc-enabled machines](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurearcenabledmachines)
+*Extension #137 of 331*
 
 An Azure Arc-enabled machines extension for Visual Studio Code.
 
@@ -5289,8 +5362,8 @@ All Platforms
 
 ---
 
-### 60. [Learn Cloud](https://marketplace.visualstudio.com/items?itemName=azurepaas-tools.vscode-learncloud)
-*Extension #136 of 329*
+### 63. [Learn Cloud](https://marketplace.visualstudio.com/items?itemName=azurepaas-tools.vscode-learncloud)
+*Extension #138 of 331*
 
 Guiding first-time cloud users to deploy to Azure PaaS
 
@@ -5325,8 +5398,8 @@ All Platforms
 
 ---
 
-### 61. [Azure Web PubSub](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurewebpubsub)
-*Extension #137 of 329*
+### 64. [Azure Web PubSub](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurewebpubsub)
+*Extension #139 of 331*
 
 An Azure Web PubSub extension for Visual Studio Code.
 
@@ -5361,8 +5434,8 @@ All Platforms
 
 ---
 
-### 62. [Azure OSConfig](https://marketplace.visualstudio.com/items?itemName=edge-security.osconfig)
-*Extension #138 of 329*
+### 65. [Azure OSConfig](https://marketplace.visualstudio.com/items?itemName=edge-security.osconfig)
+*Extension #140 of 331*
 
 Rich authoring for Azure Device OS Configuration Desired Configuration (DC) documents.
 
@@ -5396,32 +5469,34 @@ All Platforms
 
 ---
 
-### 63. [VS Code for the Web - Azure](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-dev-azurecloudshell)
-*Extension #139 of 329*
+### 66. [Azure OSConfig](https://marketplace.visualstudio.com/items?itemName=edge-security.osconfig)
+*Extension #141 of 331*
+
+Rich authoring for Azure Device OS Configuration Desired Configuration (DC) documents.
 
 **Details:**
 
-- **Extension ID:** `ms-azuretools.vscode-dev-azurecloudshell`
-- **Version:** 0.5.3
-- **Installs:** 675
-- **Published:** 2024-11-25
-- **Last Updated:** 2025-11-14
-- **VS Code Engine:** ^1.95.0
-- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-dev-azurecloudshell
+- **Extension ID:** `edge-security.osconfig`
+- **Version:** 1.0.0
+- **Installs:** 1K
+- **Published:** 2023-03-08
+- **Last Updated:** 2023-03-08
+- **VS Code Engine:** ^1.74.0
+- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=edge-security.osconfig
 
 **Resources:**
 
-- 📦 [Repository](https://github.com/microsoft/vscode-dev-azure.git)
-- 🐛 [Issues](https://github.com/microsoft/vscode-dev-azure/issues)
-- 🏠 [Homepage](https://github.com/microsoft/vscode-dev-azure#readme)
+- 📦 [Repository](https://github.com/Azure/vscode-osconfig.git)
+- 🐛 [Issues](https://github.com/Azure/vscode-osconfig/issues)
+- 🏠 [Homepage](https://github.com/Azure/vscode-osconfig#readme)
 
 **Marketplace Categories:**
 
-Other
+Programming Languages, Snippets, Linters
 
 **Tags:**
 
-__web_extension
+azure, desired configuration, edge security, json, multi-root ready, osconfig
 
 **Works With:**
 
@@ -5429,8 +5504,8 @@ All Platforms
 
 ---
 
-### 64. [Template MCP Server](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-template-mcp-server)
-*Extension #140 of 329*
+### 67. [Template MCP Server](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-template-mcp-server)
+*Extension #142 of 331*
 
 Template project for validating the microsoft/mcp engineering system.
 
@@ -5438,7 +5513,7 @@ Template project for validating the microsoft/mcp engineering system.
 
 - **Extension ID:** `ms-azuretools.vscode-template-mcp-server`
 - **Version:** 0.0.5629128
-- **Installs:** 674
+- **Installs:** 775
 - **Published:** 2025-10-07
 - **Last Updated:** 2025-12-02
 - **VS Code Engine:** ^1.101.0
@@ -5464,16 +5539,49 @@ Linux ARM64, Linux x64, macOS Intel, macOS Apple Silicon, Windows ARM64, Windows
 
 ---
 
-### 65. [Azure Terraform Helper](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.azureterraform-vscode-web-opener)
-*Extension #141 of 329*
+### 68. [VS Code for the Web - Azure](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-dev-azurecloudshell)
+*Extension #143 of 331*
+
+**Details:**
+
+- **Extension ID:** `ms-azuretools.vscode-dev-azurecloudshell`
+- **Version:** 0.5.4
+- **Installs:** 684
+- **Published:** 2024-11-25
+- **Last Updated:** 2025-12-11
+- **VS Code Engine:** ^1.95.0
+- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-dev-azurecloudshell
+
+**Resources:**
+
+- 📦 [Repository](https://github.com/microsoft/vscode-dev-azure.git)
+- 🐛 [Issues](https://github.com/microsoft/vscode-dev-azure/issues)
+- 🏠 [Homepage](https://github.com/microsoft/vscode-dev-azure#readme)
+
+**Marketplace Categories:**
+
+Other
+
+**Tags:**
+
+__web_extension
+
+**Works With:**
+
+All Platforms
+
+---
+
+### 69. [Azure Terraform Helper](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.azureterraform-vscode-web-opener)
+*Extension #144 of 331*
 
 **Details:**
 
 - **Extension ID:** `ms-azuretools.azureterraform-vscode-web-opener`
-- **Version:** 0.0.9
-- **Installs:** 600
+- **Version:** 0.0.10
+- **Installs:** 645
 - **Published:** 2025-08-20
-- **Last Updated:** 2025-10-31
+- **Last Updated:** 2025-12-10
 - **VS Code Engine:** ^1.102.0
 - **Marketplace:** https://marketplace.visualstudio.com/items?itemName=ms-azuretools.azureterraform-vscode-web-opener
 
@@ -5497,14 +5605,14 @@ All Platforms
 
 ## Extension Packs
 
-**Category Stats:** 46 extensions | Total Installs: 210.24M | Avg Rating: 4.5⭐
+**Category Stats:** 47 extensions | Total Installs: 211.15M | Avg Rating: 4.5⭐
 
 [⬆ Back to Table of Contents](#-table-of-contents)
 
 ---
 
 ### 1. [C/C++ Extension Pack](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools-extension-pack)
-*Extension #142 of 329*
+*Extension #145 of 331*
 
 Popular extensions for C++ development in Visual Studio Code.
 
@@ -5512,7 +5620,7 @@ Popular extensions for C++ development in Visual Studio Code.
 
 - **Extension ID:** `ms-vscode.cpptools-extension-pack`
 - **Version:** 1.3.1
-- **Installs:** 48.97M
+- **Installs:** 49.23M
 - **Rating:** ⭐ 4.6/5 (44 ratings)
 - **Published:** 2020-09-08
 - **Last Updated:** 2025-02-24
@@ -5540,18 +5648,18 @@ All Platforms
 ---
 
 ### 2. [Chinese (Simplified) (简体中文) Language Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-zh-hans)
-*Extension #143 of 329*
+*Extension #146 of 331*
 
 Language pack extension for Chinese (Simplified)
 
 **Details:**
 
 - **Extension ID:** `MS-CEINTL.vscode-language-pack-zh-hans`
-- **Version:** 1.107.2025120309
-- **Installs:** 46.55M
+- **Version:** 1.107.2025121009
+- **Installs:** 46.77M
 - **Rating:** ⭐ 4.8/5 (79 ratings)
 - **Published:** 2018-04-23
-- **Last Updated:** 2025-12-03
+- **Last Updated:** 2025-12-10
 - **VS Code Engine:** ^1.107.0
 - **Marketplace:** https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-zh-hans
 
@@ -5576,7 +5684,7 @@ All Platforms
 ---
 
 ### 3. [Extension Pack for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack)
-*Extension #144 of 329*
+*Extension #147 of 331*
 
 Popular extensions for Java development that provides Java IntelliSense, debugging, testing, Maven/Gradle support, project management and more
 
@@ -5584,7 +5692,7 @@ Popular extensions for Java development that provides Java IntelliSense, debuggi
 
 - **Extension ID:** `vscjava.vscode-java-pack`
 - **Version:** 0.30.2025111702
-- **Installs:** 40.12M
+- **Installs:** 40.29M
 - **Rating:** ⭐ 3.7/5 (87 ratings)
 - **Published:** 2017-09-27
 - **Last Updated:** 2025-11-17
@@ -5613,18 +5721,18 @@ All Platforms
 ---
 
 ### 4. [Japanese Language Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-ja)
-*Extension #145 of 329*
+*Extension #148 of 331*
 
 Language pack extension for Japanese
 
 **Details:**
 
 - **Extension ID:** `MS-CEINTL.vscode-language-pack-ja`
-- **Version:** 1.107.2025120309
-- **Installs:** 12.97M
+- **Version:** 1.107.2025121009
+- **Installs:** 13.03M
 - **Rating:** ⭐ 4.6/5 (10 ratings)
 - **Published:** 2018-05-10
-- **Last Updated:** 2025-12-03
+- **Last Updated:** 2025-12-10
 - **VS Code Engine:** ^1.107.0
 - **Marketplace:** https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-ja
 
@@ -5649,18 +5757,18 @@ All Platforms
 ---
 
 ### 5. [Spanish Language Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-es)
-*Extension #146 of 329*
+*Extension #149 of 331*
 
 Language pack extension for Spanish
 
 **Details:**
 
 - **Extension ID:** `MS-CEINTL.vscode-language-pack-es`
-- **Version:** 1.107.2025120309
-- **Installs:** 10.55M
+- **Version:** 1.107.2025121009
+- **Installs:** 10.58M
 - **Rating:** ⭐ 4.4/5 (15 ratings)
 - **Published:** 2018-05-10
-- **Last Updated:** 2025-12-03
+- **Last Updated:** 2025-12-10
 - **VS Code Engine:** ^1.107.0
 - **Marketplace:** https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-es
 
@@ -5685,18 +5793,18 @@ All Platforms
 ---
 
 ### 6. [Portuguese (Brazil) Language Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-pt-BR)
-*Extension #147 of 329*
+*Extension #150 of 331*
 
 Language pack extension for Portuguese (Brazil)
 
 **Details:**
 
 - **Extension ID:** `MS-CEINTL.vscode-language-pack-pt-BR`
-- **Version:** 1.107.2025120309
-- **Installs:** 8.36M
+- **Version:** 1.107.2025121009
+- **Installs:** 8.39M
 - **Rating:** ⭐ 4.7/5 (32 ratings)
 - **Published:** 2018-02-21
-- **Last Updated:** 2025-12-03
+- **Last Updated:** 2025-12-10
 - **VS Code Engine:** ^1.107.0
 - **Marketplace:** https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-pt-BR
 
@@ -5721,18 +5829,18 @@ All Platforms
 ---
 
 ### 7. [Russian Language Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-ru)
-*Extension #148 of 329*
+*Extension #151 of 331*
 
 Language pack extension for Russian
 
 **Details:**
 
 - **Extension ID:** `MS-CEINTL.vscode-language-pack-ru`
-- **Version:** 1.107.2025120309
-- **Installs:** 8.06M
+- **Version:** 1.107.2025121009
+- **Installs:** 8.09M
 - **Rating:** ⭐ 4.7/5 (29 ratings)
 - **Published:** 2018-05-10
-- **Last Updated:** 2025-12-03
+- **Last Updated:** 2025-12-10
 - **VS Code Engine:** ^1.107.0
 - **Marketplace:** https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-ru
 
@@ -5757,18 +5865,18 @@ All Platforms
 ---
 
 ### 8. [Korean Language Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-ko)
-*Extension #149 of 329*
+*Extension #152 of 331*
 
 Language pack extension for Korean
 
 **Details:**
 
 - **Extension ID:** `MS-CEINTL.vscode-language-pack-ko`
-- **Version:** 1.107.2025120309
-- **Installs:** 6.11M
+- **Version:** 1.107.2025121009
+- **Installs:** 6.13M
 - **Rating:** ⭐ 4.3/5 (12 ratings)
 - **Published:** 2018-05-08
-- **Last Updated:** 2025-12-03
+- **Last Updated:** 2025-12-10
 - **VS Code Engine:** ^1.107.0
 - **Marketplace:** https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-ko
 
@@ -5793,18 +5901,18 @@ All Platforms
 ---
 
 ### 9. [French Language Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-fr)
-*Extension #150 of 329*
+*Extension #153 of 331*
 
 Language pack extension for French
 
 **Details:**
 
 - **Extension ID:** `MS-CEINTL.vscode-language-pack-fr`
-- **Version:** 1.107.2025120309
-- **Installs:** 5.81M
+- **Version:** 1.107.2025121009
+- **Installs:** 5.84M
 - **Rating:** ⭐ 4.2/5 (10 ratings)
 - **Published:** 2018-05-10
-- **Last Updated:** 2025-12-03
+- **Last Updated:** 2025-12-10
 - **VS Code Engine:** ^1.107.0
 - **Marketplace:** https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-fr
 
@@ -5829,18 +5937,18 @@ All Platforms
 ---
 
 ### 10. [German Language Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-de)
-*Extension #151 of 329*
+*Extension #154 of 331*
 
 Language pack extension for German
 
 **Details:**
 
 - **Extension ID:** `MS-CEINTL.vscode-language-pack-de`
-- **Version:** 1.107.2025120309
-- **Installs:** 5.06M
+- **Version:** 1.107.2025121009
+- **Installs:** 5.08M
 - **Rating:** ⭐ 4/5 (6 ratings)
 - **Published:** 2018-04-23
-- **Last Updated:** 2025-12-03
+- **Last Updated:** 2025-12-10
 - **VS Code Engine:** ^1.107.0
 - **Marketplace:** https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-de
 
@@ -5865,18 +5973,18 @@ All Platforms
 ---
 
 ### 11. [Chinese (Traditional) Language Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-zh-hant)
-*Extension #152 of 329*
+*Extension #155 of 331*
 
 Language pack extension for Chinese (Traditional)
 
 **Details:**
 
 - **Extension ID:** `MS-CEINTL.vscode-language-pack-zh-hant`
-- **Version:** 1.107.2025120309
-- **Installs:** 4.36M
+- **Version:** 1.107.2025121009
+- **Installs:** 4.38M
 - **Rating:** ⭐ 4.9/5 (28 ratings)
 - **Published:** 2018-05-08
-- **Last Updated:** 2025-12-03
+- **Last Updated:** 2025-12-10
 - **VS Code Engine:** ^1.107.0
 - **Marketplace:** https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-zh-hant
 
@@ -5901,18 +6009,18 @@ All Platforms
 ---
 
 ### 12. [Italian Language Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-it)
-*Extension #153 of 329*
+*Extension #156 of 331*
 
 Language pack extension for Italian
 
 **Details:**
 
 - **Extension ID:** `MS-CEINTL.vscode-language-pack-it`
-- **Version:** 1.107.2025120309
-- **Installs:** 3.17M
+- **Version:** 1.107.2025121009
+- **Installs:** 3.18M
 - **Rating:** ⭐ 4.5/5 (2 ratings)
 - **Published:** 2018-05-10
-- **Last Updated:** 2025-12-03
+- **Last Updated:** 2025-12-10
 - **VS Code Engine:** ^1.107.0
 - **Marketplace:** https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-it
 
@@ -5937,18 +6045,18 @@ All Platforms
 ---
 
 ### 13. [Polish Language Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-pl)
-*Extension #154 of 329*
+*Extension #157 of 331*
 
 Language pack extension for Polish
 
 **Details:**
 
 - **Extension ID:** `MS-CEINTL.vscode-language-pack-pl`
-- **Version:** 1.107.2025120309
-- **Installs:** 2.72M
+- **Version:** 1.107.2025121009
+- **Installs:** 2.73M
 - **Rating:** ⭐ 5/5 (5 ratings)
 - **Published:** 2020-05-20
-- **Last Updated:** 2025-12-03
+- **Last Updated:** 2025-12-10
 - **VS Code Engine:** ^1.107.0
 - **Marketplace:** https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-pl
 
@@ -5973,18 +6081,18 @@ All Platforms
 ---
 
 ### 14. [Czech Language Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-cs)
-*Extension #155 of 329*
+*Extension #158 of 331*
 
 Language pack extension for Czech
 
 **Details:**
 
 - **Extension ID:** `MS-CEINTL.vscode-language-pack-cs`
-- **Version:** 1.107.2025120309
-- **Installs:** 2.17M
+- **Version:** 1.107.2025121009
+- **Installs:** 2.18M
 - **Rating:** ⭐ 5/5 (4 ratings)
 - **Published:** 2020-05-20
-- **Last Updated:** 2025-12-03
+- **Last Updated:** 2025-12-10
 - **VS Code Engine:** ^1.107.0
 - **Marketplace:** https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-cs
 
@@ -6009,7 +6117,7 @@ All Platforms
 ---
 
 ### 15. [Hungarian Language Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-hu)
-*Extension #156 of 329*
+*Extension #159 of 331*
 
 Language pack extension for Hungarian
 
@@ -6044,7 +6152,7 @@ All Platforms
 ---
 
 ### 16. [Bulgarian Language Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-bg)
-*Extension #157 of 329*
+*Extension #160 of 331*
 
 Language pack extension for Bulgarian.
 
@@ -6079,18 +6187,18 @@ All Platforms
 ---
 
 ### 17. [Turkish Language Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-tr)
-*Extension #158 of 329*
+*Extension #161 of 331*
 
 Language pack extension for Turkish
 
 **Details:**
 
 - **Extension ID:** `MS-CEINTL.vscode-language-pack-tr`
-- **Version:** 1.107.2025120309
-- **Installs:** 1.01M
+- **Version:** 1.107.2025121009
+- **Installs:** 1.02M
 - **Rating:** ⭐ 4.7/5 (12 ratings)
 - **Published:** 2018-02-21
-- **Last Updated:** 2025-12-03
+- **Last Updated:** 2025-12-10
 - **VS Code Engine:** ^1.107.0
 - **Marketplace:** https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-tr
 
@@ -6115,7 +6223,7 @@ All Platforms
 ---
 
 ### 18. [Learn Authoring Pack](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-authoring-pack)
-*Extension #159 of 329*
+*Extension #162 of 331*
 
 Collection of extensions to assist with content development for learn.microsoft.com
 
@@ -6123,7 +6231,7 @@ Collection of extensions to assist with content development for learn.microsoft.
 
 - **Extension ID:** `docsmsft.docs-authoring-pack`
 - **Version:** 1.0.3
-- **Installs:** 118K
+- **Installs:** 119K
 - **Rating:** ⭐ 2.9/5 (7 ratings)
 - **Published:** 2018-04-05
 - **Last Updated:** 2025-04-15
@@ -6149,7 +6257,7 @@ All Platforms
 ---
 
 ### 19. [Chinese (Simplified, China) language support for VS Code Speech](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-speech-language-pack-zh-cn)
-*Extension #160 of 329*
+*Extension #163 of 331*
 
 Chinese (Simplified, China) language support for speech-to-text and other voice capabilities in VS Code.
 
@@ -6157,7 +6265,7 @@ Chinese (Simplified, China) language support for speech-to-text and other voice 
 
 - **Extension ID:** `ms-vscode.vscode-speech-language-pack-zh-cn`
 - **Version:** 0.5.1
-- **Installs:** 108K
+- **Installs:** 109K
 - **Rating:** ⭐ 5/5 (1 ratings)
 - **Published:** 2024-02-23
 - **Last Updated:** 2025-04-16
@@ -6185,7 +6293,7 @@ All Platforms
 ---
 
 ### 20. [Brackets Extension Pack](https://marketplace.visualstudio.com/items?itemName=ms-vscode.brackets-pack)
-*Extension #161 of 329*
+*Extension #164 of 331*
 
 Popular Brackets features as extensions for VS Code.
 
@@ -6220,18 +6328,18 @@ All Platforms
 ---
 
 ### 21. [Pseudo Language Language Pack](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-qps-ploc)
-*Extension #162 of 329*
+*Extension #165 of 331*
 
 Language pack extension for Pseudo Language
 
 **Details:**
 
 - **Extension ID:** `MS-CEINTL.vscode-language-pack-qps-ploc`
-- **Version:** 1.107.2025120309
+- **Version:** 1.107.2025121009
 - **Installs:** 45K
 - **Rating:** ⭐ 5/5 (2 ratings)
 - **Published:** 2021-06-08
-- **Last Updated:** 2025-12-03
+- **Last Updated:** 2025-12-10
 - **VS Code Engine:** ^1.107.0
 - **Marketplace:** https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-qps-ploc
 
@@ -6256,7 +6364,7 @@ All Platforms
 ---
 
 ### 22. [Spanish (Spain) language support for VS Code Speech](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-speech-language-pack-es-es)
-*Extension #163 of 329*
+*Extension #166 of 331*
 
 Spanish (Spain) language support for speech-to-text and other voice capabilities in VS Code.
 
@@ -6264,7 +6372,7 @@ Spanish (Spain) language support for speech-to-text and other voice capabilities
 
 - **Extension ID:** `ms-vscode.vscode-speech-language-pack-es-es`
 - **Version:** 0.5.0
-- **Installs:** 23K
+- **Installs:** 24K
 - **Published:** 2024-02-22
 - **Last Updated:** 2024-10-31
 - **VS Code Engine:** ^1.87.0
@@ -6291,7 +6399,7 @@ All Platforms
 ---
 
 ### 23. [Portuguese (Brazil) language support for VS Code Speech](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-speech-language-pack-pt-br)
-*Extension #164 of 329*
+*Extension #167 of 331*
 
 Portuguese (Brazil) language support for speech-to-text and other voice capabilities in VS Code.
 
@@ -6327,7 +6435,7 @@ All Platforms
 ---
 
 ### 24. [French (France) language support for VS Code Speech](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-speech-language-pack-fr-fr)
-*Extension #165 of 329*
+*Extension #168 of 331*
 
 French (France) language support for speech-to-text and other voice capabilities in VS Code.
 
@@ -6362,7 +6470,7 @@ All Platforms
 ---
 
 ### 25. [Russian (Russia) language support for VS Code Speech](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-speech-language-pack-ru-ru)
-*Extension #166 of 329*
+*Extension #169 of 331*
 
 Russian (Russia) language support for speech-to-text and other voice capabilities in VS Code.
 
@@ -6397,7 +6505,7 @@ All Platforms
 ---
 
 ### 26. [Japanese (Japan) language support for VS Code Speech](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-speech-language-pack-ja-jp)
-*Extension #167 of 329*
+*Extension #170 of 331*
 
 Japanese (Japan) language support for speech-to-text and other voice capabilities in VS Code.
 
@@ -6432,7 +6540,7 @@ All Platforms
 ---
 
 ### 27. [Microsoft AI Tools Extension Pack](https://marketplace.visualstudio.com/items?itemName=ms-windows-ai-studio.microsoft-ai-tools-pack)
-*Extension #168 of 329*
+*Extension #171 of 331*
 
 A curated set of essential extensions for building generative AI applications and agents in Visual Studio Code.
 
@@ -6440,7 +6548,7 @@ A curated set of essential extensions for building generative AI applications an
 
 - **Extension ID:** `ms-windows-ai-studio.microsoft-ai-tools-pack`
 - **Version:** 0.1.0
-- **Installs:** 10K
+- **Installs:** 11K
 - **Rating:** ⭐ 5/5 (3 ratings)
 - **Published:** 2025-05-13
 - **Last Updated:** 2025-05-14
@@ -6468,7 +6576,7 @@ All Platforms
 ---
 
 ### 28. [German language support for VS Code Speech](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-speech-language-pack-de-de)
-*Extension #169 of 329*
+*Extension #172 of 331*
 
 German language support for speech-to-text and other voice capabilities in VS Code.
 
@@ -6503,7 +6611,7 @@ All Platforms
 ---
 
 ### 29. [Chinese (Traditional, Taiwan) language support for VS Code Speech](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-speech-language-pack-zh-tw)
-*Extension #170 of 329*
+*Extension #173 of 331*
 
 Chinese (Traditional, Taiwan) language support for speech-to-text and other voice capabilities in VS Code.
 
@@ -6539,7 +6647,7 @@ All Platforms
 ---
 
 ### 30. [Spanish (Mexico) language support for VS Code Speech](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-speech-language-pack-es-mx)
-*Extension #171 of 329*
+*Extension #174 of 331*
 
 Spanish (Mexico) language support for speech-to-text and other voice capabilities in VS Code.
 
@@ -6574,7 +6682,7 @@ All Platforms
 ---
 
 ### 31. [English (United Kingdom) language support for VS Code Speech](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-speech-language-pack-en-gb)
-*Extension #172 of 329*
+*Extension #175 of 331*
 
 English (United Kingdom) language support for speech-to-text and other voice capabilities in VS Code.
 
@@ -6609,7 +6717,7 @@ All Platforms
 ---
 
 ### 32. [Korean (South Korea) language support for VS Code Speech](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-speech-language-pack-ko-kr)
-*Extension #173 of 329*
+*Extension #176 of 331*
 
 Korean (South Korea) language support for speech-to-text and other voice capabilities in VS Code.
 
@@ -6644,7 +6752,7 @@ All Platforms
 ---
 
 ### 33. [Italian (Italy) language support for VS Code Speech](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-speech-language-pack-it-it)
-*Extension #174 of 329*
+*Extension #177 of 331*
 
 Italian (Italy) language support for speech-to-text and other voice capabilities in VS Code.
 
@@ -6679,7 +6787,7 @@ All Platforms
 ---
 
 ### 34. [Turkish (Turkey) language support for VS Code Speech](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-speech-language-pack-tr-tr)
-*Extension #175 of 329*
+*Extension #178 of 331*
 
 Turkish (Turkey) language support for speech-to-text and other voice capabilities in VS Code.
 
@@ -6713,8 +6821,43 @@ All Platforms
 
 ---
 
-### 35. [Portuguese (Portugal) language support for VS Code Speech](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-speech-language-pack-pt-pt)
-*Extension #176 of 329*
+### 35. [Turkish (Turkey) language support for VS Code Speech](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-speech-language-pack-tr-tr)
+*Extension #179 of 331*
+
+Turkish (Turkey) language support for speech-to-text and other voice capabilities in VS Code.
+
+**Details:**
+
+- **Extension ID:** `ms-vscode.vscode-speech-language-pack-tr-tr`
+- **Version:** 0.5.0
+- **Installs:** 3K
+- **Published:** 2024-02-23
+- **Last Updated:** 2024-10-31
+- **VS Code Engine:** ^1.87.0
+- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-speech-language-pack-tr-tr
+
+**Resources:**
+
+- 📦 [Repository](https://github.com/Microsoft/vscode-speech-assets.git)
+- 🐛 [Issues](https://github.com/Microsoft/vscode/issues?q=is%3Aopen+is%3Aissue+label%3Aworkbench-voice)
+- 🏠 [Homepage](https://github.com/microsoft/vscode/wiki/VS-Code-Speech)
+
+**Marketplace Categories:**
+
+Other
+
+**Tags:**
+
+__web_extension, a11y, Accessibility, ai, Chat, co-pilot, Microsoft, multi-root ready, STT, Transcription, Voice
+
+**Works With:**
+
+All Platforms
+
+---
+
+### 36. [Portuguese (Portugal) language support for VS Code Speech](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-speech-language-pack-pt-pt)
+*Extension #180 of 331*
 
 Portuguese (Portugal) language support for speech-to-text and other voice capabilities in VS Code.
 
@@ -6748,8 +6891,8 @@ All Platforms
 
 ---
 
-### 36. [English (India) language support for VS Code Speech](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-speech-language-pack-en-in)
-*Extension #177 of 329*
+### 37. [English (India) language support for VS Code Speech](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-speech-language-pack-en-in)
+*Extension #181 of 331*
 
 English (India) language support for speech-to-text and other voice capabilities in VS Code.
 
@@ -6783,8 +6926,8 @@ All Platforms
 
 ---
 
-### 37. [Hindi (India) language support for VS Code Speech](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-speech-language-pack-hi-in)
-*Extension #178 of 329*
+### 38. [Hindi (India) language support for VS Code Speech](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-speech-language-pack-hi-in)
+*Extension #182 of 331*
 
 Hindi (India) language support for speech-to-text and other voice capabilities in VS Code.
 
@@ -6818,8 +6961,8 @@ All Platforms
 
 ---
 
-### 38. [English (Canada) language support for VS Code Speech](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-speech-language-pack-en-ca)
-*Extension #179 of 329*
+### 39. [English (Canada) language support for VS Code Speech](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-speech-language-pack-en-ca)
+*Extension #183 of 331*
 
 English (Canada) language support for speech-to-text and other voice capabilities in VS Code.
 
@@ -6827,7 +6970,7 @@ English (Canada) language support for speech-to-text and other voice capabilitie
 
 - **Extension ID:** `ms-vscode.vscode-speech-language-pack-en-ca`
 - **Version:** 0.5.0
-- **Installs:** 900
+- **Installs:** 910
 - **Published:** 2024-02-22
 - **Last Updated:** 2024-10-31
 - **VS Code Engine:** ^1.87.0
@@ -6853,8 +6996,8 @@ All Platforms
 
 ---
 
-### 39. [French (Canada) language support for VS Code Speech](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-speech-language-pack-fr-ca)
-*Extension #180 of 329*
+### 40. [French (Canada) language support for VS Code Speech](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-speech-language-pack-fr-ca)
+*Extension #184 of 331*
 
 French (Canada) language support for speech-to-text and other voice capabilities in VS Code.
 
@@ -6862,7 +7005,7 @@ French (Canada) language support for speech-to-text and other voice capabilities
 
 - **Extension ID:** `ms-vscode.vscode-speech-language-pack-fr-ca`
 - **Version:** 0.5.0
-- **Installs:** 791
+- **Installs:** 806
 - **Published:** 2024-02-22
 - **Last Updated:** 2024-10-31
 - **VS Code Engine:** ^1.87.0
@@ -6888,8 +7031,8 @@ All Platforms
 
 ---
 
-### 40. [English (Australia) language support for VS Code Speech](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-speech-language-pack-en-au)
-*Extension #181 of 329*
+### 41. [English (Australia) language support for VS Code Speech](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-speech-language-pack-en-au)
+*Extension #185 of 331*
 
 English (Australia) language support for speech-to-text and other voice capabilities in VS Code.
 
@@ -6897,7 +7040,7 @@ English (Australia) language support for speech-to-text and other voice capabili
 
 - **Extension ID:** `ms-vscode.vscode-speech-language-pack-en-au`
 - **Version:** 0.5.0
-- **Installs:** 738
+- **Installs:** 751
 - **Published:** 2024-02-22
 - **Last Updated:** 2024-10-31
 - **VS Code Engine:** ^1.87.0
@@ -6923,8 +7066,8 @@ All Platforms
 
 ---
 
-### 41. [Dutch (Netherlands) language support for VS Code Speech](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-speech-language-pack-nl-nl)
-*Extension #182 of 329*
+### 42. [Dutch (Netherlands) language support for VS Code Speech](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-speech-language-pack-nl-nl)
+*Extension #186 of 331*
 
 Dutch (Netherlands) language support for speech-to-text and other voice capabilities in VS Code.
 
@@ -6932,7 +7075,7 @@ Dutch (Netherlands) language support for speech-to-text and other voice capabili
 
 - **Extension ID:** `ms-vscode.vscode-speech-language-pack-nl-nl`
 - **Version:** 0.5.0
-- **Installs:** 727
+- **Installs:** 732
 - **Published:** 2024-02-22
 - **Last Updated:** 2024-10-31
 - **VS Code Engine:** ^1.87.0
@@ -6958,8 +7101,8 @@ All Platforms
 
 ---
 
-### 42. [Swedish (Sweden) language support for VS Code Speech](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-speech-language-pack-sv-se)
-*Extension #183 of 329*
+### 43. [Swedish (Sweden) language support for VS Code Speech](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-speech-language-pack-sv-se)
+*Extension #187 of 331*
 
 Swedish (Sweden) language support for speech-to-text and other voice capabilities in VS Code.
 
@@ -6967,7 +7110,7 @@ Swedish (Sweden) language support for speech-to-text and other voice capabilitie
 
 - **Extension ID:** `ms-vscode.vscode-speech-language-pack-sv-se`
 - **Version:** 0.5.0
-- **Installs:** 571
+- **Installs:** 575
 - **Published:** 2024-02-23
 - **Last Updated:** 2024-10-31
 - **VS Code Engine:** ^1.87.0
@@ -6993,8 +7136,8 @@ All Platforms
 
 ---
 
-### 43. [Chinese (Traditional, Hong Kong) language support for VS Code Speech](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-speech-language-pack-zh-hk)
-*Extension #184 of 329*
+### 44. [Chinese (Traditional, Hong Kong) language support for VS Code Speech](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-speech-language-pack-zh-hk)
+*Extension #188 of 331*
 
 Chinese (Traditional, Hong Kong) language support for speech-to-text and other voice capabilities in VS Code.
 
@@ -7002,7 +7145,7 @@ Chinese (Traditional, Hong Kong) language support for speech-to-text and other v
 
 - **Extension ID:** `ms-vscode.vscode-speech-language-pack-zh-hk`
 - **Version:** 0.5.0
-- **Installs:** 545
+- **Installs:** 548
 - **Published:** 2024-02-23
 - **Last Updated:** 2024-10-31
 - **VS Code Engine:** ^1.87.0
@@ -7028,8 +7171,8 @@ All Platforms
 
 ---
 
-### 44. [English (Ireland) language support for VS Code Speech](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-speech-language-pack-en-ie)
-*Extension #185 of 329*
+### 45. [English (Ireland) language support for VS Code Speech](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-speech-language-pack-en-ie)
+*Extension #189 of 331*
 
 English (Ireland) language support for speech-to-text and other voice capabilities in VS Code.
 
@@ -7037,7 +7180,7 @@ English (Ireland) language support for speech-to-text and other voice capabiliti
 
 - **Extension ID:** `ms-vscode.vscode-speech-language-pack-en-ie`
 - **Version:** 0.5.0
-- **Installs:** 384
+- **Installs:** 386
 - **Published:** 2024-02-22
 - **Last Updated:** 2024-10-31
 - **VS Code Engine:** ^1.87.0
@@ -7063,8 +7206,8 @@ All Platforms
 
 ---
 
-### 45. [English (New Zealand) language support for VS Code Speech](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-speech-language-pack-en-nz)
-*Extension #186 of 329*
+### 46. [English (New Zealand) language support for VS Code Speech](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-speech-language-pack-en-nz)
+*Extension #190 of 331*
 
 English (New Zealand) language support for speech-to-text and other voice capabilities in VS Code.
 
@@ -7072,7 +7215,7 @@ English (New Zealand) language support for speech-to-text and other voice capabi
 
 - **Extension ID:** `ms-vscode.vscode-speech-language-pack-en-nz`
 - **Version:** 0.5.0
-- **Installs:** 332
+- **Installs:** 335
 - **Published:** 2024-02-22
 - **Last Updated:** 2024-10-31
 - **VS Code Engine:** ^1.87.0
@@ -7098,8 +7241,8 @@ All Platforms
 
 ---
 
-### 46. [Danish (Denmark) language support for VS Code Speech](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-speech-language-pack-da-dk)
-*Extension #187 of 329*
+### 47. [Danish (Denmark) language support for VS Code Speech](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-speech-language-pack-da-dk)
+*Extension #191 of 331*
 
 Danish (Denmark) language support for speech-to-text and other voice capabilities in VS Code.
 
@@ -7107,7 +7250,7 @@ Danish (Denmark) language support for speech-to-text and other voice capabilitie
 
 - **Extension ID:** `ms-vscode.vscode-speech-language-pack-da-dk`
 - **Version:** 0.5.0
-- **Installs:** 286
+- **Installs:** 291
 - **Published:** 2024-02-22
 - **Last Updated:** 2024-10-31
 - **VS Code Engine:** ^1.87.0
@@ -7139,14 +7282,14 @@ All Platforms
 
 ## AI & Machine Learning
 
-**Category Stats:** 31 extensions | Total Installs: 489.16M | Avg Rating: 4.1⭐
+**Category Stats:** 31 extensions | Total Installs: 490.92M | Avg Rating: 4⭐
 
 [⬆ Back to Table of Contents](#-table-of-contents)
 
 ---
 
 ### 1. [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)
-*Extension #188 of 329*
+*Extension #192 of 331*
 
 Jupyter notebook support, interactive programming and computing that supports Intellisense, debugging and more.
 
@@ -7154,7 +7297,7 @@ Jupyter notebook support, interactive programming and computing that supports In
 
 - **Extension ID:** `ms-toolsai.jupyter`
 - **Version:** 2025.10.2025101002
-- **Installs:** 98.83M
+- **Installs:** 99.12M
 - **Rating:** ⭐ 2.7/5 (350 ratings)
 - **Published:** 2020-11-11
 - **Last Updated:** 2025-10-10
@@ -7182,7 +7325,7 @@ macOS Intel, macOS Apple Silicon, Alpine Linux ARM64, Alpine Linux x64, Windows 
 ---
 
 ### 2. [Jupyter Keymap](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter-keymap)
-*Extension #189 of 329*
+*Extension #193 of 331*
 
 Jupyter keymaps for notebooks
 
@@ -7190,7 +7333,7 @@ Jupyter keymaps for notebooks
 
 - **Extension ID:** `ms-toolsai.jupyter-keymap`
 - **Version:** 1.1.2
-- **Installs:** 78.64M
+- **Installs:** 78.93M
 - **Rating:** ⭐ 4/5 (3 ratings)
 - **Published:** 2021-08-20
 - **Last Updated:** 2023-06-05
@@ -7218,7 +7361,7 @@ All Platforms
 ---
 
 ### 3. [Jupyter Notebook Renderers](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter-renderers)
-*Extension #190 of 329*
+*Extension #194 of 331*
 
 Renderers for Jupyter Notebooks (with plotly, vega, gif, png, svg, jpeg and other such outputs)
 
@@ -7226,7 +7369,7 @@ Renderers for Jupyter Notebooks (with plotly, vega, gif, png, svg, jpeg and othe
 
 - **Extension ID:** `ms-toolsai.jupyter-renderers`
 - **Version:** 1.3.2025062701
-- **Installs:** 77.74M
+- **Installs:** 78.04M
 - **Rating:** ⭐ 2.8/5 (14 ratings)
 - **Published:** 2021-09-21
 - **Last Updated:** 2025-06-27
@@ -7254,7 +7397,7 @@ All Platforms
 ---
 
 ### 4. [IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
-*Extension #191 of 329*
+*Extension #195 of 331*
 
 AI-assisted development
 
@@ -7262,8 +7405,8 @@ AI-assisted development
 
 - **Extension ID:** `VisualStudioExptTeam.vscodeintellicode`
 - **Version:** 1.3.2
-- **Installs:** 60.28M
-- **Rating:** ⭐ 3.9/5 (103 ratings)
+- **Installs:** 60.36M
+- **Rating:** ⭐ 3.9/5 (104 ratings)
 - **Published:** 2018-07-24
 - **Last Updated:** 2024-10-23
 - **VS Code Engine:** ^1.94.0
@@ -7291,7 +7434,7 @@ All Platforms
 ---
 
 ### 5. [Jupyter Cell Tags](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.vscode-jupyter-cell-tags)
-*Extension #192 of 329*
+*Extension #196 of 331*
 
 Jupyter Cell Tags support for VS Code
 
@@ -7299,7 +7442,7 @@ Jupyter Cell Tags support for VS Code
 
 - **Extension ID:** `ms-toolsai.vscode-jupyter-cell-tags`
 - **Version:** 0.1.9
-- **Installs:** 59.03M
+- **Installs:** 59.32M
 - **Rating:** ⭐ 4/5 (2 ratings)
 - **Published:** 2022-09-21
 - **Last Updated:** 2024-04-03
@@ -7327,7 +7470,7 @@ All Platforms
 ---
 
 ### 6. [Jupyter Slide Show](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.vscode-jupyter-slideshow)
-*Extension #193 of 329*
+*Extension #197 of 331*
 
 Jupyter Slide Show support for VS Code
 
@@ -7335,7 +7478,7 @@ Jupyter Slide Show support for VS Code
 
 - **Extension ID:** `ms-toolsai.vscode-jupyter-slideshow`
 - **Version:** 0.1.6
-- **Installs:** 58.96M
+- **Installs:** 59.26M
 - **Rating:** ⭐ 5/5 (2 ratings)
 - **Published:** 2022-09-21
 - **Last Updated:** 2024-04-03
@@ -7363,7 +7506,7 @@ All Platforms
 ---
 
 ### 7. [IntelliCode API Usage Examples](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.intellicode-api-usage-examples)
-*Extension #194 of 329*
+*Extension #198 of 331*
 
 See relevant code examples from GitHub for over 100K different APIs right in your editor.
 
@@ -7371,7 +7514,7 @@ See relevant code examples from GitHub for over 100K different APIs right in you
 
 - **Extension ID:** `VisualStudioExptTeam.intellicode-api-usage-examples`
 - **Version:** 0.2.9
-- **Installs:** 44.6M
+- **Installs:** 44.69M
 - **Rating:** ⭐ 3.8/5 (21 ratings)
 - **Published:** 2021-09-10
 - **Last Updated:** 2024-10-23
@@ -7400,7 +7543,7 @@ All Platforms
 ---
 
 ### 8. [Azure Machine Learning](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.vscode-ai)
-*Extension #195 of 329*
+*Extension #199 of 331*
 
 Visual Studio Code extension for Azure Machine Learning
 
@@ -7436,7 +7579,7 @@ All Platforms
 ---
 
 ### 9. [Azure Machine Learning - Remote](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.vscode-ai-remote)
-*Extension #196 of 329*
+*Extension #200 of 331*
 
 This extension is used by the Azure Machine Learning Extension
 
@@ -7472,7 +7615,7 @@ All Platforms
 ---
 
 ### 10. [Data Wrangler](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.datawrangler)
-*Extension #197 of 329*
+*Extension #201 of 331*
 
 Data viewing, cleaning and preparation for tabular datasets
 
@@ -7480,7 +7623,7 @@ Data viewing, cleaning and preparation for tabular datasets
 
 - **Extension ID:** `ms-toolsai.datawrangler`
 - **Version:** 1.24.0
-- **Installs:** 1.61M
+- **Installs:** 1.63M
 - **Rating:** ⭐ 4.5/5 (71 ratings)
 - **Published:** 2023-03-16
 - **Last Updated:** 2025-11-26
@@ -7508,7 +7651,7 @@ All Platforms
 ---
 
 ### 11. [Jupyter PowerToys](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.vscode-jupyter-powertoys)
-*Extension #198 of 329*
+*Extension #202 of 331*
 
 Experimental features for Jupyter notebook support in VS Code.
 
@@ -7516,7 +7659,7 @@ Experimental features for Jupyter notebook support in VS Code.
 
 - **Extension ID:** `ms-toolsai.vscode-jupyter-powertoys`
 - **Version:** 0.1.1
-- **Installs:** 792K
+- **Installs:** 798K
 - **Rating:** ⭐ 4.7/5 (6 ratings)
 - **Published:** 2022-05-06
 - **Last Updated:** 2024-04-03
@@ -7544,18 +7687,18 @@ All Platforms
 ---
 
 ### 12. [AI Toolkit for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-windows-ai-studio.windows-ai-studio)
-*Extension #199 of 329*
+*Extension #203 of 331*
 
 AI Toolkit for VS Code streamlines generative AI app development by integrating tools and models. Browse and download public and custom models; author, test and evaluate prompts; fine-tune; and use them in your applications.
 
 **Details:**
 
 - **Extension ID:** `ms-windows-ai-studio.windows-ai-studio`
-- **Version:** 0.26.3
-- **Installs:** 621K
+- **Version:** 0.26.5
+- **Installs:** 646K
 - **Rating:** ⭐ 4.4/5 (15 ratings)
 - **Published:** 2023-12-13
-- **Last Updated:** 2025-11-25
+- **Last Updated:** 2025-12-12
 - **VS Code Engine:** ^1.104.0
 - **Marketplace:** https://marketplace.visualstudio.com/items?itemName=ms-windows-ai-studio.windows-ai-studio
 
@@ -7575,12 +7718,12 @@ ai, Azure, Chat, Data Science, language-models, language-model-tools, LLM, Machi
 
 **Works With:**
 
-Windows x64, macOS Apple Silicon, macOS Intel, Windows ARM64, Linux x64
+macOS Intel, Windows ARM64, Linux x64, Windows x64, macOS Apple Silicon
 
 ---
 
 ### 13. [Tensorboard](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.tensorboard)
-*Extension #200 of 329*
+*Extension #204 of 331*
 
 Launch and view Tensorboards within VS Code
 
@@ -7588,7 +7731,7 @@ Launch and view Tensorboards within VS Code
 
 - **Extension ID:** `ms-toolsai.tensorboard`
 - **Version:** 2024.3.1002291100
-- **Installs:** 550K
+- **Installs:** 552K
 - **Rating:** ⭐ 5/5 (4 ratings)
 - **Published:** 2023-10-17
 - **Last Updated:** 2025-08-15
@@ -7616,7 +7759,7 @@ All Platforms
 ---
 
 ### 14. [IntelliCode Completions](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode-completions)
-*Extension #201 of 329*
+*Extension #205 of 331*
 
 IntelliCode Completions: AI-driven code auto-completion
 
@@ -7624,7 +7767,7 @@ IntelliCode Completions: AI-driven code auto-completion
 
 - **Extension ID:** `VisualStudioExptTeam.vscodeintellicode-completions`
 - **Version:** 2.0.1
-- **Installs:** 528K
+- **Installs:** 530K
 - **Rating:** ⭐ 4.8/5 (6 ratings)
 - **Published:** 2022-01-26
 - **Last Updated:** 2024-10-23
@@ -7652,51 +7795,19 @@ All Platforms
 
 ---
 
-### 15. [Microsoft Foundry](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.vscode-ai-foundry)
-*Extension #202 of 329*
-
-Visual Studio Code extension for Microsoft Foundry
-
-**Details:**
-
-- **Extension ID:** `TeamsDevApp.vscode-ai-foundry`
-- **Version:** 0.12.4
-- **Installs:** 467K
-- **Rating:** ⭐ 3.7/5 (3 ratings)
-- **Published:** 2025-03-27
-- **Last Updated:** 2025-11-28
-- **VS Code Engine:** ^1.105.0
-- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.vscode-ai-foundry
-
-**Resources:**
-
-- 📦 [Repository](https://github.com/microsoft/ai-foundry-for-vscode.git)
-- 🐛 [Issues](https://github.com/microsoft/ai-foundry-for-vscode/issues)
-- 🏠 [Homepage](https://github.com/microsoft/ai-foundry-for-vscode#readme)
-
-**Marketplace Categories:**
-
-Azure, AI
-
-**Works With:**
-
-Linux x64
-
----
-
-### 16. [GitHub Copilot app modernization - upgrade for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-upgrade)
-*Extension #203 of 329*
+### 15. [GitHub Copilot app modernization - upgrade for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-upgrade)
+*Extension #206 of 331*
 
 Upgrade Java project with GitHub Copilot
 
 **Details:**
 
 - **Extension ID:** `vscjava.vscode-java-upgrade`
-- **Version:** 1.9.1
-- **Installs:** 463K
-- **Rating:** ⭐ 2.1/5 (14 ratings)
+- **Version:** 1.10.0
+- **Installs:** 497K
+- **Rating:** ⭐ 2.1/5 (15 ratings)
 - **Published:** 2025-05-16
-- **Last Updated:** 2025-12-03
+- **Last Updated:** 2025-12-13
 - **VS Code Engine:** ^1.104.0
 - **Marketplace:** https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-upgrade
 
@@ -7720,8 +7831,40 @@ All Platforms
 
 ---
 
+### 16. [Microsoft Foundry](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.vscode-ai-foundry)
+*Extension #207 of 331*
+
+Visual Studio Code extension for Microsoft Foundry
+
+**Details:**
+
+- **Extension ID:** `TeamsDevApp.vscode-ai-foundry`
+- **Version:** 0.12.5
+- **Installs:** 493K
+- **Rating:** ⭐ 3.7/5 (3 ratings)
+- **Published:** 2025-03-27
+- **Last Updated:** 2025-12-12
+- **VS Code Engine:** ^1.105.0
+- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.vscode-ai-foundry
+
+**Resources:**
+
+- 📦 [Repository](https://github.com/microsoft/ai-foundry-for-vscode.git)
+- 🐛 [Issues](https://github.com/microsoft/ai-foundry-for-vscode/issues)
+- 🏠 [Homepage](https://github.com/microsoft/ai-foundry-for-vscode#readme)
+
+**Marketplace Categories:**
+
+Azure, AI
+
+**Works With:**
+
+Linux x64
+
+---
+
 ### 17. [JupyterHub](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter-hub)
-*Extension #204 of 329*
+*Extension #208 of 331*
 
 Support for connecting to Jupyter Hub in VS Code along with the Jupyter Extension
 
@@ -7729,7 +7872,7 @@ Support for connecting to Jupyter Hub in VS Code along with the Jupyter Extensio
 
 - **Extension ID:** `ms-toolsai.jupyter-hub`
 - **Version:** 2024.10.1002831100
-- **Installs:** 253K
+- **Installs:** 256K
 - **Published:** 2023-09-19
 - **Last Updated:** 2024-10-08
 - **VS Code Engine:** ^1.83.0
@@ -7756,7 +7899,7 @@ All Platforms
 ---
 
 ### 18. [IntelliCode Insiders](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode-insiders)
-*Extension #205 of 329*
+*Extension #209 of 331*
 
 AI-assisted development
 
@@ -7764,7 +7907,7 @@ AI-assisted development
 
 - **Extension ID:** `VisualStudioExptTeam.vscodeintellicode-insiders`
 - **Version:** 1.1.10
-- **Installs:** 177K
+- **Installs:** 178K
 - **Rating:** ⭐ 5/5 (3 ratings)
 - **Published:** 2020-12-17
 - **Last Updated:** 2022-06-30
@@ -7793,18 +7936,18 @@ All Platforms
 ---
 
 ### 19. [Web Search for Copilot](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-websearchforcopilot)
-*Extension #206 of 329*
+*Extension #210 of 331*
 
 Gives access to search engines from within Copilot
 
 **Details:**
 
 - **Extension ID:** `ms-vscode.vscode-websearchforcopilot`
-- **Version:** 0.1.2025120401
-- **Installs:** 128K
+- **Version:** 0.2.2025121101
+- **Installs:** 131K
 - **Rating:** ⭐ 3.2/5 (6 ratings)
 - **Published:** 2024-10-22
-- **Last Updated:** 2025-12-04
+- **Last Updated:** 2025-12-11
 - **VS Code Engine:** ^1.95.0
 - **Marketplace:** https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-websearchforcopilot
 
@@ -7829,18 +7972,18 @@ All Platforms
 ---
 
 ### 20. [vscode-mermAId](https://marketplace.visualstudio.com/items?itemName=ms-vscode.copilot-mermaid-diagram)
-*Extension #207 of 329*
+*Extension #211 of 331*
 
 Exploration into Copilot Chat-powered Diagram Generation
 
 **Details:**
 
 - **Extension ID:** `ms-vscode.copilot-mermaid-diagram`
-- **Version:** 0.0.2025120401
-- **Installs:** 89K
+- **Version:** 0.0.2025121101
+- **Installs:** 91K
 - **Rating:** ⭐ 5/5 (7 ratings)
 - **Published:** 2024-10-22
-- **Last Updated:** 2025-12-04
+- **Last Updated:** 2025-12-11
 - **VS Code Engine:** ^1.96.0
 - **Marketplace:** https://marketplace.visualstudio.com/items?itemName=ms-vscode.copilot-mermaid-diagram
 
@@ -7865,7 +8008,7 @@ All Platforms
 ---
 
 ### 21. [Vision for Copilot Preview](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-copilot-vision)
-*Extension #208 of 329*
+*Extension #212 of 331*
 
 A chat extension providing vision capabilities in VS Code, with a focus on accessibility.
 
@@ -7873,7 +8016,7 @@ A chat extension providing vision capabilities in VS Code, with a focus on acces
 
 - **Extension ID:** `ms-vscode.vscode-copilot-vision`
 - **Version:** 0.2.2025032409
-- **Installs:** 75K
+- **Installs:** 76K
 - **Rating:** ⭐ 4/5 (4 ratings)
 - **Published:** 2024-10-18
 - **Last Updated:** 2025-03-24
@@ -7901,7 +8044,7 @@ All Platforms
 ---
 
 ### 22. [Prompty](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.prompty)
-*Extension #209 of 329*
+*Extension #213 of 331*
 
 Prompty Extension
 
@@ -7909,7 +8052,7 @@ Prompty Extension
 
 - **Extension ID:** `ms-toolsai.prompty`
 - **Version:** 1.20250714.152700
-- **Installs:** 46K
+- **Installs:** 47K
 - **Rating:** ⭐ 3.5/5 (2 ratings)
 - **Published:** 2024-05-07
 - **Last Updated:** 2025-07-14
@@ -7937,7 +8080,7 @@ All Platforms
 ---
 
 ### 23. [Data Analysis for Copilot](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-copilot-data-analysis)
-*Extension #210 of 329*
+*Extension #214 of 331*
 
 This tool extends the LLM's capabilities by allowing it to run Python code in a sandboxed Python environment (Pyodide) for a wide range of computational tasks and data manipulations that it cannot perform directly.
 
@@ -7945,7 +8088,7 @@ This tool extends the LLM's capabilities by allowing it to run Python code in a 
 
 - **Extension ID:** `ms-vscode.vscode-copilot-data-analysis`
 - **Version:** 0.2.2
-- **Installs:** 31K
+- **Installs:** 32K
 - **Rating:** ⭐ 3.8/5 (6 ratings)
 - **Published:** 2024-10-18
 - **Last Updated:** 2024-10-31
@@ -7973,7 +8116,7 @@ All Platforms
 ---
 
 ### 24. [Azure Machine Learning - Inference](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.vscode-ai-inference)
-*Extension #211 of 329*
+*Extension #215 of 331*
 
 This extension is used by the Azure Machine Learning extension to enable debugging of local endpoints.
 
@@ -8007,7 +8150,7 @@ All Platforms
 ---
 
 ### 25. [Azure Machine Learning - Remote (Web)](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.vscode-ai-remote-web)
-*Extension #212 of 329*
+*Extension #216 of 331*
 
 This extension enables remote connection to Azure Machine Learning compute instances in vscode.dev
 
@@ -8042,7 +8185,7 @@ All Platforms
 ---
 
 ### 26. [GenAIScript](https://marketplace.visualstudio.com/items?itemName=genaiscript.genaiscript-vscode)
-*Extension #213 of 329*
+*Extension #217 of 331*
 
 Generative AI Scripting.
 
@@ -8078,14 +8221,14 @@ All Platforms
 ---
 
 ### 27. [Copilot Studio (Preview)](https://marketplace.visualstudio.com/items?itemName=ms-CopilotStudio.vscode-copilotstudio)
-*Extension #214 of 329*
+*Extension #218 of 331*
 
 This technology preview enables developers to edit their Copilot Studio agents from within Visual Studio code. This includes the ability to clone, pull, push from Copilot Studio.
 
 **Details:**
 
 - **Extension ID:** `ms-CopilotStudio.vscode-copilotstudio`
-- **Version:** 0.2.487
+- **Version:** 0.2.489
 - **Installs:** 11K
 - **Rating:** ⭐ 5/5 (2 ratings)
 - **Published:** 2025-04-01
@@ -8109,12 +8252,12 @@ __ext_fx1, __ext_mcsyaml, __ext_mcsyml, __ext_yaml, __ext_yml, Agents, Copilot, 
 
 **Works With:**
 
-macOS Apple Silicon, macOS Intel, Linux x64, Windows x64, Linux ARM64, Windows ARM64
+macOS Intel, macOS Apple Silicon, Linux ARM64, Linux x64, Windows x64, Windows ARM64
 
 ---
 
 ### 28. [Vision AI DevKit](https://marketplace.visualstudio.com/items?itemName=VisionAIDevKit.vision-ai-devkit)
-*Extension #215 of 329*
+*Extension #219 of 331*
 
 Visual Studio Code extension for Vision AI DevKit
 
@@ -8149,7 +8292,7 @@ All Platforms
 ---
 
 ### 29. [Git DevOps Assistant (MCP Powered)](https://marketplace.visualstudio.com/items?itemName=MS-DAW-TCA.ado-productivity-copilot)
-*Extension #216 of 329*
+*Extension #220 of 331*
 
 AI-powered Azure DevOps GitHub Copilot chat extension
 
@@ -8158,7 +8301,7 @@ AI-powered Azure DevOps GitHub Copilot chat extension
 - **Extension ID:** `MS-DAW-TCA.ado-productivity-copilot`
 - **Version:** 1.8.1
 - **Installs:** 3K
-- **Rating:** ⭐ 5/5 (3 ratings)
+- **Rating:** ⭐ 4.5/5 (4 ratings)
 - **Published:** 2025-08-21
 - **Last Updated:** 2025-11-26
 - **VS Code Engine:** ^1.106.0
@@ -8179,13 +8322,13 @@ All Platforms
 ---
 
 ### 30. [AI-Powered Content Creator](https://marketplace.visualstudio.com/items?itemName=PDETs-prod.new-module-creation)
-*Extension #217 of 329*
+*Extension #221 of 331*
 
 **Details:**
 
 - **Extension ID:** `PDETs-prod.new-module-creation`
 - **Version:** 1.0.132
-- **Installs:** 808
+- **Installs:** 835
 - **Rating:** ⭐ 3/5 (2 ratings)
 - **Published:** 2025-01-08
 - **Last Updated:** 2025-11-05
@@ -8207,13 +8350,13 @@ All Platforms
 ---
 
 ### 31. [AI Gallery](https://marketplace.visualstudio.com/items?itemName=ai-gallery.ai-gallery)
-*Extension #218 of 329*
+*Extension #222 of 331*
 
 **Details:**
 
 - **Extension ID:** `ai-gallery.ai-gallery`
 - **Version:** 0.0.11
-- **Installs:** 340
+- **Installs:** 351
 - **Published:** 2025-04-02
 - **Last Updated:** 2025-05-14
 - **VS Code Engine:** ^1.98.0
@@ -8239,14 +8382,14 @@ All Platforms
 
 ## JavaScript & TypeScript
 
-**Category Stats:** 14 extensions | Total Installs: 27.39M | Avg Rating: 4.1⭐
+**Category Stats:** 14 extensions | Total Installs: 27.46M | Avg Rating: 4.1⭐
 
 [⬆ Back to Table of Contents](#-table-of-contents)
 
 ---
 
 ### 1. [[Deprecated] Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
-*Extension #219 of 329*
+*Extension #223 of 331*
 
 Debug your JavaScript code in the Chrome browser, or any other target that supports the Chrome Debugger protocol.
 
@@ -8254,7 +8397,7 @@ Debug your JavaScript code in the Chrome browser, or any other target that suppo
 
 - **Extension ID:** `msjsdiag.debugger-for-chrome`
 - **Version:** 4.13.0
-- **Installs:** 10.84M
+- **Installs:** 10.85M
 - **Rating:** ⭐ 4.2/5 (141 ratings)
 - **Published:** 2015-11-11
 - **Last Updated:** 2021-08-03
@@ -8281,18 +8424,18 @@ All Platforms
 ---
 
 ### 2. [JavaScript and TypeScript Nightly](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next)
-*Extension #220 of 329*
+*Extension #224 of 331*
 
 Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support
 
 **Details:**
 
 - **Extension ID:** `ms-vscode.vscode-typescript-next`
-- **Version:** 6.0.20251204
-- **Installs:** 6.13M
+- **Version:** 6.0.20251212
+- **Installs:** 6.17M
 - **Rating:** ⭐ 2.8/5 (57 ratings)
 - **Published:** 2019-06-10
-- **Last Updated:** 2025-12-05
+- **Last Updated:** 2025-12-13
 - **VS Code Engine:** ^1.36.0
 - **Marketplace:** https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next
 
@@ -8317,7 +8460,7 @@ All Platforms
 ---
 
 ### 3. [React Native Tools](https://marketplace.visualstudio.com/items?itemName=msjsdiag.vscode-react-native)
-*Extension #221 of 329*
+*Extension #225 of 331*
 
 Debugging and integrated commands for React Native
 
@@ -8325,7 +8468,7 @@ Debugging and integrated commands for React Native
 
 - **Extension ID:** `msjsdiag.vscode-react-native`
 - **Version:** 1.13.0
-- **Installs:** 5.79M
+- **Installs:** 5.8M
 - **Rating:** ⭐ 4.1/5 (48 ratings)
 - **Published:** 2016-02-19
 - **Last Updated:** 2024-03-25
@@ -8353,7 +8496,7 @@ All Platforms
 ---
 
 ### 4. [JavaScript Debugger (Nightly)](https://marketplace.visualstudio.com/items?itemName=ms-vscode.js-debug-nightly)
-*Extension #222 of 329*
+*Extension #226 of 331*
 
 An extension for debugging Node.js programs and Chrome.
 
@@ -8361,7 +8504,7 @@ An extension for debugging Node.js programs and Chrome.
 
 - **Extension ID:** `ms-vscode.js-debug-nightly`
 - **Version:** 2025.11.2517
-- **Installs:** 3.2M
+- **Installs:** 3.21M
 - **Rating:** ⭐ 4.1/5 (7 ratings)
 - **Published:** 2019-11-12
 - **Last Updated:** 2025-11-26
@@ -8389,7 +8532,7 @@ All Platforms
 ---
 
 ### 5. [Cordova Tools](https://marketplace.visualstudio.com/items?itemName=msjsdiag.cordova-tools)
-*Extension #223 of 329*
+*Extension #227 of 331*
 
 Code-hinting, debugging and integrated commands for Apache Cordova (PhoneGap). With added support for the Ionic framework.
 
@@ -8425,7 +8568,7 @@ All Platforms
 ---
 
 ### 6. [JavaScript Atom Grammar](https://marketplace.visualstudio.com/items?itemName=ms-vscode.js-atom-grammar)
-*Extension #224 of 329*
+*Extension #228 of 331*
 
 The Atom editor's JavaScript text mate grammar.
 
@@ -8433,7 +8576,7 @@ The Atom editor's JavaScript text mate grammar.
 
 - **Extension ID:** `ms-vscode.js-atom-grammar`
 - **Version:** 0.1.14
-- **Installs:** 261K
+- **Installs:** 262K
 - **Rating:** ⭐ 4.6/5 (11 ratings)
 - **Published:** 2016-06-27
 - **Last Updated:** 2017-10-09
@@ -8460,7 +8603,7 @@ All Platforms
 ---
 
 ### 7. [JavaScript Debugger Companion Extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode.js-debug-companion)
-*Extension #225 of 329*
+*Extension #229 of 331*
 
 Companion extension to js-debug that provides capability for remote debugging
 
@@ -8495,7 +8638,7 @@ All Platforms
 ---
 
 ### 8. [JavaScript Debugger](https://marketplace.visualstudio.com/items?itemName=ms-vscode.js-debug)
-*Extension #226 of 329*
+*Extension #230 of 331*
 
 An extension for debugging Node.js programs and Chrome.
 
@@ -8531,7 +8674,7 @@ All Platforms
 ---
 
 ### 9. [Flame Chart Visualizer for JavaScript Profiles](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-js-profile-flame)
-*Extension #227 of 329*
+*Extension #231 of 331*
 
 Flame graph visualizer for Heap and CPU profiles taken from the JavaScript debugger
 
@@ -8539,7 +8682,7 @@ Flame graph visualizer for Heap and CPU profiles taken from the JavaScript debug
 
 - **Extension ID:** `ms-vscode.vscode-js-profile-flame`
 - **Version:** 1.0.9
-- **Installs:** 113K
+- **Installs:** 114K
 - **Rating:** ⭐ 3.7/5 (11 ratings)
 - **Published:** 2020-04-19
 - **Last Updated:** 2024-04-05
@@ -8567,7 +8710,7 @@ All Platforms
 ---
 
 ### 10. [Debugger for Chrome (Nightly)](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome-nightly)
-*Extension #228 of 329*
+*Extension #232 of 331*
 
 Debug your JavaScript code in the Chrome browser, or any other target that supports the Chrome Debugger protocol.
 
@@ -8601,7 +8744,7 @@ All Platforms
 ---
 
 ### 11. [React Native Tools (Preview)](https://marketplace.visualstudio.com/items?itemName=msjsdiag.vscode-react-native-preview)
-*Extension #229 of 329*
+*Extension #233 of 331*
 
 Debugging and integrated commands for React Native
 
@@ -8636,8 +8779,44 @@ All Platforms
 
 ---
 
-### 12. [anycode-typescript](https://marketplace.visualstudio.com/items?itemName=ms-vscode.anycode-typescript)
-*Extension #230 of 329*
+### 12. [TypeScript (Native Preview)](https://marketplace.visualstudio.com/items?itemName=TypeScriptTeam.native-preview)
+*Extension #234 of 331*
+
+Preview of the native TypeScript language server for Visual Studio Code.
+
+**Details:**
+
+- **Extension ID:** `TypeScriptTeam.native-preview`
+- **Version:** 0.20251213.1
+- **Installs:** 48K
+- **Rating:** ⭐ 5/5 (8 ratings)
+- **Published:** 2025-05-21
+- **Last Updated:** 2025-12-13
+- **VS Code Engine:** ^1.106.0
+- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=TypeScriptTeam.native-preview
+
+**Resources:**
+
+- 📦 [Repository](https://github.com/microsoft/typescript-go.git)
+- 🐛 [Issues](https://github.com/microsoft/typescript-go/issues)
+- 🏠 [Homepage](https://github.com/microsoft/typescript-go#readme)
+
+**Marketplace Categories:**
+
+Other
+
+**Tags:**
+
+javascript, javascriptreact, typescript, typescriptreact
+
+**Works With:**
+
+Windows x64, macOS Apple Silicon, Linux ARM64, Windows ARM64, Linux x64, Linux ARM, macOS Intel, Alpine Linux x64, Alpine Linux ARM64
+
+---
+
+### 13. [anycode-typescript](https://marketplace.visualstudio.com/items?itemName=ms-vscode.anycode-typescript)
+*Extension #235 of 331*
 
 TypeScript for Anycode
 
@@ -8671,44 +8850,8 @@ All Platforms
 
 ---
 
-### 13. [TypeScript (Native Preview)](https://marketplace.visualstudio.com/items?itemName=TypeScriptTeam.native-preview)
-*Extension #231 of 329*
-
-Preview of the native TypeScript language server for Visual Studio Code.
-
-**Details:**
-
-- **Extension ID:** `TypeScriptTeam.native-preview`
-- **Version:** 0.20251205.1
-- **Installs:** 42K
-- **Rating:** ⭐ 5/5 (8 ratings)
-- **Published:** 2025-05-21
-- **Last Updated:** 2025-12-05
-- **VS Code Engine:** ^1.100.0
-- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=TypeScriptTeam.native-preview
-
-**Resources:**
-
-- 📦 [Repository](https://github.com/microsoft/typescript-go.git)
-- 🐛 [Issues](https://github.com/microsoft/typescript-go/issues)
-- 🏠 [Homepage](https://github.com/microsoft/typescript-go#readme)
-
-**Marketplace Categories:**
-
-Other
-
-**Tags:**
-
-javascript, javascriptreact, typescript, typescriptreact
-
-**Works With:**
-
-Windows x64, Windows ARM64, Linux x64, Linux ARM, Linux ARM64, macOS Intel, macOS Apple Silicon, Alpine Linux x64, Alpine Linux ARM64
-
----
-
 ### 14. [Table Visualizer for JavaScript Profiles](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-js-profile-table)
-*Extension #232 of 329*
+*Extension #236 of 331*
 
 Text visualizer for profiles taken from the JavaScript debugger
 
@@ -8748,25 +8891,25 @@ All Platforms
 
 ## Python Development
 
-**Category Stats:** 13 extensions | Total Installs: 515.94M | Avg Rating: 3.5⭐
+**Category Stats:** 12 extensions | Total Installs: 514.19M | Avg Rating: 3.5⭐
 
 [⬆ Back to Table of Contents](#-table-of-contents)
 
 ---
 
 ### 1. [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
-*Extension #233 of 329*
+*Extension #237 of 331*
 
 Python language support with extension access points for IntelliSense (Pylance), Debugging (Python Debugger), linting, formatting, refactoring, unit tests, and more.
 
 **Details:**
 
 - **Extension ID:** `ms-python.python`
-- **Version:** 2025.19.2025120401
-- **Installs:** 194.96M
+- **Version:** 2025.20.0
+- **Installs:** 195.98M
 - **Rating:** ⭐ 4.2/5 (619 ratings)
 - **Published:** 2016-01-19
-- **Last Updated:** 2025-12-04
+- **Last Updated:** 2025-12-10
 - **VS Code Engine:** ^1.95.0
 - **Marketplace:** https://marketplace.visualstudio.com/items?itemName=ms-python.python
 
@@ -8786,24 +8929,24 @@ __ext_j2, __ext_jinja2, __web_extension, debuggers, django, ini, jinja, json, ke
 
 **Works With:**
 
-macOS Apple Silicon, Windows ARM64, Windows x64, macOS Intel, Linux ARM, Linux ARM64, Linux x64, Alpine Linux x64, Alpine Linux ARM64, Web
+macOS Apple Silicon, Windows x64, Windows ARM64, Linux ARM, Linux ARM64, Alpine Linux x64, macOS Intel, Web, Linux x64, Alpine Linux ARM64
 
 ---
 
 ### 2. [Pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance)
-*Extension #234 of 329*
+*Extension #238 of 331*
 
 A performant, feature-rich language server for Python in VS Code
 
 **Details:**
 
 - **Extension ID:** `ms-python.vscode-pylance`
-- **Version:** 2025.10.4
-- **Installs:** 162.84M
+- **Version:** 2025.10.100
+- **Installs:** 163.89M
 - **Rating:** ⭐ 3/5 (265 ratings)
 - **Published:** 2020-06-30
-- **Last Updated:** 2025-12-05
-- **VS Code Engine:** ^1.105.1
+- **Last Updated:** 2025-12-12
+- **VS Code Engine:** ^1.107.0
 - **Marketplace:** https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance
 
 **Resources:**
@@ -8827,18 +8970,18 @@ All Platforms
 ---
 
 ### 3. [Python Debugger](https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy)
-*Extension #235 of 329*
+*Extension #239 of 331*
 
 Python Debugger extension using debugpy.
 
 **Details:**
 
 - **Extension ID:** `ms-python.debugpy`
-- **Version:** 2025.17.2025120401
-- **Installs:** 100.29M
+- **Version:** 2025.17.2025121201
+- **Installs:** 101.34M
 - **Rating:** ⭐ 4.6/5 (14 ratings)
 - **Published:** 2023-06-14
-- **Last Updated:** 2025-12-04
+- **Last Updated:** 2025-12-12
 - **VS Code Engine:** ^1.92.0
 - **Marketplace:** https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy
 
@@ -8858,12 +9001,12 @@ debugger, debuggers, debugpy, python
 
 **Works With:**
 
-macOS Intel, Linux ARM64, Windows x64, macOS Apple Silicon, Linux ARM, Linux x64, Windows ARM64, Windows x86
+Windows x64, macOS Intel, Linux ARM, Linux ARM64, Windows ARM64, Linux x64, macOS Apple Silicon, Windows x86
 
 ---
 
 ### 4. [isort](https://marketplace.visualstudio.com/items?itemName=ms-python.isort)
-*Extension #236 of 329*
+*Extension #240 of 331*
 
 Import organization support for Python files using isort.
 
@@ -8871,7 +9014,7 @@ Import organization support for Python files using isort.
 
 - **Extension ID:** `ms-python.isort`
 - **Version:** 2025.1.13251007
-- **Installs:** 24.92M
+- **Installs:** 24.96M
 - **Rating:** ⭐ 2.5/5 (36 ratings)
 - **Published:** 2022-04-25
 - **Last Updated:** 2025-11-21
@@ -8899,18 +9042,18 @@ All Platforms
 ---
 
 ### 5. [Python Environments](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-python-envs)
-*Extension #237 of 329*
+*Extension #241 of 331*
 
 Provides a unified python environment experience
 
 **Details:**
 
 - **Extension ID:** `ms-python.vscode-python-envs`
-- **Version:** 1.13.13381830
-- **Installs:** 16.5M
+- **Version:** 1.15.13461015
+- **Installs:** 17.48M
 - **Rating:** ⭐ 1.4/5 (60 ratings)
 - **Published:** 2024-12-10
-- **Last Updated:** 2025-12-04
+- **Last Updated:** 2025-12-12
 - **VS Code Engine:** ^1.106.0
 - **Marketplace:** https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-python-envs
 
@@ -8930,48 +9073,12 @@ __web_extension, python
 
 **Works With:**
 
-Windows x64, Windows ARM64, Alpine Linux x64, Alpine Linux ARM64, Linux ARM, Linux x64, Linux ARM64, macOS Apple Silicon, macOS Intel, Web
+Web, Alpine Linux x64, Alpine Linux ARM64, Linux x64, Linux ARM, Linux ARM64, Windows x64, macOS Apple Silicon, macOS Intel, Windows ARM64
 
 ---
 
-### 6. [Black Formatter](https://marketplace.visualstudio.com/items?itemName=ms-python.black-formatter)
-*Extension #238 of 329*
-
-Formatting support for Python files using the Black formatter.
-
-**Details:**
-
-- **Extension ID:** `ms-python.black-formatter`
-- **Version:** 2025.3.11831009
-- **Installs:** 5.97M
-- **Rating:** ⭐ 3.4/5 (53 ratings)
-- **Published:** 2022-04-14
-- **Last Updated:** 2025-07-02
-- **VS Code Engine:** ^1.82.0
-- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=ms-python.black-formatter
-
-**Resources:**
-
-- 📦 [Repository](https://github.com/microsoft/vscode-black-formatter.git)
-- 🐛 [Issues](https://github.com/Microsoft/vscode-black-formatter/issues)
-- 🏠 [Homepage](https://github.com/Microsoft/vscode-black-formatter)
-
-**Marketplace Categories:**
-
-Programming Languages, Formatters
-
-**Tags:**
-
-black, formatting, python, toml
-
-**Works With:**
-
-All Platforms
-
----
-
-### 7. [autopep8](https://marketplace.visualstudio.com/items?itemName=ms-python.autopep8)
-*Extension #239 of 329*
+### 6. [autopep8](https://marketplace.visualstudio.com/items?itemName=ms-python.autopep8)
+*Extension #242 of 331*
 
 Formatting support for Python files using the autopep8 formatter.
 
@@ -8979,7 +9086,7 @@ Formatting support for Python files using the autopep8 formatter.
 
 - **Extension ID:** `ms-python.autopep8`
 - **Version:** 2025.3.13231724
-- **Installs:** 5.03M
+- **Installs:** 5.07M
 - **Rating:** ⭐ 2.9/5 (15 ratings)
 - **Published:** 2022-10-04
 - **Last Updated:** 2025-11-19
@@ -9006,8 +9113,8 @@ All Platforms
 
 ---
 
-### 8. [Pylint](https://marketplace.visualstudio.com/items?itemName=ms-python.pylint)
-*Extension #240 of 329*
+### 7. [Pylint](https://marketplace.visualstudio.com/items?itemName=ms-python.pylint)
+*Extension #243 of 331*
 
 Linting support for Python files using Pylint.
 
@@ -9015,8 +9122,8 @@ Linting support for Python files using Pylint.
 
 - **Extension ID:** `ms-python.pylint`
 - **Version:** 2025.3.12271016
-- **Installs:** 2.91M
-- **Rating:** ⭐ 2.9/5 (17 ratings)
+- **Installs:** 2.93M
+- **Rating:** ⭐ 2.9/5 (18 ratings)
 - **Published:** 2022-03-10
 - **Last Updated:** 2025-08-15
 - **VS Code Engine:** ^1.74.0
@@ -9042,8 +9149,8 @@ All Platforms
 
 ---
 
-### 9. [Flake8](https://marketplace.visualstudio.com/items?itemName=ms-python.flake8)
-*Extension #241 of 329*
+### 8. [Flake8](https://marketplace.visualstudio.com/items?itemName=ms-python.flake8)
+*Extension #244 of 331*
 
 Linting support for Python files using Flake8.
 
@@ -9051,7 +9158,7 @@ Linting support for Python files using Flake8.
 
 - **Extension ID:** `ms-python.flake8`
 - **Version:** 2025.3.13371015
-- **Installs:** 1.64M
+- **Installs:** 1.65M
 - **Rating:** ⭐ 5/5 (6 ratings)
 - **Published:** 2022-08-24
 - **Last Updated:** 2025-12-03
@@ -9078,8 +9185,8 @@ All Platforms
 
 ---
 
-### 10. [Mypy Type Checker](https://marketplace.visualstudio.com/items?itemName=ms-python.mypy-type-checker)
-*Extension #242 of 329*
+### 9. [Mypy Type Checker](https://marketplace.visualstudio.com/items?itemName=ms-python.mypy-type-checker)
+*Extension #245 of 331*
 
 Type checking support for Python files using Mypy.
 
@@ -9087,7 +9194,7 @@ Type checking support for Python files using Mypy.
 
 - **Extension ID:** `ms-python.mypy-type-checker`
 - **Version:** 2025.3.13371016
-- **Installs:** 690K
+- **Installs:** 697K
 - **Rating:** ⭐ 3.3/5 (16 ratings)
 - **Published:** 2023-04-04
 - **Last Updated:** 2025-12-03
@@ -9114,8 +9221,8 @@ All Platforms
 
 ---
 
-### 11. [Gather](https://marketplace.visualstudio.com/items?itemName=ms-python.gather)
-*Extension #243 of 329*
+### 10. [Gather](https://marketplace.visualstudio.com/items?itemName=ms-python.gather)
+*Extension #246 of 331*
 
 Adds gather functionality in the Python language to the Jupyter Extension
 
@@ -9123,7 +9230,7 @@ Adds gather functionality in the Python language to the Jupyter Extension
 
 - **Extension ID:** `ms-python.gather`
 - **Version:** 2025.4.0
-- **Installs:** 119K
+- **Installs:** 120K
 - **Rating:** ⭐ 5/5 (2 ratings)
 - **Published:** 2020-07-10
 - **Last Updated:** 2025-05-08
@@ -9150,8 +9257,8 @@ All Platforms
 
 ---
 
-### 12. [anycode-python](https://marketplace.visualstudio.com/items?itemName=ms-vscode.anycode-python)
-*Extension #244 of 329*
+### 11. [anycode-python](https://marketplace.visualstudio.com/items?itemName=ms-vscode.anycode-python)
+*Extension #247 of 331*
 
 Python for Anycode
 
@@ -9185,8 +9292,8 @@ All Platforms
 
 ---
 
-### 13. [Experimental - Python for the Web](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-python-web-wasm)
-*Extension #245 of 329*
+### 12. [Experimental - Python for the Web](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-python-web-wasm)
+*Extension #248 of 331*
 
 Experimental support for Python in the Web using WebAssemblies
 
@@ -9226,14 +9333,14 @@ All Platforms
 
 ## Remote Development
 
-**Category Stats:** 10 extensions | Total Installs: 175.3M | Avg Rating: 4.1⭐
+**Category Stats:** 10 extensions | Total Installs: 176.21M | Avg Rating: 4.1⭐
 
 [⬆ Back to Table of Contents](#-table-of-contents)
 
 ---
 
 ### 1. [WSL](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl)
-*Extension #246 of 329*
+*Extension #249 of 331*
 
 Open any folder in the Windows Subsystem for Linux (WSL) and take advantage of Visual Studio Code's full feature set.
 
@@ -9241,7 +9348,7 @@ Open any folder in the Windows Subsystem for Linux (WSL) and take advantage of V
 
 - **Extension ID:** `ms-vscode-remote.remote-wsl`
 - **Version:** 0.104.3
-- **Installs:** 37.25M
+- **Installs:** 37.34M
 - **Rating:** ⭐ 4.8/5 (84 ratings)
 - **Published:** 2019-05-02
 - **Last Updated:** 2025-10-01
@@ -9269,7 +9376,7 @@ All Platforms
 ---
 
 ### 2. [Dev Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
-*Extension #247 of 329*
+*Extension #250 of 331*
 
 Open any folder or repository inside a Docker container and take advantage of Visual Studio Code's full feature set.
 
@@ -9277,7 +9384,7 @@ Open any folder or repository inside a Docker container and take advantage of Vi
 
 - **Extension ID:** `ms-vscode-remote.remote-containers`
 - **Version:** 0.435.0
-- **Installs:** 35.18M
+- **Installs:** 35.34M
 - **Rating:** ⭐ 4.3/5 (56 ratings)
 - **Published:** 2019-05-02
 - **Last Updated:** 2025-12-05
@@ -9305,19 +9412,19 @@ All Platforms
 ---
 
 ### 3. [Remote - SSH](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh)
-*Extension #248 of 329*
+*Extension #251 of 331*
 
 Open any folder on a remote machine using SSH and take advantage of VS Code's full feature set.
 
 **Details:**
 
 - **Extension ID:** `ms-vscode-remote.remote-ssh`
-- **Version:** 0.122.2025111815
-- **Installs:** 30.74M
-- **Rating:** ⭐ 3.7/5 (207 ratings)
+- **Version:** 0.123.2025121115
+- **Installs:** 30.9M
+- **Rating:** ⭐ 3.7/5 (208 ratings)
 - **Published:** 2019-05-02
-- **Last Updated:** 2025-11-18
-- **VS Code Engine:** ^1.96.0
+- **Last Updated:** 2025-12-11
+- **VS Code Engine:** ^1.107.0
 - **Marketplace:** https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh
 
 **Resources:**
@@ -9341,7 +9448,7 @@ All Platforms
 ---
 
 ### 4. [Remote - SSH: Editing Configuration Files](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh-edit)
-*Extension #249 of 329*
+*Extension #252 of 331*
 
 Edit SSH configuration files
 
@@ -9349,7 +9456,7 @@ Edit SSH configuration files
 
 - **Extension ID:** `ms-vscode-remote.remote-ssh-edit`
 - **Version:** 0.87.0
-- **Installs:** 28.62M
+- **Installs:** 28.79M
 - **Rating:** ⭐ 4.2/5 (21 ratings)
 - **Published:** 2019-05-02
 - **Last Updated:** 2024-10-01
@@ -9377,7 +9484,7 @@ All Platforms
 ---
 
 ### 5. [Remote Explorer](https://marketplace.visualstudio.com/items?itemName=ms-vscode.remote-explorer)
-*Extension #250 of 329*
+*Extension #253 of 331*
 
 View remote machines for SSH and Tunnels.
 
@@ -9385,7 +9492,7 @@ View remote machines for SSH and Tunnels.
 
 - **Extension ID:** `ms-vscode.remote-explorer`
 - **Version:** 0.6.2025081809
-- **Installs:** 22.76M
+- **Installs:** 22.94M
 - **Rating:** ⭐ 4.5/5 (12 ratings)
 - **Published:** 2022-08-10
 - **Last Updated:** 2025-08-18
@@ -9413,7 +9520,7 @@ All Platforms
 ---
 
 ### 6. [Remote Development](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack)
-*Extension #251 of 329*
+*Extension #254 of 331*
 
 An extension pack that lets you open any folder in a container, on a remote machine, or in WSL and take advantage of VS Code's full feature set.
 
@@ -9421,7 +9528,7 @@ An extension pack that lets you open any folder in a container, on a remote mach
 
 - **Extension ID:** `ms-vscode-remote.vscode-remote-extensionpack`
 - **Version:** 0.26.0
-- **Installs:** 8.06M
+- **Installs:** 8.1M
 - **Rating:** ⭐ 4.6/5 (118 ratings)
 - **Published:** 2019-05-02
 - **Last Updated:** 2024-10-24
@@ -9449,7 +9556,7 @@ All Platforms
 ---
 
 ### 7. [Remote - Tunnels](https://marketplace.visualstudio.com/items?itemName=ms-vscode.remote-server)
-*Extension #252 of 329*
+*Extension #255 of 331*
 
 Connect to a remote machine through a Tunnel
 
@@ -9457,7 +9564,7 @@ Connect to a remote machine through a Tunnel
 
 - **Extension ID:** `ms-vscode.remote-server`
 - **Version:** 1.6.2025102109
-- **Installs:** 7.45M
+- **Installs:** 7.5M
 - **Rating:** ⭐ 4.4/5 (9 ratings)
 - **Published:** 2022-03-14
 - **Last Updated:** 2025-10-21
@@ -9485,7 +9592,7 @@ All Platforms
 ---
 
 ### 8. [Remote Repositories](https://marketplace.visualstudio.com/items?itemName=ms-vscode.remote-repositories)
-*Extension #253 of 329*
+*Extension #256 of 331*
 
 Remotely browse and edit git repositories
 
@@ -9493,7 +9600,7 @@ Remotely browse and edit git repositories
 
 - **Extension ID:** `ms-vscode.remote-repositories`
 - **Version:** 0.43.2025081801
-- **Installs:** 5.18M
+- **Installs:** 5.22M
 - **Rating:** ⭐ 4.2/5 (5 ratings)
 - **Published:** 2022-03-23
 - **Last Updated:** 2025-08-18
@@ -9521,7 +9628,7 @@ All Platforms
 ---
 
 ### 9. [WSL: Recommender](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl-recommender)
-*Extension #254 of 329*
+*Extension #257 of 331*
 
 Recommends using the Windows Subsystem for Linux (WSL) and the WSL extension.
 
@@ -9557,18 +9664,18 @@ All Platforms
 ---
 
 ### 10. [Fabric Data Engineering VS Code - Remote](https://marketplace.visualstudio.com/items?itemName=SynapseVSCode.vscode-synapse-remote)
-*Extension #255 of 329*
+*Extension #258 of 331*
 
 Create and manage Microsoft Fabric notebooks inside Visual Studio Code for the Web (Previously Synapse VS Code - Remote)
 
 **Details:**
 
 - **Extension ID:** `SynapseVSCode.vscode-synapse-remote`
-- **Version:** 0.9.180244826
+- **Version:** 0.9.200038585
 - **Installs:** 10K
 - **Rating:** ⭐ 4/5 (2 ratings)
 - **Published:** 2023-05-18
-- **Last Updated:** 2025-07-10
+- **Last Updated:** 2025-12-09
 - **VS Code Engine:** ^1.78.0
 - **Marketplace:** https://marketplace.visualstudio.com/items?itemName=SynapseVSCode.vscode-synapse-remote
 
@@ -9594,343 +9701,16 @@ All Platforms
 
 ---
 
-## .NET Development
-
-**Category Stats:** 9 extensions | Total Installs: 81.09M | Avg Rating: 3.3⭐
-
-[⬆ Back to Table of Contents](#-table-of-contents)
-
----
-
-### 1. [C#](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp)
-*Extension #256 of 329*
-
-Base language support for C#
-
-**Details:**
-
-- **Extension ID:** `ms-dotnettools.csharp`
-- **Version:** 2.103.33
-- **Installs:** 37.45M
-- **Rating:** ⭐ 2.7/5 (662 ratings)
-- **Published:** 2016-02-26
-- **Last Updated:** 2025-12-03
-- **VS Code Engine:** ^1.106.0
-- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp
-
-**Resources:**
-
-- 📦 [Repository](https://github.com/dotnet/vscode-csharp.git)
-- 🐛 [Issues](https://github.com/dotnet/vscode-csharp/issues)
-- 💬 [Support](https://github.com/dotnet/vscode-csharp)
-- 🏠 [Homepage](https://github.com/dotnet/vscode-csharp#readme)
-
-**Marketplace Categories:**
-
-Programming Languages, Snippets, Linters, Debuggers
-
-**Tags:**
-
-.NET, .NET Core, __ext_cshtml, __ext_razor, __ext_xaml, ASP.NET, ASP.NETRazor, aspnetcorerazor, C#, color-theme, coreclr, csharp, debuggers, dotnet, json, keybindings, multi-root ready, snippet, theme, xaml
-
-**Works With:**
-
-Alpine Linux ARM64, Alpine Linux x64, macOS Apple Silicon, Linux ARM64, Windows ARM64, macOS Intel, Linux x64, Windows x64, Windows x86
-
----
-
-### 2. [.NET Install Tool](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscode-dotnet-runtime)
-*Extension #257 of 329*
-
-This extension installs and manages different versions of the .NET SDK and Runtime.
-
-**Details:**
-
-- **Extension ID:** `ms-dotnettools.vscode-dotnet-runtime`
-- **Version:** 2.4.1
-- **Installs:** 23.23M
-- **Rating:** ⭐ 1.9/5 (91 ratings)
-- **Published:** 2020-03-19
-- **Last Updated:** 2025-12-01
-- **VS Code Engine:** ^1.101.0
-- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscode-dotnet-runtime
-
-**Resources:**
-
-- 📦 [Repository](https://github.com/dotnet/vscode-dotnet-runtime.git)
-- 🐛 [Issues](https://github.com/dotnet/vscode-dotnet-runtime/issues)
-- 🏠 [Homepage](https://github.com/dotnet/vscode-dotnet-runtime#readme)
-
-**Marketplace Categories:**
-
-Other
-
-**Tags:**
-
-.NET, .NET Core, dotnet, Extension Authoring, runtime
-
-**Works With:**
-
-All Platforms
-
----
-
-### 3. [C# Dev Kit](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit)
-*Extension #258 of 329*
-
-Official C# extension from Microsoft
-
-**Details:**
-
-- **Extension ID:** `ms-dotnettools.csdevkit`
-- **Version:** 1.83.5
-- **Installs:** 12.56M
-- **Rating:** ⭐ 2.9/5 (182 ratings)
-- **Published:** 2023-06-06
-- **Last Updated:** 2025-12-04
-- **VS Code Engine:** ^1.95.0
-- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit
-
-**Resources:**
-
-- 🐛 [Issues](https://github.com/microsoft/vscode-dotnettools/issues)
-
-**Marketplace Categories:**
-
-Programming Languages, Linters, Debuggers, Testing
-
-**Tags:**
-
-asp.net, c#, csharp, devkit, dotnet, json, keybindings
-
-**Works With:**
-
-Alpine Linux x64, Linux ARM64, macOS Apple Silicon, Alpine Linux ARM64, macOS Intel, Linux x64, Windows x64, Windows ARM64, Windows x86
-
----
-
-### 4. [IntelliCode for C# Dev Kit](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscodeintellicode-csharp)
-*Extension #259 of 329*
-
-AI-assisted development for C# Dev Kit
-
-**Details:**
-
-- **Extension ID:** `ms-dotnettools.vscodeintellicode-csharp`
-- **Version:** 2.2.3
-- **Installs:** 4.21M
-- **Rating:** ⭐ 2.1/5 (43 ratings)
-- **Published:** 2023-06-06
-- **Last Updated:** 2024-11-13
-- **VS Code Engine:** ^1.82.0
-- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscodeintellicode-csharp
-
-**Resources:**
-
-- 📦 [Repository](https://github.com/MicrosoftDocs/intellicode.git)
-- 🐛 [Issues](https://github.com/MicrosoftDocs/intellicode/issues)
-- 🏠 [Homepage](https://github.com/MicrosoftDocs/intellicode#readme)
-
-**Marketplace Categories:**
-
-Programming Languages
-
-**Tags:**
-
-c#, csharp
-
-**Works With:**
-
-macOS Intel, Windows x64, Windows ARM64, Linux x64, Linux ARM64, macOS Apple Silicon
-
----
-
-### 5. [Polyglot Notebooks](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.dotnet-interactive-vscode)
-*Extension #260 of 329*
-
-Polyglot Notebooks for VS Code. Use multiple languages in one notebook with full language server support for each language and share variables between them.
-
-**Details:**
-
-- **Extension ID:** `ms-dotnettools.dotnet-interactive-vscode`
-- **Version:** 1.0.6323011
-- **Installs:** 1.75M
-- **Rating:** ⭐ 4.1/5 (47 ratings)
-- **Published:** 2020-05-15
-- **Last Updated:** 2025-06-24
-- **VS Code Engine:** ^1.87.0
-- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.dotnet-interactive-vscode
-
-**Resources:**
-
-- 📦 [Repository](https://github.com/dotnet/interactive.git)
-- 🐛 [Issues](https://github.com/dotnet/interactive/issues)
-- 🏠 [Homepage](https://github.com/dotnet/interactive#readme)
-
-**Marketplace Categories:**
-
-Data Science, Machine Learning, Visualization, Notebooks
-
-**Tags:**
-
-.NET, C#, Code, data science, dotnet, F#, interactive, ipynb, Jupyter, keybindings, notebooks, polyglot-notebook, PowerShell
-
-**Works With:**
-
-All Platforms
-
----
-
-### 6. [.NET Extension Pack](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscode-dotnet-pack)
-*Extension #261 of 329*
-
-The ultimate collection of extensions for working with .NET in VS Code!
-
-**Details:**
-
-- **Extension ID:** `ms-dotnettools.vscode-dotnet-pack`
-- **Version:** 1.0.13
-- **Installs:** 1.35M
-- **Rating:** ⭐ 2.6/5 (5 ratings)
-- **Published:** 2021-02-03
-- **Last Updated:** 2023-12-04
-- **VS Code Engine:** ^1.83.0
-- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscode-dotnet-pack
-
-**Resources:**
-
-- 📦 [Repository](https://github.com/dotnet/vscode-dotnet-pack.git)
-- 🐛 [Issues](https://github.com/dotnet/vscode-dotnet-pack/issues)
-- 🏠 [Homepage](https://github.com/dotnet/vscode-dotnet-pack)
-
-**Marketplace Categories:**
-
-Programming Languages, Snippets, Linters, Debuggers, Extension Packs, Notebooks
-
-**Tags:**
-
-.NET, .NET Core, .NET Interactive, aspnetcorerazor, C#, csharp, dotnet, dotnet Interactive, F#, fsharp, interactive programming, Jupyter, notebooks, Polyglot Notebooks
-
-**Works With:**
-
-All Platforms
-
----
-
-### 7. [.NET MAUI](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.dotnet-maui)
-*Extension #262 of 329*
-
-Extend C# Dev Kit with tools for building .NET Multi-platform App UI (MAUI) apps
-
-**Details:**
-
-- **Extension ID:** `ms-dotnettools.dotnet-maui`
-- **Version:** 1.12.13
-- **Installs:** 347K
-- **Rating:** ⭐ 3.5/5 (28 ratings)
-- **Published:** 2023-07-11
-- **Last Updated:** 2025-12-04
-- **VS Code Engine:** ^1.72.0
-- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.dotnet-maui
-
-**Resources:**
-
-- 🐛 [Issues](https://github.com/microsoft/vscode-dotnettools/issues)
-
-**Marketplace Categories:**
-
-Programming Languages, Linters, Debuggers
-
-**Tags:**
-
-__ext_cs, __ext_xaml, C, C#, csharp, debuggers, dotnet, mobile, xaml
-
-**Works With:**
-
-macOS Intel, Linux x64, Alpine Linux x64, Windows ARM64, Alpine Linux ARM64, macOS Apple Silicon, Linux ARM64, Windows x64, Windows x86
-
----
-
-### 8. [Microsoft.AspNetCore.Razor.VSCode.BlazorWasmDebuggingExtension](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.blazorwasm-companion)
-*Extension #263 of 329*
-
-A companion extension for debugging Blazor WebAssembly applications in VS Code. Must be installed alongside the C# extension.
-
-**Details:**
-
-- **Extension ID:** `ms-dotnettools.blazorwasm-companion`
-- **Version:** 1.1.4
-- **Installs:** 176K
-- **Rating:** ⭐ 5/5 (5 ratings)
-- **Published:** 2021-02-01
-- **Last Updated:** 2023-02-06
-- **VS Code Engine:** ^1.69.0
-- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.blazorwasm-companion
-
-**Resources:**
-
-- 📦 [Repository](https://github.com/dotnet/razor.git)
-- 🐛 [Issues](https://github.com/dotnet/razor/issues)
-- 🏠 [Homepage](https://github.com/dotnet/razor#readme)
-
-**Marketplace Categories:**
-
-Other
-
-**Tags:**
-
-c#
-
-**Works With:**
-
-All Platforms
-
----
-
-### 9. [GitHub Copilot app modernization for .NET](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscode-dotnet-modernize)
-*Extension #264 of 329*
-
-GitHub Copilot app modernization for .NET is a public preview AI-powered experience that helps you bring your .NET applications to the latest version quicker and more confidently than ever before. Powered by GitHub Copilot and Agent Mode, it serves as an intelligent upgrade companion that understand
-
-**Details:**
-
-- **Extension ID:** `ms-dotnettools.vscode-dotnet-modernize`
-- **Version:** 0.1.542
-- **Installs:** 6K
-- **Rating:** ⭐ 5/5 (1 ratings)
-- **Published:** 2025-11-18
-- **Last Updated:** 2025-12-03
-- **VS Code Engine:** ^1.106.0
-- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscode-dotnet-modernize
-
-**Marketplace Categories:**
-
-AI, Chat
-
-**Tags:**
-
-.NET, agent, chat, copilot, csharp, Upgrade
-
-**Works With:**
-
-All Platforms
-
----
-
-[⬆ Back to Table of Contents](#-table-of-contents)
-
----
-
 ## Containers & Kubernetes
 
-**Category Stats:** 9 extensions | Total Installs: 7.36M | Avg Rating: 4.5⭐
+**Category Stats:** 9 extensions | Total Installs: 7.4M | Avg Rating: 4.5⭐
 
 [⬆ Back to Table of Contents](#-table-of-contents)
 
 ---
 
 ### 1. [Kubernetes](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.vscode-kubernetes-tools)
-*Extension #265 of 329*
+*Extension #259 of 331*
 
 Develop, deploy and debug Kubernetes applications
 
@@ -9938,7 +9718,7 @@ Develop, deploy and debug Kubernetes applications
 
 - **Extension ID:** `ms-kubernetes-tools.vscode-kubernetes-tools`
 - **Version:** 1.3.27
-- **Installs:** 6.34M
+- **Installs:** 6.37M
 - **Rating:** ⭐ 4.4/5 (39 ratings)
 - **Published:** 2018-01-10
 - **Last Updated:** 2025-11-25
@@ -9965,7 +9745,7 @@ All Platforms
 ---
 
 ### 2. [Bridge to Kubernetes](https://marketplace.visualstudio.com/items?itemName=mindaro.mindaro)
-*Extension #266 of 329*
+*Extension #260 of 331*
 
 Rapid Kubernetes development for teams
 
@@ -10001,7 +9781,7 @@ All Platforms
 ---
 
 ### 3. [Azure Kubernetes Service](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.vscode-aks-tools)
-*Extension #267 of 329*
+*Extension #261 of 331*
 
 Display Azure Kubernetes Services within VS Code
 
@@ -10009,7 +9789,7 @@ Display Azure Kubernetes Services within VS Code
 
 - **Extension ID:** `ms-kubernetes-tools.vscode-aks-tools`
 - **Version:** 1.6.14
-- **Installs:** 402K
+- **Installs:** 403K
 - **Rating:** ⭐ 4.8/5 (13 ratings)
 - **Published:** 2019-05-10
 - **Last Updated:** 2025-11-04
@@ -10037,7 +9817,7 @@ All Platforms
 ---
 
 ### 4. [Kubernetes Kind](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.kind-vscode)
-*Extension #268 of 329*
+*Extension #262 of 331*
 
 Work with the Kind local Kubernetes provider in Visual Studio Code
 
@@ -10072,7 +9852,7 @@ All Platforms
 ---
 
 ### 5. [Developer Tools for Azure Kubernetes Service (AKS)](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.aks-devx-tools)
-*Extension #269 of 329*
+*Extension #263 of 331*
 
 Create deployment files and configure GitHub Actions workflows to deploy applications to Azure Kubernetes Service (AKS).
 
@@ -10102,7 +9882,7 @@ All Platforms
 ---
 
 ### 6. [Open Policy Agent for Kubernetes](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.kubernetes-opa-vscode)
-*Extension #270 of 329*
+*Extension #264 of 331*
 
 Work with Open Policy Agent as a Kubernetes admission controller
 
@@ -10136,7 +9916,7 @@ All Platforms
 ---
 
 ### 7. [Duffle](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.duffle-vscode)
-*Extension #271 of 329*
+*Extension #265 of 331*
 
 Build and deploy Cloud Native Application Bundles with Duffle
 
@@ -10170,7 +9950,7 @@ All Platforms
 ---
 
 ### 8. [Porter](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.porter-vscode)
-*Extension #272 of 329*
+*Extension #266 of 331*
 
 Build CNAB bundles with Porter
 
@@ -10204,7 +9984,7 @@ All Platforms
 ---
 
 ### 9. [Duffle Coat](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.duffle-coat)
-*Extension #273 of 329*
+*Extension #267 of 331*
 
 Generates CNAB self-installers
 
@@ -10241,35 +10021,72 @@ All Platforms
 
 ---
 
-## Education & Learning
+## .NET Development
 
-**Category Stats:** 8 extensions | Total Installs: 1.7M | Avg Rating: 4.4⭐
+**Category Stats:** 9 extensions | Total Installs: 81.58M | Avg Rating: 3.3⭐
 
 [⬆ Back to Table of Contents](#-table-of-contents)
 
 ---
 
-### 1. [learn-markdown](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-markdown)
-*Extension #274 of 329*
+### 1. [C#](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp)
+*Extension #268 of 331*
 
-Learn Markdown Extension
+Base language support for C#
 
 **Details:**
 
-- **Extension ID:** `docsmsft.docs-markdown`
-- **Version:** 1.0.17
-- **Installs:** 471K
-- **Rating:** ⭐ 4.1/5 (7 ratings)
-- **Published:** 2018-04-05
-- **Last Updated:** 2025-10-21
-- **VS Code Engine:** ^1.71.0
-- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-markdown
+- **Extension ID:** `ms-dotnettools.csharp`
+- **Version:** 2.111.2
+- **Installs:** 37.59M
+- **Rating:** ⭐ 2.7/5 (663 ratings)
+- **Published:** 2016-02-26
+- **Last Updated:** 2025-12-11
+- **VS Code Engine:** ^1.106.0
+- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp
 
 **Resources:**
 
-- 📦 [Repository](https://ceapex@dev.azure.com/ceapex/Engineering/_git/learn-markdown)
-- 🐛 [Issues](https://github.com/Microsoft/vscode-docs-authoring/issues)
-- 🏠 [Homepage](https://github.com/Microsoft/vscode-docs-authoring)
+- 📦 [Repository](https://github.com/dotnet/vscode-csharp.git)
+- 🐛 [Issues](https://github.com/dotnet/vscode-csharp/issues)
+- 💬 [Support](https://github.com/dotnet/vscode-csharp)
+- 🏠 [Homepage](https://github.com/dotnet/vscode-csharp#readme)
+
+**Marketplace Categories:**
+
+Programming Languages, Snippets, Linters, Debuggers
+
+**Tags:**
+
+.NET, .NET Core, __ext_cshtml, __ext_razor, __ext_xaml, ASP.NET, ASP.NETRazor, aspnetcorerazor, C#, color-theme, coreclr, csharp, debuggers, dotnet, json, keybindings, multi-root ready, snippet, theme, xaml
+
+**Works With:**
+
+Alpine Linux x64, Alpine Linux ARM64, Linux x64, macOS Apple Silicon, Windows ARM64, macOS Intel, Linux ARM64, Windows x64, Windows x86
+
+---
+
+### 2. [.NET Install Tool](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscode-dotnet-runtime)
+*Extension #269 of 331*
+
+This extension installs and manages different versions of the .NET SDK and Runtime.
+
+**Details:**
+
+- **Extension ID:** `ms-dotnettools.vscode-dotnet-runtime`
+- **Version:** 3.0.0
+- **Installs:** 23.4M
+- **Rating:** ⭐ 1.9/5 (91 ratings)
+- **Published:** 2020-03-19
+- **Last Updated:** 2025-12-08
+- **VS Code Engine:** ^1.101.0
+- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscode-dotnet-runtime
+
+**Resources:**
+
+- 📦 [Repository](https://github.com/dotnet/vscode-dotnet-runtime.git)
+- 🐛 [Issues](https://github.com/dotnet/vscode-dotnet-runtime/issues)
+- 🏠 [Homepage](https://github.com/dotnet/vscode-dotnet-runtime#readme)
 
 **Marketplace Categories:**
 
@@ -10277,7 +10094,7 @@ Other
 
 **Tags:**
 
-json, keybindings, markdown, snippet, yaml
+.NET, .NET Core, dotnet, Extension Authoring, runtime
 
 **Works With:**
 
@@ -10285,35 +10102,105 @@ All Platforms
 
 ---
 
-### 2. [learn-yaml](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-yaml)
-*Extension #275 of 329*
+### 3. [C# Dev Kit](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit)
+*Extension #270 of 331*
 
-YAML schema validation and auto-completion for learn.microsoft.com authoring
+Official C# extension from Microsoft
 
 **Details:**
 
-- **Extension ID:** `docsmsft.docs-yaml`
-- **Version:** 1.0.5
-- **Installs:** 466K
-- **Rating:** ⭐ 5/5 (3 ratings)
-- **Published:** 2019-03-13
-- **Last Updated:** 2024-09-20
-- **VS Code Engine:** ^1.71.0
-- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-yaml
+- **Extension ID:** `ms-dotnettools.csdevkit`
+- **Version:** 1.91.6
+- **Installs:** 12.69M
+- **Rating:** ⭐ 2.9/5 (183 ratings)
+- **Published:** 2023-06-06
+- **Last Updated:** 2025-12-11
+- **VS Code Engine:** ^1.95.0
+- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit
 
 **Resources:**
 
-- 📦 [Repository](https://ceapex@dev.azure.com/ceapex/Engineering/_git/learn-yaml)
-- 🐛 [Issues](https://github.com/Microsoft/vscode-docs-authoring/issues)
-- 🏠 [Homepage](https://github.com/Microsoft/vscode-docs-authoring)
+- 🐛 [Issues](https://github.com/microsoft/vscode-dotnettools/issues)
 
 **Marketplace Categories:**
 
-Programming Languages, Snippets, Azure
+Programming Languages, Linters, Debuggers, Testing
 
 **Tags:**
 
-azure, docs, yaml, YamlMime
+asp.net, c#, csharp, devkit, dotnet, json, keybindings
+
+**Works With:**
+
+Linux ARM64, Linux x64, Alpine Linux x64, macOS Apple Silicon, Alpine Linux ARM64, macOS Intel, Windows ARM64, Windows x64, Windows x86
+
+---
+
+### 4. [IntelliCode for C# Dev Kit](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscodeintellicode-csharp)
+*Extension #271 of 331*
+
+AI-assisted development for C# Dev Kit
+
+**Details:**
+
+- **Extension ID:** `ms-dotnettools.vscodeintellicode-csharp`
+- **Version:** 2.2.3
+- **Installs:** 4.22M
+- **Rating:** ⭐ 2.1/5 (43 ratings)
+- **Published:** 2023-06-06
+- **Last Updated:** 2024-11-13
+- **VS Code Engine:** ^1.82.0
+- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscodeintellicode-csharp
+
+**Resources:**
+
+- 📦 [Repository](https://github.com/MicrosoftDocs/intellicode.git)
+- 🐛 [Issues](https://github.com/MicrosoftDocs/intellicode/issues)
+- 🏠 [Homepage](https://github.com/MicrosoftDocs/intellicode#readme)
+
+**Marketplace Categories:**
+
+Programming Languages
+
+**Tags:**
+
+c#, csharp
+
+**Works With:**
+
+macOS Intel, Windows x64, Windows ARM64, Linux x64, Linux ARM64, macOS Apple Silicon
+
+---
+
+### 5. [Polyglot Notebooks](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.dotnet-interactive-vscode)
+*Extension #272 of 331*
+
+Polyglot Notebooks for VS Code. Use multiple languages in one notebook with full language server support for each language and share variables between them.
+
+**Details:**
+
+- **Extension ID:** `ms-dotnettools.dotnet-interactive-vscode`
+- **Version:** 1.0.6323011
+- **Installs:** 1.76M
+- **Rating:** ⭐ 4.1/5 (47 ratings)
+- **Published:** 2020-05-15
+- **Last Updated:** 2025-06-24
+- **VS Code Engine:** ^1.87.0
+- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.dotnet-interactive-vscode
+
+**Resources:**
+
+- 📦 [Repository](https://github.com/dotnet/interactive.git)
+- 🐛 [Issues](https://github.com/dotnet/interactive/issues)
+- 🏠 [Homepage](https://github.com/dotnet/interactive#readme)
+
+**Marketplace Categories:**
+
+Data Science, Machine Learning, Visualization, Notebooks
+
+**Tags:**
+
+.NET, C#, Code, data science, dotnet, F#, interactive, ipynb, Jupyter, keybindings, notebooks, polyglot-notebook, PowerShell
 
 **Works With:**
 
@@ -10321,27 +10208,97 @@ All Platforms
 
 ---
 
-### 3. [learn-images](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-images)
-*Extension #276 of 329*
+### 6. [.NET Extension Pack](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscode-dotnet-pack)
+*Extension #273 of 331*
 
-Learn Images Extension
+The ultimate collection of extensions for working with .NET in VS Code!
 
 **Details:**
 
-- **Extension ID:** `docsmsft.docs-images`
-- **Version:** 1.0.4
-- **Installs:** 295K
-- **Rating:** ⭐ 5/5 (2 ratings)
-- **Published:** 2019-12-20
-- **Last Updated:** 2024-09-13
-- **VS Code Engine:** ^1.76.0
-- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-images
+- **Extension ID:** `ms-dotnettools.vscode-dotnet-pack`
+- **Version:** 1.0.13
+- **Installs:** 1.36M
+- **Rating:** ⭐ 2.6/5 (5 ratings)
+- **Published:** 2021-02-03
+- **Last Updated:** 2023-12-04
+- **VS Code Engine:** ^1.83.0
+- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscode-dotnet-pack
 
 **Resources:**
 
-- 📦 [Repository](https://ceapex@dev.azure.com/ceapex/Engineering/_git/learn-images)
-- 🐛 [Issues](https://github.com/Microsoft/vscode-docs-authoring/issues)
-- 🏠 [Homepage](https://github.com/Microsoft/vscode-docs-authoring)
+- 📦 [Repository](https://github.com/dotnet/vscode-dotnet-pack.git)
+- 🐛 [Issues](https://github.com/dotnet/vscode-dotnet-pack/issues)
+- 🏠 [Homepage](https://github.com/dotnet/vscode-dotnet-pack)
+
+**Marketplace Categories:**
+
+Programming Languages, Snippets, Linters, Debuggers, Extension Packs, Notebooks
+
+**Tags:**
+
+.NET, .NET Core, .NET Interactive, aspnetcorerazor, C#, csharp, dotnet, dotnet Interactive, F#, fsharp, interactive programming, Jupyter, notebooks, Polyglot Notebooks
+
+**Works With:**
+
+All Platforms
+
+---
+
+### 7. [.NET MAUI](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.dotnet-maui)
+*Extension #274 of 331*
+
+Extend C# Dev Kit with tools for building .NET Multi-platform App UI (MAUI) apps
+
+**Details:**
+
+- **Extension ID:** `ms-dotnettools.dotnet-maui`
+- **Version:** 1.13.11
+- **Installs:** 350K
+- **Rating:** ⭐ 3.5/5 (28 ratings)
+- **Published:** 2023-07-11
+- **Last Updated:** 2025-12-12
+- **VS Code Engine:** ^1.72.0
+- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.dotnet-maui
+
+**Resources:**
+
+- 🐛 [Issues](https://github.com/microsoft/vscode-dotnettools/issues)
+
+**Marketplace Categories:**
+
+Programming Languages, Linters, Debuggers
+
+**Tags:**
+
+__ext_cs, __ext_xaml, C, C#, csharp, debuggers, dotnet, mobile, xaml
+
+**Works With:**
+
+macOS Apple Silicon, Alpine Linux ARM64, Alpine Linux x64, macOS Intel, Linux x64, Linux ARM64, Windows ARM64, Windows x64, Windows x86
+
+---
+
+### 8. [Microsoft.AspNetCore.Razor.VSCode.BlazorWasmDebuggingExtension](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.blazorwasm-companion)
+*Extension #275 of 331*
+
+A companion extension for debugging Blazor WebAssembly applications in VS Code. Must be installed alongside the C# extension.
+
+**Details:**
+
+- **Extension ID:** `ms-dotnettools.blazorwasm-companion`
+- **Version:** 1.1.4
+- **Installs:** 176K
+- **Rating:** ⭐ 5/5 (5 ratings)
+- **Published:** 2021-02-01
+- **Last Updated:** 2023-02-06
+- **VS Code Engine:** ^1.69.0
+- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.blazorwasm-companion
+
+**Resources:**
+
+- 📦 [Repository](https://github.com/dotnet/razor.git)
+- 🐛 [Issues](https://github.com/dotnet/razor/issues)
+- 🏠 [Homepage](https://github.com/dotnet/razor#readme)
 
 **Marketplace Categories:**
 
@@ -10349,7 +10306,7 @@ Other
 
 **Tags:**
 
-__ext_gif, __ext_jpeg, __ext_jpg, __ext_png, __ext_svg, __ext_webp, compress, compression, compressionTargetFile, image, images, optimization, optimize
+c#
 
 **Works With:**
 
@@ -10357,168 +10314,29 @@ All Platforms
 
 ---
 
-### 4. [learn-preview](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-preview)
-*Extension #277 of 329*
+### 9. [GitHub Copilot app modernization for .NET](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscode-dotnet-modernize)
+*Extension #276 of 331*
 
-Learn Markdown Preview Extension
-
-**Details:**
-
-- **Extension ID:** `docsmsft.docs-preview`
-- **Version:** 2.0.10
-- **Installs:** 247K
-- **Rating:** ⭐ 3.3/5 (3 ratings)
-- **Published:** 2018-06-18
-- **Last Updated:** 2025-09-25
-- **VS Code Engine:** ^1.86.0
-- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-preview
-
-**Resources:**
-
-- 📦 [Repository](https://ceapex@dev.azure.com/ceapex/Engineering/_git/learn-preview)
-- 🐛 [Issues](https://github.com/Microsoft/vscode-docs-authoring/issues)
-- 🏠 [Homepage](https://github.com/Microsoft/vscode-docs-authoring)
-
-**Marketplace Categories:**
-
-Snippets
-
-**Tags:**
-
-commonmark, dfm, docfx, markdown, yaml
-
-**Works With:**
-
-All Platforms
-
----
-
-### 5. [learn-article-templates](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-article-templates)
-*Extension #278 of 329*
-
-Learn article templates
+GitHub Copilot app modernization for .NET is a public preview AI-powered experience that helps you bring your .NET applications to the latest version quicker and more confidently than ever before. Powered by GitHub Copilot and Agent Mode, it serves as an intelligent upgrade companion that understand
 
 **Details:**
 
-- **Extension ID:** `docsmsft.docs-article-templates`
-- **Version:** 1.0.8
-- **Installs:** 125K
-- **Rating:** ⭐ 4/5 (2 ratings)
-- **Published:** 2018-06-18
-- **Last Updated:** 2025-02-12
-- **VS Code Engine:** ^1.71.0
-- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-article-templates
-
-**Resources:**
-
-- 📦 [Repository](https://ceapex@dev.azure.com/ceapex/Engineering/_git/learn-article-templates)
-- 🐛 [Issues](https://github.com/Microsoft/vscode-docs-authoring/issues)
-- 🏠 [Homepage](https://github.com/Microsoft/vscode-docs-authoring)
-
-**Marketplace Categories:**
-
-Other
-
-**Tags:**
-
-markdown, yaml
-
-**Works With:**
-
-All Platforms
-
----
-
-### 6. [learn-scaffolding](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-scaffolding)
-*Extension #279 of 329*
-
-A Visual Studio Code extension developed to aid with scaffolding and updating Learn modules.
-
-**Details:**
-
-- **Extension ID:** `docsmsft.docs-scaffolding`
-- **Version:** 1.0.8
-- **Installs:** 89K
-- **Published:** 2021-02-25
-- **Last Updated:** 2024-09-19
-- **VS Code Engine:** ^1.71.0
-- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-scaffolding
-
-**Resources:**
-
-- 📦 [Repository](https://dev.azure.com/ceapex/Engineering/_git/learn-scaffolding)
-
-**Marketplace Categories:**
-
-Other
-
-**Works With:**
-
-All Platforms
-
----
-
-### 7. [Learn Linter](https://marketplace.visualstudio.com/items?itemName=docsmsft.learnlinter)
-*Extension #280 of 329*
-
-Learn markdown/yaml Linter and analysis engine.
-
-**Details:**
-
-- **Extension ID:** `docsmsft.learnlinter`
-- **Version:** 5.0.0
-- **Installs:** 3K
-- **Published:** 2023-08-10
-- **Last Updated:** 2025-07-16
-- **VS Code Engine:** ^1.80.0
-- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=docsmsft.learnlinter
-
-**Resources:**
-
-- 📦 [Repository](https://dev.azure.com/ceapex/Engineering/_git/Linter)
-- 💬 [Support](https://aka.ms/LearnLinterFeedback)
-
-**Marketplace Categories:**
-
-Programming Languages, Snippets, Linters
-
-**Tags:**
-
-json, markdown, yaml
-
-**Works With:**
-
-All Platforms
-
----
-
-### 8. [Microsoft Learn Authoring Assistant](https://marketplace.visualstudio.com/items?itemName=docsmsft.learn-authoring-assistant)
-*Extension #281 of 329*
-
-Microsoft Learn Authoring Assistant works with GitHub Copilot Chat to help authors improve their Learn content based on grammatical rules and Microsoft's official writing guidance. This AI-powered extension analyzes Markdown content and automatically fixes grammatical and voice issues to improve cla
-
-**Details:**
-
-- **Extension ID:** `docsmsft.learn-authoring-assistant`
-- **Version:** 1.1.2
-- **Installs:** 580
+- **Extension ID:** `ms-dotnettools.vscode-dotnet-modernize`
+- **Version:** 0.1.564
+- **Installs:** 38K
 - **Rating:** ⭐ 5/5 (1 ratings)
-- **Published:** 2025-10-17
-- **Last Updated:** 2025-12-03
-- **VS Code Engine:** ^1.98.0
-- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=docsmsft.learn-authoring-assistant
-
-**Resources:**
-
-- 📦 [Repository](https://dev.azure.com/ceapex/Engineering/_git/learn-authoring-ai-assistant)
+- **Published:** 2025-11-18
+- **Last Updated:** 2025-12-13
+- **VS Code Engine:** ^1.106.0
+- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscode-dotnet-modernize
 
 **Marketplace Categories:**
 
-Education, AI, Chat
+AI, Chat
 
 **Tags:**
 
-Ask Learn, Authoring, Azure, chat-participant, Developer, Learn, markdown
+.NET, agent, chat, copilot, csharp, Upgrade
 
 **Works With:**
 
@@ -10532,14 +10350,14 @@ All Platforms
 
 ## Themes & Appearance
 
-**Category Stats:** 8 extensions | Total Installs: 51.91M | Avg Rating: 4.5⭐
+**Category Stats:** 8 extensions | Total Installs: 52.18M | Avg Rating: 4.5⭐
 
 [⬆ Back to Table of Contents](#-table-of-contents)
 
 ---
 
 ### 1. [C/C++ Themes](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools-themes)
-*Extension #282 of 329*
+*Extension #277 of 331*
 
 UI Themes for C/C++ extension.
 
@@ -10547,7 +10365,7 @@ UI Themes for C/C++ extension.
 
 - **Extension ID:** `ms-vscode.cpptools-themes`
 - **Version:** 2.0.0
-- **Installs:** 50.46M
+- **Installs:** 50.73M
 - **Rating:** ⭐ 3.5/5 (19 ratings)
 - **Published:** 2019-08-30
 - **Last Updated:** 2022-10-24
@@ -10575,7 +10393,7 @@ All Platforms
 ---
 
 ### 2. [Markdown Theme Kit](https://marketplace.visualstudio.com/items?itemName=ms-vscode.Theme-MarkdownKit)
-*Extension #283 of 329*
+*Extension #278 of 331*
 
 Theme Kit for VS Code optimized for Markdown. Based on the TextMate themes.
 
@@ -10583,7 +10401,7 @@ Theme Kit for VS Code optimized for Markdown. Based on the TextMate themes.
 
 - **Extension ID:** `ms-vscode.Theme-MarkdownKit`
 - **Version:** 0.1.4
-- **Installs:** 565K
+- **Installs:** 566K
 - **Rating:** ⭐ 4.3/5 (13 ratings)
 - **Published:** 2015-11-14
 - **Last Updated:** 2017-04-04
@@ -10611,7 +10429,7 @@ All Platforms
 ---
 
 ### 3. [Material Theme Kit](https://marketplace.visualstudio.com/items?itemName=ms-vscode.Theme-MaterialKit)
-*Extension #284 of 329*
+*Extension #279 of 331*
 
 Material themes for VS Code. Based on the TextMate themes.
 
@@ -10619,7 +10437,7 @@ Material themes for VS Code. Based on the TextMate themes.
 
 - **Extension ID:** `ms-vscode.Theme-MaterialKit`
 - **Version:** 0.1.4
-- **Installs:** 415K
+- **Installs:** 417K
 - **Rating:** ⭐ 3.9/5 (16 ratings)
 - **Published:** 2015-11-14
 - **Last Updated:** 2017-04-04
@@ -10647,7 +10465,7 @@ All Platforms
 ---
 
 ### 4. [Tomorrow and Tomorrow Night Theme Kit](https://marketplace.visualstudio.com/items?itemName=ms-vscode.Theme-TomorrowKit)
-*Extension #285 of 329*
+*Extension #280 of 331*
 
 Additional Tomorrow and Tomorrow Night themes for VS Code. Based on the TextMate themes.
 
@@ -10683,7 +10501,7 @@ All Platforms
 ---
 
 ### 5. [1337 Theme](https://marketplace.visualstudio.com/items?itemName=ms-vscode.Theme-1337)
-*Extension #286 of 329*
+*Extension #281 of 331*
 
 1337 Theme for VS Code based on the TextMate theme.
 
@@ -10719,7 +10537,7 @@ All Platforms
 ---
 
 ### 6. [Predawn Theme Kit](https://marketplace.visualstudio.com/items?itemName=ms-vscode.Theme-PredawnKit)
-*Extension #287 of 329*
+*Extension #282 of 331*
 
 Predawn themes for VS Code. Based on the TextMate themes.
 
@@ -10755,7 +10573,7 @@ All Platforms
 ---
 
 ### 7. [3024 Theme Kit](https://marketplace.visualstudio.com/items?itemName=ms-vscode.Theme-3024Kit)
-*Extension #288 of 329*
+*Extension #283 of 331*
 
 3024 Themes for VS Code based on the TextMate theme.
 
@@ -10791,7 +10609,7 @@ All Platforms
 ---
 
 ### 8. [Theme Tester](https://marketplace.visualstudio.com/items?itemName=ms-vscode.theme-tester)
-*Extension #289 of 329*
+*Extension #284 of 331*
 
 Test a color theme without installing it
 
@@ -10830,16 +10648,305 @@ All Platforms
 
 ---
 
+## Education & Learning
+
+**Category Stats:** 8 extensions | Total Installs: 1.7M | Avg Rating: 4.4⭐
+
+[⬆ Back to Table of Contents](#-table-of-contents)
+
+---
+
+### 1. [learn-markdown](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-markdown)
+*Extension #285 of 331*
+
+Learn Markdown Extension
+
+**Details:**
+
+- **Extension ID:** `docsmsft.docs-markdown`
+- **Version:** 1.0.17
+- **Installs:** 472K
+- **Rating:** ⭐ 4.1/5 (7 ratings)
+- **Published:** 2018-04-05
+- **Last Updated:** 2025-10-21
+- **VS Code Engine:** ^1.71.0
+- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-markdown
+
+**Resources:**
+
+- 📦 [Repository](https://ceapex@dev.azure.com/ceapex/Engineering/_git/learn-markdown)
+- 🐛 [Issues](https://github.com/Microsoft/vscode-docs-authoring/issues)
+- 🏠 [Homepage](https://github.com/Microsoft/vscode-docs-authoring)
+
+**Marketplace Categories:**
+
+Other
+
+**Tags:**
+
+json, keybindings, markdown, snippet, yaml
+
+**Works With:**
+
+All Platforms
+
+---
+
+### 2. [learn-yaml](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-yaml)
+*Extension #286 of 331*
+
+YAML schema validation and auto-completion for learn.microsoft.com authoring
+
+**Details:**
+
+- **Extension ID:** `docsmsft.docs-yaml`
+- **Version:** 1.0.5
+- **Installs:** 467K
+- **Rating:** ⭐ 5/5 (3 ratings)
+- **Published:** 2019-03-13
+- **Last Updated:** 2024-09-20
+- **VS Code Engine:** ^1.71.0
+- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-yaml
+
+**Resources:**
+
+- 📦 [Repository](https://ceapex@dev.azure.com/ceapex/Engineering/_git/learn-yaml)
+- 🐛 [Issues](https://github.com/Microsoft/vscode-docs-authoring/issues)
+- 🏠 [Homepage](https://github.com/Microsoft/vscode-docs-authoring)
+
+**Marketplace Categories:**
+
+Programming Languages, Snippets, Azure
+
+**Tags:**
+
+azure, docs, yaml, YamlMime
+
+**Works With:**
+
+All Platforms
+
+---
+
+### 3. [learn-images](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-images)
+*Extension #287 of 331*
+
+Learn Images Extension
+
+**Details:**
+
+- **Extension ID:** `docsmsft.docs-images`
+- **Version:** 1.0.4
+- **Installs:** 295K
+- **Rating:** ⭐ 5/5 (2 ratings)
+- **Published:** 2019-12-20
+- **Last Updated:** 2024-09-13
+- **VS Code Engine:** ^1.76.0
+- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-images
+
+**Resources:**
+
+- 📦 [Repository](https://ceapex@dev.azure.com/ceapex/Engineering/_git/learn-images)
+- 🐛 [Issues](https://github.com/Microsoft/vscode-docs-authoring/issues)
+- 🏠 [Homepage](https://github.com/Microsoft/vscode-docs-authoring)
+
+**Marketplace Categories:**
+
+Other
+
+**Tags:**
+
+__ext_gif, __ext_jpeg, __ext_jpg, __ext_png, __ext_svg, __ext_webp, compress, compression, compressionTargetFile, image, images, optimization, optimize
+
+**Works With:**
+
+All Platforms
+
+---
+
+### 4. [learn-preview](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-preview)
+*Extension #288 of 331*
+
+Learn Markdown Preview Extension
+
+**Details:**
+
+- **Extension ID:** `docsmsft.docs-preview`
+- **Version:** 2.0.10
+- **Installs:** 248K
+- **Rating:** ⭐ 3.3/5 (3 ratings)
+- **Published:** 2018-06-18
+- **Last Updated:** 2025-09-25
+- **VS Code Engine:** ^1.86.0
+- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-preview
+
+**Resources:**
+
+- 📦 [Repository](https://ceapex@dev.azure.com/ceapex/Engineering/_git/learn-preview)
+- 🐛 [Issues](https://github.com/Microsoft/vscode-docs-authoring/issues)
+- 🏠 [Homepage](https://github.com/Microsoft/vscode-docs-authoring)
+
+**Marketplace Categories:**
+
+Snippets
+
+**Tags:**
+
+commonmark, dfm, docfx, markdown, yaml
+
+**Works With:**
+
+All Platforms
+
+---
+
+### 5. [learn-article-templates](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-article-templates)
+*Extension #289 of 331*
+
+Learn article templates
+
+**Details:**
+
+- **Extension ID:** `docsmsft.docs-article-templates`
+- **Version:** 1.0.8
+- **Installs:** 125K
+- **Rating:** ⭐ 4/5 (2 ratings)
+- **Published:** 2018-06-18
+- **Last Updated:** 2025-02-12
+- **VS Code Engine:** ^1.71.0
+- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-article-templates
+
+**Resources:**
+
+- 📦 [Repository](https://ceapex@dev.azure.com/ceapex/Engineering/_git/learn-article-templates)
+- 🐛 [Issues](https://github.com/Microsoft/vscode-docs-authoring/issues)
+- 🏠 [Homepage](https://github.com/Microsoft/vscode-docs-authoring)
+
+**Marketplace Categories:**
+
+Other
+
+**Tags:**
+
+markdown, yaml
+
+**Works With:**
+
+All Platforms
+
+---
+
+### 6. [learn-scaffolding](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-scaffolding)
+*Extension #290 of 331*
+
+A Visual Studio Code extension developed to aid with scaffolding and updating Learn modules.
+
+**Details:**
+
+- **Extension ID:** `docsmsft.docs-scaffolding`
+- **Version:** 1.0.8
+- **Installs:** 90K
+- **Published:** 2021-02-25
+- **Last Updated:** 2024-09-19
+- **VS Code Engine:** ^1.71.0
+- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-scaffolding
+
+**Resources:**
+
+- 📦 [Repository](https://dev.azure.com/ceapex/Engineering/_git/learn-scaffolding)
+
+**Marketplace Categories:**
+
+Other
+
+**Works With:**
+
+All Platforms
+
+---
+
+### 7. [Learn Linter](https://marketplace.visualstudio.com/items?itemName=docsmsft.learnlinter)
+*Extension #291 of 331*
+
+Learn markdown/yaml Linter and analysis engine.
+
+**Details:**
+
+- **Extension ID:** `docsmsft.learnlinter`
+- **Version:** 5.0.0
+- **Installs:** 3K
+- **Published:** 2023-08-10
+- **Last Updated:** 2025-07-16
+- **VS Code Engine:** ^1.80.0
+- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=docsmsft.learnlinter
+
+**Resources:**
+
+- 📦 [Repository](https://dev.azure.com/ceapex/Engineering/_git/Linter)
+- 💬 [Support](https://aka.ms/LearnLinterFeedback)
+
+**Marketplace Categories:**
+
+Programming Languages, Snippets, Linters
+
+**Tags:**
+
+json, markdown, yaml
+
+**Works With:**
+
+All Platforms
+
+---
+
+### 8. [Microsoft Learn Authoring Assistant](https://marketplace.visualstudio.com/items?itemName=docsmsft.learn-authoring-assistant)
+*Extension #292 of 331*
+
+Microsoft Learn Authoring Assistant works with GitHub Copilot Chat to help authors improve their Learn content based on grammatical rules and Microsoft's official writing guidance. This AI-powered extension analyzes Markdown content and automatically fixes grammatical and voice issues to improve cla
+
+**Details:**
+
+- **Extension ID:** `docsmsft.learn-authoring-assistant`
+- **Version:** 1.1.3
+- **Installs:** 732
+- **Rating:** ⭐ 5/5 (1 ratings)
+- **Published:** 2025-10-17
+- **Last Updated:** 2025-12-11
+- **VS Code Engine:** ^1.98.0
+- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=docsmsft.learn-authoring-assistant
+
+**Resources:**
+
+- 📦 [Repository](https://dev.azure.com/ceapex/Engineering/_git/learn-authoring-ai-assistant)
+
+**Marketplace Categories:**
+
+Education, AI, Chat
+
+**Tags:**
+
+Ask Learn, Authoring, Azure, chat-participant, Developer, Learn, markdown
+
+**Works With:**
+
+All Platforms
+
+---
+
+[⬆ Back to Table of Contents](#-table-of-contents)
+
+---
+
 ## Testing Tools
 
-**Category Stats:** 7 extensions | Total Installs: 48.04M | Avg Rating: 4.6⭐
+**Category Stats:** 7 extensions | Total Installs: 48.28M | Avg Rating: 4.6⭐
 
 [⬆ Back to Table of Contents](#-table-of-contents)
 
 ---
 
 ### 1. [Test Runner for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-test)
-*Extension #290 of 329*
+*Extension #293 of 331*
 
 Run and debug JUnit or TestNG test cases.
 
@@ -10847,7 +10954,7 @@ Run and debug JUnit or TestNG test cases.
 
 - **Extension ID:** `vscjava.vscode-java-test`
 - **Version:** 0.43.2025120408
-- **Installs:** 40.58M
+- **Installs:** 40.75M
 - **Rating:** ⭐ 4.2/5 (21 ratings)
 - **Published:** 2017-12-01
 - **Last Updated:** 2025-12-04
@@ -10875,7 +10982,7 @@ All Platforms
 ---
 
 ### 2. [Test Adapter Converter](https://marketplace.visualstudio.com/items?itemName=ms-vscode.test-adapter-converter)
-*Extension #291 of 329*
+*Extension #294 of 331*
 
 Converter extension from the Test Adapter UI to native VS Code testing
 
@@ -10883,7 +10990,7 @@ Converter extension from the Test Adapter UI to native VS Code testing
 
 - **Extension ID:** `ms-vscode.test-adapter-converter`
 - **Version:** 0.2.1
-- **Installs:** 4.65M
+- **Installs:** 4.67M
 - **Rating:** ⭐ 5/5 (2 ratings)
 - **Published:** 2021-04-21
 - **Last Updated:** 2024-11-04
@@ -10907,7 +11014,7 @@ All Platforms
 ---
 
 ### 3. [Playwright Test for VSCode](https://marketplace.visualstudio.com/items?itemName=ms-playwright.playwright)
-*Extension #292 of 329*
+*Extension #295 of 331*
 
 Run Playwright Test tests in Visual Studio Code.
 
@@ -10915,7 +11022,7 @@ Run Playwright Test tests in Visual Studio Code.
 
 - **Extension ID:** `ms-playwright.playwright`
 - **Version:** 1.1.17
-- **Installs:** 1.98M
+- **Installs:** 2M
 - **Rating:** ⭐ 4/5 (42 ratings)
 - **Published:** 2021-08-17
 - **Last Updated:** 2025-11-19
@@ -10939,7 +11046,7 @@ All Platforms
 ---
 
 ### 4. [Azure Load Testing](https://marketplace.visualstudio.com/items?itemName=ms-azure-load-testing.microsoft-testing)
-*Extension #293 of 329*
+*Extension #296 of 331*
 
 An extension to create and run load tests using Azure Load Testing.
 
@@ -10947,7 +11054,7 @@ An extension to create and run load tests using Azure Load Testing.
 
 - **Extension ID:** `ms-azure-load-testing.microsoft-testing`
 - **Version:** 0.1.17
-- **Installs:** 337K
+- **Installs:** 350K
 - **Rating:** ⭐ 5/5 (3 ratings)
 - **Published:** 2025-03-17
 - **Last Updated:** 2025-07-04
@@ -10975,7 +11082,7 @@ All Platforms
 ---
 
 ### 5. [Extension Test Runner](https://marketplace.visualstudio.com/items?itemName=ms-vscode.extension-test-runner)
-*Extension #294 of 329*
+*Extension #297 of 331*
 
 Runs tests in VS Code extensions
 
@@ -10983,7 +11090,7 @@ Runs tests in VS Code extensions
 
 - **Extension ID:** `ms-vscode.extension-test-runner`
 - **Version:** 0.0.12
-- **Installs:** 198K
+- **Installs:** 201K
 - **Rating:** ⭐ 5/5 (2 ratings)
 - **Published:** 2023-10-12
 - **Last Updated:** 2024-08-24
@@ -11011,7 +11118,7 @@ All Platforms
 ---
 
 ### 6. [vscode-smoketest-check](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-smoketest-check)
-*Extension #295 of 329*
+*Extension #298 of 331*
 
 A test extension used for smoke testing VS Code Extensions UI 
 
@@ -11019,7 +11126,7 @@ A test extension used for smoke testing VS Code Extensions UI
 
 - **Extension ID:** `ms-vscode.vscode-smoketest-check`
 - **Version:** 0.0.1
-- **Installs:** 174K
+- **Installs:** 175K
 - **Published:** 2021-07-02
 - **Last Updated:** 2021-07-02
 - **VS Code Engine:** ^1.57.0
@@ -11045,7 +11152,7 @@ All Platforms
 ---
 
 ### 7. [Web Template Studio (Preview)](https://marketplace.visualstudio.com/items?itemName=WASTeamAccount.WebTemplateStudio-dev-nightly)
-*Extension #296 of 329*
+*Extension #299 of 331*
 
 Web Template Studio enables developers to quickly scaffold full-stack web applications with cloud services.
 
@@ -11086,25 +11193,25 @@ All Platforms
 
 ## Java Development
 
-**Category Stats:** 6 extensions | Total Installs: 154.65M | Avg Rating: 4⭐
+**Category Stats:** 6 extensions | Total Installs: 155.4M | Avg Rating: 4⭐
 
 [⬆ Back to Table of Contents](#-table-of-contents)
 
 ---
 
 ### 1. [Debugger for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-debug)
-*Extension #297 of 329*
+*Extension #300 of 331*
 
 A lightweight Java debugger for Visual Studio Code
 
 **Details:**
 
 - **Extension ID:** `vscjava.vscode-java-debug`
-- **Version:** 0.58.2025111205
-- **Installs:** 45.46M
+- **Version:** 0.58.2025112507
+- **Installs:** 45.65M
 - **Rating:** ⭐ 4/5 (27 ratings)
 - **Published:** 2017-09-27
-- **Last Updated:** 2025-11-25
+- **Last Updated:** 2025-12-09
 - **VS Code Engine:** ^1.75.0
 - **Marketplace:** https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-debug
 
@@ -11129,18 +11236,18 @@ All Platforms
 ---
 
 ### 2. [Maven for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-maven)
-*Extension #298 of 329*
+*Extension #301 of 331*
 
 Manage Maven projects, execute goals, generate project from archetype, improve user experience for Java developers.
 
 **Details:**
 
 - **Extension ID:** `vscjava.vscode-maven`
-- **Version:** 0.45.0
-- **Installs:** 41.9M
+- **Version:** 0.45.2025120808
+- **Installs:** 42.07M
 - **Rating:** ⭐ 4.1/5 (17 ratings)
 - **Published:** 2017-11-13
-- **Last Updated:** 2025-11-24
+- **Last Updated:** 2025-12-08
 - **VS Code Engine:** ^1.75.0
 - **Marketplace:** https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-maven
 
@@ -11165,7 +11272,7 @@ All Platforms
 ---
 
 ### 3. [Project Manager for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-dependency)
-*Extension #299 of 329*
+*Extension #302 of 331*
 
 Manage Java projects in Visual Studio Code
 
@@ -11173,7 +11280,7 @@ Manage Java projects in Visual Studio Code
 
 - **Extension ID:** `vscjava.vscode-java-dependency`
 - **Version:** 0.26.2025102904
-- **Installs:** 40.33M
+- **Installs:** 40.5M
 - **Rating:** ⭐ 4.1/5 (9 ratings)
 - **Published:** 2018-10-19
 - **Last Updated:** 2025-10-29
@@ -11201,7 +11308,7 @@ All Platforms
 ---
 
 ### 4. [Gradle for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-gradle)
-*Extension #300 of 329*
+*Extension #303 of 331*
 
 Manage Gradle Projects, run Gradle tasks and provide better Gradle file authoring experience in VS Code
 
@@ -11209,7 +11316,7 @@ Manage Gradle Projects, run Gradle tasks and provide better Gradle file authorin
 
 - **Extension ID:** `vscjava.vscode-gradle`
 - **Version:** 3.17.2025111402
-- **Installs:** 21.23M
+- **Installs:** 21.41M
 - **Rating:** ⭐ 3.6/5 (14 ratings)
 - **Published:** 2019-10-20
 - **Last Updated:** 2025-11-14
@@ -11237,7 +11344,7 @@ All Platforms
 ---
 
 ### 5. [Spring Initializr Java Support](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-spring-initializr)
-*Extension #301 of 329*
+*Extension #304 of 331*
 
 A lightweight extension based on Spring Initializr to generate quick start Spring Boot Java projects.
 
@@ -11245,7 +11352,7 @@ A lightweight extension based on Spring Initializr to generate quick start Sprin
 
 - **Extension ID:** `vscjava.vscode-spring-initializr`
 - **Version:** 0.12.0
-- **Installs:** 5.68M
+- **Installs:** 5.71M
 - **Rating:** ⭐ 4/5 (8 ratings)
 - **Published:** 2018-01-17
 - **Last Updated:** 2025-11-14
@@ -11273,7 +11380,7 @@ All Platforms
 ---
 
 ### 6. [anycode-java](https://marketplace.visualstudio.com/items?itemName=ms-vscode.anycode-java)
-*Extension #302 of 329*
+*Extension #305 of 331*
 
 Java for Anycode
 
@@ -11313,14 +11420,14 @@ All Platforms
 
 ## Web Development
 
-**Category Stats:** 5 extensions | Total Installs: 5.55M | Avg Rating: 4.5⭐
+**Category Stats:** 5 extensions | Total Installs: 5.58M | Avg Rating: 4.5⭐
 
 [⬆ Back to Table of Contents](#-table-of-contents)
 
 ---
 
 ### 1. [Microsoft Edge Tools for VS Code](https://marketplace.visualstudio.com/items?itemName=ms-edgedevtools.vscode-edge-devtools)
-*Extension #303 of 329*
+*Extension #306 of 331*
 
 Use the Microsoft Edge Tools from within VS Code to see your site's runtime HTML structure, alter its layout, fix styling issues as well as see your site's network requests.
 
@@ -11328,7 +11435,7 @@ Use the Microsoft Edge Tools from within VS Code to see your site's runtime HTML
 
 - **Extension ID:** `ms-edgedevtools.vscode-edge-devtools`
 - **Version:** 2.1.10
-- **Installs:** 5.51M
+- **Installs:** 5.54M
 - **Rating:** ⭐ 4/5 (37 ratings)
 - **Published:** 2019-06-21
 - **Last Updated:** 2025-11-12
@@ -11356,7 +11463,7 @@ All Platforms
 ---
 
 ### 2. [WebAssembly DWARF Debugging](https://marketplace.visualstudio.com/items?itemName=ms-vscode.wasm-dwarf-debugging)
-*Extension #304 of 329*
+*Extension #307 of 331*
 
 Enables enhanced WebAssembly debugging
 
@@ -11392,7 +11499,7 @@ All Platforms
 ---
 
 ### 3. [WASI based WebAssembly Execution Engine](https://marketplace.visualstudio.com/items?itemName=ms-vscode.wasm-wasi-core)
-*Extension #305 of 329*
+*Extension #308 of 331*
 
 Executes WebAssemblies compiled to WASI Preview 1 on top of the VS Code API.
 
@@ -11427,7 +11534,7 @@ All Platforms
 ---
 
 ### 4. [Experimental - A shell for VS Code Web](https://marketplace.visualstudio.com/items?itemName=ms-vscode.webshell)
-*Extension #306 of 329*
+*Extension #309 of 331*
 
 A shell for VS Code for the Web - allows executing commands like ls, cat, ...
 
@@ -11462,7 +11569,7 @@ All Platforms
 ---
 
 ### 5. [Custom Web Editors (Experimental)](https://marketplace.visualstudio.com/items?itemName=ms-vscode.web-editors)
-*Extension #307 of 329*
+*Extension #310 of 331*
 
 This extension allows to use custom web editors.
 
@@ -11505,7 +11612,7 @@ All Platforms
 ---
 
 ### 1. [ROS](https://marketplace.visualstudio.com/items?itemName=ms-iot.vscode-ros)
-*Extension #308 of 329*
+*Extension #311 of 331*
 
 Develop Robot Operating System (ROS) with Visual Studio Code.
 
@@ -11541,7 +11648,7 @@ All Platforms
 ---
 
 ### 2. [IoT Device Cube](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.vscode-iot-device-cube)
-*Extension #309 of 329*
+*Extension #312 of 331*
 
 Utility extension to access to physical devices
 
@@ -11572,7 +11679,7 @@ All Platforms
 ---
 
 ### 3. [Microsoft Kiota](https://marketplace.visualstudio.com/items?itemName=ms-graph.kiota)
-*Extension #310 of 329*
+*Extension #313 of 331*
 
 Client generator for HTTP REST APIs described by OpenAPI which helps eliminate the need to take a dependency on a different API client for every API that you need to call, as well as limiting the generation to the exact API surface area you're interested in, thanks to a filtering capability.
 
@@ -11608,7 +11715,7 @@ All Platforms
 ---
 
 ### 4. [Microsoft Open Enclave](https://marketplace.visualstudio.com/items?itemName=ms-iot.msiot-vscode-openenclave)
-*Extension #311 of 329*
+*Extension #314 of 331*
 
 Develop, deploy, and debug your Microsoft Open Enclave
 
@@ -11649,14 +11756,14 @@ All Platforms
 
 ## Debugging Tools
 
-**Category Stats:** 3 extensions | Total Installs: 771K | Avg Rating: 4.8⭐
+**Category Stats:** 3 extensions | Total Installs: 773K | Avg Rating: 4.8⭐
 
 [⬆ Back to Table of Contents](#-table-of-contents)
 
 ---
 
 ### 1. [[Deprecated] Node Debug](https://marketplace.visualstudio.com/items?itemName=ms-vscode.node-debug2)
-*Extension #312 of 329*
+*Extension #315 of 331*
 
 Node.js debugging support
 
@@ -11664,7 +11771,7 @@ Node.js debugging support
 
 - **Extension ID:** `ms-vscode.node-debug2`
 - **Version:** 1.43.0
-- **Installs:** 374K
+- **Installs:** 375K
 - **Rating:** ⭐ 4.7/5 (3 ratings)
 - **Published:** 2016-09-22
 - **Last Updated:** 2021-08-03
@@ -11691,7 +11798,7 @@ All Platforms
 ---
 
 ### 2. [[Deprecated] Node Debug (legacy)](https://marketplace.visualstudio.com/items?itemName=ms-vscode.node-debug)
-*Extension #313 of 329*
+*Extension #316 of 331*
 
 Node.js debugging support (versions < 8.0)
 
@@ -11725,7 +11832,7 @@ All Platforms
 ---
 
 ### 3. [Microsoft Office Add-ins Development Kit](https://marketplace.visualstudio.com/items?itemName=msoffice.microsoft-office-add-in-debugger)
-*Extension #314 of 329*
+*Extension #317 of 331*
 
 VSCode Extension for super powering WXP XML Add-ins.
 
@@ -11733,7 +11840,7 @@ VSCode Extension for super powering WXP XML Add-ins.
 
 - **Extension ID:** `msoffice.microsoft-office-add-in-debugger`
 - **Version:** 1.0.1
-- **Installs:** 166K
+- **Installs:** 168K
 - **Rating:** ⭐ 5/5 (3 ratings)
 - **Published:** 2020-05-20
 - **Last Updated:** 2024-12-19
@@ -11765,78 +11872,43 @@ All Platforms
 
 ---
 
-## C/C++ Development
+## Business Central (AL)
 
-**Category Stats:** 3 extensions | Total Installs: 91.82M | Avg Rating: 3.4⭐
+**Category Stats:** 2 extensions | Total Installs: 478K | Avg Rating: 4.7⭐
 
 [⬆ Back to Table of Contents](#-table-of-contents)
 
 ---
 
-### 1. [C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools)
-*Extension #315 of 329*
+### 1. [AL Language extension for Microsoft Dynamics 365 Business Central](https://marketplace.visualstudio.com/items?itemName=ms-dynamics-smb.al)
+*Extension #318 of 331*
 
-C/C++ IntelliSense, debugging, and code browsing.
-
-**Details:**
-
-- **Extension ID:** `ms-vscode.cpptools`
-- **Version:** 1.29.2
-- **Installs:** 91.67M
-- **Rating:** ⭐ 3.4/5 (591 ratings)
-- **Published:** 2016-03-29
-- **Last Updated:** 2025-12-03
-- **VS Code Engine:** ^1.67.0
-- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools
-
-**Resources:**
-
-- 📦 [Repository](https://github.com/Microsoft/vscode-cpptools.git)
-- 🐛 [Issues](https://github.com/Microsoft/vscode-cpptools/issues)
-- 🏠 [Homepage](https://github.com/Microsoft/vscode-cpptools)
-
-**Marketplace Categories:**
-
-Programming Languages, Snippets, Linters, Debuggers, Formatters
-
-**Tags:**
-
-C, C++, cpp, cuda-cpp, debuggers, IntelliSense, json, keybindings, Microsoft, multi-root ready
-
-**Works With:**
-
-Alpine Linux x64, Windows x64, macOS Intel, Alpine Linux ARM64, Linux x64, Linux ARM, Windows ARM64, Linux ARM64, macOS Apple Silicon, Windows x86
-
----
-
-### 2. [anycode-cpp](https://marketplace.visualstudio.com/items?itemName=ms-vscode.anycode-cpp)
-*Extension #316 of 329*
-
-C/C++ for Anycode
+Development tools for Dynamics 365 Business Central
 
 **Details:**
 
-- **Extension ID:** `ms-vscode.anycode-cpp`
-- **Version:** 0.0.7
-- **Installs:** 71K
-- **Published:** 2022-03-15
-- **Last Updated:** 2025-03-28
-- **VS Code Engine:** ^1.67.0
-- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=ms-vscode.anycode-cpp
+- **Extension ID:** `ms-dynamics-smb.al`
+- **Version:** 17.0.1869541
+- **Installs:** 471K
+- **Rating:** ⭐ 4.4/5 (27 ratings)
+- **Published:** 2017-08-10
+- **Last Updated:** 2025-10-23
+- **VS Code Engine:** ^1.100.0
+- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=ms-dynamics-smb.al
 
 **Resources:**
 
-- 📦 [Repository](https://github.com/microsoft/vscode-anycode.git)
-- 🐛 [Issues](https://github.com/microsoft/vscode-anycode/issues)
-- 🏠 [Homepage](https://github.com/microsoft/vscode-anycode#readme)
+- 📦 [Repository](https://github.com/Microsoft/AL.git)
+- 🐛 [Issues](https://github.com/microsoft/al/issues)
+- 🏠 [Homepage](https://github.com/Microsoft/AL#readme)
 
 **Marketplace Categories:**
 
-Programming Languages
+Programming Languages, Snippets, Debuggers, Formatters
 
 **Tags:**
 
-__web_extension, c++
+__ext_al, __ext_dal, AL, color-theme, debuggers, Dynamics 365 Business Central, ERP, icon-theme, json, keybindings, SMB, snippet, theme
 
 **Works With:**
 
@@ -11844,34 +11916,35 @@ All Platforms
 
 ---
 
-### 3. [anycode-cpp](https://marketplace.visualstudio.com/items?itemName=ms-vscode.anycode-cpp)
-*Extension #317 of 329*
+### 2. [Performance Toolkit](https://marketplace.visualstudio.com/items?itemName=ms-dynamics-smb.bcpt)
+*Extension #319 of 331*
 
-C/C++ for Anycode
+Performance development tools for Dynamics 365 Business Central
 
 **Details:**
 
-- **Extension ID:** `ms-vscode.anycode-cpp`
-- **Version:** 0.0.7
-- **Installs:** 71K
-- **Published:** 2022-03-15
-- **Last Updated:** 2025-03-28
-- **VS Code Engine:** ^1.67.0
-- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=ms-vscode.anycode-cpp
+- **Extension ID:** `ms-dynamics-smb.bcpt`
+- **Version:** 1.0.1857523
+- **Installs:** 7K
+- **Rating:** ⭐ 5/5 (1 ratings)
+- **Published:** 2022-11-30
+- **Last Updated:** 2025-10-15
+- **VS Code Engine:** ^1.68.0
+- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=ms-dynamics-smb.bcpt
 
 **Resources:**
 
-- 📦 [Repository](https://github.com/microsoft/vscode-anycode.git)
-- 🐛 [Issues](https://github.com/microsoft/vscode-anycode/issues)
-- 🏠 [Homepage](https://github.com/microsoft/vscode-anycode#readme)
+- 📦 [Repository](https://github.com/microsoft/ALAppExtensions.git)
+- 🐛 [Issues](https://github.com/microsoft/ALAppExtensions/issues)
+- 🏠 [Homepage](https://github.com/microsoft/ALAppExtensions#readme)
 
 **Marketplace Categories:**
 
-Programming Languages
+Other
 
 **Tags:**
 
-__web_extension, c++
+AL, BCPT, Dynamics 365 Business Central, ERP, Performance Toolkit, SMB
 
 **Works With:**
 
@@ -11885,14 +11958,14 @@ All Platforms
 
 ## Collaboration Tools
 
-**Category Stats:** 2 extensions | Total Installs: 27.67M | Avg Rating: 4.4⭐
+**Category Stats:** 2 extensions | Total Installs: 27.74M | Avg Rating: 4.4⭐
 
 [⬆ Back to Table of Contents](#-table-of-contents)
 
 ---
 
 ### 1. [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
-*Extension #318 of 329*
+*Extension #320 of 331*
 
 Real-time collaborative development from the comfort of your favorite tools.
 
@@ -11900,7 +11973,7 @@ Real-time collaborative development from the comfort of your favorite tools.
 
 - **Extension ID:** `MS-vsliveshare.vsliveshare`
 - **Version:** 1.0.5959
-- **Installs:** 22.23M
+- **Installs:** 22.29M
 - **Rating:** ⭐ 4.2/5 (158 ratings)
 - **Published:** 2018-01-29
 - **Last Updated:** 2025-08-13
@@ -11929,7 +12002,7 @@ All Platforms
 ---
 
 ### 2. [[Deprecated] Live Share Audio](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-audio)
-*Extension #319 of 329*
+*Extension #321 of 331*
 
 Adds audio calling capabilities to Visual Studio Live Share
 
@@ -11969,100 +12042,16 @@ All Platforms
 
 ---
 
-## Business Central (AL)
-
-**Category Stats:** 2 extensions | Total Installs: 477K | Avg Rating: 4.8⭐
-
-[⬆ Back to Table of Contents](#-table-of-contents)
-
----
-
-### 1. [AL Language extension for Microsoft Dynamics 365 Business Central](https://marketplace.visualstudio.com/items?itemName=ms-dynamics-smb.al)
-*Extension #320 of 329*
-
-Development tools for Dynamics 365 Business Central
-
-**Details:**
-
-- **Extension ID:** `ms-dynamics-smb.al`
-- **Version:** 17.0.1869541
-- **Installs:** 470K
-- **Rating:** ⭐ 4.5/5 (26 ratings)
-- **Published:** 2017-08-10
-- **Last Updated:** 2025-10-23
-- **VS Code Engine:** ^1.100.0
-- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=ms-dynamics-smb.al
-
-**Resources:**
-
-- 📦 [Repository](https://github.com/Microsoft/AL.git)
-- 🐛 [Issues](https://github.com/microsoft/al/issues)
-- 🏠 [Homepage](https://github.com/Microsoft/AL#readme)
-
-**Marketplace Categories:**
-
-Programming Languages, Snippets, Debuggers, Formatters
-
-**Tags:**
-
-__ext_al, __ext_dal, AL, color-theme, debuggers, Dynamics 365 Business Central, ERP, icon-theme, json, keybindings, SMB, snippet, theme
-
-**Works With:**
-
-All Platforms
-
----
-
-### 2. [Performance Toolkit](https://marketplace.visualstudio.com/items?itemName=ms-dynamics-smb.bcpt)
-*Extension #321 of 329*
-
-Performance development tools for Dynamics 365 Business Central
-
-**Details:**
-
-- **Extension ID:** `ms-dynamics-smb.bcpt`
-- **Version:** 1.0.1857523
-- **Installs:** 7K
-- **Rating:** ⭐ 5/5 (1 ratings)
-- **Published:** 2022-11-30
-- **Last Updated:** 2025-10-15
-- **VS Code Engine:** ^1.68.0
-- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=ms-dynamics-smb.bcpt
-
-**Resources:**
-
-- 📦 [Repository](https://github.com/microsoft/ALAppExtensions.git)
-- 🐛 [Issues](https://github.com/microsoft/ALAppExtensions/issues)
-- 🏠 [Homepage](https://github.com/microsoft/ALAppExtensions#readme)
-
-**Marketplace Categories:**
-
-Other
-
-**Tags:**
-
-AL, BCPT, Dynamics 365 Business Central, ERP, Performance Toolkit, SMB
-
-**Works With:**
-
-All Platforms
-
----
-
-[⬆ Back to Table of Contents](#-table-of-contents)
-
----
-
 ## Linters & Formatters
 
-**Category Stats:** 2 extensions | Total Installs: 51.32M | Avg Rating: 3.6⭐
+**Category Stats:** 2 extensions | Total Installs: 51.49M | Avg Rating: 3.6⭐
 
 [⬆ Back to Table of Contents](#-table-of-contents)
 
 ---
 
 ### 1. [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
-*Extension #322 of 329*
+*Extension #322 of 331*
 
 Integrates ESLint JavaScript into VS Code.
 
@@ -12070,7 +12059,7 @@ Integrates ESLint JavaScript into VS Code.
 
 - **Extension ID:** `dbaeumer.vscode-eslint`
 - **Version:** 3.0.21
-- **Installs:** 46.85M
+- **Installs:** 47.02M
 - **Rating:** ⭐ 4.3/5 (245 ratings)
 - **Published:** 2015-11-16
 - **Last Updated:** 2025-11-13
@@ -12098,7 +12087,7 @@ All Platforms
 ---
 
 ### 2. [TSLint](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin)
-*Extension #323 of 329*
+*Extension #323 of 331*
 
 TSLint support for Visual Studio Code
 
@@ -12146,18 +12135,18 @@ All Platforms
 ---
 
 ### 1. [Azure Quantum Development Kit (QDK)](https://marketplace.visualstudio.com/items?itemName=quantum.qsharp-lang-vscode)
-*Extension #324 of 329*
+*Extension #324 of 331*
 
 Q# and OpenQASM Language Support
 
 **Details:**
 
 - **Extension ID:** `quantum.qsharp-lang-vscode`
-- **Version:** 1.22.0
+- **Version:** 1.23.0
 - **Installs:** 25K
 - **Rating:** ⭐ 5/5 (3 ratings)
 - **Published:** 2023-09-18
-- **Last Updated:** 2025-10-31
+- **Last Updated:** 2025-12-09
 - **VS Code Engine:** ^1.77.0
 - **Marketplace:** https://marketplace.visualstudio.com/items?itemName=quantum.qsharp-lang-vscode
 
@@ -12182,18 +12171,18 @@ All Platforms
 ---
 
 ### 2. [[DEV BUILD] Azure Quantum Development Kit (QDK)](https://marketplace.visualstudio.com/items?itemName=quantum.qsharp-lang-vscode-dev)
-*Extension #325 of 329*
+*Extension #325 of 331*
 
 Q# and OpenQASM Language Support
 
 **Details:**
 
 - **Extension ID:** `quantum.qsharp-lang-vscode-dev`
-- **Version:** 1.22.4
+- **Version:** 1.23.1
 - **Installs:** 4K
 - **Rating:** ⭐ 5/5 (1 ratings)
 - **Published:** 2023-09-07
-- **Last Updated:** 2025-11-25
+- **Last Updated:** 2025-12-09
 - **VS Code Engine:** ^1.77.0
 - **Marketplace:** https://marketplace.visualstudio.com/items?itemName=quantum.qsharp-lang-vscode-dev
 
@@ -12221,35 +12210,118 @@ All Platforms
 
 ---
 
-## Version Control
+## C/C++ Development
 
-**Category Stats:** 1 extensions | Total Installs: 255K | Avg Rating: 5⭐
+**Category Stats:** 2 extensions | Total Installs: 92.11M | Avg Rating: 3.4⭐
 
 [⬆ Back to Table of Contents](#-table-of-contents)
 
 ---
 
-### 1. [GitHub Issue Notebooks](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-github-issue-notebooks)
-*Extension #326 of 329*
+### 1. [C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools)
+*Extension #326 of 331*
 
-GitHub Issue Notebooks for VS Code
+C/C++ IntelliSense, debugging, and code browsing.
 
 **Details:**
 
-- **Extension ID:** `ms-vscode.vscode-github-issue-notebooks`
-- **Version:** 0.0.134
-- **Installs:** 255K
-- **Rating:** ⭐ 5/5 (3 ratings)
-- **Published:** 2020-04-08
-- **Last Updated:** 2025-11-07
-- **VS Code Engine:** ^1.101.0-insider
-- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-github-issue-notebooks
+- **Extension ID:** `ms-vscode.cpptools`
+- **Version:** 1.29.3
+- **Installs:** 92.03M
+- **Rating:** ⭐ 3.4/5 (591 ratings)
+- **Published:** 2016-03-29
+- **Last Updated:** 2025-12-09
+- **VS Code Engine:** ^1.67.0
+- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools
 
 **Resources:**
 
-- 📦 [Repository](https://github.com/microsoft/vscode-github-issue-notebooks.git)
-- 🐛 [Issues](https://github.com/microsoft/vscode-github-issue-notebooks/issues)
-- 🏠 [Homepage](https://github.com/microsoft/vscode-github-issue-notebooks#readme)
+- 📦 [Repository](https://github.com/Microsoft/vscode-cpptools.git)
+- 🐛 [Issues](https://github.com/Microsoft/vscode-cpptools/issues)
+- 🏠 [Homepage](https://github.com/Microsoft/vscode-cpptools)
+
+**Marketplace Categories:**
+
+Programming Languages, Snippets, Linters, Debuggers, Formatters
+
+**Tags:**
+
+C, C++, cpp, cuda-cpp, debuggers, IntelliSense, json, keybindings, Microsoft, multi-root ready
+
+**Works With:**
+
+Alpine Linux ARM64, macOS Intel, Linux ARM64, Linux ARM, Alpine Linux x64, Linux x64, macOS Apple Silicon, Windows x64, Windows ARM64, Windows x86
+
+---
+
+### 2. [anycode-cpp](https://marketplace.visualstudio.com/items?itemName=ms-vscode.anycode-cpp)
+*Extension #327 of 331*
+
+C/C++ for Anycode
+
+**Details:**
+
+- **Extension ID:** `ms-vscode.anycode-cpp`
+- **Version:** 0.0.7
+- **Installs:** 72K
+- **Published:** 2022-03-15
+- **Last Updated:** 2025-03-28
+- **VS Code Engine:** ^1.67.0
+- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=ms-vscode.anycode-cpp
+
+**Resources:**
+
+- 📦 [Repository](https://github.com/microsoft/vscode-anycode.git)
+- 🐛 [Issues](https://github.com/microsoft/vscode-anycode/issues)
+- 🏠 [Homepage](https://github.com/microsoft/vscode-anycode#readme)
+
+**Marketplace Categories:**
+
+Programming Languages
+
+**Tags:**
+
+__web_extension, c++
+
+**Works With:**
+
+All Platforms
+
+---
+
+[⬆ Back to Table of Contents](#-table-of-contents)
+
+---
+
+## Data Science & Notebooks
+
+**Category Stats:** 1 extensions | Total Installs: 47K | Avg Rating: 3⭐
+
+[⬆ Back to Table of Contents](#-table-of-contents)
+
+---
+
+### 1. [Markdown Notebook](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-markdown-notebook)
+*Extension #328 of 331*
+
+An extension for editing markdown files in VS Code notebooks
+
+**Details:**
+
+- **Extension ID:** `ms-vscode.vscode-markdown-notebook`
+- **Version:** 0.0.26
+- **Installs:** 47K
+- **Rating:** ⭐ 3/5 (2 ratings)
+- **Published:** 2020-06-16
+- **Last Updated:** 2021-11-03
+- **VS Code Engine:** ^1.57.0
+- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-markdown-notebook
+
+**Resources:**
+
+- 📦 [Repository](https://github.com/microsoft/vscode-markdown-notebook.git)
+- 🐛 [Issues](https://github.com/microsoft/vscode-markdown-notebook/issues)
+- 🏠 [Homepage](https://github.com/microsoft/vscode-markdown-notebook#readme)
 
 **Marketplace Categories:**
 
@@ -12257,7 +12329,7 @@ Other
 
 **Tags:**
 
-__web_extension, GitHubIssues, github-issues
+__web_extension
 
 **Works With:**
 
@@ -12278,7 +12350,7 @@ All Platforms
 ---
 
 ### 1. [[DEPRECATED] LaTeX Language Support](https://marketplace.visualstudio.com/items?itemName=ms-vscode.latex)
-*Extension #327 of 329*
+*Extension #329 of 331*
 
 [DEPRECATED] LaTeX - colorizer, grammar and snippets.
 
@@ -12316,35 +12388,35 @@ All Platforms
 
 ---
 
-## Data Science & Notebooks
+## Version Control
 
-**Category Stats:** 1 extensions | Total Installs: 46K | Avg Rating: 3⭐
+**Category Stats:** 1 extensions | Total Installs: 258K | Avg Rating: 5⭐
 
 [⬆ Back to Table of Contents](#-table-of-contents)
 
 ---
 
-### 1. [Markdown Notebook](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-markdown-notebook)
-*Extension #328 of 329*
+### 1. [GitHub Issue Notebooks](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-github-issue-notebooks)
+*Extension #330 of 331*
 
-An extension for editing markdown files in VS Code notebooks
+GitHub Issue Notebooks for VS Code
 
 **Details:**
 
-- **Extension ID:** `ms-vscode.vscode-markdown-notebook`
-- **Version:** 0.0.26
-- **Installs:** 46K
-- **Rating:** ⭐ 3/5 (2 ratings)
-- **Published:** 2020-06-16
-- **Last Updated:** 2021-11-03
-- **VS Code Engine:** ^1.57.0
-- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-markdown-notebook
+- **Extension ID:** `ms-vscode.vscode-github-issue-notebooks`
+- **Version:** 0.0.134
+- **Installs:** 258K
+- **Rating:** ⭐ 5/5 (3 ratings)
+- **Published:** 2020-04-08
+- **Last Updated:** 2025-11-07
+- **VS Code Engine:** ^1.101.0-insider
+- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-github-issue-notebooks
 
 **Resources:**
 
-- 📦 [Repository](https://github.com/microsoft/vscode-markdown-notebook.git)
-- 🐛 [Issues](https://github.com/microsoft/vscode-markdown-notebook/issues)
-- 🏠 [Homepage](https://github.com/microsoft/vscode-markdown-notebook#readme)
+- 📦 [Repository](https://github.com/microsoft/vscode-github-issue-notebooks.git)
+- 🐛 [Issues](https://github.com/microsoft/vscode-github-issue-notebooks/issues)
+- 🏠 [Homepage](https://github.com/microsoft/vscode-github-issue-notebooks#readme)
 
 **Marketplace Categories:**
 
@@ -12352,7 +12424,7 @@ Other
 
 **Tags:**
 
-__web_extension
+__web_extension, GitHubIssues, github-issues
 
 **Works With:**
 
@@ -12366,14 +12438,14 @@ All Platforms
 
 ## PowerShell Development
 
-**Category Stats:** 1 extensions | Total Installs: 17.05M | Avg Rating: 3.6⭐
+**Category Stats:** 1 extensions | Total Installs: 17.15M | Avg Rating: 3.6⭐
 
 [⬆ Back to Table of Contents](#-table-of-contents)
 
 ---
 
 ### 1. [PowerShell](https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell)
-*Extension #329 of 329*
+*Extension #331 of 331*
 
 Develop PowerShell modules, commands and scripts in Visual Studio Code!
 
@@ -12381,7 +12453,7 @@ Develop PowerShell modules, commands and scripts in Visual Studio Code!
 
 - **Extension ID:** `ms-vscode.PowerShell`
 - **Version:** 2025.5.0
-- **Installs:** 17.05M
+- **Installs:** 17.15M
 - **Rating:** ⭐ 3.6/5 (171 ratings)
 - **Published:** 2015-11-17
 - **Last Updated:** 2025-09-24
@@ -12416,10 +12488,10 @@ All Platforms
 ## 📄 Document Information
 
 - **Version:** 2.0
-- **Total Extensions:** 329
+- **Total Extensions:** 331
 - **Categories:** 25
-- **Generated:** 2025-12-13 12:45:21
-- **Build:** `29db169` / Run ``
+- **Generated:** 2025-12-13 13:14:55
+- **Build:** `36b6b67` / Run ``
 - **Script:** generate_markdown.ps1
 
 ---

@@ -28,7 +28,9 @@ $outputDir = Split-Path $outputFile -Parent
 if (-not (Test-Path $outputDir)) { New-Item -ItemType Directory -Path $outputDir -Force | Out-Null }
 
 Write-Host "Loading extension data from: $dataFile" -ForegroundColor Cyan
-$data = Get-Content $dataFile -Raw | ConvertFrom-Json
+$rawData = Get-Content $dataFile -Raw | ConvertFrom-Json
+# Handle both formats: raw array or wrapped in metadata object
+$data = if ($rawData.extensions) { $rawData.extensions } else { $rawData }
 Write-Host "Loaded $($data.Count) extensions" -ForegroundColor Green
 
 # Load diff report for NEW badges
