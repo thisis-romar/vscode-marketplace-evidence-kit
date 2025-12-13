@@ -147,7 +147,7 @@ function Get-UniqueCategories {
 function Format-ExtensionTableRow {
     param($ext, [switch]$IncludeRank, [int]$rank = 0)
     $anchor = ConvertTo-Anchor -text $ext.publisher
-    $extUrl = "https://marketplace.visualstudio.com/items?itemName=$($ext.id)"
+    $vscUrl = "vscode:extension/$($ext.id)"
     $pubLink = "[$($ext.publisher)](#$anchor)"
     $domain = Get-DomainDisplay -domain $ext.domain
     $installs = Format-InstallCount -value $ext.installs
@@ -155,9 +155,9 @@ function Format-ExtensionTableRow {
     $updated = if ($ext.lastUpdated) { ([DateTime]$ext.lastUpdated).ToString("yyyy-MM-dd") } else { "—" }
     if ($IncludeRank) {
         $badge = Get-RankBadge -rank $rank
-        return "| $badge | [**$($ext.name)**]($extUrl) | $pubLink | ``$domain`` | **$installs** | $rating | $updated |"
+        return "| $badge | [**$($ext.name)**]($vscUrl) | $pubLink | ``$domain`` | **$installs** | $rating | $updated |"
     }
-    return "| [**$($ext.name)**]($extUrl) | $pubLink | ``$domain`` | **$installs** | $rating | $updated |"
+    return "| [**$($ext.name)**]($vscUrl) | $pubLink | ``$domain`` | **$installs** | $rating | $updated |"
 }
 
 #endregion
@@ -400,14 +400,14 @@ $topRatedExts | Select-Object -First 50 | ForEach-Object {
     $rank++
     $badge = Get-RankBadge -rank $rank
     $anchor = ConvertTo-Anchor -text $_.publisher
-    $extUrl = "https://marketplace.visualstudio.com/items?itemName=$($_.id)"
+    $vscUrl = "vscode:extension/$($_.id)"
     $pubLink = "[$($_.publisher)](#$anchor)"
     $domain = Get-DomainDisplay -domain $_.domain
     $rating = "⭐ " + [math]::Round($_.rating, 1)
     $installs = Format-InstallCount -value $_.installs
     $reviews = if ($_.reviews) { Format-InstallCount -value $_.reviews } else { "—" }
     $escapedName = $_.name
-    $markdown += "| $badge | [**$escapedName**]($extUrl) | $pubLink | ``$domain`` | **$rating** | $installs | $reviews |`n"
+    $markdown += "| $badge | [**$escapedName**]($vscUrl) | $pubLink | ``$domain`` | **$rating** | $installs | $reviews |`n"
 }
 
 $markdown += @"
@@ -433,13 +433,13 @@ $thirtyDaysAgo = (Get-Date).AddDays(-30).ToString("yyyy-MM-dd")
 $recentExts = $globalExts | Where-Object { $_.lastUpdated -and $_.lastUpdated -ge $thirtyDaysAgo } | Sort-Object -Property lastUpdated -Descending
 $recentExts | Select-Object -First 100 | ForEach-Object {
     $anchor = ConvertTo-Anchor -text $_.publisher
-    $extUrl = "https://marketplace.visualstudio.com/items?itemName=$($_.id)"
+    $vscUrl = "vscode:extension/$($_.id)"
     $pubLink = "[$($_.publisher)](#$anchor)"
     $domain = Get-DomainDisplay -domain $_.domain
     $updated = if ($_.lastUpdated) { ([DateTime]$_.lastUpdated).ToString("yyyy-MM-dd") } else { "—" }
     $version = if ($_.version) { "``$($_.version)``" } else { "—" }
     $installs = Format-InstallCount -value $_.installs
-    $markdown += "| [**$($_.name)**]($extUrl) | $pubLink | ``$domain`` | $updated | $version | $installs |`n"
+    $markdown += "| [**$($_.name)**]($vscUrl) | $pubLink | ``$domain`` | $updated | $version | $installs |`n"
 }
 
 if ($recentExts.Count -gt 100) {
@@ -454,14 +454,14 @@ if ($recentExts.Count -gt 100) {
     $markdown += "`n"
     $recentExts | ForEach-Object {
         $anchor = ConvertTo-Anchor -text $_.publisher
-        $extUrl = "https://marketplace.visualstudio.com/items?itemName=$($_.id)"
+        $vscUrl = "vscode:extension/$($_.id)"
         $pubLink = "[$($_.publisher)](#$anchor)"
         $domain = Get-DomainDisplay -domain $_.domain
         $updated = if ($_.lastUpdated) { ([DateTime]$_.lastUpdated).ToString("yyyy-MM-dd") } else { "—" }
         $version = if ($_.version) { "``$($_.version)``" } else { "—" }
         $installs = Format-InstallCount -value $_.installs
         $escapedName = $_.name
-        $markdown += "| [**$escapedName**]($extUrl) | $pubLink | ``$domain`` | $updated | $version | $installs |`n"
+        $markdown += "| [**$escapedName**]($vscUrl) | $pubLink | ``$domain`` | $updated | $version | $installs |`n"
     }
     $markdown += "`n</details>`n"
 }
@@ -522,18 +522,19 @@ foreach ($cat in $categories) {
 <details>
 <summary><strong>$($catExts.Count) extensions in this category</strong></summary>
 
-| Extension | Publisher | Installs | Rating |
-|-----------|-----------|:--------:|:------:|
+| Extension | Publisher | Installs | Rating | Links |
+|-----------|-----------|:--------:|:------:|:-----:|
 "@
     $markdown += "`n"
     
     foreach ($ext in $catExts) {
         $pubAnchor = ConvertTo-Anchor -text $ext.publisher
-        $extUrl = "https://marketplace.visualstudio.com/items?itemName=$($ext.id)"
+        $vscUrl = "vscode:extension/$($ext.id)"
+        $webUrl = "https://marketplace.visualstudio.com/items?itemName=$($ext.id)"
         $pubLink = "[$($ext.publisher)](#$pubAnchor)"
         $installs = Format-InstallCount -value $ext.installs
         $rating = if ($ext.rating) { "⭐ " + [math]::Round($ext.rating, 1) } else { "—" }
-        $markdown += "| [**$($ext.name)**]($extUrl) | $pubLink | $installs | $rating |`n"
+        $markdown += "| [**$($ext.name)**]($vscUrl) | $pubLink | $installs | $rating | [🌐]($webUrl `"View on Marketplace`") |`n"
     }
     
     $markdown += "`n</details>`n"
@@ -563,9 +564,10 @@ $idx = 0
 foreach ($ext in $sortedById) {
     $idx++
     $pubAnchor = ConvertTo-Anchor -text $ext.publisher
-    $extUrl = "https://marketplace.visualstudio.com/items?itemName=$($ext.id)"
+    $vscUrl = "vscode:extension/$($ext.id)"
+    $webUrl = "https://marketplace.visualstudio.com/items?itemName=$($ext.id)"
     $pubLink = "[$($ext.publisher)](#$pubAnchor)"
-    $markdown += "| $idx | ``$($ext.id)`` | $($ext.name) | $pubLink | [🏪]($extUrl) |`n"
+    $markdown += "| $idx | ``$($ext.id)`` | [$($ext.name)]($vscUrl) | $pubLink | [🌐]($webUrl `"View on Marketplace`") |`n"
 }
 
 $markdown += @"
@@ -790,18 +792,20 @@ foreach ($domainStat in $domainStats) {
         foreach ($ext in $sortedExts) {
             $extInstalls = Format-InstallCount -value $ext.installCount
             $desc = Format-Description -desc $ext.shortDescription
-            $extUrl = "https://marketplace.visualstudio.com/items?itemName=$($pub.publisherName).$($ext.extensionName)"
+            $vscUrl = "vscode:extension/$($pub.publisherName).$($ext.extensionName)"
+            $webUrl = "https://marketplace.visualstudio.com/items?itemName=$($pub.publisherName).$($ext.extensionName)"
             $escapedDisplayName = Escape-TableCell -text $ext.displayName
-            $extLink = "[**$escapedDisplayName**]($extUrl)"
+            $extLink = "[**$escapedDisplayName**]($vscUrl)"
             
             # Build extension links
             $extLinksArray = @()
+            $extLinksArray += "[🌐]($webUrl `"View on Marketplace`")"
             if ($ext.links) {
                 if ($ext.links.github) { $extLinksArray += "[📂]($($ext.links.github) `"GitHub`")" }
                 elseif ($ext.links.source) { $extLinksArray += "[📂]($($ext.links.source) `"Source`")" }
                 if ($ext.links.support) { $extLinksArray += "[🐛]($($ext.links.support) `"Issues`")" }
             }
-            $extLinksCell = if ($extLinksArray.Count -gt 0) { $extLinksArray -join " " } else { "—" }
+            $extLinksCell = $extLinksArray -join " "
             
             $markdown += "| $extLink | $extInstalls | ``$($ext.version)`` | $extLinksCell | $desc |`n"
         }
