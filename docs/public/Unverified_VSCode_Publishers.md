@@ -9,15 +9,15 @@
 ![Domains](https://img.shields.io/badge/Domains-282-red?style=for-the-badge)
 ![Installs](https://img.shields.io/badge/Installs-1856.1M-lightgrey?style=for-the-badge)
 
-*Last Updated: December 13, 2025 at 12:44:08 UTC*
+*Last Updated: December 13, 2025 at 13:19:58 UTC*
 
-[`29db169`](https://github.com/thisis-romar/vscode-marketplace-evidence-kit/commit/29db169718733fe5f4ab30ebc4c29521134bab38)
+[`1310972`](https://github.com/thisis-romar/vscode-marketplace-evidence-kit/commit/1310972d271fa04b11effd6ffa530a0c98e4c50f)
 
 </div>
 
 <!-- BUILD_METADATA
-timestamp: 2025-12-13T12:44:08Z
-commit: 29db169
+timestamp: 2025-12-13T13:19:58Z
+commit: 1310972
 run_id: 
 data_source: 2025-12-06 03:24:53
 publishers: 3391
@@ -1486,7 +1486,7 @@ verification_status: unverified
 | 1328. | [**C/C++ Compiler explorer**](https://marketplace.visualstudio.com/items?itemName=harikrishnan94.cxx-compiler-explorer) | [harikrishnan94](#harikrishnan94) | `(no domain)` | **141K** | ⭐ 3.3 | 2023-11-01 |
 | 1329. | [**Rainbow Brackets 2**](https://marketplace.visualstudio.com/items?itemName=tejasvi.rainbow-brackets-2) | [tejasvi](#tejasvi) | `(no domain)` | **140K** | ⭐ 3.1 | 2021-05-16 |
 | 1330. | [**ESLint Chinese Rules**](https://marketplace.visualstudio.com/items?itemName=maggie.eslint-rules-zh-plugin) | [maggie](#maggie) | `(no domain)` | **140K** | ⭐ 5 | 2023-09-04 |
-| 1331. | [**WAVE Analysis | Security & Code Review**](https://marketplace.visualstudio.com/items?itemName=devprod.vulnerability-extension) | [devprod](#devprod) | `(no domain)` | **140K** | ⭐ 4 | 2025-12-06 |
+| 1331. | [**WAVE Analysis ∣ Security & Code Review**](https://marketplace.visualstudio.com/items?itemName=devprod.vulnerability-extension) | [devprod](#devprod) | `(no domain)` | **140K** | ⭐ 4 | 2025-12-06 |
 | 1332. | [**Bongo Cat**](https://marketplace.visualstudio.com/items?itemName=pixl-garden.BongoCat) | [pixl-garden](#pixl-garden) | `pixl.garden` | **140K** | ⭐ 5 | 2023-07-26 |
 | 1333. | [**cpplint**](https://marketplace.visualstudio.com/items?itemName=mine.cpplint) | [mine](#mine) | `(no domain)` | **140K** | ⭐ 4.3 | 2018-09-15 |
 | 1334. | [**snippets**](https://marketplace.visualstudio.com/items?itemName=GoBystrokReactJS.gobystrok) | [GoBystrokReactJS](#gobystrokreactjs) | `(no domain)` | **140K** | ⭐ 5 | 2018-08-16 |
@@ -2415,7 +2415,7 @@ verification_status: unverified
 | 2257. | [**pgsql**](https://marketplace.visualstudio.com/items?itemName=doublefint.pgsql) | [doublefint](#doublefint) | `(no domain)` | **67K** | ⭐ 3.7 | 2018-06-28 |
 | 2258. | [**Uncrustify**](https://marketplace.visualstudio.com/items?itemName=zachflower.uncrustify) | [zachflower](#zachflower) | `(no domain)` | **67K** | ⭐ 5 | 2021-02-26 |
 | 2259. | [**Golang postfix code completion**](https://marketplace.visualstudio.com/items?itemName=yokoe.vscode-postfix-go) | [yokoe](#yokoe) | `(no domain)` | **67K** | ⭐ 5 | 2018-11-03 |
-| 2260. | [**Platzi Theme | Tema de Platzi**](https://marketplace.visualstudio.com/items?itemName=codevars.platzi-theme-for-vs-code) | [codevars](#codevars) | `(no domain)` | **67K** | ⭐ 4.8 | 2021-10-01 |
+| 2260. | [**Platzi Theme ∣ Tema de Platzi**](https://marketplace.visualstudio.com/items?itemName=codevars.platzi-theme-for-vs-code) | [codevars](#codevars) | `(no domain)` | **67K** | ⭐ 4.8 | 2021-10-01 |
 | 2261. | [**highlight-icemode**](https://marketplace.visualstudio.com/items?itemName=iceliu.highlight-icemode) | [iceliu](#iceliu) | `(no domain)` | **67K** | ⭐ 5 | 2017-09-14 |
 | 2262. | [**Hacker Theme**](https://marketplace.visualstudio.com/items?itemName=brenix.hacker-theme) | [brenix](#brenix) | `(no domain)` | **67K** | ⭐ 5 | 2019-05-30 |
 | 2263. | [**catkin-tools**](https://marketplace.visualstudio.com/items?itemName=betwo.b2-catkin-tools) | [betwo](#betwo) | `(no domain)` | **67K** | ⭐ 5 | 2023-07-17 |
@@ -4344,7 +4344,7 @@ verification_status: unverified
 |-----------|-----------|--------|:------------:|:-------:|:--------:|
 | [**SQLite Viewer**](https://marketplace.visualstudio.com/items?itemName=qwtel.sqlite-viewer) | [qwtel](#qwtel) | `(no domain)` | 2025-12-06 | `25.12.0` | 2.6M |
 | [**Workspaces**](https://marketplace.visualstudio.com/items?itemName=anyscalecompute.anyscale-workspaces) | [anyscalecompute](#anyscalecompute) | `anyscale.com` | 2025-12-06 | `0.2.38` | 110K |
-| [**WAVE Analysis | Security & Code Review**](https://marketplace.visualstudio.com/items?itemName=devprod.vulnerability-extension) | [devprod](#devprod) | `(no domain)` | 2025-12-06 | `1.2025.1205003` | 140K |
+| [**WAVE Analysis ∣ Security & Code Review**](https://marketplace.visualstudio.com/items?itemName=devprod.vulnerability-extension) | [devprod](#devprod) | `(no domain)` | 2025-12-06 | `1.2025.1205003` | 140K |
 | [**Builder**](https://marketplace.visualstudio.com/items?itemName=Builder.Builder) | [Builder](#builder) | `builder.io` | 2025-12-05 | `0.2.27` | 65K |
 | [**tldraw**](https://marketplace.visualstudio.com/items?itemName=tldraw-org.tldraw-vscode) | [tldraw-org](#tldraw-org) | `tldraw.com` | 2025-12-05 | `2.187.4` | 94K |
 | [**Azad Coder (GPT 5 & Claude)**](https://marketplace.visualstudio.com/items?itemName=kodu-ai.claude-dev-experimental) | [kodu-ai](#kodu-ai) | `kodu.ai` | 2025-12-05 | `25.11.24` | 115K |
@@ -4450,7 +4450,7 @@ verification_status: unverified
 |-----------|-----------|--------|:------------:|:-------:|:--------:|
 | [**SQLite Viewer**](https://marketplace.visualstudio.com/items?itemName=qwtel.sqlite-viewer) | [qwtel](#qwtel) | `(no domain)` | 2025-12-06 | `25.12.0` | 2.6M |
 | [**Workspaces**](https://marketplace.visualstudio.com/items?itemName=anyscalecompute.anyscale-workspaces) | [anyscalecompute](#anyscalecompute) | `anyscale.com` | 2025-12-06 | `0.2.38` | 110K |
-| [**WAVE Analysis | Security & Code Review**](https://marketplace.visualstudio.com/items?itemName=devprod.vulnerability-extension) | [devprod](#devprod) | `(no domain)` | 2025-12-06 | `1.2025.1205003` | 140K |
+| [**WAVE Analysis ∣ Security & Code Review**](https://marketplace.visualstudio.com/items?itemName=devprod.vulnerability-extension) | [devprod](#devprod) | `(no domain)` | 2025-12-06 | `1.2025.1205003` | 140K |
 | [**Builder**](https://marketplace.visualstudio.com/items?itemName=Builder.Builder) | [Builder](#builder) | `builder.io` | 2025-12-05 | `0.2.27` | 65K |
 | [**tldraw**](https://marketplace.visualstudio.com/items?itemName=tldraw-org.tldraw-vscode) | [tldraw-org](#tldraw-org) | `tldraw.com` | 2025-12-05 | `2.187.4` | 94K |
 | [**Azad Coder (GPT 5 & Claude)**](https://marketplace.visualstudio.com/items?itemName=kodu-ai.claude-dev-experimental) | [kodu-ai](#kodu-ai) | `kodu.ai` | 2025-12-05 | `25.11.24` | 115K |
@@ -6591,7 +6591,7 @@ verification_status: unverified
 | [**Dart Getters And Setters**](https://marketplace.visualstudio.com/items?itemName=PeterHdd.dartgettersetter) | [PeterHdd](#peterhdd) | 142K | ⭐ 5 |
 | [**Zhihu On VSCode**](https://marketplace.visualstudio.com/items?itemName=niudai.vscode-zhihu) | [niudai](#niudai) | 142K | ⭐ 4.2 |
 | [**Rainbow Brackets 2**](https://marketplace.visualstudio.com/items?itemName=tejasvi.rainbow-brackets-2) | [tejasvi](#tejasvi) | 140K | ⭐ 3.1 |
-| [**WAVE Analysis | Security & Code Review**](https://marketplace.visualstudio.com/items?itemName=devprod.vulnerability-extension) | [devprod](#devprod) | 140K | ⭐ 4 |
+| [**WAVE Analysis ∣ Security & Code Review**](https://marketplace.visualstudio.com/items?itemName=devprod.vulnerability-extension) | [devprod](#devprod) | 140K | ⭐ 4 |
 | [**Bongo Cat**](https://marketplace.visualstudio.com/items?itemName=pixl-garden.BongoCat) | [pixl-garden](#pixl-garden) | 140K | ⭐ 5 |
 | [**English Support for LanguageTool**](https://marketplace.visualstudio.com/items?itemName=adamvoss.vscode-languagetool-en) | [adamvoss](#adamvoss) | 139K | ⭐ 3.4 |
 | [**dotnet**](https://marketplace.visualstudio.com/items?itemName=leo-labs.dotnet) | [leo-labs](#leo-labs) | 139K | ⭐ 4.9 |
@@ -9898,7 +9898,7 @@ verification_status: unverified
 | [**Huacat Pink Theme**](https://marketplace.visualstudio.com/items?itemName=huacat.pink-theme) | [huacat](#huacat) | 67K | ⭐ 5 |
 | [**Vesper**](https://marketplace.visualstudio.com/items?itemName=raunofreiberg.vesper) | [raunofreiberg](#raunofreiberg) | 67K | ⭐ 5 |
 | [**Gray Matter**](https://marketplace.visualstudio.com/items?itemName=philipbe.theme-gray-matter) | [philipbe](#philipbe) | 67K | ⭐ 5 |
-| [**Platzi Theme | Tema de Platzi**](https://marketplace.visualstudio.com/items?itemName=codevars.platzi-theme-for-vs-code) | [codevars](#codevars) | 67K | ⭐ 4.8 |
+| [**Platzi Theme ∣ Tema de Platzi**](https://marketplace.visualstudio.com/items?itemName=codevars.platzi-theme-for-vs-code) | [codevars](#codevars) | 67K | ⭐ 4.8 |
 | [**Hacker Theme**](https://marketplace.visualstudio.com/items?itemName=brenix.hacker-theme) | [brenix](#brenix) | 67K | ⭐ 5 |
 | [**Android Studio Default Themes**](https://marketplace.visualstudio.com/items?itemName=ShayanAhmedKhan.android-studio-color-theme) | [ShayanAhmedKhan](#shayanahmedkhan) | 66K | ⭐ 5 |
 | [**Google Colab Dark Theme**](https://marketplace.visualstudio.com/items?itemName=renxzen.google-colab-theme) | [renxzen](#renxzen) | 66K | ⭐ 5 |
@@ -11029,7 +11029,7 @@ verification_status: unverified
 | 709 | `codespaces-Contrib.codeswing` | CodeSwing | [codespaces-Contrib](#codespaces-contrib) | [🏪](https://marketplace.visualstudio.com/items?itemName=codespaces-Contrib.codeswing) |
 | 710 | `codestackr.codestackr-theme` | codeSTACKr Theme | [codestackr](#codestackr) | [🏪](https://marketplace.visualstudio.com/items?itemName=codestackr.codestackr-theme) |
 | 711 | `codevars.outrun-meets-synthwave` | Outrun meets Synthwave | [codevars](#codevars) | [🏪](https://marketplace.visualstudio.com/items?itemName=codevars.outrun-meets-synthwave) |
-| 712 | `codevars.platzi-theme-for-vs-code` | Platzi Theme | Tema de Platzi | [codevars](#codevars) | [🏪](https://marketplace.visualstudio.com/items?itemName=codevars.platzi-theme-for-vs-code) |
+| 712 | `codevars.platzi-theme-for-vs-code` | Platzi Theme ∣ Tema de Platzi | [codevars](#codevars) | [🏪](https://marketplace.visualstudio.com/items?itemName=codevars.platzi-theme-for-vs-code) |
 | 713 | `CodexBuild.codex-build` | Codex | [CodexBuild](#codexbuild) | [🏪](https://marketplace.visualstudio.com/items?itemName=CodexBuild.codex-build) |
 | 714 | `CodeYard.flask-snippets` | Flask Snippets | [CodeYard](#codeyard) | [🏪](https://marketplace.visualstudio.com/items?itemName=CodeYard.flask-snippets) |
 | 715 | `codezombiech.gitignore` | gitignore | [codezombiech](#codezombiech) | [🏪](https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore) |
@@ -11241,7 +11241,7 @@ verification_status: unverified
 | 921 | `devMike.mikrotik-routeros-script` | Mikrotik RouterOS script | [devMike](#devmike) | [🏪](https://marketplace.visualstudio.com/items?itemName=devMike.mikrotik-routeros-script) |
 | 922 | `DevonDCarew.bazel-code` | Bazel | [DevonDCarew](#devondcarew) | [🏪](https://marketplace.visualstudio.com/items?itemName=DevonDCarew.bazel-code) |
 | 923 | `devonray.snippet` | Snippet | [devonray](#devonray) | [🏪](https://marketplace.visualstudio.com/items?itemName=devonray.snippet) |
-| 924 | `devprod.vulnerability-extension` | WAVE Analysis | Security & Code Review | [devprod](#devprod) | [🏪](https://marketplace.visualstudio.com/items?itemName=devprod.vulnerability-extension) |
+| 924 | `devprod.vulnerability-extension` | WAVE Analysis ∣ Security & Code Review | [devprod](#devprod) | [🏪](https://marketplace.visualstudio.com/items?itemName=devprod.vulnerability-extension) |
 | 925 | `devzstudio.emoji-snippets` | Emoji Snippets | [devzstudio](#devzstudio) | [🏪](https://marketplace.visualstudio.com/items?itemName=devzstudio.emoji-snippets) |
 | 926 | `dfinity-foundation.vscode-motoko` | Motoko | [dfinity-foundation](#dfinity-foundation) | [🏪](https://marketplace.visualstudio.com/items?itemName=dfinity-foundation.vscode-motoko) |
 | 927 | `dgileadi.java-decompiler` | Decompiler for Java | [dgileadi](#dgileadi) | [🏪](https://marketplace.visualstudio.com/items?itemName=dgileadi.java-decompiler) |
@@ -27268,7 +27268,7 @@ verification_status: unverified
 
 | Extension | Installs | Version | Links | Description |
 |:----------|:--------:|:-------:|:-----:|:-----------|
-| [**WAVE Analysis | Security & Code Review**](https://marketplace.visualstudio.com/items?itemName=devprod.vulnerability-extension) | 140K | `1.2025.1205003` | [📂](https://microsoft.visualstudio.com/EngSys/_git/devprod.VulnerabilityExtension "Source") | Shift left with WAVE Analysis - run security and code q… |
+| [**WAVE Analysis ∣ Security & Code Review**](https://marketplace.visualstudio.com/items?itemName=devprod.vulnerability-extension) | 140K | `1.2025.1205003` | [📂](https://microsoft.visualstudio.com/EngSys/_git/devprod.VulnerabilityExtension "Source") | Shift left with WAVE Analysis - run security and code q… |
 
 
 ### <a id="mine"></a>📦 mine
@@ -30071,7 +30071,7 @@ verification_status: unverified
 
 | Extension | Installs | Version | Links | Description |
 |:----------|:--------:|:-------:|:-----:|:-----------|
-| [**Platzi Theme | Tema de Platzi**](https://marketplace.visualstudio.com/items?itemName=codevars.platzi-theme-for-vs-code) | 67K | `1.0.1` | — | Un tema creado con amor por el equipo de Platzi para la… |
+| [**Platzi Theme ∣ Tema de Platzi**](https://marketplace.visualstudio.com/items?itemName=codevars.platzi-theme-for-vs-code) | 67K | `1.0.1` | — | Un tema creado con amor por el equipo de Platzi para la… |
 | [**Outrun meets Synthwave**](https://marketplace.visualstudio.com/items?itemName=codevars.outrun-meets-synthwave) | 36K | `0.0.1` | [📂](https://github.com/edevars/outrun-meets-synthwave "GitHub") | A theme inspired in Outrun and Synthwave '84 |
 
 
@@ -56641,8 +56641,8 @@ For more details, see the [VS Code Publishing Documentation](https://code.visual
 | **API** | VS Code Marketplace Extension Query API |
 | **Filter** | `isDomainVerified = false` |
 | **Sort** | By install count (most popular first) |
-| **Generated** | 2025-12-13 12:44:08 |
-| **Build** | `29db169` / Run `` |
+| **Generated** | 2025-12-13 13:19:58 |
+| **Build** | `1310972` / Run `` |
 
 ### Generation Scripts
 

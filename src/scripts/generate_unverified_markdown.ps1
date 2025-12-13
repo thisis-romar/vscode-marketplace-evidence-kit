@@ -39,6 +39,13 @@ Write-Host "Loaded $($publishers.Count) publishers across $($domainStats.Count) 
 
 #region Helper Functions
 
+# Escape pipe characters for markdown table cells
+function Escape-TableCell {
+    param([string]$text)
+    if ([string]::IsNullOrEmpty($text)) { return "" }
+    return $text -replace '\|', '∣'  # Replace pipe with similar-looking Unicode character
+}
+
 # Format install count with K/M suffix
 function Format-InstallCount {
     param([double]$value)
@@ -95,7 +102,7 @@ function Build-GlobalExtensionsList {
     foreach ($pub in $publishers) {
         foreach ($ext in $pub.extensions) {
             $allExts += [PSCustomObject]@{
-                name = $ext.displayName
+                name = Escape-TableCell -text $ext.displayName
                 id = "$($pub.publisherName).$($ext.extensionName)"
                 publisher = $pub.publisherName
                 publisherDisplay = $pub.displayName
@@ -402,7 +409,8 @@ $topRatedExts | Select-Object -First 50 | ForEach-Object {
     $rating = "⭐ " + [math]::Round($_.rating, 1)
     $installs = Format-InstallCount -value $_.installs
     $reviews = if ($_.reviews) { Format-InstallCount -value $_.reviews } else { "—" }
-    $markdown += "| $badge | [**$($_.name)**]($extUrl) | $pubLink | ``$domain`` | **$rating** | $installs | $reviews |`n"
+    $safeName = Escape-TableCell -text $_.name
+    $markdown += "| $badge | [**$safeName**]($extUrl) | $pubLink | ``$domain`` | **$rating** | $installs | $reviews |`n"
 }
 
 $markdown += @"
@@ -434,7 +442,8 @@ $recentExts | Select-Object -First 100 | ForEach-Object {
     $updated = if ($_.lastUpdated) { ([DateTime]$_.lastUpdated).ToString("yyyy-MM-dd") } else { "—" }
     $version = if ($_.version) { "``$($_.version)``" } else { "—" }
     $installs = Format-InstallCount -value $_.installs
-    $markdown += "| [**$($_.name)**]($extUrl) | $pubLink | ``$domain`` | $updated | $version | $installs |`n"
+    $safeName = Escape-TableCell -text $_.name
+    $markdown += "| [**$safeName**]($extUrl) | $pubLink | ``$domain`` | $updated | $version | $installs |`n"
 }
 
 if ($recentExts.Count -gt 100) {
@@ -455,7 +464,8 @@ if ($recentExts.Count -gt 100) {
         $updated = if ($_.lastUpdated) { ([DateTime]$_.lastUpdated).ToString("yyyy-MM-dd") } else { "—" }
         $version = if ($_.version) { "``$($_.version)``" } else { "—" }
         $installs = Format-InstallCount -value $_.installs
-        $markdown += "| [**$($_.name)**]($extUrl) | $pubLink | ``$domain`` | $updated | $version | $installs |`n"
+        $safeName = Escape-TableCell -text $_.name
+        $markdown += "| [**$safeName**]($extUrl) | $pubLink | ``$domain`` | $updated | $version | $installs |`n"
     }
     $markdown += "`n</details>`n"
 }
@@ -795,7 +805,8 @@ foreach ($domainStat in $domainStats) {
             $extInstalls = Format-InstallCount -value $ext.installCount
             $desc = Format-Description -desc $ext.shortDescription
             $extUrl = "https://marketplace.visualstudio.com/items?itemName=$($pub.publisherName).$($ext.extensionName)"
-            $extLink = "[**$($ext.displayName)**]($extUrl)"
+            $safeName = Escape-TableCell -text $ext.displayName
+            $extLink = "[**$safeName**]($extUrl)"
             
             # Build extension links
             $extLinksArray = @()

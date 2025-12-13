@@ -9,15 +9,15 @@
 ![Domains](https://img.shields.io/badge/Domains-245-purple?style=for-the-badge)
 ![Installs](https://img.shields.io/badge/Installs-2967.6M-orange?style=for-the-badge)
 
-*Last Updated: December 13, 2025 at 13:15:17 UTC*
+*Last Updated: December 13, 2025 at 13:19:50 UTC*
 
-[`36b6b67`](https://github.com/thisis-romar/vscode-marketplace-evidence-kit/commit/36b6b67aef86c8fd5028ad0c810aa2a26de04a7d)
+[`1310972`](https://github.com/thisis-romar/vscode-marketplace-evidence-kit/commit/1310972d271fa04b11effd6ffa530a0c98e4c50f)
 
 </div>
 
 <!-- BUILD_METADATA
-timestamp: 2025-12-13T13:15:17Z
-commit: 36b6b67
+timestamp: 2025-12-13T13:19:50Z
+commit: 1310972
 run_id: 
 data_source: 2025-12-05 22:29:53
 publishers: 304
@@ -657,7 +657,7 @@ rating_coverage: 90%
 | 500. | [**JS Debug Value Editor (Experimental)**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.debug-value-editor) | [ms-vscode](#ms-vscode) | `microsoft.com` | **74K** | — | 2025-07-11 |
 | 501. | [**Markdoc language support**](https://marketplace.visualstudio.com/items?itemName=Stripe.markdoc-language-support) | [Stripe](#stripe) | `stripe.com` | **74K** | — | 2024-04-28 |
 | 502. | [**Houston**](https://marketplace.visualstudio.com/items?itemName=astro-build.houston) | [astro-build](#astro-build) | `astro.build` | **74K** | ⭐ 5 | 2023-11-10 |
-| 503. | [**CodeViz | Visual codebase maps**](https://marketplace.visualstudio.com/items?itemName=CodeViz.codeviz) | [CodeViz](#codeviz) | `codeviz.ai` | **73K** | ⭐ 4 | 2025-12-04 |
+| 503. | [**CodeViz ∣ Visual codebase maps**](https://marketplace.visualstudio.com/items?itemName=CodeViz.codeviz) | [CodeViz](#codeviz) | `codeviz.ai` | **73K** | ⭐ 4 | 2025-12-04 |
 | 504. | [**CodeMate AI- Your Smartest Full Stack Coding Agent- Python, C++, C, Java, Javascript, Typescript, Ruby & 100+ languages supported**](https://marketplace.visualstudio.com/items?itemName=AyushSinghal.Code-Mate) | [AyushSinghal](#ayushsinghal) | `codemate.ai` | **73K** | ⭐ 4.4 | 2025-10-17 |
 | 505. | [**Redocly OpenAPI**](https://marketplace.visualstudio.com/items?itemName=Redocly.openapi-vs-code) | [Redocly](#redocly) | `redocly.com` | **73K** | ⭐ 4.7 | 2025-12-02 |
 | 506. | [**Spark & Hive Tools**](https://marketplace.visualstudio.com/items?itemName=mshdinsight.azure-hdinsight) | [mshdinsight](#mshdinsight) | `microsoft.com` | **72K** | ⭐ 3 | 2023-01-19 |
@@ -1002,7 +1002,7 @@ rating_coverage: 90%
 | [**Mermaid Chart**](https://marketplace.visualstudio.com/items?itemName=MermaidChart.vscode-mermaid-chart) | [MermaidChart](#mermaidchart) | `mermaidchart.com` | 2025-12-04 | `2.5.6` | 289K |
 | [**Web Search for Copilot**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-websearchforcopilot) | [ms-vscode](#ms-vscode) | `microsoft.com` | 2025-12-04 | `0.1.2025120401` | 128K |
 | [**vscode-mermAId**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.copilot-mermaid-diagram) | [ms-vscode](#ms-vscode) | `microsoft.com` | 2025-12-04 | `0.0.2025120401` | 89K |
-| [**CodeViz | Visual codebase maps**](https://marketplace.visualstudio.com/items?itemName=CodeViz.codeviz) | [CodeViz](#codeviz) | `codeviz.ai` | 2025-12-04 | `1.6.9` | 73K |
+| [**CodeViz ∣ Visual codebase maps**](https://marketplace.visualstudio.com/items?itemName=CodeViz.codeviz) | [CodeViz](#codeviz) | `codeviz.ai` | 2025-12-04 | `1.6.9` | 73K |
 | [**Test Runner for Java**](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-test) | [vscjava](#vscjava) | `microsoft.com` | 2025-12-04 | `0.43.2025120408` | 40.6M |
 | [**GitHub Copilot app modernization**](https://marketplace.visualstudio.com/items?itemName=vscjava.migrate-java-to-azure) | [vscjava](#vscjava) | `microsoft.com` | 2025-12-04 | `1.8.2025120402` | 476K |
 | [**YAML**](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml) | [redhat](#redhat) | `redhat.com` | 2025-12-04 | `1.20.2025120408` | 24.5M |
@@ -1108,7 +1108,7 @@ rating_coverage: 90%
 | [**Mermaid Chart**](https://marketplace.visualstudio.com/items?itemName=MermaidChart.vscode-mermaid-chart) | [MermaidChart](#mermaidchart) | `mermaidchart.com` | 2025-12-04 | `2.5.6` | 289K |
 | [**Web Search for Copilot**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-websearchforcopilot) | [ms-vscode](#ms-vscode) | `microsoft.com` | 2025-12-04 | `0.1.2025120401` | 128K |
 | [**vscode-mermAId**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.copilot-mermaid-diagram) | [ms-vscode](#ms-vscode) | `microsoft.com` | 2025-12-04 | `0.0.2025120401` | 89K |
-| [**CodeViz | Visual codebase maps**](https://marketplace.visualstudio.com/items?itemName=CodeViz.codeviz) | [CodeViz](#codeviz) | `codeviz.ai` | 2025-12-04 | `1.6.9` | 73K |
+| [**CodeViz ∣ Visual codebase maps**](https://marketplace.visualstudio.com/items?itemName=CodeViz.codeviz) | [CodeViz](#codeviz) | `codeviz.ai` | 2025-12-04 | `1.6.9` | 73K |
 | [**Test Runner for Java**](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-test) | [vscjava](#vscjava) | `microsoft.com` | 2025-12-04 | `0.43.2025120408` | 40.6M |
 | [**GitHub Copilot app modernization**](https://marketplace.visualstudio.com/items?itemName=vscjava.migrate-java-to-azure) | [vscjava](#vscjava) | `microsoft.com` | 2025-12-04 | `1.8.2025120402` | 476K |
 | [**YAML**](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml) | [redhat](#redhat) | `redhat.com` | 2025-12-04 | `1.20.2025120408` | 24.5M |
@@ -1356,7 +1356,7 @@ rating_coverage: 90%
 | [**DBCode - Database Management**](https://marketplace.visualstudio.com/items?itemName=DBCode.dbcode) | [DBCode](#dbcode) | 109K | ⭐ 4.8 |
 | [**vscode-mermAId**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.copilot-mermaid-diagram) | [ms-vscode](#ms-vscode) | 89K | ⭐ 5 |
 | [**Vision for Copilot Preview**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-copilot-vision) | [ms-vscode](#ms-vscode) | 75K | ⭐ 4 |
-| [**CodeViz | Visual codebase maps**](https://marketplace.visualstudio.com/items?itemName=CodeViz.codeviz) | [CodeViz](#codeviz) | 73K | ⭐ 4 |
+| [**CodeViz ∣ Visual codebase maps**](https://marketplace.visualstudio.com/items?itemName=CodeViz.codeviz) | [CodeViz](#codeviz) | 73K | ⭐ 4 |
 | [**Amp (Research Preview)**](https://marketplace.visualstudio.com/items?itemName=sourcegraph.amp) | [sourcegraph](#sourcegraph) | 70K | ⭐ 4.4 |
 | [**Front Matter CMS**](https://marketplace.visualstudio.com/items?itemName=eliostruyf.vscode-front-matter) | [eliostruyf](#eliostruyf) | 67K | ⭐ 5 |
 | [**AppMap**](https://marketplace.visualstudio.com/items?itemName=appland.appmap) | [appland](#appland) | 66K | ⭐ 4.9 |
@@ -1479,7 +1479,7 @@ rating_coverage: 90%
 | [**DBCode - Database Management**](https://marketplace.visualstudio.com/items?itemName=DBCode.dbcode) | [DBCode](#dbcode) | 109K | ⭐ 4.8 |
 | [**vscode-mermAId**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.copilot-mermaid-diagram) | [ms-vscode](#ms-vscode) | 89K | ⭐ 5 |
 | [**Vision for Copilot Preview**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-copilot-vision) | [ms-vscode](#ms-vscode) | 75K | ⭐ 4 |
-| [**CodeViz | Visual codebase maps**](https://marketplace.visualstudio.com/items?itemName=CodeViz.codeviz) | [CodeViz](#codeviz) | 73K | ⭐ 4 |
+| [**CodeViz ∣ Visual codebase maps**](https://marketplace.visualstudio.com/items?itemName=CodeViz.codeviz) | [CodeViz](#codeviz) | 73K | ⭐ 4 |
 | [**Amp (Research Preview)**](https://marketplace.visualstudio.com/items?itemName=sourcegraph.amp) | [sourcegraph](#sourcegraph) | 70K | ⭐ 4.4 |
 | [**AppMap**](https://marketplace.visualstudio.com/items?itemName=appland.appmap) | [appland](#appland) | 66K | ⭐ 4.9 |
 | [**Supabase**](https://marketplace.visualstudio.com/items?itemName=Supabase.vscode-supabase-extension) | [Supabase](#supabase) | 65K | ⭐ 4.9 |
@@ -1712,7 +1712,7 @@ rating_coverage: 90%
 | [**Guided Answers extension by SAP**](https://marketplace.visualstudio.com/items?itemName=SAPOSS.sap-guided-answers-extension) | [SAPOSS](#saposs) | 141K | ⭐ 5 |
 | [**Zencoder: AI Coding Agent and Chat for Python, Javascript, Typescript, Java, Go, and more**](https://marketplace.visualstudio.com/items?itemName=ZencoderAI.zencoder) | [ZencoderAI](#zencoderai) | 112K | ⭐ 4 |
 | [**ChatGPT - Unfold AI**](https://marketplace.visualstudio.com/items?itemName=TalDennis-UnfoldAI-ChatGPT-Copilot.unfoldai) | [TalDennis-UnfoldAI-ChatGPT-Copilot](#taldennis-unfoldai-chatgpt-copilot) | 90K | ⭐ 4.1 |
-| [**CodeViz | Visual codebase maps**](https://marketplace.visualstudio.com/items?itemName=CodeViz.codeviz) | [CodeViz](#codeviz) | 73K | ⭐ 4 |
+| [**CodeViz ∣ Visual codebase maps**](https://marketplace.visualstudio.com/items?itemName=CodeViz.codeviz) | [CodeViz](#codeviz) | 73K | ⭐ 4 |
 | [**Frontier: Figma to React, leveraging your own design system and components**](https://marketplace.visualstudio.com/items?itemName=AnimaApp.vscode-anima) | [AnimaApp](#animaapp) | 52K | ⭐ 5 |
 | [**VEX Robotics**](https://marketplace.visualstudio.com/items?itemName=VEXRobotics.vexcode) | [VEXRobotics](#vexrobotics) | 51K | ⭐ 3.2 |
 | [**Refact – Open-Source AI Agent, Code Generator & Chat for JavaScript, Python, TypeScript, Java, PHP, Go, and more.**](https://marketplace.visualstudio.com/items?itemName=smallcloud.codify) | [smallcloud](#smallcloud) | 51K | ⭐ 4.1 |
@@ -2109,7 +2109,7 @@ rating_coverage: 90%
 | [**Prompt flow for VS Code**](https://marketplace.visualstudio.com/items?itemName=prompt-flow.prompt-flow) | [prompt-flow](#prompt-flow) | 87K | ⭐ 4.5 |
 | [**DVC**](https://marketplace.visualstudio.com/items?itemName=Iterative.dvc) | [Iterative](#iterative) | 82K | ⭐ 4.8 |
 | [**SAS**](https://marketplace.visualstudio.com/items?itemName=SAS.sas-lsp) | [SAS](#sas) | 77K | ⭐ 4.8 |
-| [**CodeViz | Visual codebase maps**](https://marketplace.visualstudio.com/items?itemName=CodeViz.codeviz) | [CodeViz](#codeviz) | 73K | ⭐ 4 |
+| [**CodeViz ∣ Visual codebase maps**](https://marketplace.visualstudio.com/items?itemName=CodeViz.codeviz) | [CodeViz](#codeviz) | 73K | ⭐ 4 |
 | [**CodeMate AI- Your Smartest Full Stack Coding Agent- Python, C++, C, Java, Javascript, Typescript, Ruby & 100+ languages supported**](https://marketplace.visualstudio.com/items?itemName=AyushSinghal.Code-Mate) | [AyushSinghal](#ayushsinghal) | 73K | ⭐ 4.4 |
 | [**llm-vscode**](https://marketplace.visualstudio.com/items?itemName=HuggingFace.huggingface-vscode) | [HuggingFace](#huggingface) | 71K | ⭐ 4.8 |
 | [**Fabric Data Engineering VS Code**](https://marketplace.visualstudio.com/items?itemName=SynapseVSCode.synapse) | [SynapseVSCode](#synapsevscode) | 70K | ⭐ 1.8 |
@@ -2548,7 +2548,7 @@ rating_coverage: 90%
 | [**Qt Extension Pack**](https://marketplace.visualstudio.com/items?itemName=TheQtCompany.qt) | [TheQtCompany](#theqtcompany) | 84K | ⭐ 3.6 |
 | [**Dapr**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-dapr) | [ms-azuretools](#ms-azuretools) | 78K | ⭐ 5 |
 | [**SAS**](https://marketplace.visualstudio.com/items?itemName=SAS.sas-lsp) | [SAS](#sas) | 77K | ⭐ 4.8 |
-| [**CodeViz | Visual codebase maps**](https://marketplace.visualstudio.com/items?itemName=CodeViz.codeviz) | [CodeViz](#codeviz) | 73K | ⭐ 4 |
+| [**CodeViz ∣ Visual codebase maps**](https://marketplace.visualstudio.com/items?itemName=CodeViz.codeviz) | [CodeViz](#codeviz) | 73K | ⭐ 4 |
 | [**CodeMate AI- Your Smartest Full Stack Coding Agent- Python, C++, C, Java, Javascript, Typescript, Ruby & 100+ languages supported**](https://marketplace.visualstudio.com/items?itemName=AyushSinghal.Code-Mate) | [AyushSinghal](#ayushsinghal) | 73K | ⭐ 4.4 |
 | [**Redocly OpenAPI**](https://marketplace.visualstudio.com/items?itemName=Redocly.openapi-vs-code) | [Redocly](#redocly) | 73K | ⭐ 4.7 |
 | [**Spark & Hive Tools**](https://marketplace.visualstudio.com/items?itemName=mshdinsight.azure-hdinsight) | [mshdinsight](#mshdinsight) | 72K | ⭐ 3 |
@@ -2933,7 +2933,7 @@ rating_coverage: 90%
 | [**vscode-mermAId**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.copilot-mermaid-diagram) | [ms-vscode](#ms-vscode) | 89K | ⭐ 5 |
 | [**XState VSCode**](https://marketplace.visualstudio.com/items?itemName=statelyai.stately-vscode) | [statelyai](#statelyai) | 85K | ⭐ 4.8 |
 | [**DVC**](https://marketplace.visualstudio.com/items?itemName=Iterative.dvc) | [Iterative](#iterative) | 82K | ⭐ 4.8 |
-| [**CodeViz | Visual codebase maps**](https://marketplace.visualstudio.com/items?itemName=CodeViz.codeviz) | [CodeViz](#codeviz) | 73K | ⭐ 4 |
+| [**CodeViz ∣ Visual codebase maps**](https://marketplace.visualstudio.com/items?itemName=CodeViz.codeviz) | [CodeViz](#codeviz) | 73K | ⭐ 4 |
 | [**Excel**](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-excel) | [cweijan](#cweijan) | 69K | ⭐ 5 |
 | [**Front Matter CMS**](https://marketplace.visualstudio.com/items?itemName=eliostruyf.vscode-front-matter) | [eliostruyf](#eliostruyf) | 67K | ⭐ 5 |
 | [**AppMap**](https://marketplace.visualstudio.com/items?itemName=appland.appmap) | [appland](#appland) | 66K | ⭐ 4.9 |
@@ -3046,7 +3046,7 @@ rating_coverage: 90%
 | 81 | `codescansf.codescan-vscode` | CodeScan | [codescansf](#codescansf) | [🏪](https://marketplace.visualstudio.com/items?itemName=codescansf.codescan-vscode) |
 | 82 | `CodeScene.codescene-vscode` | CodeScene | [CodeScene](#codescene) | [🏪](https://marketplace.visualstudio.com/items?itemName=CodeScene.codescene-vscode) |
 | 83 | `CodeStream.codestream` | New Relic CodeStream | [CodeStream](#codestream) | [🏪](https://marketplace.visualstudio.com/items?itemName=CodeStream.codestream) |
-| 84 | `CodeViz.codeviz` | CodeViz | Visual codebase maps | [CodeViz](#codeviz) | [🏪](https://marketplace.visualstudio.com/items?itemName=CodeViz.codeviz) |
+| 84 | `CodeViz.codeviz` | CodeViz ∣ Visual codebase maps | [CodeViz](#codeviz) | [🏪](https://marketplace.visualstudio.com/items?itemName=CodeViz.codeviz) |
 | 85 | `Codium.codium` | Qodo: AI Code Review | [Codium](#codium) | [🏪](https://marketplace.visualstudio.com/items?itemName=Codium.codium) |
 | 86 | `Continue.continue` | Continue - open-source AI code agent | [Continue](#continue) | [🏪](https://marketplace.visualstudio.com/items?itemName=Continue.continue) |
 | 87 | `crystal-spider.jsdoc-generator` | JSDoc Generator | [crystal-spider](#crystal-spider) | [🏪](https://marketplace.visualstudio.com/items?itemName=crystal-spider.jsdoc-generator) |
@@ -8527,7 +8527,7 @@ rating_coverage: 90%
 
 | Extension | Installs | Version | Links | Description |
 |:----------|:--------:|:-------:|:-----:|:-----------|
-| [**CodeViz | Visual codebase maps**](https://marketplace.visualstudio.com/items?itemName=CodeViz.codeviz) | 73K | `1.6.9` | [📂](https://github.com/EdisonLabs-Inc/CodeViz-Public/issues "GitHub") | Fast codebase understanding and navigation |
+| [**CodeViz ∣ Visual codebase maps**](https://marketplace.visualstudio.com/items?itemName=CodeViz.codeviz) | 73K | `1.6.9` | [📂](https://github.com/EdisonLabs-Inc/CodeViz-Public/issues "GitHub") | Fast codebase understanding and navigation |
 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to Top</a></p>
@@ -11061,8 +11061,8 @@ For more details, see the [VS Code Publishing Documentation](https://code.visual
 | **API** | VS Code Marketplace Extension Query API |
 | **Filter** | `isDomainVerified = true` |
 | **Sort** | By install count (most popular first) |
-| **Generated** | 2025-12-13 13:15:17 |
-| **Build** | `36b6b67` / Run `` |
+| **Generated** | 2025-12-13 13:19:50 |
+| **Build** | `1310972` / Run `` |
 
 ### Generation Scripts
 
