@@ -3,7 +3,7 @@
 [![Docs Pipeline](https://github.com/thisis-romar/vscode-marketplace-evidence-kit/actions/workflows/ci.yml/badge.svg)](https://github.com/thisis-romar/vscode-marketplace-evidence-kit/actions/workflows/ci.yml)
 
 **Catalog, verify, and document VS Code extensions and verified publishers**  
-**Last Updated:** 2025-12-06  
+**Last Updated:** 2025-12-13  
 **Status:** 🧪 Prototype Branch (`feat/dir-architecture-prototype`)
 
 > Data-backed verification outputs for the VS Code Marketplace ecosystem.  
@@ -31,8 +31,11 @@
 │   └── scripts/                 # PowerShell data scripts
 │       ├── fetch_all_extensions.ps1
 │       ├── fetch_verified_publishers.ps1
+│       ├── fetch_unverified_publishers.ps1
 │       ├── generate_markdown.ps1
 │       ├── generate_verified_markdown.ps1
+│       ├── generate_unverified_markdown.ps1
+│       ├── generate_changelog.ps1
 │       ├── validate_publishers.ps1
 │       ├── check_links.ps1
 │       └── check_links_quick.ps1
@@ -43,7 +46,8 @@
 ├── docs/
 │   └── public/                  # Generated markdown (published)
 │       ├── Microsoft_VSCode_Extensions.md
-│       └── Verified_VSCode_Publishers.md
+│       ├── Verified_VSCode_Publishers.md
+│       └── Unverified_VSCode_Publishers.md
 ├── tests/
 │   ├── Pipeline.Tests.ps1       # Pester tests (PowerShell)
 │   └── test_flows.py            # pytest tests (Python)
@@ -55,11 +59,14 @@
 ### Scripts (`src/scripts/`)
 
 | Script | Purpose |
-|--------|---------|
+|--------|--------|
 | `fetch_all_extensions.ps1` | Fetch Microsoft VS Code extensions |
 | `fetch_verified_publishers.ps1` | Fetch ALL verified publishers |
+| `fetch_unverified_publishers.ps1` | Fetch unverified publishers |
 | `generate_markdown.ps1` | Generate Microsoft extensions markdown |
 | `generate_verified_markdown.ps1` | Generate verified publishers catalog |
+| `generate_unverified_markdown.ps1` | Generate unverified publishers catalog |
+| `generate_changelog.ps1` | Generate changelog from history diffs |
 | `validate_publishers.ps1` | Validate publisher authenticity |
 | `check_links.ps1` | Comprehensive link checker |
 | `check_links_quick.ps1` | Quick marketplace link validator |
@@ -69,15 +76,17 @@
 | Path | Contents |
 |------|----------|
 | `data/raw/` | Raw API responses (all_verified_extensions.json) |
-| `data/processed/` | Processed summaries (verified_publishers.json) |
+| `data/processed/verified_publishers.json` | Verified publisher summaries (304 publishers) |
+| `data/processed/unverified_publishers.json` | Unverified publisher summaries (3,391 publishers) |
 | `data/all_extensions.json` | Microsoft-only extensions (legacy path) |
 
 ### Documentation (`docs/`)
 
 | Path | Contents |
 |------|----------|
-| `docs/public/` | Generated markdown for publishing |
-| `docs/Microsoft_VSCode_Extensions.md` | Microsoft catalog (legacy path) |
+| `docs/public/Verified_VSCode_Publishers.md` | Verified publishers catalog (711 extensions) |
+| `docs/public/Unverified_VSCode_Publishers.md` | Unverified publishers catalog (4,114 extensions) |
+| `docs/public/Microsoft_VSCode_Extensions.md` | Microsoft extensions catalog |
 | `docs/REMOVED_EXTENSIONS.md` | Removed/unpublished extensions tracking |
 
 ### Archive (`Archive/`)
@@ -273,16 +282,21 @@ These tools were used during initial development and are preserved for reference
 
 ## 📊 Statistics
 
-### All Verified Publishers (New)
-- **Verified Publishers:** 304
-- **Total Extensions:** 710+
+### Verified Publishers
+- **Publishers:** 304
+- **Extensions:** 711
 - **Unique Domains:** 245
 - **Total Installs:** ~3B
 
-### Microsoft Extensions (Legacy)
-- **Total Extensions:** 329
+### Unverified Publishers
+- **Publishers:** 3,391
+- **Extensions:** 4,114
+- **Domains:** 282
+
+### Microsoft Extensions
+- **Total Extensions:** 331
 - **Unpublished/Removed:** 135
-- **Categories:** 25
+- **Categories:** 20
 
 ---
 
@@ -293,6 +307,11 @@ These tools were used during initial development and are preserved for reference
 2. **Generate** → `.\src\scripts\generate_verified_markdown.ps1`
 3. **Validate** → `.\src\scripts\check_links_quick.ps1`
 4. **Review** → Check `docs/public/Verified_VSCode_Publishers.md`
+
+### Unverified Publishers Workflow
+1. **Fetch** → `.\src\scripts\fetch_unverified_publishers.ps1`
+2. **Generate** → `.\src\scripts\generate_unverified_markdown.ps1`
+3. **Review** → Check `docs/public/Unverified_VSCode_Publishers.md`
 
 ### Microsoft-Only Workflow (Legacy)
 1. **Fetch** → `.\src\scripts\fetch_all_extensions.ps1`
@@ -310,10 +329,14 @@ These tools were used during initial development and are preserved for reference
 - ✅ Detailed progress logging
 
 ### Markdown Generator
-- ✅ 25 categories with auto-categorization
+- ✅ All 20 VS Code Marketplace categories
 - ✅ Sorted by install count within categories
 - ✅ Enhanced TOC with icons and statistics
 - ✅ Dual numbering (per-category + global)
+- ✅ `vscode:extension/` protocol links (one-click install in VS Code)
+- ✅ 🌐 Globe icon for web marketplace links
+- ✅ Unicode pipe escaping (∣) for table safety
+- ✅ Consistent collapsible category sections
 - ✅ Resources, Categories, Tags, Platform compatibility
 - ✅ Back-to-TOC navigation links
 
