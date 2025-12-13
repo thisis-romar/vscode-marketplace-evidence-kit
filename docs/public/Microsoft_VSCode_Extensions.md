@@ -2,13 +2,13 @@
 
 **Comprehensive listing of all Microsoft Visual Studio Code extensions**
 
-*Last Updated: December 13, 2025 at 12:39:44 UTC*
+*Last Updated: December 13, 2025 at 12:45:21 UTC*
 
-`60853ad` *(local, unpublished)*
+[`29db169`](https://github.com/thisis-romar/vscode-marketplace-evidence-kit/commit/29db169718733fe5f4ab30ebc4c29521134bab38)
 
 <!-- BUILD_METADATA
-timestamp: 2025-12-13T12:39:44Z
-commit: 60853ad
+timestamp: 2025-12-13T12:45:21Z
+commit: 29db169
 run_id: 
 extensions: 329
 categories: 25
@@ -20,7 +20,7 @@ categories: 25
 
 - **Total Extensions:** 329
 - **Categories:** 25
-- **Generated:** 2025-12-13 12:39:44
+- **Generated:** 2025-12-13 12:45:21
 - **Source:** [Microsoft Publisher Page](https://marketplace.visualstudio.com/publishers/Microsoft)
 
 ---
@@ -12418,8 +12418,8 @@ All Platforms
 - **Version:** 2.0
 - **Total Extensions:** 329
 - **Categories:** 25
-- **Generated:** 2025-12-13 12:39:44
-- **Build:** `60853ad` / Run ``
+- **Generated:** 2025-12-13 12:45:21
+- **Build:** `29db169` / Run ``
 - **Script:** generate_markdown.ps1
 
 ---
