@@ -115,7 +115,40 @@ def generate_unverified_publishers_markdown() -> int:
     return result.returncode
 
 
+@task(
+    name="generate-changelog",
+    description="Generate CHANGELOG.md and REMOVED_EXTENSIONS.md",
+    retries=1,
+    retry_delay_seconds=5,
+)
+def generate_changelog() -> int:
+    """Run generate_changelog.ps1."""
+    logger = get_run_logger()
+    repo_root = _repo_root()
+    script = repo_root / "src" / "scripts" / "generate_changelog.ps1"
+
+    if not script.exists():
+        logger.error(f"Missing script: {script}")
+        raise FileNotFoundError(f"Script not found: {script}")
+
+    logger.info(f"Running: {script}")
+    result = subprocess.run(
+        ["pwsh", "-File", str(script)],
+        capture_output=True,
+        text=True,
+        env=_get_ci_env(),
+    )
+
+    if result.returncode != 0:
+        logger.error(f"Script failed:\n{result.stderr}")
+        raise RuntimeError(f"generate_changelog.ps1 failed with code {result.returncode}")
+
+    logger.info(result.stdout[-1500:] if len(result.stdout) > 1500 else result.stdout)
+    return result.returncode
+
+
 if __name__ == "__main__":
     generate_ms_extensions_markdown()
     generate_verified_publishers_markdown()
     generate_unverified_publishers_markdown()
+    generate_changelog()

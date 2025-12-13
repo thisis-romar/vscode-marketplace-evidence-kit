@@ -1,0 +1,13 @@
+# History Directory
+
+This directory stores timestamped snapshots of extension data for change tracking.
+
+## Contents
+- `all_extensions_<timestamp>.json` - Microsoft extension snapshots
+- `all_verified_extensions_<timestamp>.json` - Verified publisher snapshots
+- `all_unverified_extensions_<timestamp>.json` - Unverified publisher snapshots
+- `verified_publishers_<timestamp>.json` - Verified publisher summary snapshots
+- `unverified_publishers_<timestamp>.json` - Unverified publisher summary snapshots
+
+## Usage
+The `flows/diff.py` module compares the two most recent snapshots to generate a `diff_report.json`.

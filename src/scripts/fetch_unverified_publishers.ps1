@@ -248,8 +248,8 @@ Write-Host "  + Across $($domainStats.Count) unique domains (including no-domain
 
 # Save all unverified extensions
 $timestamp = (Get-Date).ToString("yyyyMMddHHmm")
-$extensionsRawPath = Join-Path $repoRoot "data\raw\all_unverified_extensions_$timestamp.json"
-$extensionsProcessedPath = Join-Path $repoRoot "data\processed\all_unverified_extensions.json"
+$extensionsHistoryPath = Join-Path $repoRoot "data\history\all_unverified_extensions_$timestamp.json"
+$extensionsLatestPath = Join-Path $repoRoot "data\all_unverified_extensions.json"
 
 $extensionsOutput = @{
     metadata = @{
@@ -265,15 +265,15 @@ $extensionsOutput = @{
     extensions = $publishedExtensions
 }
 $extensionsJson = $extensionsOutput | ConvertTo-Json -Depth 20 -Compress
-$extensionsJson | Out-File -FilePath $extensionsRawPath -Encoding UTF8
-$extensionsJson | Out-File -FilePath $extensionsProcessedPath -Encoding UTF8
+$extensionsJson | Out-File -FilePath $extensionsHistoryPath -Encoding UTF8
+$extensionsJson | Out-File -FilePath $extensionsLatestPath -Encoding UTF8
 Write-Host "`n+ Extensions saved to:" -ForegroundColor Green
-Write-Host "  Snapshot: $extensionsRawPath" -ForegroundColor Gray
-Write-Host "  Processed: $extensionsProcessedPath" -ForegroundColor Gray
+Write-Host "  History: $extensionsHistoryPath" -ForegroundColor Gray
+Write-Host "  Latest:  $extensionsLatestPath" -ForegroundColor Gray
 
 # Save publisher summary
-$publishersRawPath = Join-Path $repoRoot "data\raw\unverified_publishers_$timestamp.json"
-$publishersProcessedPath = Join-Path $repoRoot "data\processed\unverified_publishers.json"
+$publishersHistoryPath = Join-Path $repoRoot "data\history\unverified_publishers_$timestamp.json"
+$publishersLatestPath = Join-Path $repoRoot "data\unverified_publishers.json"
 
 $publishersOutput = @{
     metadata = @{
@@ -286,11 +286,11 @@ $publishersOutput = @{
     publishers = $publisherSummary
 }
 $publishersJson = $publishersOutput | ConvertTo-Json -Depth 20 -Compress
-$publishersJson | Out-File -FilePath $publishersRawPath -Encoding UTF8
-$publishersJson | Out-File -FilePath $publishersProcessedPath -Encoding UTF8
+$publishersJson | Out-File -FilePath $publishersHistoryPath -Encoding UTF8
+$publishersJson | Out-File -FilePath $publishersLatestPath -Encoding UTF8
 Write-Host "+ Publisher summary saved to:" -ForegroundColor Green
-Write-Host "  Snapshot: $publishersRawPath" -ForegroundColor Gray
-Write-Host "  Processed: $publishersProcessedPath" -ForegroundColor Gray
+Write-Host "  History: $publishersHistoryPath" -ForegroundColor Gray
+Write-Host "  Latest:  $publishersLatestPath" -ForegroundColor Gray
 
 # Print summary
 Write-Host "`n=========================================" -ForegroundColor Cyan

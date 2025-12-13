@@ -31,6 +31,26 @@ Write-Host "Loading extension data from: $dataFile" -ForegroundColor Cyan
 $data = Get-Content $dataFile -Raw | ConvertFrom-Json
 Write-Host "Loaded $($data.Count) extensions" -ForegroundColor Green
 
+# Load diff report for NEW badges
+$diffFile = Join-Path $repoRoot "data\diff_report.json"
+$addedIds = [System.Collections.Generic.HashSet[string]]::new([StringComparer]::OrdinalIgnoreCase)
+if (Test-Path $diffFile) {
+    try {
+        $diffData = Get-Content $diffFile -Raw | ConvertFrom-Json
+        if ($diffData.added) {
+            foreach ($item in $diffData.added) {
+                # Handle potential object structure differences
+                $pubName = if ($item.publisher.publisherName) { $item.publisher.publisherName } else { $item.publisher }
+                $id = "$pubName.$($item.extensionName)"
+                $addedIds.Add($id) | Out-Null
+            }
+        }
+        Write-Host "Loaded diff report: $($addedIds.Count) new extensions" -ForegroundColor Cyan
+    } catch {
+        Write-Host "Warning: Failed to load diff report: $_" -ForegroundColor Yellow
+    }
+}
+
 # Enhanced category inference based on publisher patterns (most reliable)
 function Get-InferredCategory {
     param($displayName, $extensionName, $publisherName, $shortDescription)
@@ -554,7 +574,9 @@ foreach ($category in $sortedCategories) {
         $categoryNumber++
         
         # Extension header with dual numbering
-        $markdown += "### $categoryNumber. [$($ext.DisplayName)]($($ext.URL))`n"
+        $id = "$($ext.PublisherName).$($ext.ExtensionName)"
+        $newBadge = if ($addedIds.Contains($id)) { " ![NEW](https://img.shields.io/badge/NEW-brightgreen)" } else { "" }
+        $markdown += "### $categoryNumber. [$($ext.DisplayName)]($($ext.URL))$newBadge`n"
         $markdown += "*Extension #$globalNumber of $($data.Count)*`n`n"
         
         if ($ext.ShortDescription) {

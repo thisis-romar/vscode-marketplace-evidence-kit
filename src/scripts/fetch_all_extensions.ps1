@@ -135,16 +135,19 @@ if ($unverifiedCount -gt 0) {
 }
 Write-Host "  + Verified Microsoft: $($microsoftOnly.Count)" -ForegroundColor Green
 
+# Determine Repo Root (src/scripts -> src -> root)
+$RepoRoot = Split-Path (Split-Path $PSScriptRoot -Parent) -Parent
+
 # Save
 $timestamp = (Get-Date).ToString("yyyyMMddHHmm")
-$rawPath = Join-Path $PSScriptRoot "data\raw\all_extensions_$timestamp.json"
-$processedPath = Join-Path $PSScriptRoot "data\processed\all_extensions.json"
+$historyPath = Join-Path $RepoRoot "data\history\all_extensions_$timestamp.json"
+$latestPath = Join-Path $RepoRoot "data\all_extensions.json"
 
 # Ensure directories exist
-$rawDir = Split-Path $rawPath -Parent
-$processedDir = Split-Path $processedPath -Parent
-if (-not (Test-Path $rawDir)) { New-Item -ItemType Directory -Path $rawDir -Force | Out-Null }
-if (-not (Test-Path $processedDir)) { New-Item -ItemType Directory -Path $processedDir -Force | Out-Null }
+$historyDir = Split-Path $historyPath -Parent
+$dataDir = Split-Path $latestPath -Parent
+if (-not (Test-Path $historyDir)) { New-Item -ItemType Directory -Path $historyDir -Force | Out-Null }
+if (-not (Test-Path $dataDir)) { New-Item -ItemType Directory -Path $dataDir -Force | Out-Null }
 
 $output = @{
     metadata = @{
@@ -160,11 +163,11 @@ $output = @{
 }
 $jsonOutput = $output | ConvertTo-Json -Depth 20 -Compress
 
-# Save snapshot and processed
-$jsonOutput | Out-File -FilePath $rawPath -Encoding UTF8
-$jsonOutput | Out-File -FilePath $processedPath -Encoding UTF8
+# Save snapshot and latest
+$jsonOutput | Out-File -FilePath $historyPath -Encoding UTF8
+$jsonOutput | Out-File -FilePath $latestPath -Encoding UTF8
 
 Write-Host "`n+ Data saved to:" -ForegroundColor Green
-Write-Host "  Snapshot: $rawPath" -ForegroundColor Gray
-Write-Host "  Processed: $processedPath" -ForegroundColor Gray
+Write-Host "  History: $historyPath" -ForegroundColor Gray
+Write-Host "  Latest:  $latestPath" -ForegroundColor Gray
 Write-Host "`nSummary: $($microsoftOnly.Count) Microsoft extensions" -ForegroundColor Magenta

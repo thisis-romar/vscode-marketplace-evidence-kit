@@ -3,9 +3,10 @@ from prefect import flow, get_run_logger
 
 from flows.fetch import fetch_all_extensions, fetch_verified_publishers, fetch_unverified_publishers
 from flows.validate import validate_publishers
-from flows.render import generate_ms_extensions_markdown, generate_verified_publishers_markdown, generate_unverified_publishers_markdown
+from flows.render import generate_ms_extensions_markdown, generate_verified_publishers_markdown, generate_unverified_publishers_markdown, generate_changelog
 from flows.link_check import check_links
 from flows.publish import publish_docs
+from flows.diff import generate_diff
 
 
 @flow(
@@ -31,6 +32,10 @@ def docs_pipeline() -> dict:
     fetch_verified_publishers()
     fetch_unverified_publishers()
 
+    # Step 1.5: Generate Diff
+    logger.info("=== Step 1.5: Generating Diff ===")
+    generate_diff()
+
     # Step 2: Validate
     logger.info("=== Step 2: Validating publishers ===")
     validate_publishers()
@@ -40,6 +45,7 @@ def docs_pipeline() -> dict:
     generate_ms_extensions_markdown()
     generate_verified_publishers_markdown()
     generate_unverified_publishers_markdown()
+    generate_changelog()
 
     # Step 4: Link check
     logger.info("=== Step 4: Checking links ===")
