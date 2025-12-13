@@ -9,15 +9,15 @@
 ![Domains](https://img.shields.io/badge/Domains-282-red?style=for-the-badge)
 ![Installs](https://img.shields.io/badge/Installs-1856.1M-lightgrey?style=for-the-badge)
 
-*Last Updated: December 13, 2025 at 13:19:58 UTC*
+*Last Updated: December 13, 2025 at 13:51:46 UTC*
 
-[`1310972`](https://github.com/thisis-romar/vscode-marketplace-evidence-kit/commit/1310972d271fa04b11effd6ffa530a0c98e4c50f)
+[`77cb773`](https://github.com/thisis-romar/vscode-marketplace-evidence-kit/commit/77cb7736500bfac935650aa9109e0682c418de9d)
 
 </div>
 
 <!-- BUILD_METADATA
-timestamp: 2025-12-13T13:19:58Z
-commit: 1310972
+timestamp: 2025-12-13T13:51:46Z
+commit: 77cb773
 run_id: 
 data_source: 2025-12-06 03:24:53
 publishers: 3391
@@ -4657,6 +4657,9 @@ verification_status: unverified
 ---
 
 ### <a id="category-azure"></a>📂 Azure
+<details>
+<summary><strong>20 extensions in this category</strong></summary>
+
 | Extension | Publisher | Installs | Rating |
 |-----------|-----------|:--------:|:------:|
 | [**MySQL**](https://marketplace.visualstudio.com/items?itemName=formulahendry.vscode-mysql) | [formulahendry](#formulahendry) | 2.5M | ⭐ 3.7 |
@@ -4680,11 +4683,16 @@ verification_status: unverified
 | [**MSSQL Snippets**](https://marketplace.visualstudio.com/items?itemName=MEngRBatinov.mssql-snippets) | [MEngRBatinov](#mengrbatinov) | 28K | ⭐ 3 |
 | [**Just Enough Git**](https://marketplace.visualstudio.com/items?itemName=XuangeAha.just-enough-git) | [XuangeAha](#xuangeaha) | 28K | ⭐ 5 |
 
+</details>
+
 <p align="right"><a href="#-extensions-by-category">⬆️ Back to Categories</a> · <a href="#-table-of-contents">⬆️ Back to Top</a></p>
 
 ---
 
 ### <a id="category-chat"></a>📂 Chat
+<details>
+<summary><strong>15 extensions in this category</strong></summary>
+
 | Extension | Publisher | Installs | Rating |
 |-----------|-----------|:--------:|:------:|
 | [**Windsurf Plugin (formerly Codeium): AI Coding Autocomplete and Chat for Python, JavaScript, TypeScript, and more**](https://marketplace.visualstudio.com/items?itemName=Codeium.codeium) | [Codeium](#codeium) | 3.3M | ⭐ 4.8 |
@@ -4702,6 +4710,8 @@ verification_status: unverified
 | [**Zhanlu:AI Coding Assistant-Intelligent partner in development**](https://marketplace.visualstudio.com/items?itemName=ecloud.zhanlu) | [ecloud](#ecloud) | 33K | ⭐ 5 |
 | [**Monica Code**](https://marketplace.visualstudio.com/items?itemName=MonicaIM.monica-code) | [MonicaIM](#monicaim) | 32K | ⭐ 3.4 |
 | [**Roo Code Chinese（原Roo Cline）**](https://marketplace.visualstudio.com/items?itemName=HybridTalentComputing.roo-cline-chinese) | [HybridTalentComputing](#hybridtalentcomputing) | 27K | — |
+
+</details>
 
 <p align="right"><a href="#-extensions-by-category">⬆️ Back to Categories</a> · <a href="#-table-of-contents">⬆️ Back to Top</a></p>
 
@@ -56641,8 +56651,8 @@ For more details, see the [VS Code Publishing Documentation](https://code.visual
 | **API** | VS Code Marketplace Extension Query API |
 | **Filter** | `isDomainVerified = false` |
 | **Sort** | By install count (most popular first) |
-| **Generated** | 2025-12-13 13:19:58 |
-| **Build** | `1310972` / Run `` |
+| **Generated** | 2025-12-13 13:51:46 |
+| **Build** | `77cb773` / Run `` |
 
 ### Generation Scripts
 

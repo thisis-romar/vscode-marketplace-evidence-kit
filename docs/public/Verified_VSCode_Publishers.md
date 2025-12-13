@@ -9,15 +9,15 @@
 ![Domains](https://img.shields.io/badge/Domains-245-purple?style=for-the-badge)
 ![Installs](https://img.shields.io/badge/Installs-2967.6M-orange?style=for-the-badge)
 
-*Last Updated: December 13, 2025 at 13:19:50 UTC*
+*Last Updated: December 13, 2025 at 13:57:15 UTC*
 
-[`1310972`](https://github.com/thisis-romar/vscode-marketplace-evidence-kit/commit/1310972d271fa04b11effd6ffa530a0c98e4c50f)
+[`77cb773`](https://github.com/thisis-romar/vscode-marketplace-evidence-kit/commit/77cb7736500bfac935650aa9109e0682c418de9d)
 
 </div>
 
 <!-- BUILD_METADATA
-timestamp: 2025-12-13T13:19:50Z
-commit: 1310972
+timestamp: 2025-12-13T13:57:15Z
+commit: 77cb773
 run_id: 
 data_source: 2025-12-05 22:29:53
 publishers: 304
@@ -1874,6 +1874,9 @@ rating_coverage: 90%
 ---
 
 ### <a id="category-keymaps"></a>📂 Keymaps
+<details>
+<summary><strong>12 extensions in this category</strong></summary>
+
 | Extension | Publisher | Installs | Rating |
 |-----------|-----------|:--------:|:------:|
 | [**MySQL**](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-mysql-client2) | [cweijan](#cweijan) | 2.5M | ⭐ 4.2 |
@@ -1889,11 +1892,16 @@ rating_coverage: 90%
 | [**SSH Client**](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-ssh) | [cweijan](#cweijan) | 121K | ⭐ 4.5 |
 | [**ElasticSearch**](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-es-client2) | [cweijan](#cweijan) | 29K | ⭐ 3.7 |
 
+</details>
+
 <p align="right"><a href="#-extensions-by-category">⬆️ Back to Categories</a> · <a href="#-table-of-contents">⬆️ Back to Top</a></p>
 
 ---
 
 ### <a id="category-language-packs"></a>📂 Language Packs
+<details>
+<summary><strong>19 extensions in this category</strong></summary>
+
 | Extension | Publisher | Installs | Rating |
 |-----------|-----------|:--------:|:------:|
 | [**Chinese (Simplified) (简体中文) Language Pack for Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-zh-hans) | [MS-CEINTL](#ms-ceintl) | 46.5M | ⭐ 4.8 |
@@ -1915,6 +1923,8 @@ rating_coverage: 90%
 | [**CircleCI**](https://marketplace.visualstudio.com/items?itemName=circleci.circleci) | [circleci](#circleci) | 97K | ⭐ 4.8 |
 | [**Pseudo Language Language Pack**](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-qps-ploc) | [MS-CEINTL](#ms-ceintl) | 45K | ⭐ 5 |
 | [**Design Líquido - Linguagens em Português**](https://marketplace.visualstudio.com/items?itemName=designliquido.designliquido-vscode) | [designliquido](#designliquido) | 31K | ⭐ 5 |
+
+</details>
 
 <p align="right"><a href="#-extensions-by-category">⬆️ Back to Categories</a> · <a href="#-table-of-contents">⬆️ Back to Top</a></p>
 
@@ -2642,6 +2652,9 @@ rating_coverage: 90%
 ---
 
 ### <a id="category-scm-providers"></a>📂 SCM Providers
+<details>
+<summary><strong>5 extensions in this category</strong></summary>
+
 | Extension | Publisher | Installs | Rating |
 |-----------|-----------|:--------:|:------:|
 | [**GitLens — Git supercharged**](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) | [eamodio](#eamodio) | 45.8M | ⭐ 3.5 |
@@ -2649,6 +2662,8 @@ rating_coverage: 90%
 | [**Git Blame**](https://marketplace.visualstudio.com/items?itemName=solomonkinard.git-blame) | [solomonkinard](#solomonkinard) | 172K | ⭐ 4.2 |
 | [**DVC**](https://marketplace.visualstudio.com/items?itemName=Iterative.dvc) | [Iterative](#iterative) | 82K | ⭐ 4.8 |
 | [**SVN Blamer**](https://marketplace.visualstudio.com/items?itemName=beaugust.blamer-vs) | [beaugust](#beaugust) | 61K | ⭐ 4.5 |
+
+</details>
 
 <p align="right"><a href="#-extensions-by-category">⬆️ Back to Categories</a> · <a href="#-table-of-contents">⬆️ Back to Top</a></p>
 
@@ -11061,8 +11076,8 @@ For more details, see the [VS Code Publishing Documentation](https://code.visual
 | **API** | VS Code Marketplace Extension Query API |
 | **Filter** | `isDomainVerified = true` |
 | **Sort** | By install count (most popular first) |
-| **Generated** | 2025-12-13 13:19:50 |
-| **Build** | `1310972` / Run `` |
+| **Generated** | 2025-12-13 13:57:15 |
+| **Build** | `77cb773` / Run `` |
 
 ### Generation Scripts
 

@@ -518,8 +518,7 @@ foreach ($cat in $categories) {
 
 "@
     
-    if ($catExts.Count -gt 20) {
-        $markdown += @"
+    $markdown += @"
 <details>
 <summary><strong>$($catExts.Count) extensions in this category</strong></summary>
 
@@ -527,13 +526,6 @@ foreach ($cat in $categories) {
 |-----------|-----------|:--------:|:------:|
 "@
     $markdown += "`n"
-    } else {
-        $markdown += @"
-| Extension | Publisher | Installs | Rating |
-|-----------|-----------|:--------:|:------:|
-"@
-    $markdown += "`n"
-    }
     
     foreach ($ext in $catExts) {
         $pubAnchor = ConvertTo-Anchor -text $ext.publisher
@@ -544,9 +536,7 @@ foreach ($cat in $categories) {
         $markdown += "| [**$($ext.name)**]($extUrl) | $pubLink | $installs | $rating |`n"
     }
     
-    if ($catExts.Count -gt 20) {
-        $markdown += "`n</details>`n"
-    }
+    $markdown += "`n</details>`n"
     
     $markdown += "`n<p align=`"right`"><a href=`"#-extensions-by-category`">⬆️ Back to Categories</a> · <a href=`"#-table-of-contents`">⬆️ Back to Top</a></p>`n"
 }
