@@ -9,16 +9,16 @@
 ![Domains](https://img.shields.io/badge/Domains-282-red?style=for-the-badge)
 ![Installs](https://img.shields.io/badge/Installs-1856.1M-lightgrey?style=for-the-badge)
 
-*Last Updated: December 6, 2025 at 03:25:27 UTC*
+*Last Updated: December 13, 2025 at 12:38:07 UTC*
 
-[`abc1234`](https://github.com/thisis-romar/vscode-marketplace-evidence-kit/commit/abc1234567890def) • [Run #98765432](https://github.com/thisis-romar/vscode-marketplace-evidence-kit/actions/runs/98765432)
+`60853ad` *(local, unpublished)*
 
 </div>
 
 <!-- BUILD_METADATA
-timestamp: 2025-12-06T03:25:27Z
-commit: abc1234
-run_id: 98765432
+timestamp: 2025-12-13T12:38:07Z
+commit: 60853ad
+run_id: 
 data_source: 2025-12-06 03:24:53
 publishers: 3391
 extensions: 4114
@@ -4444,7 +4444,7 @@ verification_status: unverified
 | [**IBMi Languages**](https://marketplace.visualstudio.com/items?itemName=barrettotte.ibmi-languages) | [barrettotte](#barrettotte) | `(no domain)` | 2025-11-19 | `0.6.24` | 76K |
 
 <details>
-<summary><strong>📂 View all 150 recently updated extensions</strong></summary>
+<summary><strong>📂 View all 132 recently updated extensions</strong></summary>
 
 | Extension | Publisher | Domain | Last Updated | Version | Installs |
 |-----------|-----------|--------|:------------:|:-------:|:--------:|
@@ -4580,24 +4580,6 @@ verification_status: unverified
 | [**Ionide for F#**](https://marketplace.visualstudio.com/items?itemName=Ionide.Ionide-fsharp) | [Ionide](#ionide) | `(no domain)` | 2025-11-13 | `7.29.0` | 1.7M |
 | [**Vue 3 + Tailwind + Bootstrap Snippets**](https://marketplace.visualstudio.com/items?itemName=heberalmeida.vue-snippets-js-html-pug-razor) | [heberalmeida](#heberalmeida) | `(no domain)` | 2025-11-13 | `2.0.1` | 68K |
 | [**PHP Snippets VS Code**](https://marketplace.visualstudio.com/items?itemName=heberalmeida.php-snippets) | [heberalmeida](#heberalmeida) | `(no domain)` | 2025-11-13 | `0.1.2` | 79K |
-| [**OCaml Platform**](https://marketplace.visualstudio.com/items?itemName=ocamllabs.ocaml-platform) | [ocamllabs](#ocamllabs) | `(no domain)` | 2025-11-12 | `2.0.1` | 259K |
-| [**C Snippets**](https://marketplace.visualstudio.com/items?itemName=Harry-Ross-Software.c-snippets) | [Harry-Ross-Software](#harry-ross-software) | `(no domain)` | 2025-11-12 | `1.4.11` | 37K |
-| [**Mermaid Graphical Editor**](https://marketplace.visualstudio.com/items?itemName=corschenzi.mermaid-graphical-editor) | [corschenzi](#corschenzi) | `(no domain)` | 2025-11-12 | `0.5.7` | 53K |
-| [**GetBotAI Code assistant**](https://marketplace.visualstudio.com/items?itemName=FutureTechNexus.getbotai) | [FutureTechNexus](#futuretechnexus) | `getbot.ai` | 2025-11-12 | `3.3.2` | 30K |
-| [**Task Explorer**](https://marketplace.visualstudio.com/items?itemName=spmeesseman.vscode-taskexplorer) | [spmeesseman](#spmeesseman) | `(no domain)` | 2025-11-12 | `3.0.3` | 372K |
-| [**Angular Essentials (Version 20)**](https://marketplace.visualstudio.com/items?itemName=johnpapa.angular-essentials) | [johnpapa](#johnpapa) | `(no domain)` | 2025-11-11 | `20.0.1` | 1.6M |
-| [**AL Object ID Ninja**](https://marketplace.visualstudio.com/items?itemName=vjeko.vjeko-al-objid) | [vjeko](#vjeko) | `vjeko.com` | 2025-11-11 | `2.13.0` | 84K |
-| [**Minimal Kiwi**](https://marketplace.visualstudio.com/items?itemName=PranjalKumar.minimal-kiwi) | [PranjalKumar](#pranjalkumar) | `pranjalkumar.in` | 2025-11-11 | `3.0.4` | 32K |
-| [**LaTeX Workshop**](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop) | [James-Yu](#james-yu) | `(no domain)` | 2025-11-11 | `10.11.3` | 4.5M |
-| [**AutoIt**](https://marketplace.visualstudio.com/items?itemName=Damien.autoit) | [Damien](#damien) | `(no domain)` | 2025-11-10 | `1.3.0` | 88K |
-| [**Terminals Manager**](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-terminals) | [fabiospampinato](#fabiospampinato) | `(no domain)` | 2025-11-10 | `2.1.2` | 68K |
-| [**EmmyLua**](https://marketplace.visualstudio.com/items?itemName=tangzx.emmylua) | [tangzx](#tangzx) | `(no domain)` | 2025-11-10 | `0.9.32` | 141K |
-| [**LeetCode with labuladong**](https://marketplace.visualstudio.com/items?itemName=labuladong.leetcode-helper) | [labuladong](#labuladong) | `labuladong.online` | 2025-11-10 | `3.3.4` | 86K |
-| [**DeepSeek Code Generator**](https://marketplace.visualstudio.com/items?itemName=DavidDai.deepseek-code-generator) | [DavidDai](#daviddai) | `(no domain)` | 2025-11-08 | `1.3.0` | 103K |
-| [**vscode-pokemon**](https://marketplace.visualstudio.com/items?itemName=jakobhoeg.vscode-pokemon) | [jakobhoeg](#jakobhoeg) | `jakobhoeg.dev` | 2025-11-08 | `3.2.2` | 86K |
-| [**Package Json Upgrade**](https://marketplace.visualstudio.com/items?itemName=codeandstuff.package-json-upgrade) | [codeandstuff](#codeandstuff) | `(no domain)` | 2025-11-07 | `3.2.3` | 103K |
-| [**Learn with Sumit Theme**](https://marketplace.visualstudio.com/items?itemName=SumitSaha.learn-with-sumit-theme) | [SumitSaha](#sumitsaha) | `learnwithsumit.com` | 2025-11-07 | `12.1.0` | 152K |
-| [**ByteDance Gallery**](https://marketplace.visualstudio.com/items?itemName=byted-ide.gallery) | [byted-ide](#byted-ide) | `(no domain)` | 2025-11-06 | `0.7.1` | 147K |
 
 </details>
 
@@ -56659,8 +56641,8 @@ For more details, see the [VS Code Publishing Documentation](https://code.visual
 | **API** | VS Code Marketplace Extension Query API |
 | **Filter** | `isDomainVerified = false` |
 | **Sort** | By install count (most popular first) |
-| **Generated** | 2025-12-06 03:25:27 |
-| **Build** | `abc1234` / Run `98765432` |
+| **Generated** | 2025-12-13 12:38:07 |
+| **Build** | `60853ad` / Run `` |
 
 ### Generation Scripts
 

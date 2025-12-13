@@ -161,10 +161,61 @@ $timestamp = Get-Date -Format "yyyy-MM-dd HH:mm:ss"
 $timestampISO = Get-Date -Format "yyyy-MM-ddTHH:mm:ssZ"
 $datestamp = Get-Date -Format "MMMM d, yyyy"
 
-# CI/CD build metadata (from GitHub Actions environment variables)
-$commitSHA = if ($env:GITHUB_SHA) { $env:GITHUB_SHA.Substring(0, 7) } else { "local" }
-$runID = if ($env:GITHUB_RUN_ID) { $env:GITHUB_RUN_ID } else { "manual" }
+# CI/CD build metadata (from GitHub Actions environment variables or local git)
 $repoOwner = if ($env:GITHUB_REPOSITORY) { $env:GITHUB_REPOSITORY } else { "thisis-romar/vscode-marketplace-evidence-kit" }
+
+# Get commit SHA: prefer CI env var, fallback to local git
+# Also verify if the commit is on a remote branch (to avoid 404 links)
+$commitIsOnRemote = $false
+
+if ($env:GITHUB_SHA) {
+    # CI environment: commit is being pushed, so it will be on remote
+    $fullCommitSHA = $env:GITHUB_SHA
+    $commitSHA = $env:GITHUB_SHA.Substring(0, 7)
+    $commitIsOnRemote = $true
+} else {
+    # Try to get from local git repository
+    try {
+        $fullCommitSHA = (git rev-parse HEAD 2>$null)
+        if ($fullCommitSHA) {
+            $fullCommitSHA = $fullCommitSHA.Trim()
+            $commitSHA = $fullCommitSHA.Substring(0, 7)
+            
+            # Check if this commit exists on any remote branch
+            $remoteBranches = git branch -r --contains $fullCommitSHA 2>$null
+            if ($remoteBranches -and $remoteBranches.Trim()) {
+                $commitIsOnRemote = $true
+                Write-Host "  Commit $commitSHA is on remote: $($remoteBranches.Trim() -join ', ')" -ForegroundColor Green
+            } else {
+                Write-Host "  Commit $commitSHA is NOT on any remote branch (link will be local)" -ForegroundColor Yellow
+                $commitIsOnRemote = $false
+            }
+        } else {
+            $fullCommitSHA = $null
+            $commitSHA = "local"
+        }
+    } catch {
+        $fullCommitSHA = $null
+        $commitSHA = "local"
+    }
+}
+
+$runID = if ($env:GITHUB_RUN_ID) { $env:GITHUB_RUN_ID } else { $null }
+
+# Build the provenance line based on available info
+if ($fullCommitSHA -and $runID) {
+    # Full CI context: show commit link and run link
+    $provenanceLine = "[``$commitSHA``](https://github.com/$repoOwner/commit/$fullCommitSHA) • [Run #$runID](https://github.com/$repoOwner/actions/runs/$runID)"
+} elseif ($fullCommitSHA -and $commitIsOnRemote) {
+    # Local git with commit on remote: show commit link
+    $provenanceLine = "[``$commitSHA``](https://github.com/$repoOwner/commit/$fullCommitSHA)"
+} elseif ($fullCommitSHA) {
+    # Local git but commit NOT on remote: show local indicator (no broken link)
+    $provenanceLine = "``$commitSHA`` *(local, unpublished)*"
+} else {
+    # No git info: plain text
+    $provenanceLine = "*Local build*"
+}
 
 # Calculate total installs
 $totalInstalls = ($publishers | Measure-Object -Property totalInstalls -Sum).Sum
@@ -193,7 +244,7 @@ $markdown = @"
 
 *Last Updated: $datestamp at $($timestamp.Split(' ')[1]) UTC*
 
-$(if ($commitSHA -ne 'local') { "[``$commitSHA``](https://github.com/$repoOwner/commit/$($env:GITHUB_SHA)) • [Run #$runID](https://github.com/$repoOwner/actions/runs/$runID)" } else { "*Build: ``$commitSHA`` • Run: ``$runID``*" })
+$provenanceLine
 
 </div>
 

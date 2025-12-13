@@ -2,14 +2,14 @@
 
 **Comprehensive listing of all Microsoft Visual Studio Code extensions**
 
-*Last Updated: December 6, 2025 at 01:50:11 UTC*
+*Last Updated: December 13, 2025 at 12:39:44 UTC*
 
-[`abc1234`](https://github.com/thisis-romar/vscode-marketplace-evidence-kit/commit/abc1234567890def) • [Run #98765432](https://github.com/thisis-romar/vscode-marketplace-evidence-kit/actions/runs/98765432)
+`60853ad` *(local, unpublished)*
 
 <!-- BUILD_METADATA
-timestamp: 2025-12-06T01:50:11Z
-commit: abc1234
-run_id: 98765432
+timestamp: 2025-12-13T12:39:44Z
+commit: 60853ad
+run_id: 
 extensions: 329
 categories: 25
 -->
@@ -20,7 +20,7 @@ categories: 25
 
 - **Total Extensions:** 329
 - **Categories:** 25
-- **Generated:** 2025-12-06 01:50:11
+- **Generated:** 2025-12-13 12:39:44
 - **Source:** [Microsoft Publisher Page](https://marketplace.visualstudio.com/publishers/Microsoft)
 
 ---
@@ -58,8 +58,8 @@ categories: 25
 | 5 | 📜 | **JavaScript & TypeScript** | 14 | 4.3% | [View →](#javascript-typescript) |
 | 6 | 🐍 | **Python Development** | 13 | 4% | [View →](#python-development) |
 | 7 | 🌐 | **Remote Development** | 10 | 3% | [View →](#remote-development) |
-| 8 | 🐳 | **Containers & Kubernetes** | 9 | 2.7% | [View →](#containers-kubernetes) |
-| 9 | ⚡ | **.NET Development** | 9 | 2.7% | [View →](#net-development) |
+| 8 | ⚡ | **.NET Development** | 9 | 2.7% | [View →](#net-development) |
+| 9 | 🐳 | **Containers & Kubernetes** | 9 | 2.7% | [View →](#containers-kubernetes) |
 | 10 | 🎓 | **Education & Learning** | 8 | 2.4% | [View →](#education-learning) |
 | 11 | 🎨 | **Themes & Appearance** | 8 | 2.4% | [View →](#themes-appearance) |
 | 12 | 🧪 | **Testing Tools** | 7 | 2.1% | [View →](#testing-tools) |
@@ -68,14 +68,14 @@ categories: 25
 | 15 | 🔌 | **IoT & Hardware** | 4 | 1.2% | [View →](#iot-hardware) |
 | 16 | 🐛 | **Debugging Tools** | 3 | 0.9% | [View →](#debugging-tools) |
 | 17 | 🔧 | **C/C++ Development** | 3 | 0.9% | [View →](#c-c-development) |
-| 18 | ⚛️ | **Quantum Computing** | 2 | 0.6% | [View →](#quantum-computing) |
+| 18 | 👥 | **Collaboration Tools** | 2 | 0.6% | [View →](#collaboration-tools) |
 | 19 | 📊 | **Business Central (AL)** | 2 | 0.6% | [View →](#business-central-al) |
 | 20 | ✨ | **Linters & Formatters** | 2 | 0.6% | [View →](#linters-formatters) |
-| 21 | 👥 | **Collaboration Tools** | 2 | 0.6% | [View →](#collaboration-tools) |
-| 22 | ⚠️ | **Deprecated Extensions** | 1 | 0.3% | [View →](#deprecated-extensions) |
-| 23 | 📈 | **Data Science & Notebooks** | 1 | 0.3% | [View →](#data-science-notebooks) |
-| 24 | 💻 | **PowerShell Development** | 1 | 0.3% | [View →](#powershell-development) |
-| 25 | 🔀 | **Version Control** | 1 | 0.3% | [View →](#version-control) |
+| 21 | ⚛️ | **Quantum Computing** | 2 | 0.6% | [View →](#quantum-computing) |
+| 22 | 🔀 | **Version Control** | 1 | 0.3% | [View →](#version-control) |
+| 23 | ⚠️ | **Deprecated Extensions** | 1 | 0.3% | [View →](#deprecated-extensions) |
+| 24 | 📈 | **Data Science & Notebooks** | 1 | 0.3% | [View →](#data-science-notebooks) |
+| 25 | 💻 | **PowerShell Development** | 1 | 0.3% | [View →](#powershell-development) |
 
 **Total: 329 extensions across 25 categories**
 
@@ -386,20 +386,6 @@ categories: 25
 9. **[WSL: Recommender](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl-recommender)** - 69K installs
 10. **[Fabric Data Engineering VS Code - Remote](https://marketplace.visualstudio.com/items?itemName=SynapseVSCode.vscode-synapse-remote)** - 10K installs
 
-#### 🐳 Containers & Kubernetes
-
-**9 extensions** (2.7%) | [View Full Category →](#containers-kubernetes)
-
-1. **[Kubernetes](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.vscode-kubernetes-tools)** - 6.34M installs
-2. **[Bridge to Kubernetes](https://marketplace.visualstudio.com/items?itemName=mindaro.mindaro)** - 488K installs
-3. **[Azure Kubernetes Service](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.vscode-aks-tools)** - 402K installs
-4. **[Kubernetes Kind](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.kind-vscode)** - 102K installs
-5. **[Developer Tools for Azure Kubernetes Service (AKS)](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.aks-devx-tools)** - 22K installs
-6. **[Open Policy Agent for Kubernetes](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.kubernetes-opa-vscode)** - 5K installs
-7. **[Duffle](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.duffle-vscode)** - 4K installs
-8. **[Porter](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.porter-vscode)** - 3K installs
-9. **[Duffle Coat](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.duffle-coat)** - 2K installs
-
 #### ⚡ .NET Development
 
 **9 extensions** (2.7%) | [View Full Category →](#net-development)
@@ -413,6 +399,20 @@ categories: 25
 7. **[.NET MAUI](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.dotnet-maui)** - 347K installs
 8. **[Microsoft.AspNetCore.Razor.VSCode.BlazorWasmDebuggingExtension](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.blazorwasm-companion)** - 176K installs
 9. **[GitHub Copilot app modernization for .NET](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscode-dotnet-modernize)** - 6K installs
+
+#### 🐳 Containers & Kubernetes
+
+**9 extensions** (2.7%) | [View Full Category →](#containers-kubernetes)
+
+1. **[Kubernetes](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.vscode-kubernetes-tools)** - 6.34M installs
+2. **[Bridge to Kubernetes](https://marketplace.visualstudio.com/items?itemName=mindaro.mindaro)** - 488K installs
+3. **[Azure Kubernetes Service](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.vscode-aks-tools)** - 402K installs
+4. **[Kubernetes Kind](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.kind-vscode)** - 102K installs
+5. **[Developer Tools for Azure Kubernetes Service (AKS)](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.aks-devx-tools)** - 22K installs
+6. **[Open Policy Agent for Kubernetes](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.kubernetes-opa-vscode)** - 5K installs
+7. **[Duffle](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.duffle-vscode)** - 4K installs
+8. **[Porter](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.porter-vscode)** - 3K installs
+9. **[Duffle Coat](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.duffle-coat)** - 2K installs
 
 #### 🎓 Education & Learning
 
@@ -498,12 +498,12 @@ categories: 25
 2. **[anycode-cpp](https://marketplace.visualstudio.com/items?itemName=ms-vscode.anycode-cpp)** - 71K installs
 3. **[anycode-cpp](https://marketplace.visualstudio.com/items?itemName=ms-vscode.anycode-cpp)** - 71K installs
 
-#### ⚛️ Quantum Computing
+#### 👥 Collaboration Tools
 
-**2 extensions** (0.6%) | [View Full Category →](#quantum-computing)
+**2 extensions** (0.6%) | [View Full Category →](#collaboration-tools)
 
-1. **[Azure Quantum Development Kit (QDK)](https://marketplace.visualstudio.com/items?itemName=quantum.qsharp-lang-vscode)** - 25K installs
-2. **[[DEV BUILD] Azure Quantum Development Kit (QDK)](https://marketplace.visualstudio.com/items?itemName=quantum.qsharp-lang-vscode-dev)** - 4K installs
+1. **[Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)** - 22.23M installs
+2. **[[Deprecated] Live Share Audio](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-audio)** - 5.45M installs
 
 #### 📊 Business Central (AL)
 
@@ -519,12 +519,18 @@ categories: 25
 1. **[ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)** - 46.85M installs
 2. **[TSLint](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin)** - 4.47M installs
 
-#### 👥 Collaboration Tools
+#### ⚛️ Quantum Computing
 
-**2 extensions** (0.6%) | [View Full Category →](#collaboration-tools)
+**2 extensions** (0.6%) | [View Full Category →](#quantum-computing)
 
-1. **[Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)** - 22.23M installs
-2. **[[Deprecated] Live Share Audio](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-audio)** - 5.45M installs
+1. **[Azure Quantum Development Kit (QDK)](https://marketplace.visualstudio.com/items?itemName=quantum.qsharp-lang-vscode)** - 25K installs
+2. **[[DEV BUILD] Azure Quantum Development Kit (QDK)](https://marketplace.visualstudio.com/items?itemName=quantum.qsharp-lang-vscode-dev)** - 4K installs
+
+#### 🔀 Version Control
+
+**1 extensions** (0.3%) | [View Full Category →](#version-control)
+
+1. **[GitHub Issue Notebooks](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-github-issue-notebooks)** - 255K installs
 
 #### ⚠️ Deprecated Extensions
 
@@ -543,12 +549,6 @@ categories: 25
 **1 extensions** (0.3%) | [View Full Category →](#powershell-development)
 
 1. **[PowerShell](https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell)** - 17.05M installs
-
-#### 🔀 Version Control
-
-**1 extensions** (0.3%) | [View Full Category →](#version-control)
-
-1. **[GitHub Issue Notebooks](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-github-issue-notebooks)** - 255K installs
 
 ---
 
@@ -9594,326 +9594,6 @@ All Platforms
 
 ---
 
-## Containers & Kubernetes
-
-**Category Stats:** 9 extensions | Total Installs: 7.36M | Avg Rating: 4.5⭐
-
-[⬆ Back to Table of Contents](#-table-of-contents)
-
----
-
-### 1. [Kubernetes](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.vscode-kubernetes-tools)
-*Extension #256 of 329*
-
-Develop, deploy and debug Kubernetes applications
-
-**Details:**
-
-- **Extension ID:** `ms-kubernetes-tools.vscode-kubernetes-tools`
-- **Version:** 1.3.27
-- **Installs:** 6.34M
-- **Rating:** ⭐ 4.4/5 (39 ratings)
-- **Published:** 2018-01-10
-- **Last Updated:** 2025-11-25
-- **VS Code Engine:** ^1.106.0
-- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.vscode-kubernetes-tools
-
-**Resources:**
-
-- 📦 [Repository](https://github.com/vscode-kubernetes-tools/vscode-kubernetes-tools)
-- 🐛 [Issues](https://github.com/vscode-kubernetes-tools/vscode-kubernetes-tools/issues)
-
-**Marketplace Categories:**
-
-Snippets, Linters, Debuggers, Azure
-
-**Tags:**
-
-aks, aws, gke, helm, helm-template, ignore, keybindings, kubernetes, snippet, yaml
-
-**Works With:**
-
-All Platforms
-
----
-
-### 2. [Bridge to Kubernetes](https://marketplace.visualstudio.com/items?itemName=mindaro.mindaro)
-*Extension #257 of 329*
-
-Rapid Kubernetes development for teams
-
-**Details:**
-
-- **Extension ID:** `mindaro.mindaro`
-- **Version:** 2.0.120250115
-- **Installs:** 488K
-- **Rating:** ⭐ 4.8/5 (6 ratings)
-- **Published:** 2020-07-23
-- **Last Updated:** 2025-01-15
-- **VS Code Engine:** ^1.95.0
-- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=mindaro.mindaro
-
-**Resources:**
-
-- 📦 [Repository](https://github.com/Azure/vscode-bridge-to-kubernetes.git)
-- 🐛 [Issues](https://github.com/Azure/vscode-bridge-to-kubernetes/issues)
-- 🏠 [Homepage](https://aka.ms/bridge-to-k8s-vscode-quickstart)
-
-**Marketplace Categories:**
-
-Debuggers, Azure
-
-**Tags:**
-
-azds, Azure Dev Spaces, Bridge, Bridge to Kubernetes, cloud native, cluster, connect, container, debug, debuggers, docker, kubernetes, kubernetes-extension-local-tunnel-debug-provider, Local Process with Kubernetes, lpk, microservice
-
-**Works With:**
-
-All Platforms
-
----
-
-### 3. [Azure Kubernetes Service](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.vscode-aks-tools)
-*Extension #258 of 329*
-
-Display Azure Kubernetes Services within VS Code
-
-**Details:**
-
-- **Extension ID:** `ms-kubernetes-tools.vscode-aks-tools`
-- **Version:** 1.6.14
-- **Installs:** 402K
-- **Rating:** ⭐ 4.8/5 (13 ratings)
-- **Published:** 2019-05-10
-- **Last Updated:** 2025-11-04
-- **VS Code Engine:** ^1.105.0
-- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.vscode-aks-tools
-
-**Resources:**
-
-- 📦 [Repository](https://github.com/Azure/vscode-aks-tools.git)
-- 🐛 [Issues](https://github.com/Azure/vscode-aks-tools/issues)
-- 🏠 [Homepage](https://github.com/Azure/vscode-aks-tools#readme)
-
-**Marketplace Categories:**
-
-Azure
-
-**Tags:**
-
-acs, aks, azure, kubernetes, kubernetes-extension-cloud-provider
-
-**Works With:**
-
-All Platforms
-
----
-
-### 4. [Kubernetes Kind](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.kind-vscode)
-*Extension #259 of 329*
-
-Work with the Kind local Kubernetes provider in Visual Studio Code
-
-**Details:**
-
-- **Extension ID:** `ms-kubernetes-tools.kind-vscode`
-- **Version:** 0.0.3
-- **Installs:** 102K
-- **Rating:** ⭐ 4/5 (1 ratings)
-- **Published:** 2019-07-22
-- **Last Updated:** 2020-03-26
-- **VS Code Engine:** ^1.32.0
-- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.kind-vscode
-
-**Resources:**
-
-- 📦 [Repository](https://github.com/deislabs/kind-vscode)
-- 🐛 [Issues](https://github.com/deislabs/kind-vscode/issues)
-
-**Marketplace Categories:**
-
-Other
-
-**Tags:**
-
-kind, kubernetes, kubernetes-extension-cloud-provider
-
-**Works With:**
-
-All Platforms
-
----
-
-### 5. [Developer Tools for Azure Kubernetes Service (AKS)](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.aks-devx-tools)
-*Extension #260 of 329*
-
-Create deployment files and configure GitHub Actions workflows to deploy applications to Azure Kubernetes Service (AKS).
-
-**Details:**
-
-- **Extension ID:** `ms-kubernetes-tools.aks-devx-tools`
-- **Version:** 0.1.2
-- **Installs:** 22K
-- **Published:** 2022-07-25
-- **Last Updated:** 2023-05-23
-- **VS Code Engine:** ^1.67.0
-- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.aks-devx-tools
-
-**Resources:**
-
-- 📦 [Repository](https://github.com/Azure/aks-devx-tools)
-- 🐛 [Issues](https://github.com/Azure/aks-devx-tools/issues)
-
-**Marketplace Categories:**
-
-Azure
-
-**Works With:**
-
-All Platforms
-
----
-
-### 6. [Open Policy Agent for Kubernetes](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.kubernetes-opa-vscode)
-*Extension #261 of 329*
-
-Work with Open Policy Agent as a Kubernetes admission controller
-
-**Details:**
-
-- **Extension ID:** `ms-kubernetes-tools.kubernetes-opa-vscode`
-- **Version:** 0.0.2
-- **Installs:** 5K
-- **Published:** 2019-12-02
-- **Last Updated:** 2019-12-06
-- **VS Code Engine:** ^1.40.0
-- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.kubernetes-opa-vscode
-
-**Resources:**
-
-- 📦 [Repository](https://github.com/deislabs/kubernetes-opa-vscode)
-- 🐛 [Issues](https://github.com/deislabs/kubernetes-opa-vscode/issues)
-
-**Marketplace Categories:**
-
-Other
-
-**Tags:**
-
-kubernetes, opa, open policy agent
-
-**Works With:**
-
-All Platforms
-
----
-
-### 7. [Duffle](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.duffle-vscode)
-*Extension #262 of 329*
-
-Build and deploy Cloud Native Application Bundles with Duffle
-
-**Details:**
-
-- **Extension ID:** `ms-kubernetes-tools.duffle-vscode`
-- **Version:** 0.3.0
-- **Installs:** 4K
-- **Published:** 2018-12-04
-- **Last Updated:** 2019-08-14
-- **VS Code Engine:** ^1.26.0
-- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.duffle-vscode
-
-**Resources:**
-
-- 📦 [Repository](https://github.com/deislabs/duffle-vscode)
-- 🐛 [Issues](https://github.com/deislabs/duffle-vscode/issues)
-
-**Marketplace Categories:**
-
-Other
-
-**Tags:**
-
-cloud-native, cnab, duffle, json, snippet
-
-**Works With:**
-
-All Platforms
-
----
-
-### 8. [Porter](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.porter-vscode)
-*Extension #263 of 329*
-
-Build CNAB bundles with Porter
-
-**Details:**
-
-- **Extension ID:** `ms-kubernetes-tools.porter-vscode`
-- **Version:** 0.0.2
-- **Installs:** 3K
-- **Published:** 2019-11-11
-- **Last Updated:** 2019-11-13
-- **VS Code Engine:** ^1.30.0
-- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.porter-vscode
-
-**Resources:**
-
-- 📦 [Repository](https://github.com/deislabs/porter-vscode)
-- 🐛 [Issues](https://github.com/deislabs/porter-vscode/issues)
-
-**Marketplace Categories:**
-
-Other
-
-**Tags:**
-
-cnab, debuggers, porter, yaml
-
-**Works With:**
-
-All Platforms
-
----
-
-### 9. [Duffle Coat](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.duffle-coat)
-*Extension #264 of 329*
-
-Generates CNAB self-installers
-
-**Details:**
-
-- **Extension ID:** `ms-kubernetes-tools.duffle-coat`
-- **Version:** 0.3.4
-- **Installs:** 2K
-- **Published:** 2018-12-11
-- **Last Updated:** 2019-08-21
-- **VS Code Engine:** ^1.27.0
-- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.duffle-coat
-
-**Resources:**
-
-- 📦 [Repository](https://github.com/deislabs/duffle-coat)
-- 🐛 [Issues](https://github.com/deislabs/duffle-coat/issues)
-
-**Marketplace Categories:**
-
-Other
-
-**Tags:**
-
-cnab, duffle
-
-**Works With:**
-
-All Platforms
-
----
-
-[⬆ Back to Table of Contents](#-table-of-contents)
-
----
-
 ## .NET Development
 
 **Category Stats:** 9 extensions | Total Installs: 81.09M | Avg Rating: 3.3⭐
@@ -9923,7 +9603,7 @@ All Platforms
 ---
 
 ### 1. [C#](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp)
-*Extension #265 of 329*
+*Extension #256 of 329*
 
 Base language support for C#
 
@@ -9960,7 +9640,7 @@ Alpine Linux ARM64, Alpine Linux x64, macOS Apple Silicon, Linux ARM64, Windows 
 ---
 
 ### 2. [.NET Install Tool](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscode-dotnet-runtime)
-*Extension #266 of 329*
+*Extension #257 of 329*
 
 This extension installs and manages different versions of the .NET SDK and Runtime.
 
@@ -9996,7 +9676,7 @@ All Platforms
 ---
 
 ### 3. [C# Dev Kit](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit)
-*Extension #267 of 329*
+*Extension #258 of 329*
 
 Official C# extension from Microsoft
 
@@ -10030,7 +9710,7 @@ Alpine Linux x64, Linux ARM64, macOS Apple Silicon, Alpine Linux ARM64, macOS In
 ---
 
 ### 4. [IntelliCode for C# Dev Kit](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscodeintellicode-csharp)
-*Extension #268 of 329*
+*Extension #259 of 329*
 
 AI-assisted development for C# Dev Kit
 
@@ -10066,7 +9746,7 @@ macOS Intel, Windows x64, Windows ARM64, Linux x64, Linux ARM64, macOS Apple Sil
 ---
 
 ### 5. [Polyglot Notebooks](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.dotnet-interactive-vscode)
-*Extension #269 of 329*
+*Extension #260 of 329*
 
 Polyglot Notebooks for VS Code. Use multiple languages in one notebook with full language server support for each language and share variables between them.
 
@@ -10102,7 +9782,7 @@ All Platforms
 ---
 
 ### 6. [.NET Extension Pack](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscode-dotnet-pack)
-*Extension #270 of 329*
+*Extension #261 of 329*
 
 The ultimate collection of extensions for working with .NET in VS Code!
 
@@ -10138,7 +9818,7 @@ All Platforms
 ---
 
 ### 7. [.NET MAUI](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.dotnet-maui)
-*Extension #271 of 329*
+*Extension #262 of 329*
 
 Extend C# Dev Kit with tools for building .NET Multi-platform App UI (MAUI) apps
 
@@ -10172,7 +9852,7 @@ macOS Intel, Linux x64, Alpine Linux x64, Windows ARM64, Alpine Linux ARM64, mac
 ---
 
 ### 8. [Microsoft.AspNetCore.Razor.VSCode.BlazorWasmDebuggingExtension](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.blazorwasm-companion)
-*Extension #272 of 329*
+*Extension #263 of 329*
 
 A companion extension for debugging Blazor WebAssembly applications in VS Code. Must be installed alongside the C# extension.
 
@@ -10208,7 +9888,7 @@ All Platforms
 ---
 
 ### 9. [GitHub Copilot app modernization for .NET](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscode-dotnet-modernize)
-*Extension #273 of 329*
+*Extension #264 of 329*
 
 GitHub Copilot app modernization for .NET is a public preview AI-powered experience that helps you bring your .NET applications to the latest version quicker and more confidently than ever before. Powered by GitHub Copilot and Agent Mode, it serves as an intelligent upgrade companion that understand
 
@@ -10230,6 +9910,326 @@ AI, Chat
 **Tags:**
 
 .NET, agent, chat, copilot, csharp, Upgrade
+
+**Works With:**
+
+All Platforms
+
+---
+
+[⬆ Back to Table of Contents](#-table-of-contents)
+
+---
+
+## Containers & Kubernetes
+
+**Category Stats:** 9 extensions | Total Installs: 7.36M | Avg Rating: 4.5⭐
+
+[⬆ Back to Table of Contents](#-table-of-contents)
+
+---
+
+### 1. [Kubernetes](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.vscode-kubernetes-tools)
+*Extension #265 of 329*
+
+Develop, deploy and debug Kubernetes applications
+
+**Details:**
+
+- **Extension ID:** `ms-kubernetes-tools.vscode-kubernetes-tools`
+- **Version:** 1.3.27
+- **Installs:** 6.34M
+- **Rating:** ⭐ 4.4/5 (39 ratings)
+- **Published:** 2018-01-10
+- **Last Updated:** 2025-11-25
+- **VS Code Engine:** ^1.106.0
+- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.vscode-kubernetes-tools
+
+**Resources:**
+
+- 📦 [Repository](https://github.com/vscode-kubernetes-tools/vscode-kubernetes-tools)
+- 🐛 [Issues](https://github.com/vscode-kubernetes-tools/vscode-kubernetes-tools/issues)
+
+**Marketplace Categories:**
+
+Snippets, Linters, Debuggers, Azure
+
+**Tags:**
+
+aks, aws, gke, helm, helm-template, ignore, keybindings, kubernetes, snippet, yaml
+
+**Works With:**
+
+All Platforms
+
+---
+
+### 2. [Bridge to Kubernetes](https://marketplace.visualstudio.com/items?itemName=mindaro.mindaro)
+*Extension #266 of 329*
+
+Rapid Kubernetes development for teams
+
+**Details:**
+
+- **Extension ID:** `mindaro.mindaro`
+- **Version:** 2.0.120250115
+- **Installs:** 488K
+- **Rating:** ⭐ 4.8/5 (6 ratings)
+- **Published:** 2020-07-23
+- **Last Updated:** 2025-01-15
+- **VS Code Engine:** ^1.95.0
+- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=mindaro.mindaro
+
+**Resources:**
+
+- 📦 [Repository](https://github.com/Azure/vscode-bridge-to-kubernetes.git)
+- 🐛 [Issues](https://github.com/Azure/vscode-bridge-to-kubernetes/issues)
+- 🏠 [Homepage](https://aka.ms/bridge-to-k8s-vscode-quickstart)
+
+**Marketplace Categories:**
+
+Debuggers, Azure
+
+**Tags:**
+
+azds, Azure Dev Spaces, Bridge, Bridge to Kubernetes, cloud native, cluster, connect, container, debug, debuggers, docker, kubernetes, kubernetes-extension-local-tunnel-debug-provider, Local Process with Kubernetes, lpk, microservice
+
+**Works With:**
+
+All Platforms
+
+---
+
+### 3. [Azure Kubernetes Service](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.vscode-aks-tools)
+*Extension #267 of 329*
+
+Display Azure Kubernetes Services within VS Code
+
+**Details:**
+
+- **Extension ID:** `ms-kubernetes-tools.vscode-aks-tools`
+- **Version:** 1.6.14
+- **Installs:** 402K
+- **Rating:** ⭐ 4.8/5 (13 ratings)
+- **Published:** 2019-05-10
+- **Last Updated:** 2025-11-04
+- **VS Code Engine:** ^1.105.0
+- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.vscode-aks-tools
+
+**Resources:**
+
+- 📦 [Repository](https://github.com/Azure/vscode-aks-tools.git)
+- 🐛 [Issues](https://github.com/Azure/vscode-aks-tools/issues)
+- 🏠 [Homepage](https://github.com/Azure/vscode-aks-tools#readme)
+
+**Marketplace Categories:**
+
+Azure
+
+**Tags:**
+
+acs, aks, azure, kubernetes, kubernetes-extension-cloud-provider
+
+**Works With:**
+
+All Platforms
+
+---
+
+### 4. [Kubernetes Kind](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.kind-vscode)
+*Extension #268 of 329*
+
+Work with the Kind local Kubernetes provider in Visual Studio Code
+
+**Details:**
+
+- **Extension ID:** `ms-kubernetes-tools.kind-vscode`
+- **Version:** 0.0.3
+- **Installs:** 102K
+- **Rating:** ⭐ 4/5 (1 ratings)
+- **Published:** 2019-07-22
+- **Last Updated:** 2020-03-26
+- **VS Code Engine:** ^1.32.0
+- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.kind-vscode
+
+**Resources:**
+
+- 📦 [Repository](https://github.com/deislabs/kind-vscode)
+- 🐛 [Issues](https://github.com/deislabs/kind-vscode/issues)
+
+**Marketplace Categories:**
+
+Other
+
+**Tags:**
+
+kind, kubernetes, kubernetes-extension-cloud-provider
+
+**Works With:**
+
+All Platforms
+
+---
+
+### 5. [Developer Tools for Azure Kubernetes Service (AKS)](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.aks-devx-tools)
+*Extension #269 of 329*
+
+Create deployment files and configure GitHub Actions workflows to deploy applications to Azure Kubernetes Service (AKS).
+
+**Details:**
+
+- **Extension ID:** `ms-kubernetes-tools.aks-devx-tools`
+- **Version:** 0.1.2
+- **Installs:** 22K
+- **Published:** 2022-07-25
+- **Last Updated:** 2023-05-23
+- **VS Code Engine:** ^1.67.0
+- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.aks-devx-tools
+
+**Resources:**
+
+- 📦 [Repository](https://github.com/Azure/aks-devx-tools)
+- 🐛 [Issues](https://github.com/Azure/aks-devx-tools/issues)
+
+**Marketplace Categories:**
+
+Azure
+
+**Works With:**
+
+All Platforms
+
+---
+
+### 6. [Open Policy Agent for Kubernetes](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.kubernetes-opa-vscode)
+*Extension #270 of 329*
+
+Work with Open Policy Agent as a Kubernetes admission controller
+
+**Details:**
+
+- **Extension ID:** `ms-kubernetes-tools.kubernetes-opa-vscode`
+- **Version:** 0.0.2
+- **Installs:** 5K
+- **Published:** 2019-12-02
+- **Last Updated:** 2019-12-06
+- **VS Code Engine:** ^1.40.0
+- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.kubernetes-opa-vscode
+
+**Resources:**
+
+- 📦 [Repository](https://github.com/deislabs/kubernetes-opa-vscode)
+- 🐛 [Issues](https://github.com/deislabs/kubernetes-opa-vscode/issues)
+
+**Marketplace Categories:**
+
+Other
+
+**Tags:**
+
+kubernetes, opa, open policy agent
+
+**Works With:**
+
+All Platforms
+
+---
+
+### 7. [Duffle](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.duffle-vscode)
+*Extension #271 of 329*
+
+Build and deploy Cloud Native Application Bundles with Duffle
+
+**Details:**
+
+- **Extension ID:** `ms-kubernetes-tools.duffle-vscode`
+- **Version:** 0.3.0
+- **Installs:** 4K
+- **Published:** 2018-12-04
+- **Last Updated:** 2019-08-14
+- **VS Code Engine:** ^1.26.0
+- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.duffle-vscode
+
+**Resources:**
+
+- 📦 [Repository](https://github.com/deislabs/duffle-vscode)
+- 🐛 [Issues](https://github.com/deislabs/duffle-vscode/issues)
+
+**Marketplace Categories:**
+
+Other
+
+**Tags:**
+
+cloud-native, cnab, duffle, json, snippet
+
+**Works With:**
+
+All Platforms
+
+---
+
+### 8. [Porter](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.porter-vscode)
+*Extension #272 of 329*
+
+Build CNAB bundles with Porter
+
+**Details:**
+
+- **Extension ID:** `ms-kubernetes-tools.porter-vscode`
+- **Version:** 0.0.2
+- **Installs:** 3K
+- **Published:** 2019-11-11
+- **Last Updated:** 2019-11-13
+- **VS Code Engine:** ^1.30.0
+- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.porter-vscode
+
+**Resources:**
+
+- 📦 [Repository](https://github.com/deislabs/porter-vscode)
+- 🐛 [Issues](https://github.com/deislabs/porter-vscode/issues)
+
+**Marketplace Categories:**
+
+Other
+
+**Tags:**
+
+cnab, debuggers, porter, yaml
+
+**Works With:**
+
+All Platforms
+
+---
+
+### 9. [Duffle Coat](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.duffle-coat)
+*Extension #273 of 329*
+
+Generates CNAB self-installers
+
+**Details:**
+
+- **Extension ID:** `ms-kubernetes-tools.duffle-coat`
+- **Version:** 0.3.4
+- **Installs:** 2K
+- **Published:** 2018-12-11
+- **Last Updated:** 2019-08-21
+- **VS Code Engine:** ^1.27.0
+- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.duffle-coat
+
+**Resources:**
+
+- 📦 [Repository](https://github.com/deislabs/duffle-coat)
+- 🐛 [Issues](https://github.com/deislabs/duffle-coat/issues)
+
+**Marketplace Categories:**
+
+Other
+
+**Tags:**
+
+cnab, duffle
 
 **Works With:**
 
@@ -11883,43 +11883,44 @@ All Platforms
 
 ---
 
-## Quantum Computing
+## Collaboration Tools
 
-**Category Stats:** 2 extensions | Total Installs: 29K | Avg Rating: 5⭐
+**Category Stats:** 2 extensions | Total Installs: 27.67M | Avg Rating: 4.4⭐
 
 [⬆ Back to Table of Contents](#-table-of-contents)
 
 ---
 
-### 1. [Azure Quantum Development Kit (QDK)](https://marketplace.visualstudio.com/items?itemName=quantum.qsharp-lang-vscode)
+### 1. [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
 *Extension #318 of 329*
 
-Q# and OpenQASM Language Support
+Real-time collaborative development from the comfort of your favorite tools.
 
 **Details:**
 
-- **Extension ID:** `quantum.qsharp-lang-vscode`
-- **Version:** 1.22.0
-- **Installs:** 25K
-- **Rating:** ⭐ 5/5 (3 ratings)
-- **Published:** 2023-09-18
-- **Last Updated:** 2025-10-31
-- **VS Code Engine:** ^1.77.0
-- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=quantum.qsharp-lang-vscode
+- **Extension ID:** `MS-vsliveshare.vsliveshare`
+- **Version:** 1.0.5959
+- **Installs:** 22.23M
+- **Rating:** ⭐ 4.2/5 (158 ratings)
+- **Published:** 2018-01-29
+- **Last Updated:** 2025-08-13
+- **VS Code Engine:** ^1.72.0
+- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare
 
 **Resources:**
 
-- 📦 [Repository](https://github.com/microsoft/qsharp.git)
-- 🐛 [Issues](https://github.com/microsoft/qsharp/issues)
-- 🏠 [Homepage](https://github.com/microsoft/qsharp#readme)
+- 📦 [Repository](https://github.com/MicrosoftDocs/live-share)
+- 🐛 [Issues](https://github.com/MicrosoftDocs/live-share/issues)
+- 💬 [Support](https://aka.ms/vsls-issues)
+- 🏠 [Homepage](https://aka.ms/vsls)
 
 **Marketplace Categories:**
 
-Programming Languages, Notebooks
+Other
 
 **Tags:**
 
-__ext_inc, __ext_qasm, __ext_qs, __ext_qsc, __web_extension, debuggers, json, language-model-tools, openqasm, Q, QASM, QCircuit, qsc, qsharp, qsharpcircuit, tools
+__web_extension, Co-Debug, Co-Edit, Collaboration, debuggers, keybindings, liveshare, Remote, remote-menu, Sharing
 
 **Works With:**
 
@@ -11927,35 +11928,36 @@ All Platforms
 
 ---
 
-### 2. [[DEV BUILD] Azure Quantum Development Kit (QDK)](https://marketplace.visualstudio.com/items?itemName=quantum.qsharp-lang-vscode-dev)
+### 2. [[Deprecated] Live Share Audio](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-audio)
 *Extension #319 of 329*
 
-Q# and OpenQASM Language Support
+Adds audio calling capabilities to Visual Studio Live Share
 
 **Details:**
 
-- **Extension ID:** `quantum.qsharp-lang-vscode-dev`
-- **Version:** 1.22.4
-- **Installs:** 4K
-- **Rating:** ⭐ 5/5 (1 ratings)
-- **Published:** 2023-09-07
-- **Last Updated:** 2025-11-25
-- **VS Code Engine:** ^1.77.0
-- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=quantum.qsharp-lang-vscode-dev
+- **Extension ID:** `MS-vsliveshare.vsliveshare-audio`
+- **Version:** 0.1.93
+- **Installs:** 5.45M
+- **Rating:** ⭐ 4.6/5 (8 ratings)
+- **Published:** 2018-07-24
+- **Last Updated:** 2023-01-27
+- **VS Code Engine:** ^1.21.0
+- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-audio
 
 **Resources:**
 
-- 📦 [Repository](https://github.com/microsoft/qsharp.git)
-- 🐛 [Issues](https://github.com/microsoft/qsharp/issues)
-- 🏠 [Homepage](https://github.com/microsoft/qsharp#readme)
+- 📦 [Repository](https://github.com/MicrosoftDocs/live-share)
+- 🐛 [Issues](https://github.com/MicrosoftDocs/live-share/issues)
+- 💬 [Support](https://aka.ms/vsls-issues)
+- 🏠 [Homepage](https://aka.ms/vsls-audio)
 
 **Marketplace Categories:**
 
-Programming Languages, Notebooks
+Other
 
 **Tags:**
 
-__ext_inc, __ext_qasm, __ext_qs, __ext_qsc, __web_extension, debuggers, json, language-model-tools, openqasm, Q, QASM, QCircuit, qsc, qsharp, qsharpcircuit, tools
+Audio, Call, Collaboration, Sharing, Voice
 
 **Works With:**
 
@@ -12135,44 +12137,43 @@ All Platforms
 
 ---
 
-## Collaboration Tools
+## Quantum Computing
 
-**Category Stats:** 2 extensions | Total Installs: 27.67M | Avg Rating: 4.4⭐
+**Category Stats:** 2 extensions | Total Installs: 29K | Avg Rating: 5⭐
 
 [⬆ Back to Table of Contents](#-table-of-contents)
 
 ---
 
-### 1. [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
+### 1. [Azure Quantum Development Kit (QDK)](https://marketplace.visualstudio.com/items?itemName=quantum.qsharp-lang-vscode)
 *Extension #324 of 329*
 
-Real-time collaborative development from the comfort of your favorite tools.
+Q# and OpenQASM Language Support
 
 **Details:**
 
-- **Extension ID:** `MS-vsliveshare.vsliveshare`
-- **Version:** 1.0.5959
-- **Installs:** 22.23M
-- **Rating:** ⭐ 4.2/5 (158 ratings)
-- **Published:** 2018-01-29
-- **Last Updated:** 2025-08-13
-- **VS Code Engine:** ^1.72.0
-- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare
+- **Extension ID:** `quantum.qsharp-lang-vscode`
+- **Version:** 1.22.0
+- **Installs:** 25K
+- **Rating:** ⭐ 5/5 (3 ratings)
+- **Published:** 2023-09-18
+- **Last Updated:** 2025-10-31
+- **VS Code Engine:** ^1.77.0
+- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=quantum.qsharp-lang-vscode
 
 **Resources:**
 
-- 📦 [Repository](https://github.com/MicrosoftDocs/live-share)
-- 🐛 [Issues](https://github.com/MicrosoftDocs/live-share/issues)
-- 💬 [Support](https://aka.ms/vsls-issues)
-- 🏠 [Homepage](https://aka.ms/vsls)
+- 📦 [Repository](https://github.com/microsoft/qsharp.git)
+- 🐛 [Issues](https://github.com/microsoft/qsharp/issues)
+- 🏠 [Homepage](https://github.com/microsoft/qsharp#readme)
 
 **Marketplace Categories:**
 
-Other
+Programming Languages, Notebooks
 
 **Tags:**
 
-__web_extension, Co-Debug, Co-Edit, Collaboration, debuggers, keybindings, liveshare, Remote, remote-menu, Sharing
+__ext_inc, __ext_qasm, __ext_qs, __ext_qsc, __web_extension, debuggers, json, language-model-tools, openqasm, Q, QASM, QCircuit, qsc, qsharp, qsharpcircuit, tools
 
 **Works With:**
 
@@ -12180,28 +12181,75 @@ All Platforms
 
 ---
 
-### 2. [[Deprecated] Live Share Audio](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-audio)
+### 2. [[DEV BUILD] Azure Quantum Development Kit (QDK)](https://marketplace.visualstudio.com/items?itemName=quantum.qsharp-lang-vscode-dev)
 *Extension #325 of 329*
 
-Adds audio calling capabilities to Visual Studio Live Share
+Q# and OpenQASM Language Support
 
 **Details:**
 
-- **Extension ID:** `MS-vsliveshare.vsliveshare-audio`
-- **Version:** 0.1.93
-- **Installs:** 5.45M
-- **Rating:** ⭐ 4.6/5 (8 ratings)
-- **Published:** 2018-07-24
-- **Last Updated:** 2023-01-27
-- **VS Code Engine:** ^1.21.0
-- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-audio
+- **Extension ID:** `quantum.qsharp-lang-vscode-dev`
+- **Version:** 1.22.4
+- **Installs:** 4K
+- **Rating:** ⭐ 5/5 (1 ratings)
+- **Published:** 2023-09-07
+- **Last Updated:** 2025-11-25
+- **VS Code Engine:** ^1.77.0
+- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=quantum.qsharp-lang-vscode-dev
 
 **Resources:**
 
-- 📦 [Repository](https://github.com/MicrosoftDocs/live-share)
-- 🐛 [Issues](https://github.com/MicrosoftDocs/live-share/issues)
-- 💬 [Support](https://aka.ms/vsls-issues)
-- 🏠 [Homepage](https://aka.ms/vsls-audio)
+- 📦 [Repository](https://github.com/microsoft/qsharp.git)
+- 🐛 [Issues](https://github.com/microsoft/qsharp/issues)
+- 🏠 [Homepage](https://github.com/microsoft/qsharp#readme)
+
+**Marketplace Categories:**
+
+Programming Languages, Notebooks
+
+**Tags:**
+
+__ext_inc, __ext_qasm, __ext_qs, __ext_qsc, __web_extension, debuggers, json, language-model-tools, openqasm, Q, QASM, QCircuit, qsc, qsharp, qsharpcircuit, tools
+
+**Works With:**
+
+All Platforms
+
+---
+
+[⬆ Back to Table of Contents](#-table-of-contents)
+
+---
+
+## Version Control
+
+**Category Stats:** 1 extensions | Total Installs: 255K | Avg Rating: 5⭐
+
+[⬆ Back to Table of Contents](#-table-of-contents)
+
+---
+
+### 1. [GitHub Issue Notebooks](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-github-issue-notebooks)
+*Extension #326 of 329*
+
+GitHub Issue Notebooks for VS Code
+
+**Details:**
+
+- **Extension ID:** `ms-vscode.vscode-github-issue-notebooks`
+- **Version:** 0.0.134
+- **Installs:** 255K
+- **Rating:** ⭐ 5/5 (3 ratings)
+- **Published:** 2020-04-08
+- **Last Updated:** 2025-11-07
+- **VS Code Engine:** ^1.101.0-insider
+- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-github-issue-notebooks
+
+**Resources:**
+
+- 📦 [Repository](https://github.com/microsoft/vscode-github-issue-notebooks.git)
+- 🐛 [Issues](https://github.com/microsoft/vscode-github-issue-notebooks/issues)
+- 🏠 [Homepage](https://github.com/microsoft/vscode-github-issue-notebooks#readme)
 
 **Marketplace Categories:**
 
@@ -12209,7 +12257,7 @@ Other
 
 **Tags:**
 
-Audio, Call, Collaboration, Sharing, Voice
+__web_extension, GitHubIssues, github-issues
 
 **Works With:**
 
@@ -12230,7 +12278,7 @@ All Platforms
 ---
 
 ### 1. [[DEPRECATED] LaTeX Language Support](https://marketplace.visualstudio.com/items?itemName=ms-vscode.latex)
-*Extension #326 of 329*
+*Extension #327 of 329*
 
 [DEPRECATED] LaTeX - colorizer, grammar and snippets.
 
@@ -12277,7 +12325,7 @@ All Platforms
 ---
 
 ### 1. [Markdown Notebook](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-markdown-notebook)
-*Extension #327 of 329*
+*Extension #328 of 329*
 
 An extension for editing markdown files in VS Code notebooks
 
@@ -12325,7 +12373,7 @@ All Platforms
 ---
 
 ### 1. [PowerShell](https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell)
-*Extension #328 of 329*
+*Extension #329 of 329*
 
 Develop PowerShell modules, commands and scripts in Visual Studio Code!
 
@@ -12364,62 +12412,14 @@ All Platforms
 
 ---
 
-## Version Control
-
-**Category Stats:** 1 extensions | Total Installs: 255K | Avg Rating: 5⭐
-
-[⬆ Back to Table of Contents](#-table-of-contents)
-
----
-
-### 1. [GitHub Issue Notebooks](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-github-issue-notebooks)
-*Extension #329 of 329*
-
-GitHub Issue Notebooks for VS Code
-
-**Details:**
-
-- **Extension ID:** `ms-vscode.vscode-github-issue-notebooks`
-- **Version:** 0.0.134
-- **Installs:** 255K
-- **Rating:** ⭐ 5/5 (3 ratings)
-- **Published:** 2020-04-08
-- **Last Updated:** 2025-11-07
-- **VS Code Engine:** ^1.101.0-insider
-- **Marketplace:** https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-github-issue-notebooks
-
-**Resources:**
-
-- 📦 [Repository](https://github.com/microsoft/vscode-github-issue-notebooks.git)
-- 🐛 [Issues](https://github.com/microsoft/vscode-github-issue-notebooks/issues)
-- 🏠 [Homepage](https://github.com/microsoft/vscode-github-issue-notebooks#readme)
-
-**Marketplace Categories:**
-
-Other
-
-**Tags:**
-
-__web_extension, GitHubIssues, github-issues
-
-**Works With:**
-
-All Platforms
-
----
-
-[⬆ Back to Table of Contents](#-table-of-contents)
-
----
-
 
 ## 📄 Document Information
 
 - **Version:** 2.0
 - **Total Extensions:** 329
 - **Categories:** 25
-- **Generated:** 2025-12-06 01:50:11
-- **Build:** `abc1234` / Run `98765432`
+- **Generated:** 2025-12-13 12:39:44
+- **Build:** `60853ad` / Run ``
 - **Script:** generate_markdown.ps1
 
 ---

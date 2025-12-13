@@ -9,16 +9,16 @@
 ![Domains](https://img.shields.io/badge/Domains-245-purple?style=for-the-badge)
 ![Installs](https://img.shields.io/badge/Installs-2967.6M-orange?style=for-the-badge)
 
-*Last Updated: December 6, 2025 at 03:08:55 UTC*
+*Last Updated: December 13, 2025 at 12:35:53 UTC*
 
-[`abc1234`](https://github.com/thisis-romar/vscode-marketplace-evidence-kit/commit/abc1234567890def) • [Run #98765432](https://github.com/thisis-romar/vscode-marketplace-evidence-kit/actions/runs/98765432)
+`60853ad` *(local, unpublished)*
 
 </div>
 
 <!-- BUILD_METADATA
-timestamp: 2025-12-06T03:08:55Z
-commit: abc1234
-run_id: 98765432
+timestamp: 2025-12-13T12:35:53Z
+commit: 60853ad
+run_id: 
 data_source: 2025-12-05 22:29:53
 publishers: 304
 extensions: 711
@@ -1007,8 +1007,8 @@ rating_coverage: 90%
 | [**GitHub Copilot app modernization**](https://marketplace.visualstudio.com/items?itemName=vscjava.migrate-java-to-azure) | [vscjava](#vscjava) | `microsoft.com` | 2025-12-04 | `1.8.2025120402` | 476K |
 | [**YAML**](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml) | [redhat](#redhat) | `redhat.com` | 2025-12-04 | `1.20.2025120408` | 24.5M |
 | [**Salesforce CLI Integration**](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-core) | [salesforce](#salesforce) | `salesforce.com` | 2025-12-04 | `65.7.0` | 2.2M |
-| [**Aura Components**](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-lightning) | [salesforce](#salesforce) | `salesforce.com` | 2025-12-04 | `65.7.0` | 1.9M |
 | [**Apex**](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-apex) | [salesforce](#salesforce) | `salesforce.com` | 2025-12-04 | `65.7.0` | 2M |
+| [**Aura Components**](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-lightning) | [salesforce](#salesforce) | `salesforce.com` | 2025-12-04 | `65.7.0` | 1.9M |
 | [**Apex OpenAPI Specification**](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-apex-oas) | [salesforce](#salesforce) | `salesforce.com` | 2025-12-04 | `65.7.0` | 49K |
 | [**Lightning Web Components**](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-lwc) | [salesforce](#salesforce) | `salesforce.com` | 2025-12-04 | `65.7.0` | 1.8M |
 | [**Apex Replay Debugger**](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-apex-replay-debugger) | [salesforce](#salesforce) | `salesforce.com` | 2025-12-04 | `65.7.0` | 1.8M |
@@ -1040,7 +1040,7 @@ rating_coverage: 90%
 | [**Russian Language Pack for Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-ru) | [MS-CEINTL](#ms-ceintl) | `microsoft.com` | 2025-12-03 | `1.107.2025120309` | 8.1M |
 
 <details>
-<summary><strong>📂 View all 248 recently updated extensions</strong></summary>
+<summary><strong>📂 View all 229 recently updated extensions</strong></summary>
 
 | Extension | Publisher | Domain | Last Updated | Version | Installs |
 |-----------|-----------|--------|:------------:|:-------:|:--------:|
@@ -1113,8 +1113,8 @@ rating_coverage: 90%
 | [**GitHub Copilot app modernization**](https://marketplace.visualstudio.com/items?itemName=vscjava.migrate-java-to-azure) | [vscjava](#vscjava) | `microsoft.com` | 2025-12-04 | `1.8.2025120402` | 476K |
 | [**YAML**](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml) | [redhat](#redhat) | `redhat.com` | 2025-12-04 | `1.20.2025120408` | 24.5M |
 | [**Salesforce CLI Integration**](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-core) | [salesforce](#salesforce) | `salesforce.com` | 2025-12-04 | `65.7.0` | 2.2M |
-| [**Aura Components**](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-lightning) | [salesforce](#salesforce) | `salesforce.com` | 2025-12-04 | `65.7.0` | 1.9M |
 | [**Apex**](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-apex) | [salesforce](#salesforce) | `salesforce.com` | 2025-12-04 | `65.7.0` | 2M |
+| [**Aura Components**](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-lightning) | [salesforce](#salesforce) | `salesforce.com` | 2025-12-04 | `65.7.0` | 1.9M |
 | [**Apex OpenAPI Specification**](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-apex-oas) | [salesforce](#salesforce) | `salesforce.com` | 2025-12-04 | `65.7.0` | 49K |
 | [**Lightning Web Components**](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-lwc) | [salesforce](#salesforce) | `salesforce.com` | 2025-12-04 | `65.7.0` | 1.8M |
 | [**Apex Replay Debugger**](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-apex-replay-debugger) | [salesforce](#salesforce) | `salesforce.com` | 2025-12-04 | `65.7.0` | 1.8M |
@@ -1273,25 +1273,6 @@ rating_coverage: 90%
 | [**Power User for dbt**](https://marketplace.visualstudio.com/items?itemName=innoverio.vscode-dbt-power-user) | [innoverio](#innoverio) | `altimate.ai` | 2025-11-13 | `0.58.15` | 380K |
 | [**Salesforce Industries & Omnistudio (Vlocity)**](https://marketplace.visualstudio.com/items?itemName=curlybracket.vlocode) | [curlybracket](#curlybracket) | `curlybracket.nl` | 2025-11-13 | `1.40.5` | 30K |
 | [**Uno Platform**](https://marketplace.visualstudio.com/items?itemName=unoplatform.vscode) | [unoplatform](#unoplatform) | `platform.uno` | 2025-11-13 | `0.23.6` | 40K |
-| [**Microsoft Edge Tools for VS Code**](https://marketplace.visualstudio.com/items?itemName=ms-edgedevtools.vscode-edge-devtools) | [ms-edgedevtools](#ms-edgedevtools) | `microsoft.com` | 2025-11-12 | `2.1.10` | 5.5M |
-| [**MATLAB**](https://marketplace.visualstudio.com/items?itemName=MathWorks.language-matlab) | [MathWorks](#mathworks) | `mathworks.com` | 2025-11-12 | `1.3.7` | 566K |
-| [**Firebase Data Connect**](https://marketplace.visualstudio.com/items?itemName=GoogleCloudTools.firebase-dataconnect-vscode) | [GoogleCloudTools](#googlecloudtools) | `google.com` | 2025-11-12 | `1.10.1` | 29K |
-| [**HLASM Language Support**](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.hlasm-language-support) | [broadcomMFD](#broadcommfd) | `broadcom.com` | 2025-11-12 | `1.20.0` | 28K |
-| [**Arm CMSIS Debugger**](https://marketplace.visualstudio.com/items?itemName=Arm.vscode-cmsis-debugger) | [Arm](#arm) | `arm.com` | 2025-11-12 | `1.2.0` | 32K |
-| [**Anypoint Code Builder - Platform Extension**](https://marketplace.visualstudio.com/items?itemName=salesforce.mule-dx-vscode) | [salesforce](#salesforce) | `salesforce.com` | 2025-11-12 | `5.9.8` | 52K |
-| [**Anypoint Extension Pack**](https://marketplace.visualstudio.com/items?itemName=salesforce.mule-dx-extension-pack) | [salesforce](#salesforce) | `salesforce.com` | 2025-11-12 | `1.12.2` | 41K |
-| [**Svelte for VS Code**](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode) | [svelte](#svelte) | `svelte.dev` | 2025-11-11 | `109.12.0` | 2.3M |
-| [**Snowflake**](https://marketplace.visualstudio.com/items?itemName=snowflake.snowflake-vsc) | [snowflake](#snowflake) | `snowflake.com` | 2025-11-11 | `1.20.1` | 275K |
-| [**Container Tools**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-containers) | [ms-azuretools](#ms-azuretools) | `microsoft.com` | 2025-11-10 | `2.3.0` | 6.9M |
-| [**Rocket COBOL**](https://marketplace.visualstudio.com/items?itemName=RocketSoftware.rocket-cobol) | [RocketSoftware](#rocketsoftware) | `rocketsoftware.com` | 2025-11-10 | `2.0.12` | 53K |
-| [**Radon IDE**](https://marketplace.visualstudio.com/items?itemName=swmansion.react-native-ide) | [swmansion](#swmansion) | `swmansion.com` | 2025-11-07 | `1.13.0` | 30K |
-| [**MCUXpresso for VS Code**](https://marketplace.visualstudio.com/items?itemName=NXPSemiconductors.mcuxpresso) | [NXPSemiconductors](#nxpsemiconductors) | `nxp.com` | 2025-11-07 | `25.11.16` | 35K |
-| [**Time Travel Debug for C/C++**](https://marketplace.visualstudio.com/items?itemName=Undo.udb) | [Undo](#undo) | `undo.io` | 2025-11-07 | `2.1.11` | 35K |
-| [**GitHub Issue Notebooks**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-github-issue-notebooks) | [ms-vscode](#ms-vscode) | `microsoft.com` | 2025-11-07 | `0.0.134` | 255K |
-| [**Calva: Clojure & ClojureScript Interactive Programming**](https://marketplace.visualstudio.com/items?itemName=betterthantomorrow.calva) | [betterthantomorrow](#betterthantomorrow) | `calva.io` | 2025-11-06 | `2.0.540` | 208K |
-| [**Checkmarx One**](https://marketplace.visualstudio.com/items?itemName=checkmarx.ast-results) | [checkmarx](#checkmarx) | `checkmarx.com` | 2025-11-06 | `2.42.0` | 31K |
-| [**vscode-openapi-viewer**](https://marketplace.visualstudio.com/items?itemName=AndrewButson.vscode-openapi-viewer) | [AndrewButson](#andrewbutson) | `arbs.io` | 2025-11-06 | `1.1.5` | 33K |
-| [**BLACKBOXAI #1 AI Coding Agent and Coding Copilot**](https://marketplace.visualstudio.com/items?itemName=Blackboxapp.blackbox) | [Blackboxapp](#blackboxapp) | `blackbox.ai` | 2025-11-06 | `2.8.51` | 4.6M |
 
 </details>
 
@@ -11080,8 +11061,8 @@ For more details, see the [VS Code Publishing Documentation](https://code.visual
 | **API** | VS Code Marketplace Extension Query API |
 | **Filter** | `isDomainVerified = true` |
 | **Sort** | By install count (most popular first) |
-| **Generated** | 2025-12-06 03:08:55 |
-| **Build** | `abc1234` / Run `98765432` |
+| **Generated** | 2025-12-13 12:35:53 |
+| **Build** | `60853ad` / Run `` |
 
 ### Generation Scripts
 
