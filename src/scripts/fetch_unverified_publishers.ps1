@@ -249,7 +249,7 @@ Write-Host "  + Across $($domainStats.Count) unique domains (including no-domain
 # Save all unverified extensions
 $timestamp = (Get-Date).ToString("yyyyMMddHHmm")
 $extensionsHistoryPath = Join-Path $repoRoot "data\history\all_unverified_extensions_$timestamp.json"
-$extensionsLatestPath = Join-Path $repoRoot "data\all_unverified_extensions.json"
+$extensionsLatestPath = Join-Path $repoRoot "data\processed\all_unverified_extensions.json"
 
 $extensionsOutput = @{
     metadata = @{
@@ -273,7 +273,7 @@ Write-Host "  Latest:  $extensionsLatestPath" -ForegroundColor Gray
 
 # Save publisher summary
 $publishersHistoryPath = Join-Path $repoRoot "data\history\unverified_publishers_$timestamp.json"
-$publishersLatestPath = Join-Path $repoRoot "data\unverified_publishers.json"
+$publishersLatestPath = Join-Path $repoRoot "data\processed\unverified_publishers.json"
 
 $publishersOutput = @{
     metadata = @{
