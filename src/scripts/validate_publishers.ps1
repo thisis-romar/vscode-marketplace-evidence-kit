@@ -3,10 +3,28 @@
 # Created: December 5, 2025
 
 param(
-    [string]$JsonFile = (Join-Path $PSScriptRoot "data\processed\all_extensions.json"),
+    [string]$JsonFile,
     [switch]$FixFetch,
     [switch]$ExportReport
 )
+
+# Compute repository root by walking up to find README.md
+function Get-RepoRoot {
+    param([string]$start)
+    $current = $start
+    for ($i = 0; $i -lt 5; $i++) {
+        if (Test-Path (Join-Path $current "README.md")) { return (Resolve-Path $current).Path }
+        $parent = Split-Path -Parent $current
+        if ([string]::IsNullOrEmpty($parent)) { break }
+        $current = $parent
+    }
+    return (Resolve-Path $start).Path
+}
+
+if (-not $JsonFile) {
+    $repoRoot = Get-RepoRoot -start $PSScriptRoot
+    $JsonFile = Join-Path $repoRoot "data\all_extensions.json"
+}
 
 Write-Host "`n========================================" -ForegroundColor Cyan
 Write-Host "  Microsoft Publisher Validation Tool" -ForegroundColor Cyan

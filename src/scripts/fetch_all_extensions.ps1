@@ -105,25 +105,25 @@ Write-Host "Total fetched: $($allExtensions.Count)" -ForegroundColor Cyan
 
 # Filter unpublished
 Write-Host "`nFiltering unpublished extensions..." -ForegroundColor Cyan
-$publishedExtensions = $allExtensions | Where-Object { $_.flags -notmatch 'unpublished' }
+$publishedExtensions = @($allExtensions | Where-Object { $_.flags -notmatch 'unpublished' })
 $unpublishedCount = $allExtensions.Count - $publishedExtensions.Count
 Write-Host "  + Published: $($publishedExtensions.Count) (filtered $unpublishedCount unpublished)" -ForegroundColor Green
 
 # Filter by Microsoft publishers (known list)
 Write-Host "`nFiltering by $($microsoftPublishers.Count) known Microsoft publishers..." -ForegroundColor Cyan
-$microsoftByList = $publishedExtensions | Where-Object {
+$microsoftByList = @($publishedExtensions | Where-Object {
     $microsoftPublishersLower -contains $_.publisher.publisherName.ToLower()
-}
+})
 $nonMsCount = $publishedExtensions.Count - $microsoftByList.Count
 Write-Host "  + By publisher list: $($microsoftByList.Count) (filtered $nonMsCount non-Microsoft)" -ForegroundColor Green
 
 # CRITICAL: Filter by API verification fields (isDomainVerified + microsoft.com domain)
 # This ensures ONLY verified Microsoft publishers are included
 Write-Host "`nApplying API verification filter (isDomainVerified + microsoft.com domain)..." -ForegroundColor Cyan
-$microsoftOnly = $microsoftByList | Where-Object {
+$microsoftOnly = @($microsoftByList | Where-Object {
     $_.publisher.isDomainVerified -eq $true -and
     $_.publisher.domain -like '*microsoft*'
-}
+})
 $unverifiedCount = $microsoftByList.Count - $microsoftOnly.Count
 if ($unverifiedCount -gt 0) {
     Write-Host "  ! Removed $unverifiedCount unverified extensions:" -ForegroundColor Yellow

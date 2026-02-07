@@ -58,8 +58,8 @@ def generate_diff() -> None:
         new_data = load_json(new_file)
         old_data = load_json(old_file)
         
-        new_exts = new_data.get('extensions', [])
-        old_exts = old_data.get('extensions', [])
+        new_exts = new_data.get('extensions') or []
+        old_exts = old_data.get('extensions') or []
         
         new_map = get_extension_map(new_exts)
         old_map = get_extension_map(old_exts)

@@ -29,8 +29,9 @@ jobs:
 
       - name: Install lychee
         run: |
-          choco install lychee --version 0.15.1 -y
+          choco install lychee -y
         shell: pwsh
+        continue-on-error: true
 
       - name: Run Prefect Pipeline
         run: |

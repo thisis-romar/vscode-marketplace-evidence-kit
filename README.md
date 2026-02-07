@@ -2,9 +2,9 @@
 
 [![Docs Pipeline](https://github.com/thisis-romar/vscode-marketplace-evidence-kit/actions/workflows/ci.yml/badge.svg)](https://github.com/thisis-romar/vscode-marketplace-evidence-kit/actions/workflows/ci.yml)
 
-**Catalog, verify, and document VS Code extensions and verified publishers**  
-**Last Updated:** 2025-12-13  
-**Status:** 🧪 Prototype Branch (`feat/dir-architecture-prototype`)
+**Catalog, verify, and document VS Code extensions and verified publishers**
+**Last Updated:** 2026-02-07
+**Status:** Active (`main`)
 
 > Data-backed verification outputs for the VS Code Marketplace ecosystem.  
 > Automated via **Prefect** orchestration with nightly CI refresh.
@@ -25,6 +25,7 @@
 │   ├── fetch.py                 # Fetch tasks (@task)
 │   ├── validate.py              # Validation tasks
 │   ├── render.py                # Markdown generation tasks
+│   ├── diff.py                  # Snapshot diff generation
 │   ├── link_check.py            # Link checking task
 │   └── publish.py               # Hash-gated publish task
 ├── src/
@@ -40,8 +41,9 @@
 │       ├── check_links.ps1
 │       └── check_links_quick.ps1
 ├── data/
-│   ├── raw/                     # Timestamped snapshots
-│   ├── processed/               # Curated latest data
+│   ├── raw/                     # Raw API extension data
+│   ├── processed/               # Curated publisher summaries
+│   ├── history/                 # Timestamped snapshots for diffing
 │   └── run-log.json             # Hash gate log
 ├── docs/
 │   └── public/                  # Generated markdown (published)
@@ -75,10 +77,12 @@
 
 | Path | Contents |
 |------|----------|
-| `data/raw/` | Raw API responses (all_verified_extensions.json) |
+| `data/raw/` | Raw API extension data (all_verified_extensions.json) |
 | `data/processed/verified_publishers.json` | Verified publisher summaries (304 publishers) |
 | `data/processed/unverified_publishers.json` | Unverified publisher summaries (3,391 publishers) |
-| `data/all_extensions.json` | Microsoft-only extensions (legacy path) |
+| `data/processed/all_unverified_extensions.json` | Unverified extensions data |
+| `data/all_extensions.json` | Microsoft-only extensions |
+| `data/history/` | Timestamped snapshots for daily diff generation |
 
 ### Documentation (`docs/`)
 
@@ -106,21 +110,26 @@ Git-ignored folder containing backups and old versions:
 The pipeline uses **Prefect** for orchestration with `@task` and `@flow` decorators:
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│                   docs_pipeline (@flow)                     │
-├─────────────────────────────────────────────────────────────┤
-│  fetch_all_extensions (@task)                               │
-│  fetch_verified_publishers (@task)                          │
-│           ↓                                                 │
-│  validate_publishers (@task)                                │
-│           ↓                                                 │
-│  generate_ms_extensions_markdown (@task)                    │
-│  generate_verified_publishers_markdown (@task)              │
-│           ↓                                                 │
-│  check_links (@task) ─ lychee                               │
-│           ↓                                                 │
-│  publish_docs (@task) ─ hash-gated commit                   │
-└─────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────┐
+│                    docs_pipeline (@flow)                      │
+├──────────────────────────────────────────────────────────────┤
+│  1. fetch_all_extensions (@task)                             │
+│     fetch_verified_publishers (@task)                        │
+│     fetch_unverified_publishers (@task)                      │
+│              ↓                                               │
+│  2. generate_diff (@task) ─ compare snapshots                │
+│              ↓                                               │
+│  3. validate_publishers (@task)                              │
+│              ↓                                               │
+│  4. generate_ms_extensions_markdown (@task)                  │
+│     generate_verified_publishers_markdown (@task)            │
+│     generate_unverified_publishers_markdown (@task)          │
+│     generate_changelog (@task)                               │
+│              ↓                                               │
+│  5. check_links (@task) ─ lychee (optional)                  │
+│              ↓                                               │
+│  6. publish_docs (@task) ─ hash-gated commit                 │
+└──────────────────────────────────────────────────────────────┘
 ```
 
 **Key features:**
@@ -186,6 +195,17 @@ src/scripts/fetch_verified_publishers.ps1
 src/scripts/generate_verified_markdown.ps1
     ↓ Reads data/processed/verified_publishers.json
     ↓ Outputs docs/public/Verified_VSCode_Publishers.md
+```
+
+**Unverified Publishers Flow:**
+```
+src/scripts/fetch_unverified_publishers.ps1
+    ↓ Fetches extensions from unverified publishers
+    ↓ Saves to data/processed/all_unverified_extensions.json
+    ↓ Saves to data/processed/unverified_publishers.json
+src/scripts/generate_unverified_markdown.ps1
+    ↓ Reads data/processed/unverified_publishers.json
+    ↓ Outputs docs/public/Unverified_VSCode_Publishers.md
 ```
 
 ---
@@ -430,15 +450,10 @@ Old versions and utility tools are kept in the `Archive/` folder (git-ignored):
 
 ## 🌿 Branch Information
 
-**Current Branch:** `feat/dir-architecture-prototype`
+**Primary Branch:** `main`
 
-This branch prototypes a new directory architecture:
-- Scripts moved to `src/scripts/`
-- Data split into `data/raw/` and `data/processed/`
-- Published docs in `docs/public/`
-- Dynamic `Get-RepoRoot` path resolution
-
-To return to the stable version:
-```powershell
-git checkout main
-```
+Directory architecture:
+- Scripts in `src/scripts/`
+- Data split into `data/raw/`, `data/processed/`, and `data/history/`
+- Published docs in `docs/public/` (deployed to GitHub Pages)
+- Dynamic `Get-RepoRoot` path resolution across all scripts

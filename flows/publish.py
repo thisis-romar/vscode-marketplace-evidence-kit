@@ -92,7 +92,3 @@ def publish_docs() -> dict:
 if __name__ == "__main__":
     result = publish_docs()
     print(result)
-
-
-if __name__ == "__main__":
-    raise SystemExit(main())
