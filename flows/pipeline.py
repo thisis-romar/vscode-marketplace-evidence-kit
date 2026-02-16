@@ -7,6 +7,7 @@ from flows.render import generate_ms_extensions_markdown, generate_verified_publ
 from flows.link_check import check_links
 from flows.publish import publish_docs
 from flows.diff import generate_diff
+from flows.runtime import ensure_pwsh_available, RuntimeDependencyError
 
 
 @flow(
@@ -25,6 +26,13 @@ def docs_pipeline() -> dict:
     5. Publish if changed
     """
     logger = get_run_logger()
+
+    # Runtime preflight
+    try:
+        ensure_pwsh_available()
+    except RuntimeDependencyError as exc:
+        logger.error(str(exc))
+        raise
 
     # Step 1: Fetch data
     logger.info("=== Step 1: Fetching data ===")
