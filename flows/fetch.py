@@ -1,14 +1,11 @@
 """Fetch all Microsoft VS Code extensions from Marketplace."""
 import subprocess
-from pathlib import Path
-
 from prefect import task, get_run_logger
 from prefect.tasks import task_input_hash
 from datetime import timedelta
 
 
-def _repo_root() -> Path:
-    return Path(__file__).resolve().parents[1]
+from flows.runtime import ensure_pwsh_available, repo_root
 
 
 @task(
@@ -22,8 +19,9 @@ def _repo_root() -> Path:
 def fetch_all_extensions() -> int:
     """Run fetch_all_extensions.ps1 to pull Microsoft extension data."""
     logger = get_run_logger()
-    repo_root = _repo_root()
-    script = repo_root / "src" / "scripts" / "fetch_all_extensions.ps1"
+    root = repo_root()
+    pwsh = ensure_pwsh_available()
+    script = root / "src" / "scripts" / "fetch_all_extensions.ps1"
 
     if not script.exists():
         logger.error(f"Missing script: {script}")
@@ -31,7 +29,7 @@ def fetch_all_extensions() -> int:
 
     logger.info(f"Running: {script}")
     result = subprocess.run(
-        ["pwsh", "-File", str(script)],
+        [pwsh, "-File", str(script)],
         capture_output=True,
         text=True,
     )
@@ -55,8 +53,9 @@ def fetch_all_extensions() -> int:
 def fetch_verified_publishers() -> int:
     """Run fetch_verified_publishers.ps1 to pull verified publisher data."""
     logger = get_run_logger()
-    repo_root = _repo_root()
-    script = repo_root / "src" / "scripts" / "fetch_verified_publishers.ps1"
+    root = repo_root()
+    pwsh = ensure_pwsh_available()
+    script = root / "src" / "scripts" / "fetch_verified_publishers.ps1"
 
     if not script.exists():
         logger.error(f"Missing script: {script}")
@@ -64,7 +63,7 @@ def fetch_verified_publishers() -> int:
 
     logger.info(f"Running: {script}")
     result = subprocess.run(
-        ["pwsh", "-File", str(script)],
+        [pwsh, "-File", str(script)],
         capture_output=True,
         text=True,
     )
@@ -88,8 +87,9 @@ def fetch_verified_publishers() -> int:
 def fetch_unverified_publishers() -> int:
     """Run fetch_unverified_publishers.ps1 to pull unverified publisher data."""
     logger = get_run_logger()
-    repo_root = _repo_root()
-    script = repo_root / "src" / "scripts" / "fetch_unverified_publishers.ps1"
+    root = repo_root()
+    pwsh = ensure_pwsh_available()
+    script = root / "src" / "scripts" / "fetch_unverified_publishers.ps1"
 
     if not script.exists():
         logger.error(f"Missing script: {script}")
@@ -97,7 +97,7 @@ def fetch_unverified_publishers() -> int:
 
     logger.info(f"Running: {script}")
     result = subprocess.run(
-        ["pwsh", "-File", str(script)],
+        [pwsh, "-File", str(script)],
         capture_output=True,
         text=True,
     )

@@ -40,6 +40,9 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           PREFECT_LOGGING_LEVEL: INFO
+          PIPELINE_COMMIT_DOCS: "true"
+          PIPELINE_PUSH_DOCS: "true"
+          PIPELINE_PUSH_BRANCH_ALLOWLIST: "main"
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3

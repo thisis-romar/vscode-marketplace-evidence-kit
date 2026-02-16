@@ -1,13 +1,10 @@
 """Render markdown documentation from extension data."""
 import os
 import subprocess
-from pathlib import Path
-
 from prefect import task, get_run_logger
 
 
-def _repo_root() -> Path:
-    return Path(__file__).resolve().parents[1]
+from flows.runtime import ensure_pwsh_available, repo_root
 
 
 def _get_ci_env() -> dict:
@@ -28,8 +25,9 @@ def _get_ci_env() -> dict:
 def generate_ms_extensions_markdown() -> int:
     """Run generate_markdown.ps1 to create Microsoft extensions doc."""
     logger = get_run_logger()
-    repo_root = _repo_root()
-    script = repo_root / "src" / "scripts" / "generate_markdown.ps1"
+    root = repo_root()
+    pwsh = ensure_pwsh_available()
+    script = root / "src" / "scripts" / "generate_markdown.ps1"
 
     if not script.exists():
         logger.error(f"Missing script: {script}")
@@ -37,7 +35,7 @@ def generate_ms_extensions_markdown() -> int:
 
     logger.info(f"Running: {script}")
     result = subprocess.run(
-        ["pwsh", "-File", str(script)],
+        [pwsh, "-File", str(script)],
         capture_output=True,
         text=True,
         env=_get_ci_env(),
@@ -60,8 +58,9 @@ def generate_ms_extensions_markdown() -> int:
 def generate_verified_publishers_markdown() -> int:
     """Run generate_verified_markdown.ps1 to create verified publishers doc."""
     logger = get_run_logger()
-    repo_root = _repo_root()
-    script = repo_root / "src" / "scripts" / "generate_verified_markdown.ps1"
+    root = repo_root()
+    pwsh = ensure_pwsh_available()
+    script = root / "src" / "scripts" / "generate_verified_markdown.ps1"
 
     if not script.exists():
         logger.error(f"Missing script: {script}")
@@ -69,7 +68,7 @@ def generate_verified_publishers_markdown() -> int:
 
     logger.info(f"Running: {script}")
     result = subprocess.run(
-        ["pwsh", "-File", str(script)],
+        [pwsh, "-File", str(script)],
         capture_output=True,
         text=True,
         env=_get_ci_env(),
@@ -92,8 +91,9 @@ def generate_verified_publishers_markdown() -> int:
 def generate_unverified_publishers_markdown() -> int:
     """Run generate_unverified_markdown.ps1 to create unverified publishers doc."""
     logger = get_run_logger()
-    repo_root = _repo_root()
-    script = repo_root / "src" / "scripts" / "generate_unverified_markdown.ps1"
+    root = repo_root()
+    pwsh = ensure_pwsh_available()
+    script = root / "src" / "scripts" / "generate_unverified_markdown.ps1"
 
     if not script.exists():
         logger.error(f"Missing script: {script}")
@@ -101,7 +101,7 @@ def generate_unverified_publishers_markdown() -> int:
 
     logger.info(f"Running: {script}")
     result = subprocess.run(
-        ["pwsh", "-File", str(script)],
+        [pwsh, "-File", str(script)],
         capture_output=True,
         text=True,
         env=_get_ci_env(),
@@ -124,8 +124,9 @@ def generate_unverified_publishers_markdown() -> int:
 def generate_changelog() -> int:
     """Run generate_changelog.ps1."""
     logger = get_run_logger()
-    repo_root = _repo_root()
-    script = repo_root / "src" / "scripts" / "generate_changelog.ps1"
+    root = repo_root()
+    pwsh = ensure_pwsh_available()
+    script = root / "src" / "scripts" / "generate_changelog.ps1"
 
     if not script.exists():
         logger.error(f"Missing script: {script}")
@@ -133,7 +134,7 @@ def generate_changelog() -> int:
 
     logger.info(f"Running: {script}")
     result = subprocess.run(
-        ["pwsh", "-File", str(script)],
+        [pwsh, "-File", str(script)],
         capture_output=True,
         text=True,
         env=_get_ci_env(),

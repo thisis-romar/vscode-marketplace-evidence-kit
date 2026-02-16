@@ -27,7 +27,7 @@
 │   ├── render.py                # Markdown generation tasks
 │   ├── diff.py                  # Snapshot diff generation
 │   ├── link_check.py            # Link checking task
-│   └── publish.py               # Hash-gated publish task
+│   └── publish.py               # Hash-gated publish task (safe-by-default commit/push)
 ├── src/
 │   └── scripts/                 # PowerShell data scripts
 │       ├── fetch_all_extensions.ps1
@@ -128,7 +128,7 @@ The pipeline uses **Prefect** for orchestration with `@task` and `@flow` decorat
 │              ↓                                               │
 │  5. check_links (@task) ─ lychee (optional)                  │
 │              ↓                                               │
-│  6. publish_docs (@task) ─ hash-gated commit                 │
+│  6. publish_docs (@task) ─ hash-gated update + optional git  │
 └──────────────────────────────────────────────────────────────┘
 ```
 
@@ -236,6 +236,19 @@ pip install -r requirements.txt
 ```powershell
 # Run the Prefect flow locally
 python -m flows.pipeline
+```
+
+
+### Publish Behavior (Safety Guardrails)
+
+`flows/publish.py` now defaults to **no git commit/push** for local safety.
+
+Set environment variables only in trusted CI contexts:
+
+```powershell
+$env:PIPELINE_COMMIT_DOCS = "true"
+$env:PIPELINE_PUSH_DOCS = "true"
+$env:PIPELINE_PUSH_BRANCH_ALLOWLIST = "main"
 ```
 
 ### Run Individual Steps (PowerShell)
